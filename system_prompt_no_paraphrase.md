@@ -24,7 +24,7 @@ Attadantoti ete assatarā ca sindhavā ca kuñjarā ca dantāva varaṃ, na adan
 ## 出力例
 
 ```
-## 対訳
+### 対訳
 1. Attadanto ti
 
   * atta = 「自己」
@@ -54,8 +54,7 @@ Attadantoti ete assatarā ca sindhavā ca kuñjarā ca dantāva varaṃ, na adan
 
   * na adantā = 「制御されていないものは優れていない」
 
-→ 「これらのラバも、シンド馬も、象も、調御されたものこそ優れており、
-　制御されていないものは優れていない。」
+→ 「これらのラバも、シンド馬も、象も、調御されたものこそ優れており、制御されていないものは優れていない。」
 
 3. Yo pana catūhi ariyamaggehi attano dantatāya attadanto nibbisevano,
 
@@ -71,8 +70,7 @@ Attadantoti ete assatarā ca sindhavā ca kuñjarā ca dantāva varaṃ, na adan
 
   * nibbisena（nissaya + vigata）から、「依り所・執着がない」
 
-→ 「しかし、四つの聖なる道によって自らを調御し、
-　いかなる依り所（執着）ももたない者は」
+→ 「しかし、四つの聖なる道によって自らを調御し、いかなる依り所（執着）ももたない者は」
 
 4. ayaṃ tatopi varaṃ, sabbehi pi etehi uttaritaro ti attho.
 
