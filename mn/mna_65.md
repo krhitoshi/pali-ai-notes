@@ -944,3 +944,732 @@ Atha bhagavā bhikkhusaṅghopi satthāpi ovaditabbayuttameva ovadati, na itaran
 * karonti = 「行うのである」
 
 → 「『尊者よ、どのような時間なら機会があるのでしょうか』と言われた時でも、『行きなさい友よ、あなたはこの事柄だけを気にしている。某という律師の長老は油剤を飲んでいる。某は下剤を服用している。なぜあなたは急いでいるのか』等々と言って、ただ長引かせるばかりにするのである。」
+
+## 141
+
+141.Khippameva vūpasammatīti lahuṃ vūpasammati, na dīghasuttaṃ hoti. Ussukkāpannā bhikkhū – ‘‘āvuso, ayaṃ subbaco bhikkhu, janapadavāsino nāma gāmantasenāsane vasanaṭṭhānanisajjanādīni na phāsukāni honti, bhikkhācāropi dukkho hoti, sīghamassa adhikaraṇaṃ vūpasamemā’’ti sannipatitvā āpattito vuṭṭhāpetvā suddhante patiṭṭhāpenti.
+
+### Gemini
+
+- 2026/04/12
+- gemini-3.1-pro-preview
+
+### 対訳
+
+1. 141. Khippameva vūpasammatīti lahuṃ vūpasammati, na dīghasuttaṃ hoti.
+
+* Khippaṃ eva vūpasammatī ti = 「『速やかに解決する』とは」
+* lahuṃ = 「早く」
+* vūpasammati = 「解決する（ことである）」
+* na = 「〜ない」
+* dīghasuttaṃ = 「遅延、長引くこと」
+* hoti = 「である」
+
+→ 「『速やかに解決する』とは、早く解決するということであり、長引かないことである。」
+
+2. Ussukkāpannā bhikkhū – ‘‘āvuso, ayaṃ subbaco bhikkhu,
+
+* Ussukkāpannā = 「熱心に取り組む、努め励む（ussukka + āpanna）」
+* bhikkhū = 「比丘たちは」
+* āvuso = 「『友たちよ」
+* ayaṃ = 「この」
+* subbaco = 「従順な、素直な」
+* bhikkhu = 「比丘は」
+
+→ 「熱心に取り組む比丘たちは（このように考える）。『友たちよ、この比丘は従順である。」
+
+3. janapadavāsino nāma gāmantasenāsane vasanaṭṭhānanisajjanādīni na phāsukāni honti, bhikkhācāropi dukkho hoti,
+
+* janapadavāsino nāma = 「地方に住む者にとっては」
+* gāmanta-senāsane = 「村はずれの座臥所（住処）において」
+* vasana-ṭṭhāna-nisajjana-ādīni = 「居住する場所や座処などが（あるいは住むこと、立つこと、座ることなどが）」
+* na phāsukāni = 「快適ではない」
+* honti = 「である」
+* bhikkhācāro pi = 「托鉢も」
+* dukkho = 「苦しい、困難である」
+* hoti = 「である」
+
+→ 「地方に住む者にとっては、村はずれの住処における居住空間や座処などが快適ではなく、托鉢も困難である。」
+
+4. sīghamassa adhikaraṇaṃ vūpasamemā’’ti sannipatitvā āpattito vuṭṭhāpetvā suddhante patiṭṭhāpenti.
+
+* sīghaṃ = 「速やかに」
+* assa = 「彼の」
+* adhikaraṇaṃ = 「事案（諍い）を」
+* vūpasamemā ti = 「解決しよう』と」
+* sannipatitvā = 「集まって」
+* āpattito = 「罪から」
+* vuṭṭhāpetvā = 「立ち上がらせて（出罪させて）」
+* suddhante = 「清浄な状態（清らかな境界）に」
+* patiṭṭhāpenti = 「立たせる（復帰させる）」
+
+→ 「速やかに彼の事案を解決しよう』と言って、集まり、罪から出罪させ、清浄な状態に復帰させるのである。」
+
+## 142
+
+142.Adhiccāpattikoti kadāci kadāci āpattiṃ āpajjati. So kiñcāpi lajjī hoti pakatatto, dubbacattā panassa bhikkhū tatheva paṭipajjanti.
+
+### Gemini
+
+- 2026/04/12
+- gemini-3.1-pro-preview
+
+### 対訳
+
+1. Adhiccāpattiko ti kadāci kadāci āpattiṃ āpajjati.
+
+* adhiccāpattiko ti = 「『adhiccāpattiko（偶発的に罪を犯す者）』とは（～という意味である）」
+* kadāci kadāci = 「時折、たまに」
+* āpattiṃ = 「罪（戒律違反）を」
+* āpajjati = 「犯す」
+
+→ 「『偶発的に罪を犯す者』とは、時折罪を犯す（という意味である）。」
+
+2. So kiñcāpi lajjī hoti pakatatto, dubbacattā panassa bhikkhū tatheva paṭipajjanti.
+
+* so = 「彼は」
+* kiñcāpi = 「～であるけれども」
+* lajjī = 「恥を知る者（慚愧の念を持つ者）で」
+* hoti = 「あり」
+* pakatatto = 「清浄な者（本来の正常な状態の比丘）で」
+* dubbacattā = 「忠告を受け入れない（反抗的である）ために」
+* panassa (pana + assa) = 「しかし、彼に対して」
+* bhikkhū = 「比丘たちは」
+* tatheva (tathā + eva) = 「まさにそのように」
+* paṭipajjanti = 「対処する（振る舞う）」
+
+→ 「彼は恥を知る者であり清浄な者であるけれども、忠告を受け入れないために、比丘たちは彼に対してまさにそのように（前述のように厳しく）対処するのである。」
+
+## 144
+
+144.Saddhāmattakena vahati pemamattakenāti ācariyupajjhāyesu appamattikāya gehassitasaddhāya appamattakena gehassitapemena yāpeti. Paṭisandhiggahaṇasadisā hi ayaṃ pabbajjā nāma, navapabbajito pabbajjāya guṇaṃ ajānanto ācariyupajjhāyesu pemamattena yāpeti, tasmā evarūpā saṅgaṇhitabbā. Appamattakampi hi saṅgahaṃ labhitvā pabbajjāya ṭhitā abhiññāpattā mahāsamaṇā bhavissanti. Ettakena kathāmaggena ‘‘ovaditabbayuttakaṃ ovadanti, na itara’’nti imameva bhagavatā dassitaṃ.
+
+### Gemini
+
+- 2026/04/12
+- gemini-3.1-pro-preview
+
+### 対訳
+
+1. 144. Saddhāmattakena vahati pemamattakenāti ācariyupajjhāyesu appamattikāya gehassitasaddhāya appamattakena gehassitapemena yāpeti.
+
+* Saddhāmattakena vahati pemamattakenāti = 「『わずかな信仰とわずかな親愛の情によって修行を進めている』とは」
+* ācariyupajjhāyesu = 「師匠や和尚（指導者たち）に対する」
+* appamattikāya = 「わずかな」
+* gehassitasaddhāya = 「世俗的な（在家生活に依存した）信仰と」
+* appamattakena = 「わずかな」
+* gehassitapemena = 「世俗的な（在家生活に依存した）親愛の情によって」
+* yāpeti = 「（修行生活を）維持している（という意味である）」
+
+→ 「144. 『わずかな信仰とわずかな親愛の情によって修行を進めている』とは、師匠や和尚に対するわずかな世俗的な信仰と、わずかな世俗的な親愛の情によって修行生活を維持している、という意味である。」
+
+2. Paṭisandhiggahaṇasadisā hi ayaṃ pabbajjā nāma,
+
+* Paṭisandhiggahaṇasadisā = 「結生（再生）を受けることと同じである」
+* hi = 「実に（というのも）」
+* ayaṃ pabbajjā nāma = 「この出家というものは」
+
+→ 「実に、この出家というものは、結生（新たな生を受けること）に等しい。」
+
+3. navapabbajito pabbajjāya guṇaṃ ajānanto ācariyupajjhāyesu pemamattena yāpeti,
+
+* navapabbajito = 「新しく出家した者は」
+* pabbajjāya = 「出家の」
+* guṇaṃ = 「徳（価値）を」
+* ajānanto = 「知らないまま」
+* ācariyupajjhāyesu = 「師匠や和尚に対する」
+* pemamattena = 「親愛の情だけによって」
+* yāpeti = 「修行生活を維持している」
+
+→ 「新しく出家した者は、出家の徳を知らないまま、師匠や和尚に対する親愛の情だけによって修行生活を維持している。」
+
+4. tasmā evarūpā saṅgaṇhitabbā.
+
+* tasmā = 「それゆえに」
+* evarūpā = 「このような者たちは」
+* saṅgaṇhitabbā = 「保護されるべきである（思いやりをもって接せられるべきである）」
+
+→ 「それゆえに、このような者たちは思いやりをもって保護されるべきである。」
+
+5. Appamattakampi hi saṅgahaṃ labhitvā pabbajjāya ṭhitā abhiññāpattā mahāsamaṇā bhavissanti.
+
+* Appamattakampi (appamattakaṃ pi) = 「わずかなものであっても」
+* hi = 「実に」
+* saṅgahaṃ = 「保護（思いやり）を」
+* labhitvā = 「得て」
+* pabbajjāya = 「出家生活に」
+* ṭhitā = 「留まり」
+* abhiññāpattā = 「証智（神通力・優れた智慧）に達した」
+* mahāsamaṇā = 「偉大な沙門（修行者）に」
+* bhavissanti = 「なるであろう」
+
+→ 「実に、彼らはわずかな保護（思いやり）であってもそれを得て出家生活に留まり、証智に達した偉大な修行者となるであろう。」
+
+6. Ettakena kathāmaggena ‘‘ovaditabbayuttakaṃ ovadanti, na itara’’nti imameva bhagavatā dassitaṃ.
+
+* Ettakena = 「これだけの」
+* kathāmaggena = 「語り口（説明）によって」
+* ovaditabbayuttakaṃ = 「教誡されるにふさわしい者を」
+* ovadanti = 「（彼らは）教誡し」
+* na itaraṃ ti = 「そうでない者（他の者）は教誡しない、という」
+* imameva (imaṃ eva) = 「まさにこのこと（意味）が」
+* bhagavatā = 「世尊によって」
+* dassitaṃ = 「示されたのである」
+
+→ 「これだけの手厚い説明によって、『（指導者たちは）教誡されるにふさわしい者を教誡し、そうでない者は教誡しない』というまさにこのことが、世尊によって示されたのである。」
+
+## 145 (1)
+
+145.Aññāyasaṇṭhahiṃsūti arahatte patiṭṭhahiṃsu. Sattesu hāyamānesūti paṭipattiyā hāyamānāya sattā hāyanti nāma. Saddhamme antaradhāyamāneti paṭipattisaddhamme antaradhāyamāne. Paṭipattisaddhammopi hi paṭipattipūrakesu sattesu asati antaradhāyati nāma . Āsavaṭṭhānīyāti āsavā tiṭṭhanti etesūti āsavaṭṭhānīyā. Yesu diṭṭhadhammikasamparāyikā parūpavādavippaṭisāravadhabandhanādayo ceva apāyadukkhavisesabhūtā ca āsavā tiṭṭhantiyeva. Yasmā nesaṃ te kāraṇaṃ hontīti attho. Te āsavaṭṭhānīyā vītikkamadhammā yāva na saṅghe pātubhavanti, na tāva satthā sāvakānaṃ sikkhāpadaṃ paññapetīti ayamettha yojanā.
+
+Evaṃ akālaṃ dassetvā puna kālaṃ dassetuṃ yato ca kho, bhaddālītiādimāha. Tattha yatoti yadā, yasmiṃ kāleti vuttaṃ hoti. Sesaṃ vuttānusāreneva veditabbaṃ. Ayaṃ vā ettha saṅkhepattho – yasmiṃ kāle āsavaṭṭhānīyā dhammāti saṅkhaṃ gatā vītikkamadosā saṅghe pātubhavanti, tadā satthā sāvakānaṃ sikkhāpadaṃ paññapeti. Kasmā? Tesaṃyeva āsavaṭṭhānīyadhammasaṅkhātānaṃ vītikkamadosānaṃ paṭighātāya.
+
+Evaṃ āsavaṭṭhānīyānaṃ dhammānaṃ anuppattiṃ sikkhāpadapaññattiyā akālaṃ, uppattiñca kālanti vatvā idāni tesaṃ dhammānaṃ anuppattikālañca uppattikālañca dassetuṃ ‘‘na tāva, bhaddāli, idhekacce’’tiādimāha. Tattha mahattanti mahantabhāvaṃ. Saṅgho hi yāva na theranavamajjhimānaṃ vasena mahattaṃ patto hoti, tāva senāsanāni pahonti, sāsane ekacce āsavaṭṭhānīyā dhammā na uppajjanti. Mahattaṃ patte pana te uppajjanti, atha satthā sikkhāpadaṃ paññapeti. Tattha mahattaṃ patte saṅghe paññattasikkhāpadāni –
+
+‘‘Yo pana bhikkhu anupasampannena uttaridvirattatirattaṃ sahaseyyaṃ kappeyya pācittiyaṃ (pāci. 51). Yā pana bhikkhunī anuvassaṃ vuṭṭhāpeyya pācittiyaṃ (pāci. 1171). Yā pana bhikkhunī ekavassaṃ dve vuṭṭhāpeyya pācittiya’’nti (pāci. 1175).
+
+Iminā nayena veditabbāni.
+
+### Gemini
+
+- 2026/04/13
+- gemini-3.1-pro-preview
+
+### 対訳
+1. 145. Aññāyasaṇṭhahiṃsūti arahatte patiṭṭhahiṃsu.
+
+* 145. = （段落番号）
+* Aññāya saṇṭhahiṃsūti = 「究極の智に安立した」とは
+* arahatte = 阿羅漢果に
+* patiṭṭhahiṃsu = 確立した（安立した）ことである。
+
+→ 「『究極の智に安立した』とは、阿羅漢果に安立したことである。」
+
+2. Sattesu hāyamānesūti paṭipattiyā hāyamānāya sattā hāyanti nāma.
+
+* Sattesu hāyamānesūti = 「衆生が衰退しつつあるとき」とは
+* paṭipattiyā = 実践（修行）が
+* hāyamānāya = 衰退しつつあることによって
+* sattā = 衆生が
+* hāyanti nāma = 衰退するということである。
+
+→ 「『衆生が衰退しつつあるとき』とは、実践が衰退することによって、衆生が衰退するということである。」
+
+3. Saddhamme antaradhāyamāneti paṭipattisaddhamme antaradhāyamāne.
+
+* Saddhamme antaradhāyamāneti = 「正法が消滅しつつあるとき」とは
+* paṭipattisaddhamme = 実践という正法が
+* antaradhāyamāne = 消滅しつつあるとき（のことである）。
+
+→ 「『正法が消滅しつつあるとき』とは、実践という正法が消滅しつつあるときのことである。」
+
+4. Paṭipattisaddhammopi hi paṭipattipūrakesu sattesu asati antaradhāyati nāma.
+
+* Paṭipattisaddhammopi hi = なぜなら、実践という正法もまた
+* paṭipattipūrakesu sattesu = 実践を満たす衆生たちが
+* asati = いないときには
+* antaradhāyati nāma = 消滅するということであるからだ。
+
+→ 「なぜなら、実践という正法もまた、実践を完遂する衆生たちがいないときには、消滅するということであるからだ。」
+
+5. Āsavaṭṭhānīyāti āsavā tiṭṭhanti etesūti āsavaṭṭhānīyā.
+
+* Āsavaṭṭhānīyāti = 「漏の基盤となる事象（āsavaṭṭhānīyā）」とは
+* āsavā = 漏（煩悩）が
+* tiṭṭhanti = 存在する（安住する）
+* etesūti = これらにおいて、という意味で
+* āsavaṭṭhānīyā = āsavaṭṭhānīyā（漏の基盤となるもの）という。
+
+→ 「『漏の基盤となる事象』とは、漏がこれらにおいて存在する、という意味で漏の基盤と呼ばれるのである。」
+
+6. Yesu diṭṭhadhammikasamparāyikā parūpavādavippaṭisāravadhabandhanādayo ceva apāyadukkhavisesabhūtā ca āsavā tiṭṭhantiyeva.
+
+* Yesu = それらにおいて
+* diṭṭhadhammika-samparāyikā = 現世と来世における
+* parūpavāda-vippaṭisāra-vadha-bandhanādayo = 他者からの非難、後悔、殺害、束縛などの
+* ceva = 〜と
+* apāyadukkhavisesabhūtā = 悪趣の苦しみの種となる
+* ca = 〜の
+* āsavā = 漏が
+* tiṭṭhantiyeva = まさに存在する。
+
+→ 「それらにおいて、現世と来世における他者からの非難・後悔・殺害・束縛などと、悪趣の苦しみの種となる漏が、まさに存在するのである。」
+
+7. Yasmā nesaṃ te kāraṇaṃ hontīti attho.
+
+* Yasmā = なぜなら〜だから
+* nesaṃ = それらの（漏の）
+* te = それら（事象）が
+* kāraṇaṃ = 原因
+* hontīti attho = である、という意味である。
+
+→ 「なぜなら、それらの事象がそれらの漏の原因となるからだ、という意味である。」
+
+8. Te āsavaṭṭhānīyā vītikkamadhammā yāva na saṅghe pātubhavanti, na tāva satthā sāvakānaṃ sikkhāpadaṃ paññapetīti ayamettha yojanā.
+
+* Te āsavaṭṭhānīyā vītikkamadhammā = それらの漏の基盤となる違反行為が
+* yāva na saṅghe pātubhavanti = 僧伽に現れるまでは
+* na tāva satthā sāvakānaṃ sikkhāpadaṃ paññapetīti = 師は弟子たちに学処を制定しない、というのが
+* ayamettha yojanā = ここでの構文（文脈のつながり）である。
+
+→ 「それらの漏の基盤となる違反行為が僧伽に現れるまでは、師は弟子たちに学処を制定しない、というのがここでの構文である。」
+
+9. Evaṃ akālaṃ dassetvā puna kālaṃ dassetuṃ yato ca kho, bhaddālītiādimāha.
+
+* Evaṃ = このように
+* akālaṃ = 非時（制定の時期ではないこと）を
+* dassetvā = 示して
+* puna = 次に
+* kālaṃ = 時（制定の時期）を
+* dassetuṃ = 示すために
+* yato ca kho, bhaddālītiādimāha = 「バッダーリよ、しかし〜したとき」などを語られた。
+
+→ 「このように、時ではないことを示して、次に時であることを示すために、『バッダーリよ、しかし〜したとき』などを語られたのである。」
+
+10. Tattha yatoti yadā, yasmiṃ kāleti vuttaṃ hoti.
+
+* Tattha = そこで
+* yatoti = yato とは
+* yadā = yadā（〜するとき）
+* yasmiṃ kāleti = yasmiṃ kāle（〜する時に）
+* vuttaṃ hoti = と言われたのである。
+
+→ 「そこで、yato とは、yadā（〜するとき）、yasmiṃ kāle（〜する時に）という意味で言われたのである。」
+
+11. Sesaṃ vuttānusāreneva veditabbaṃ.
+
+* Sesaṃ = 残りは
+* vuttānusāreneva = 語られた通りに
+* veditabbaṃ = 知るべきである。
+
+→ 「残りの部分は、語られた通りに知るべきである。」
+
+12. Ayaṃ vā ettha saṅkhepattho – yasmiṃ kāle āsavaṭṭhānīyā dhammāti saṅkhaṃ gatā vītikkamadosā saṅghe pātubhavanti, tadā satthā sāvakānaṃ sikkhāpadaṃ paññapeti.
+
+* Ayaṃ vā ettha saṅkhepattho = あるいは、これがここでの要約である：
+* yasmiṃ kāle = 〜する時に
+* āsavaṭṭhānīyā dhammāti saṅkhaṃ gatā = 「漏の基盤となる事象」と呼ばれる
+* vītikkamadosā = 違反の過失が
+* saṅghe pātubhavanti = 僧伽に現れる
+* tadā = その時
+* satthā sāvakānaṃ sikkhāpadaṃ paññapeti = 師は弟子たちに学処を制定する。
+
+→ 「あるいは、これがここでの要約である：『漏の基盤となる事象』と呼ばれる違反の過失が僧伽に現れる時に、その時、師は弟子たちに学処を制定する。」
+
+13. Kasmā? Tesaṃyeva āsavaṭṭhānīyadhammasaṅkhātānaṃ vītikkamadosānaṃ paṭighātāya.
+
+* Kasmā? = なぜか？
+* Tesaṃyeva = まさにそれらの
+* āsavaṭṭhānīyadhammasaṅkhātānaṃ = 漏の基盤となる事象と呼ばれる
+* vītikkamadosānaṃ = 違反の過失の
+* paṭighātāya = 防遏のために。
+
+→ 「なぜか？ まさにそれらの漏の基盤となる事象と呼ばれる違反の過失を防ぐためである。」
+
+14. Evaṃ āsavaṭṭhānīyānaṃ dhammānaṃ anuppattiṃ sikkhāpadapaññattiyā akālaṃ, uppattiñca kālanti vatvā idāni tesaṃ dhammānaṃ anuppattikālañca uppattikālañca dassetuṃ ‘‘na tāva, bhaddāli, idhekacce’’tiādimāha.
+
+* Evaṃ = このように
+* āsavaṭṭhānīyānaṃ dhammānaṃ anuppattiṃ = 漏の基盤となる事象が生じていないことが
+* sikkhāpadapaññattiyā akālaṃ = 学処制定の非時であり
+* uppattiñca kālanti vatvā = また生じることが時であると述べて
+* idāni = 今度は
+* tesaṃ dhammānaṃ = それらの事象の
+* anuppattikālañca uppattikālañca = 未生起の時と生起の時とを
+* dassetuṃ = 示すために
+* na tāva, bhaddāli, idhekaccetiādimāha = 「バッダーリよ、ここで一部の〜」などを語られた。
+
+→ 「このように、漏の基盤となる事象が生じていないことが学処制定の非時であり、生じることが時であると述べて、今度はそれらの事象の未生起の時と生起の時とを示すために、『バッダーリよ、ここで一部の〜』などを語られたのである。」
+
+15. Tattha mahattanti mahantabhāvaṃ.
+
+* Tattha = そこで
+* mahattanti = 「巨大さに」とは
+* mahantabhāvaṃ = 巨大な状態（規模が大きくなった状態）を意味する。
+
+→ 「そこで、『巨大さに』とは、巨大な状態を意味する。」
+
+16. Saṅgho hi yāva na theranavamajjhimānaṃ vasena mahattaṃ patto hoti, tāva senāsanāni pahonti, sāsane ekacce āsavaṭṭhānīyā dhammā na uppajjanti.
+
+* Saṅgho hi = 僧伽が実に
+* yāva na = 〜するまでは
+* theranavamajjhimānaṃ vasena = 長老、新参、中堅によって
+* mahattaṃ patto hoti = 巨大さに達する
+* tāva = その時までは
+* senāsanāni pahonti = 寝座（住居）が十分にあり
+* sāsane = 教え（教団）において
+* ekacce āsavaṭṭhānīyā dhammā na uppajjanti = 一部の漏の基盤となる事象は生じない。
+
+→ 「実に、僧伽が長老、新参、中堅によって巨大さに達するまでは、寝座が十分にあり、教団において一部の漏の基盤となる事象は生じない。」
+
+17. Mahattaṃ patte pana te uppajjanti, atha satthā sikkhāpadaṃ paññapeti.
+
+* Mahattaṃ patte pana = しかし、巨大さに達したときには
+* te uppajjanti = それら（事象）が生じ
+* atha = その時
+* satthā sikkhāpadaṃ paññapeti = 師は学処を制定する。
+
+→ 「しかし、巨大さに達したときにはそれらが生じ、その時に師は学処を制定する。」
+
+18. Tattha mahattaṃ patte saṅghe paññattasikkhāpadāni –
+
+* Tattha = そこで
+* mahattaṃ patte saṅghe = 僧伽が巨大さに達したときに
+* paññattasikkhāpadāni = 制定された学処は（以下の通りである）－
+
+→ 「そこで、僧伽が巨大さに達したときに制定された学処は以下の通りである－」
+
+19. ‘‘Yo pana bhikkhu anupasampannena uttaridvirattatirattaṃ sahaseyyaṃ kappeyya pācittiyaṃ (pāci. 51).
+
+* Yo pana bhikkhu = どの比丘であれ
+* anupasampannena = 具足戒を受けていない者と
+* uttaridvirattatirattaṃ = 二夜・三夜を超えて
+* sahaseyyaṃ kappeyya = 共に寝るなら
+* pācittiyaṃ = 波逸提（pācittiya）となる。（波逸提 第51条）
+
+→ 「どの比丘であれ、具足戒を受けていない者と二夜・三夜を超えて共に寝るなら、波逸提となる。（波逸提 第51条）」
+
+20. Yā pana bhikkhunī anuvassaṃ vuṭṭhāpeyya pācittiyaṃ (pāci. 1171).
+
+* Yā pana bhikkhunī = どの比丘尼であれ
+* anuvassaṃ = 年ごとに（毎年）
+* vuṭṭhāpeyya = （弟子を）出家させるなら
+* pācittiyaṃ = 波逸提となる。（比丘尼波逸提 第1171条）
+
+→ 「どの比丘尼であれ、毎年（弟子を）出家させるなら、波逸提となる。（比丘尼波逸提 第1171条）」
+
+21. Yā pana bhikkhunī ekavassaṃ dve vuṭṭhāpeyya pācittiya’’nti (pāci. 1175).
+
+* Yā pana bhikkhunī = どの比丘尼であれ
+* ekavassaṃ = 1年に（同じ年に）
+* dve = 2人を
+* vuṭṭhāpeyya = 出家させるなら
+* pācittiyanti = 波逸提となる。（比丘尼波逸提 第1175条）
+
+→ 「どの比丘尼であれ、1年に2人を出家させるなら、波逸提となる。（比丘尼波逸提 第1175条）」
+
+22. Iminā nayena veditabbāni.
+
+* Iminā nayena = この方法で（理屈で）
+* veditabbāni = 知られるべきである。
+
+→ 「（その他のものも）この理屈で知られるべきである。」
+
+## 145 (2)
+
+Lābhagganti lābhassa aggaṃ. Saṅgho hi yāva na lābhaggapatto hoti, na tāva lābhaṃ paṭicca āsavaṭṭhānīyā dhammā uppajjanti. Patte pana uppajjanti, atha satthā sikkhāpadaṃ paññapeti –
+
+‘‘Yo pana bhikkhu acelakassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya pācittiya’’nti (pāci. 270).
+
+Idañhi lābhaggapatte saṅghe sikkhāpadaṃ paññattaṃ.
+
+Yasagganti yasassa aggaṃ. Saṅgho hi yāva na yasaggapatto hoti, na tāva yasaṃ paṭicca āsavaṭṭhānīyā dhammā uppajjanti. Patte pana uppajjanti, atha satthā sikkhāpadaṃ paññapeti ‘‘surāmerayapāne pācittiya’’nti (pāci. 327). Idañhi yasaggapatte saṅghe sikkhāpadaṃ paññattaṃ.
+
+Bāhusaccanti bahussutabhāvaṃ. Saṅgho hi yāva na bāhusaccapatto hoti, na tāva āsavaṭṭhānīyā dhammā uppajjanti. Bāhusaccapatte pana yasmā ekaṃ nikāyaṃ dve nikāye pañcapi nikāye uggahetvā ayoniso ummujjamānā puggalā rasena rasaṃ saṃsandetvā uddhammaṃ ubbinayaṃ satthu sāsanaṃ dīpenti, atha satthā – ‘‘yo pana bhikkhu evaṃ vadeyya tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi (pāci. 418)…pe… samaṇuddesopi ce evaṃ vadeyyā’’tiādinā (pāci. 429) nayena sikkhāpadaṃ paññapeti.
+
+Rattaññutaṃ pattoti ettha rattiyo jānantīti rattaññū. Attano pabbajitadivasato paṭṭhāya bahū rattiyo jānanti, cirapabbajitāti vuttaṃ hoti. Rattaññūnaṃ bhāvaṃ rattaññutaṃ. Tatra rattaññutaṃ patte saṅghe upasenaṃ vaṅgantaputtaṃ ārabbha sikkhāpadaṃ paññattanti veditabbaṃ. So hāyasmā ūnadasavasse bhikkhū upasampādente disvā ekavasso saddhivihārikaṃ upasampādesi. Atha bhagavā sikkhāpadaṃ paññapesi – ‘‘na, bhikkhave, ūnadasavassena upasampādetabbo, yo upasampādeyya āpatti dukkaṭassā’’ti (mahāva. 75). Evaṃ paññatte sikkhāpade puna bhikkhū ‘‘dasavassamhā dasavassamhā’’ti bālā abyattā upasampādenti. Atha bhagavā aparampi sikkhāpadaṃ paññapesi – ‘‘na, bhikkhave, bālena abyattena upasampādetabbo, yo upasampādeyya, āpatti dukkaṭassa. Anujānāmi, bhikkhave, byattena bhikkhunā paṭibalena dasavassena vā atirekadasavassena vā upasampādetu’’nti. Iti rattaññutaṃ pattakāle dve sikkhāpadāni paññattāni.
+
+### Gemini
+
+- 2026/04/13
+- gemini-3.1-pro-preview
+
+### 対訳
+1. Lābhagganti lābhassa aggaṃ.
+
+* Lābhagganti = 「利得の極致（lābhagga）」とは
+* lābhassa = 利得の
+* aggaṃ = 極致（最高）のことである。
+
+→ 「『利得の極致』とは、利得の最高点のことである。」
+
+2. Saṅgho hi yāva na lābhaggapatto hoti, na tāva lābhaṃ paṭicca āsavaṭṭhānīyā dhammā uppajjanti.
+
+* Saṅgho hi = 実に、僧伽が
+* yāva na = 〜するまでは
+* lābhaggapatto hoti = 利得の極致に達する
+* na tāva = それまでは〜ない
+* lābhaṃ paṭicca = 利得に縁って（利得を原因として）
+* āsavaṭṭhānīyā dhammā = 漏の基盤となる事象が
+* uppajjanti = 生じる
+
+→ 「実に、僧伽が利得の極致に達するまでは、利得に縁って漏の基盤となる事象が生じることはない。」
+
+3. Patte pana uppajjanti, atha satthā sikkhāpadaṃ paññapeti –
+
+* Patte pana = しかし、（それに）達したときには
+* uppajjanti = （それらが）生じる
+* atha = その時
+* satthā = 師は
+* sikkhāpadaṃ paññapeti = 学処を制定する。
+
+→ 「しかし、それに達したときにはそれらが生じ、その時、師は学処を制定する－」
+
+4. ‘‘Yo pana bhikkhu acelakassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya pācittiya’’nti (pāci. 270).
+
+* Yo pana bhikkhu = どの比丘であれ
+* acelakassa vā = 裸形行者に、あるいは
+* paribbājakassa vā = 遍歴行者に、あるいは
+* paribbājikāya vā = 女性の遍歴行者に
+* sahatthā = 自らの手で
+* khādanīyaṃ vā = 咀嚼食（かむ食べ物）や
+* bhojanīyaṃ vā = 柔軟食（やわらかい食べ物）を
+* dadeyya = 与えるなら
+* pācittiyanti = 波逸提（罪）である。
+
+→ 「『どの比丘であれ、裸形行者や、遍歴行者や、女性の遍歴行者に対して、自らの手で咀嚼食や柔軟食を与えるなら、波逸提である』（波逸提 第41条）」
+
+5. Idañhi lābhaggapatte saṅghe sikkhāpadaṃ paññattaṃ.
+
+* Idañhi (idaṃ hi) = 実にこれは
+* lābhaggapatte saṅghe = 僧伽が利得の極致に達したときに
+* sikkhāpadaṃ = 学処として
+* paññattaṃ = 制定されたものである。
+
+→ 「実にこれは、僧伽が利得の極致に達したときに制定された学処である。」
+
+6. Yasagganti yasassa aggaṃ.
+
+* Yasagganti = 「名声の極致（yasagga）」とは
+* yasassa = 名声の
+* aggaṃ = 極致のことである。
+
+→ 「『名声の極致』とは、名声の最高点のことである。」
+
+7. Saṅgho hi yāva na yasaggapatto hoti, na tāva yasaṃ paṭicca āsavaṭṭhānīyā dhammā uppajjanti.
+
+* Saṅgho hi = 実に、僧伽が
+* yāva na yasaggapatto hoti = 名声の極致に達するまでは
+* na tāva = それまでは〜ない
+* yasaṃ paṭicca = 名声に縁って
+* āsavaṭṭhānīyā dhammā uppajjanti = 漏の基盤となる事象が生じる
+
+→ 「実に、僧伽が名声の極致に達するまでは、名声に縁って漏の基盤となる事象が生じることはない。」
+
+8. Patte pana uppajjanti, atha satthā sikkhāpadaṃ paññapeti ‘‘surāmerayapāne pācittiya’’nti (pāci. 327).
+
+* Patte pana = しかし、達したときには
+* uppajjanti = 生じる
+* atha satthā = その時、師は
+* sikkhāpadaṃ paññapeti = 学処を制定する
+* surāmerayapāne = 穀酒や果実酒を飲むことにおいて
+* pācittiyanti = 波逸提である、と。
+
+→ 「しかし、それに達したときにはそれらが生じ、その時、師は『穀酒や果実酒を飲むことにおいて波逸提である』と学処を制定する。（波逸提 第51条）」
+
+9. Idañhi yasaggapatte saṅghe sikkhāpadaṃ paññattaṃ.
+
+* Idañhi = 実にこれは
+* yasaggapatte saṅghe = 僧伽が名声の極致に達したときに
+* sikkhāpadaṃ paññattaṃ = 制定された学処である。
+
+→ 「実にこれは、僧伽が名声の極致に達したときに制定された学処である。」
+
+10. Bāhusaccanti bahussutabhāvaṃ.
+
+* Bāhusaccanti = 「多聞さ（bāhusacca）」とは
+* bahussutabhāvaṃ = 多くを聞いた状態（博学さ）のことである。
+
+→ 「『多聞さ』とは、博学な状態のことである。」
+
+11. Saṅgho hi yāva na bāhusaccapatto hoti, na tāva āsavaṭṭhānīyā dhammā uppajjanti.
+
+* Saṅgho hi yāva na bāhusaccapatto hoti = 実に、僧伽が多聞さに達するまでは
+* na tāva āsavaṭṭhānīyā dhammā uppajjanti = 漏の基盤となる事象は生じない。
+
+→ 「実に、僧伽が多聞さに達するまでは、漏の基盤となる事象は生じない。」
+
+12. Bāhusaccapatte pana yasmā ekaṃ nikāyaṃ dve nikāye pañcapi nikāye uggahetvā ayoniso ummujjamānā puggalā rasena rasaṃ saṃsandetvā uddhammaṃ ubbinayaṃ satthu sāsanaṃ dīpenti, atha satthā –
+
+* Bāhusaccapatte pana = しかし、多聞さに達したときには
+* yasmā = なぜなら
+* ekaṃ nikāyaṃ = 一つの部（経典のまとまり）を
+* dve nikāye = 二つの部を
+* pañcapi nikāye = あるいは五つの部すべてを
+* uggahetvā = 学習して
+* ayoniso = 理不尽に（非理に）
+* ummujjamānā = 思い上がる（独自の考えを浮かべる）
+* puggalā = 個人たちが
+* rasena rasaṃ = 味と味とを
+* saṃsandetvā = 混ぜ合わせて（教えを自己流につなぎ合わせて）
+* uddhammaṃ = 非法を
+* ubbinayaṃ = 非律を
+* satthu sāsanaṃ = 師の教えであるとして
+* dīpenti = 説明する（からである）。
+* atha satthā = その時、師は－
+
+→ 「しかし、多聞さに達したときには、なぜなら、一つの部、二つの部、あるいは五つの部すべてを学習して理不尽に思い上がる個人たちが、味と味とを混ぜ合わせるようにして、非法・非律を師の教えであるとして説くからである。その時、師は－」
+
+13. ‘‘yo pana bhikkhu evaṃ vadeyya tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi (pāci. 418)…pe… samaṇuddesopi ce evaṃ vadeyyā’’tiādinā (pāci. 429) nayena sikkhāpadaṃ paññapeti.
+
+* yo pana bhikkhu = もし比丘が
+* evaṃ vadeyya = このように語るなら
+* tathāhaṃ (tathā ahaṃ) = 「そのように私は
+* bhagavatā = 世尊によって
+* dhammaṃ desitaṃ = 説かれた法を
+* ājānāmi = 知っている」と
+* ...pe... = （中略）
+* samaṇuddesopi (samaṇuddeso pi) = 沙弥であっても
+* ce = もし
+* evaṃ vadeyyāti = このように語るなら、と
+* ādinā nayena = などの理屈（方法）で
+* sikkhāpadaṃ paññapeti = 学処を制定する。
+
+→ 「『もし比丘が、「私は世尊によって説かれた法を、このように知っている」と語るなら…（中略）…もし沙弥がそのように語るなら』などの方法で学処を制定する。（波逸提 第68条、第70条）」
+
+14. Rattaññutaṃ pattoti ettha rattiyo jānantīti rattaññū.
+
+* Rattaññutaṃ pattoti = 「久学に達した」について
+* ettha = ここで
+* rattiyo = 夜（日数）を
+* jānantīti = 知る者が
+* rattaññū = rattaññū（久学、古参）である。
+
+→ 「『久学に達した』について、ここで、『夜（経過した日数）を知る者』が久学（古参）である。」
+
+15. Attano pabbajitadivasato paṭṭhāya bahū rattiyo jānanti, cirapabbajitāti vuttaṃ hoti.
+
+* Attano = 自分の
+* pabbajita-divasato paṭṭhāya = 出家した日から始めて
+* bahū rattiyo = 多くの夜を
+* jānanti = 知っている
+* cirapabbajitāti = つまり「古くから出家している者」という意味で
+* vuttaṃ hoti = 言われたのである。
+
+→ 「自分の出家した日から始めて多くの夜を知っている、すなわち『古くから出家している者』という意味で言われたのである。」
+
+16. Rattaññūnaṃ bhāvaṃ rattaññutaṃ.
+
+* Rattaññūnaṃ = 久学の者たちの
+* bhāvaṃ = 状態が
+* rattaññutaṃ = 久学（の極致）である。
+
+→ 「久学の者たちの状態が、久学である。」
+
+17. Tatra rattaññutaṃ patte saṅghe upasenaṃ vaṅgantaputtaṃ ārabbha sikkhāpadaṃ paññattanti veditabbaṃ.
+
+* Tatra = そこで
+* rattaññutaṃ patte saṅghe = 僧伽が久学に達したとき
+* upasenaṃ vaṅgantaputtaṃ = ヴァンガンタの子ウパセーナに
+* ārabbha = 因んで
+* sikkhāpadaṃ paññattanti = 学処が制定されたと
+* veditabbaṃ = 知るべきである。
+
+→ 「そこで、僧伽が久学に達したとき、ヴァンガンタの子ウパセーナに因んで学処が制定されたと知るべきである。」
+
+18. So hāyasmā ūnadasavasse bhikkhū upasampādente disvā ekavasso saddhivihārikaṃ upasampādesi.
+
+* So hāyasmā (hi āyasmā) = 実にその尊者は
+* ūnadasavasse bhikkhū = 10年に満たない（出家して10年未満の）比丘たちが
+* upasampādente = （他者に）具足戒を授けているのを
+* disvā = 見て
+* ekavasso = 1年（の経験しかない自分）が
+* saddhivihārikaṃ = 共住の弟子に
+* upasampādesi = 具足戒を授けた。
+
+→ 「実にその尊者は、出家して10年未満の比丘たちが具足戒を授けているのを見て、出家して1年で（自分が）共住の弟子に具足戒を授けたのである。」
+
+19. Atha bhagavā sikkhāpadaṃ paññapesi – ‘‘na, bhikkhave, ūnadasavassena upasampādetabbo, yo upasampādeyya āpatti dukkaṭassā’’ti (mahāva. 75).
+
+* Atha bhagavā = その時、世尊は
+* sikkhāpadaṃ paññapesi = 学処を制定した
+* na, bhikkhave = 比丘たちよ、〜してはならない
+* ūnadasavassena = 10年未満の者によって
+* upasampādetabbo = 具足戒を授けられては（ならない）
+* yo upasampādeyya = もし授けるなら
+* āpatti dukkaṭassāti = 突吉羅（dukkaṭa）の罪である、と。
+
+→ 「その時、世尊は学処を制定した。『比丘たちよ、10年未満の者によって具足戒を授けられてはならない。もし授けるなら、突吉羅の罪である。』と。」
+
+20. Evaṃ paññatte sikkhāpade puna bhikkhū ‘‘dasavassamhā dasavassamhā’’ti bālā abyattā upasampādenti.
+
+* Evaṃ = このように
+* paññatte sikkhāpade = 学処が制定されると
+* puna = またしても
+* bhikkhū = 比丘たちは
+* dasavassamhā dasavassamhāti = 「我々は10年だ、我々は10年だ」と言って
+* bālā = 愚かな者たちや
+* abyattā = 適格でない（不相応な）者たちが
+* upasampādenti = 具足戒を授けた。
+
+→ 「このように学処が制定されると、またしても比丘たちは『我々は10年だ、我々は10年だ』と言って、愚かで不相応な者たちが具足戒を授けた。」
+
+21. Atha bhagavā aparampi sikkhāpadaṃ paññapesi – ‘‘na, bhikkhave, bālena abyattena upasampādetabbo, yo upasampādeyya, āpatti dukkaṭassa.
+
+* Atha bhagavā = その時、世尊は
+* aparampi = さらに別の
+* sikkhāpadaṃ paññapesi = 学処を制定した
+* na, bhikkhave = 比丘たちよ、〜してはならない
+* bālena abyattena = 愚かで不相応な者によって
+* upasampādetabbo = 具足戒を授けられては（ならない）
+* yo upasampādeyya = もし授けるなら
+* āpatti dukkaṭassa = 突吉羅の罪である。
+
+→ 「その時、世尊はさらに別の学処を制定した。『比丘たちよ、愚かで不相応な者によって具足戒を授けられてはならない。もし授けるなら、突吉羅の罪である。」
+
+22. Anujānāmi, bhikkhave, byattena bhikkhunā paṭibalena dasavassena vā atirekadasavassena vā upasampādetu’’nti.
+
+* Anujānāmi = 私は許可する
+* bhikkhave = 比丘たちよ
+* byattena bhikkhunā = 適格な（有能な）比丘によって
+* paṭibalena = 能力のある
+* dasavassena vā = 10年であるか
+* atirekadasavassena vā = 10年以上の（比丘によって）
+* upasampādetunti = 具足戒を授けることを。
+
+→ 「比丘たちよ、適格であり、能力があり、10年であるか10年以上の比丘によって具足戒を授けることを私は許可する。』と。」
+
+23. Iti rattaññutaṃ pattakāle dve sikkhāpadāni paññattāni.
+
+* Iti = このように
+* rattaññutaṃ pattakāle = 久学に達した時に
+* dve sikkhāpadāni = 二つの学処が
+* paññattāni = 制定されたのである。
+
+→ 「このように、久学に達した時に、二つの学処が制定されたのである。」
+
+## 146
+
+146.Ājānīyasusūpamaṃdhammapariyāyaṃ desesinti taruṇājānīyaupamaṃ katvā dhammaṃ desayiṃ. Tatrāti tasmiṃ asaraṇe. Na kho, bhaddāli, eseva hetūti na esa sikkhāya aparipūrakārībhāvoyeva eko hetu.
+
+### Gemini
+
+- 2026/04/14
+- gemini-3.1-pro-preview
+
+### 対訳
+
+1. Ājānīyasusūpamaṃ dhammapariyāyaṃ desesin ti taruṇājānīyaupamaṃ katvā dhammaṃ desayiṃ.
+
+* Ājānīyasusūpamaṃ dhammapariyāyaṃ desesiṃ ti = 「『良馬の仔の譬えの法門を説いた』とは」
+  * ājānīya = 「良き血統の馬」
+  * susu = 「仔、若い」
+  * upamaṃ = 「譬えの」
+  * dhammapariyāyaṃ = 「法門を」
+  * desesiṃ = 「説いた」
+* taruṇājānīyaupamaṃ = 「若い良馬の譬えを（taruṇa-ājānīya-upamaṃ）」
+* katvā = 「用いて、作って」
+* dhammaṃ = 「法を」
+* desayiṃ = 「説いた（という意味である）」
+
+→ 「『良馬の仔の譬えの法門を説いた』とは、若い良馬の譬えを用いて法を説いた、ということである。」
+
+2. Tatrā ti tasmiṃ asaraṇe.
+
+* Tatrā ti = 「『それについて（tatra）』とは」
+* tasmiṃ = 「その」
+* asaraṇe = 「覚えていないことにおいて（という意味である）」
+  * a-saraṇa = 「記憶しないこと、覚えていないこと」
+
+→ 「『それについて』とは、その（お前が）覚えていないことについて、という意味である。」
+
+3. Na kho, bhaddāli, eseva hetū ti na esa sikkhāya aparipūrakārībhāvoyeva eko hetu.
+
+* Na kho, bhaddāli, eseva hetū ti = 「『バッダーリよ、それだけが理由なのではない』とは」
+* na = 「～ではない」
+* esa = 「その」
+* sikkhāya = 「学処（戒律）を」
+* aparipūrakārībhāvoyeva = 「完全に実行しない者であることだけが（a-paripūra-kārī-bhāvo + eva）」
+* eko = 「一つの、唯一の」
+* hetu = 「理由（ではない、という意味である）」
+
+→ 「『バッダーリよ、それだけが理由なのではない』とは、その学処を完全に実行する者でなかったことだけが唯一の理由ではない、という意味である。」
