@@ -1673,3 +1673,950 @@ Rattaññutaṃ pattoti ettha rattiyo jānantīti rattaññū. Attano pabbajitad
 * hetu = 「理由（ではない、という意味である）」
 
 → 「『バッダーリよ、それだけが理由なのではない』とは、その学処を完全に実行する者でなかったことだけが唯一の理由ではない、という意味である。」
+
+## 147 (1)
+
+147.Mukhādhāne kāraṇaṃ kāretīti khalīnabandhādīhi mukhaṭṭhapane sādhukaṃ gīvaṃ paggaṇhāpetuṃ kāraṇaṃ kāreti. Visūkāyitānītiādīhi visevanācāraṃ kathesi. Sabbāneva hetāni aññamaññavevacanāni. Tasmiṃ ṭhāneti tasmiṃ visevanācāre. Parinibbāyatīti nibbisevano hoti, taṃ visevanaṃ jahatīti attho. Yugādhāneti yugaṭṭhapane yugassa sādhukaṃ gahaṇatthaṃ.
+
+Anukkameti cattāropi pāde ekappahāreneva ukkhipane ca nikkhipane ca. Parasenāya hi āvāṭe ṭhatvā asiṃ gahetvā āgacchantassa assassa pāde chindanti. Tasmiṃ samaye esa ekappahāreneva cattāropi pāde ukkhipissatīti rajjubandhanavidhānena etaṃ kāraṇaṃ karonti. Maṇḍaleti yathā asse nisinnoyeva bhūmiyaṃ patitaṃ āvudhaṃ gahetuṃ sakkoti, evaṃ karaṇatthaṃ maṇḍale kāraṇaṃ kāreti. Khurakāseti aggaggakhurehi pathavīkamane. Rattiṃ okkantakaraṇasmiñhi yathā padasaddo na suyyati, tadatthaṃ ekasmiṃ ṭhāne saññaṃ datvā aggaggakhurehiyeva gamanaṃ sikkhāpenti. Taṃ sandhāyetaṃ vuttaṃ. Javeti sīghavāhane. ‘‘Dhāve’’tipi pāṭho. Attano parājaye sati palāyanatthaṃ, paraṃ palāyantaṃ anubandhitvā gahaṇatthañca etaṃ kāraṇaṃ kāreti. Davatteti davattāya, yuddhakālasmiñhi hatthīsu vā koñcanādaṃ karontesu assesu vā hasantesu rathesu vā nighosantesu yodhesu vā ukkuṭṭhiṃ karontesu tassa ravassa abhāyitvā parasenapavesanatthaṃ ayaṃ kāraṇā karīyati.
+
+Rājaguṇeti raññā jānitabbaguṇe. Kūṭakaṇṇarañño kira guḷavaṇṇo nāma asso ahosi. Rājā pācīnadvārena nikkhamitvā cetiyapabbataṃ gamissāmīti kalambanadītīraṃ sampatto. Asso tīre ṭhatvā udakaṃ otarituṃ na icchati, rājā assācariyaṃ āmantetvā – ‘‘aho tayā asso sikkhāpito udakaṃ otarituṃ na icchatī’’ti āha. Ācariyo – ‘‘susikkhāpito deva asso, evamassa hi cittaṃ ‘sacāhaṃ udakaṃ otarissāmi, vālaṃ temissati, vāle tinte rañño aṅge udakaṃ pāteyyā’ti evaṃ tumhākaṃ sarīre udakapātanabhayena na otarati, vālaṃ gaṇhāpethā’’ti āha. Rājā tathā kāresi. Asso vegena otaritvā pāraṃ gato. Etadatthaṃ ayaṃ kāraṇā karīyati. Rājavaṃseti assarājavaṃse. Vaṃso ceso assarājānaṃ, tathārūpena pahārena chinnabhinnasarīrāpi assārohaṃ parasenāya apātetvā bahi nīharantiyeva. Etadatthaṃ kāraṇaṃ kāretīti attho.
+
+Uttame javeti javasampattiyaṃ, yathā uttamajavo hoti, evaṃ kāraṇaṃ kāretīti attho. Uttame hayeti uttamahayabhāve, yathā uttamahayo hoti, evaṃ kāraṇaṃ kāretīti attho. Tattha pakatiyā uttamahayova uttamahayakāraṇaṃ arahati, na añño. Uttamahayakāraṇāya eva ca hayo uttamajavaṃ paṭipajjati, na aññoti.
+
+### Gemini
+
+- 2026/04/14
+- gemini-3.1-pro-preview
+
+### 対訳
+
+1. 147. Mukhādhāne kāraṇaṃ kāretīti khalīnabandhādīhi mukhaṭṭhapane sādhukaṃ gīvaṃ paggaṇhāpetuṃ kāraṇaṃ kāreti.
+
+* Mukhādhāne kāraṇaṃ kāretī ti = 「『くつわをはめる訓練を受けさせる』とは」
+* khalīnabandhādīhi = 「くつわを固定することなどによって」
+* mukhaṭṭhapane = 「口に置くことにおいて」
+* sādhukaṃ = 「しっかりと」
+* gīvaṃ paggaṇhāpetuṃ = 「首を立てさせるために」
+* kāraṇaṃ kāreti = 「訓練を受けさせる（ことである）」
+
+→「『くつわをはめる訓練を受けさせる』とは、くつわを固定するなどして口に（馬具を）置き、しっかりと首を立てさせるための訓練を受けさせることである。」
+
+2. Visūkāyitānītiādīhi visevanācāraṃ kathesi.
+
+* Visūkāyitānīti ādīhi = 「『身もだえ』などという言葉によって」
+* visevanācāraṃ = 「抵抗の振る舞いを」
+* kathesi = 「説いた」
+
+→「『身もだえ』などの言葉によって、抵抗の振る舞いについて説いたのである。」
+
+3. Sabbāneva hetāni aññamaññavevacanāni.
+
+* sabbāni eva hi etāni = 「というのも、これらすべては」
+* aññamaññavevacanāni = 「互いに同義語である」
+
+→「というのも、これらはすべて互いに同義語だからである。」
+
+4. Tasmiṃ ṭhāneti tasmiṃ visevanācāre.
+
+* Tasmiṃ ṭhāne ti = 「『その段階において』とは」
+* tasmiṃ visevanācāre = 「その抵抗の振る舞い（状態）において」
+
+→「『その段階において』とは、その抵抗の振る舞いにおいて、という意味である。」
+
+5. Parinibbāyatīti nibbisevano hoti, taṃ visevanaṃ jahatīti attho.
+
+* Parinibbāyatī ti = 「『完全に静まる』とは」
+* nibbisevano hoti = 「抵抗しない状態になる」
+* taṃ visevanaṃ jahatī ti = 「その抵抗を捨てる、という」
+* attho = 「意味である」
+
+→「『完全に静まる』とは、抵抗しない状態になり、その抵抗を捨てる、という意味である。」
+
+6. Yugādhāneti yugaṭṭhapane yugassa sādhukaṃ gahaṇatthaṃ.
+
+* Yugādhāne ti = 「『軛（くびき）をかけることにおいて』とは」
+* yugaṭṭhapane = 「軛を置くこと（かけること）において」
+* yugassa sādhukaṃ gahaṇatthaṃ = 「軛をしっかりと受け入れさせる（負わせる）ために」
+
+→「『軛をかけることにおいて』とは、軛を置くことにおいて、軛をしっかりと受け入れさせるため（の訓練）である。」
+
+7. Anukkameti cattāropi pāde ekappahāreneva ukkhipane ca nikkhipane ca.
+
+* Anukkame ti = 「『歩法（anukkama）において』とは」
+* cattāro pi pāde = 「四つの足すべてを」
+* ekappahārena eva = 「一斉に（一度に）」
+* ukkhipane ca nikkhipane ca = 「上げることと下ろすことにおいて（である）」
+
+→「『歩法において』とは、四つの足すべてを一斉に上げ、一斉に下ろすことにおいて、という意味である。」
+
+8. Parasenāya hi āvāṭe ṭhatvā asiṃ gahetvā āgacchantassa assassa pāde chindanti.
+
+* parasenāya = 「敵陣において」
+* hi = 「というのも」
+* āvāṭe ṭhatvā = 「塹壕（穴）に立って」
+* asiṃ gahetvā = 「剣を手に持ち」
+* āgacchantassa assassa = 「やって来る馬の」
+* pāde chindanti = 「足を斬るからである」
+
+→「というのも、敵陣においては塹壕に入って剣を持ち、やって来る馬の足を斬りつけるからである。」
+
+9. Tasmiṃ samaye esa ekappahāreneva cattāropi pāde ukkhipissatīti rajjubandhanavidhānena etaṃ kāraṇaṃ karonti.
+
+* tasmiṃ samaye = 「その時」
+* esa = 「この（馬が）」
+* ekappahārena eva = 「一斉に」
+* cattāro pi pāde = 「四つの足をすべて」
+* ukkhipissatī ti = 「上げるだろうと（意図して）」
+* rajjubandhanavidhānena = 「縄で縛る方法によって」
+* etaṃ kāraṇaṃ = 「この訓練を」
+* karonti = 「行う」
+
+→「その時にこの馬が四つの足を一斉に上げるようにと、足を縄で縛る方法を用いてこの訓練を行うのである。」
+
+10. Maṇḍaleti yathā asse nisinnoyeva bhūmiyaṃ patitaṃ āvudhaṃ gahetuṃ sakkoti, evaṃ karaṇatthaṃ maṇḍale kāraṇaṃ kāreti.
+
+* Maṇḍale ti = 「『輪乗りにおいて』とは」
+* yathā = 「～するように」
+* asse nisinno eva = 「馬に乗ったままで」
+* bhūmiyaṃ patitaṃ āvudhaṃ = 「地面に落ちた武器を」
+* gahetuṃ sakkoti = 「拾うことができる（ように）」
+* evaṃ karaṇatthaṃ = 「そのようにするために」
+* maṇḍale kāraṇaṃ kāreti = 「輪乗りで訓練を受けさせる」
+
+→「『輪乗りにおいて』とは、馬に乗ったままで地面に落ちた武器を拾えるように、そのための輪乗りの訓練を受けさせるのである。」
+
+11. Khurakāseti aggaggakhurehi pathavīkamane.
+
+* Khurakāse ti = 「『蹄の訓練において』とは」
+* aggaggakhurehi = 「蹄の先だけで」
+* pathavīkamane = 「地面を歩くことにおいて（である）」
+
+→「『蹄の訓練において』とは、蹄の先だけで地面を歩くことにおいて、という意味である。」
+
+12. Rattiṃ okkantakaraṇasmiñhi yathā padasaddo na suyyati, tadatthaṃ ekasmiṃ ṭhāne saññaṃ datvā aggaggakhurehiyeva gamanaṃ sikkhāpenti.
+
+* rattiṃ = 「夜に」
+* okkantakaraṇasmiṃ hi = 「奇襲（侵入）を行う時に」
+* yathā padasaddo na suyyati = 「足音が聞こえないように」
+* tadatthaṃ = 「そのために」
+* ekasmiṃ ṭhāne = 「特定の場所で」
+* saññaṃ datvā = 「合図を与えて」
+* aggaggakhurehi yeva = 「蹄の先だけで」
+* gamanaṃ = 「歩くことを」
+* sikkhāpenti = 「訓練するのである」
+
+→「というのも、夜に奇襲をかける時に足音が聞こえないようにするため、特定の場所で合図を与え、蹄の先だけで歩くことを教えるのである。」
+
+13. Taṃ sandhāyetaṃ vuttaṃ.
+
+* taṃ sandhāya = 「それを意図して」
+* etaṃ vuttaṃ = 「これが説かれた」
+
+→「それを意図してこれが説かれたのである。」
+
+14. Javeti sīghavāhane. ‘‘Dhāve’’tipi pāṭho.
+
+* Jave ti = 「『走り（jave）において』とは」
+* sīghavāhane = 「素早く運ぶこと（乗せること）において（である）」
+* Dhāve ti pi pāṭho = 「『dhāve（走りにおいて）』というテキストの読みもある」
+
+→「『走り（jave）において』とは、素早く乗せて運ぶことにおいて、である。『dhāve』という読みもある。」
+
+15. Attano parājaye sati palāyanatthaṃ, paraṃ palāyantaṃ anubandhitvā gahaṇatthañca etaṃ kāraṇaṃ kāreti.
+
+* attano parājaye sati = 「自らが敗北した時に」
+* palāyanatthaṃ = 「逃げるため」
+* paraṃ palāyantaṃ = 「逃げていく他者（敵）を」
+* anubandhitvā = 「追跡して」
+* gahaṇatthaṃ ca = 「捕らえるためにも」
+* etaṃ kāraṇaṃ kāreti = 「この訓練を受けさせる」
+
+→「自らが敗北した時に逃げるため、また逃げていく敵を追跡して捕らえるために、この訓練を受けさせるのである。」
+
+16. Davatteti davattāya, yuddhakālasmiñhi hatthīsu vā koñcanādaṃ karontesu assesu vā hasantesu rathesu vā nighosantesu yodhesu vā ukkuṭṭhiṃ karontesu tassa ravassa abhāyitvā parasenapavesanatthaṃ ayaṃ kāraṇā karīyati.
+
+* Davatte ti davattāya = 「『疾走（davatte / あるいは騒音 ravatte）において』とは、騒音に対する訓練のために」
+* yuddhakālasmiṃ hi = 「というのも、戦闘時において」
+* hatthīsu vā koñcanādaṃ karontesu = 「象が吼え声を上げている時や」
+* assesu vā hasantesu = 「馬がいななきを上げている時や」
+* rathesu vā nighosantesu = 「戦車が轟音を立てている時や」
+* yodhesu vā ukkuṭṭhiṃ karontesu = 「戦士たちが鬨（とき）の声を上げている時などに」
+* tassa ravassa = 「その騒音に」
+* abhāyitvā = 「恐れることなく」
+* parasenapavesanatthaṃ = 「敵陣に突入するために」
+* ayaṃ kāraṇā karīyati = 「この訓練は行われるのである」
+
+→「『davatte（疾走／騒音）において』とは騒音に対する訓練のためであり、戦闘時に象の吼え声、馬のいななき、戦車の轟音、戦士の鬨の声などの騒音に恐れることなく敵陣へ突入させるために、この訓練は行われるのである。」
+
+17. Rājaguṇeti raññā jānitabbaguṇe.
+
+* Rājaguṇe ti = 「『王者の特質において』とは」
+* raññā = 「王によって」
+* jānitabbaguṇe = 「知られるべき特質（美徳）において」
+
+→「『王者の特質において』とは、王によって知られるべき美徳において、という意味である。」
+
+18. Kūṭakaṇṇarañño kira guḷavaṇṇo nāma asso ahosi.
+
+* Kūṭakaṇṇarañño kira = 「伝承によれば、クータカンナ王には」
+* guḷavaṇṇo nāma = 「グラヴァンナ（糖蜜色）という名の」
+* asso ahosi = 「馬がいた」
+
+→「伝承によれば、クータカンナ王にはグラヴァンナという名の馬がいた。」
+
+19. Rājā pācīnadvārena nikkhamitvā cetiyapabbataṃ gamissāmīti kalambanadītīraṃ sampatto.
+
+* rājā = 「王は」
+* pācīnadvārena nikkhamitvā = 「東門から出て」
+* cetiyapabbataṃ = 「チェーティヤ山に」
+* gamissāmī ti = 「行こうとして」
+* kalambanadītīraṃ = 「カランバ川の岸に」
+* sampatto = 「到着した」
+
+→「王は東門から出てチェーティヤ山へ行こうとし、カランバ川の岸に到着した。」
+
+20. Asso tīre ṭhatvā udakaṃ otarituṃ na icchati, rājā assācariyaṃ āmantetvā – ‘‘aho tayā asso sikkhāpito udakaṃ otarituṃ na icchatī’’ti āha.
+
+* asso = 「馬は」
+* tīre ṭhatvā = 「岸に立ち止まって」
+* udakaṃ otarituṃ na icchati = 「水に入ることを望まなかった」
+* rājā = 「王は」
+* assācariyaṃ āmantetvā = 「馬の調教師を呼んで」
+* aho tayā asso sikkhāpito = 「ああ、お前によって馬は訓練された（はずだ）」
+* udakaṃ otarituṃ na icchatī ti āha = 「（それなのに）水に入ろうとしない、と言った」
+
+→「馬は岸に立ち止まって水に入ろうとせず、王は馬の調教師を呼んで『ああ、お前が訓練したはずなのに、馬は水に入ろうとしないではないか』と言った。」
+
+21. Ācariyo – ‘‘susikkhāpito deva asso, evamassa hi cittaṃ ‘sacāhaṃ udakaṃ otarissāmi, vālaṃ temissati, vāle tinte rañño aṅge udakaṃ pāteyyā’ti evaṃ tumhākaṃ sarīre udakapātanabhayena na otarati, vālaṃ gaṇhāpethā’’ti āha.
+
+* ācariyo = 「調教師は（言った）」
+* susikkhāpito deva asso = 「王様、馬はよく訓練されています」
+* evam assa hi cittaṃ = 「というのも、彼の心はこのようだからです」
+* sace ahaṃ udakaṃ otarissāmi = 「『もし私が水に入れば」
+* vālaṃ temissati = 「尾が濡れるだろう」
+* vāle tinte = 「尾が濡れれば」
+* rañño aṅge udakaṃ pāteyyā ti = 「王の御体に水を落とす（はねかける）だろう』と」
+* evaṃ tumhākaṃ sarīre = 「このようにあなたの御体に」
+* udakapātanabhayena = 「水が落ちることへの恐れ（気遣い）から」
+* na otarati = 「入らないのです」
+* vālaṃ gaṇhāpethā ti āha = 「尾を持たせて（持ち上げさせて）ください、と言った」
+
+→「調教師は言った。『王様、馬はよく訓練されております。というのも、この馬は「もし私が水に入れば尾が濡れてしまい、濡れた尾から王の御体に水をはねかけてしまうだろう」と考えているからです。このように御体に水がかかることを気遣って入らないのです。尾を持ち上げさせてください』と。」
+
+22. Rājā tathā kāresi.
+
+* rājā = 「王は」
+* tathā kāresi = 「そのようにさせた」
+
+→「王はそのように（尾を持ち上げ）させた。」
+
+23. Asso vegena otaritvā pāraṃ gato.
+
+* asso = 「馬は」
+* vegena = 「速やかに」
+* otaritvā = 「水に入って」
+* pāraṃ gato = 「対岸へ渡った」
+
+→「馬は速やかに水に入り、対岸へ渡った。」
+
+24. Etadatthaṃ ayaṃ kāraṇā karīyati.
+
+* etadatthaṃ = 「このため（このような配慮ができるようにするため）に」
+* ayaṃ kāraṇā karīyati = 「この訓練は行われる」
+
+→「このためにこの訓練は行われるのである。」
+
+25. Rājavaṃseti assarājavaṃse.
+
+* Rājavaṃse ti = 「『王者の血統にふさわしい振る舞いにおいて』とは」
+* assarājavaṃse = 「馬の王の血統（系統）において」
+
+→「『王者の血統にふさわしい振る舞いにおいて』とは、馬の王の血統において、という意味である。」
+
+26. Vaṃso ceso assarājānaṃ, tathārūpena pahārena chinnabhinnasarīrāpi assārohaṃ parasenāya apātetvā bahi nīharantiyeva.
+
+* vaṃso ca eso = 「そしてこれが血統（伝統）である」
+* assarājānaṃ = 「馬の王たちの」
+* tathārūpena pahārena = 「そのような（激しい）打撃によって」
+* chinnabhinnasarīrā pi = 「身体が切り裂かれ破壊されたとしても」
+* assārohaṃ = 「騎手を」
+* parasenāya = 「敵陣に」
+* apātetvā = 「落とすことなく」
+* bahi nīharanti eva = 「外へ運び出すのである」
+
+→「そしてこれが馬の王たちの血統（伝統）である。すなわち、たとえ激しい打撃によって身体が切り裂かれ破壊されたとしても、騎手を敵陣に落とすことなく、必ず外へと運び出すのである。」
+
+27. Etadatthaṃ kāraṇaṃ kāretīti attho.
+
+* etadatthaṃ = 「このために」
+* kāraṇaṃ kāretī ti attho = 「訓練を受けさせる、という意味である」
+
+→「このために訓練を受けさせる、という意味である。」
+
+28. Uttame javeti javasampattiyaṃ, yathā uttamajavo hoti, evaṃ kāraṇaṃ kāretīti attho.
+
+* Uttame jave ti = 「『最高の速力において』とは」
+* javasampattiyaṃ = 「速力の達成において」
+* yathā uttamajavo hoti = 「最高の速力を持つようになるように」
+* evaṃ kāraṇaṃ kāretī ti attho = 「このように訓練を受けさせる、という意味である」
+
+→「『最高の速力において』とは、速力の達成においてであり、最高の速力を持つようになるように、そのための訓練を受けさせるという意味である。」
+
+29. Uttame hayeti uttamahayabhāve, yathā uttamahayo hoti, evaṃ kāraṇaṃ kāretīti attho.
+
+* Uttame haye ti = 「『最高の馬の勢い（完全さ）において』とは」
+* uttamahayabhāve = 「最高の馬の状態において」
+* yathā uttamahayo hoti = 「最高の馬となるように」
+* evaṃ kāraṇaṃ kāretī ti attho = 「このように訓練を受けさせる、という意味である」
+
+→「『最高の馬の勢いにおいて』とは、最高の馬の状態においてであり、最高の馬となるように、そのための訓練を受けさせるという意味である。」
+
+30. Tattha pakatiyā uttamahayova uttamahayakāraṇaṃ arahati, na añño.
+
+* tattha = 「そこで（その場合）」
+* pakatiyā = 「生まれつき」
+* uttamahayo eva = 「最高の馬だけが」
+* uttamahayakāraṇaṃ = 「最高の馬の訓練を」
+* arahati = 「受けるに値する」
+* na añño = 「他はそうではない」
+
+→「そこでは、生まれつき最高の馬だけが、その最高の馬のための訓練を受けるに値し、他の馬はそうではないのである。」
+
+31. Uttamahayakāraṇāya eva ca hayo uttamajavaṃ paṭipajjati, na aññoti.
+
+* uttamahayakāraṇāya eva ca = 「そして最高の馬の訓練によってのみ」
+* hayo = 「馬は」
+* uttamajavaṃ = 「最高の速力を」
+* paṭipajjati = 「達成する（得る）」
+* na añño ti = 「他（の方法）によるのではない、という意味である」
+
+→「そして最高の馬の訓練によってのみ、馬は最高の速力を達成するのであり、他の方法によるのではない、という意味である。」
+
+## 147 (2)
+
+Tatridaṃ vatthu – eko kira rājā ekaṃ sindhavapotakaṃ labhitvā sindhavabhāvaṃ ajānitvāva imaṃ sikkhāpehīti ācariyassa adāsi. Ācariyopi tassa sindhavabhāvaṃ ajānanto taṃ māsakhādakaghoṭakānaṃ kāraṇāsu upaneti. So attano ananucchavikattā kāraṇaṃ na paṭipajjati. So taṃ dametuṃ asakkonto ‘‘kūṭasso ayaṃ mahārājā’’ti vissajjāpesi.
+
+Athekadivasaṃ eko assācariyapubbako daharo upajjhāyassa bhaṇḍakaṃ gahetvā gacchanto taṃ parikhāpiṭṭhe carantaṃ disvā – ‘‘anaggho, bhante, sindhavapotako’’ti upajjhāyassa kathesi. Sace rājā jāneyya, maṅgalassaṃ naṃ kareyyāti. Thero āha – ‘‘micchādiṭṭhiko, tāta, rājā appeva nāma buddhasāsane pasīdeyya rañño kathehī’’ti. So gantvā, – ‘‘mahārāja, anaggho sindhavapotako atthī’’ti kathesi. Tayā diṭṭho , tātāti? Āma, mahārājāti. Kiṃ laddhuṃ vaṭṭatīti? Tumhākaṃ bhuñjanakasuvaṇṇathāle tumhākaṃ bhuñjanakabhattaṃ tumhākaṃ pivanakaraso tumhākaṃ gandhā tumhākaṃ mālāti. Rājā sabbaṃ dāpesi. Daharo gāhāpetvā agamāsi.
+
+Asso gandhaṃ ghāyitvāva ‘‘mayhaṃ guṇajānanakaācariyo atthi maññe’’ti sīsaṃ ukkhipitvā olokento aṭṭhāsi. Daharo gantvā ‘‘bhattaṃ bhuñjā’’ti accharaṃ pahari. Asso āgantvā suvaṇṇathāle bhattaṃ bhuñji, rasaṃ pivi. Atha naṃ gandhehi vilimpitvā rājapiḷandhanaṃ piḷandhitvā ‘‘purato purato gacchā’’ti accharaṃ pahari. So daharassa purato purato gantvā maṅgalassaṭṭhāne aṭṭhāsi. Daharo – ‘‘ayaṃ te, mahārāja, anaggho sindhavapotako, imināva naṃ niyāmena katipāhaṃ paṭijaggāpehī’’ti vatvā nikkhami.
+
+### Gemini
+
+- 2026/04/14
+- gemini-3.1-pro-preview
+
+### 対訳
+
+1. Tatridaṃ vatthu –
+
+* tatra idaṃ = 「ここにこの」
+* vatthu = 「物語（がある）」
+
+→「ここにおいて、このような物語がある。」
+
+2. eko kira rājā ekaṃ sindhavapotakaṃ labhitvā sindhavabhāvaṃ ajānitvāva imaṃ sikkhāpehīti ācariyassa adāsi.
+
+* eko kira rājā = 「伝承によれば、ある王が」
+* ekaṃ sindhavapotakaṃ = 「一頭のシンド馬の仔を」
+* labhitvā = 「得て」
+* sindhavabhāvaṃ = 「シンド馬であること（その価値）を」
+* ajānitvā eva = 「知らないまま」
+* imaṃ sikkhāpehī ti = 「『これを訓練せよ』と言って」
+* ācariyassa = 「調教師に」
+* adāsi = 「与えた」
+
+→「伝承によれば、ある王が一頭のシンド馬の仔を手に入れたが、それがシンド馬であると知らないまま、『これを訓練せよ』と言って調教師に与えた。」
+
+3. Ācariyopi tassa sindhavabhāvaṃ ajānanto taṃ māsakhādakaghoṭakānaṃ kāraṇāsu upaneti.
+
+* ācariyo pi = 「調教師もまた」
+* tassa = 「その（馬が）」
+* sindhavabhāvaṃ = 「シンド馬であることを」
+* ajānanto = 「知らずに」
+* taṃ = 「それを」
+* māsakhādakaghoṭakānaṃ = 「豆を食う駄馬（劣った馬）たちの」
+* kāraṇāsu = 「訓練へと」
+* upaneti = 「導いた（受けさせた）」
+
+→「調教師もまたそれがシンド馬であることを知らず、それを豆を食う駄馬たちの訓練にかけた。」
+
+4. So attano ananucchavikattā kāraṇaṃ na paṭipajjati.
+
+* so = 「それ（馬）は」
+* attano = 「自身にとって」
+* ananucchavikattā = 「ふさわしくないため」
+* kāraṇaṃ = 「訓練を」
+* na paṭipajjati = 「受け入れない」
+
+→「馬は、それが自身にとってふさわしくないため、その訓練を受け入れなかった。」
+
+5. So taṃ dametuṃ asakkonto ‘‘kūṭasso ayaṃ mahārājā’’ti vissajjāpesi.
+
+* so = 「彼（調教師）は」
+* taṃ dametuṃ = 「それを調教することに」
+* asakkonto = 「できないので」
+* kūṭasso ayaṃ = 「『この馬は悪馬（手に負えない馬）です』と」
+* mahārājā ti = 「『大王よ』と言って」
+* vissajjāpesi = 「（王に）放たせた（捨てさせた）」
+
+→「調教師は馬を調教することができず、『大王よ、この馬は手に負えません』と言って、王にそれを捨てさせた。」
+
+6. Athekadivasaṃ eko assācariyapubbako daharo upajjhāyassa bhaṇḍakaṃ gahetvā gacchanto taṃ parikhāpiṭṭhe carantaṃ disvā – ‘‘anaggho, bhante, sindhavapotako’’ti upajjhāyassa kathesi.
+
+* atha ekadivasaṃ = 「さて、ある日」
+* eko assācariyapubbako daharo = 「元は馬の調教師であったある若者（沙弥）が」
+* upajjhāyassa = 「和尚（師匠）の」
+* bhaṇḍakaṃ = 「持ち物を」
+* gahetvā gacchanto = 「持って歩きながら」
+* taṃ = 「それ（その馬）が」
+* parikhāpiṭṭhe = 「堀のほとり（土手）を」
+* carantaṃ = 「歩き回っているのを」
+* disvā = 「見て」
+* anaggho, bhante, sindhavapotako ti = 「『尊者よ、計り知れない価値のあるシンド馬の仔です』と」
+* upajjhāyassa kathesi = 「和尚に語った」
+
+→「さてある日、元は馬の調教師であったある若者（沙弥）が、和尚の持ち物を持って歩いていたとき、その馬が堀の土手を歩き回っているのを見て、『尊者よ、計り知れない価値のあるシンド馬の仔です』と和尚に語った。」
+
+7. Sace rājā jāneyya, maṅgalassaṃ naṃ kareyyāti.
+
+* sace rājā jāneyya = 「もし王が知れば」
+* maṅgalassaṃ = 「吉祥の馬（王の乗馬）に」
+* naṃ = 「これを」
+* kareyyā ti = 「するでしょう、と」
+
+→「『もし王が知れば、これを王の吉祥の馬とするでしょう』と。」
+
+8. Thero āha – ‘‘micchādiṭṭhiko, tāta, rājā appeva nāma buddhasāsane pasīdeyya rañño kathehī’’ti.
+
+* thero āha = 「長老は言った」
+* micchādiṭṭhiko, tāta, rājā = 「『若者よ、王は邪見の者である」
+* appeva nāma = 「ひょっとすると」
+* buddhasāsane = 「仏陀の教えに」
+* pasīdeyya = 「信心を起こすかもしれない」
+* rañño kathehī ti = 「王に話しなさい』と」
+
+→「長老は言った。『若者よ、王は邪見の者である。ひょっとすると仏陀の教えに信心を起こすかもしれないから、王に話しなさい』と。」
+
+9. So gantvā, – ‘‘mahārāja, anaggho sindhavapotako atthī’’ti kathesi.
+
+* so gantvā = 「彼は（王のもとへ）行き」
+* mahārāja = 「『大王よ」
+* anaggho = 「計り知れない価値のある」
+* sindhavapotako atthī ti = 「シンド馬の仔がいます』と」
+* kathesi = 「語った」
+
+→「彼は王のもとへ行き、『大王よ、計り知れない価値のあるシンド馬の仔がいます』と語った。」
+
+10. Tayā diṭṭho, tātāti? Āma, mahārājāti.
+
+* tayā diṭṭho = 「お前によって見られたのか（お前が見たのか）」
+* tātā ti = 「若者よ、と」
+* āma = 「はい」
+* mahārājā ti = 「大王よ、と」
+
+→「『若者よ、お前が見たのか？』『はい、大王よ』と。」
+
+11. Kiṃ laddhuṃ vaṭṭatīti?
+
+* kiṃ = 「何を」
+* laddhuṃ = 「得ることが」
+* vaṭṭatī ti = 「ふさわしいか（必要か）、と」
+
+→「『何が必要か？』と（王は尋ねた）。」
+
+12. Tumhākaṃ bhuñjanakasuvaṇṇathāle tumhākaṃ bhuñjanakabhattaṃ tumhākaṃ pivanakaraso tumhākaṃ gandhā tumhākaṃ mālāti.
+
+* tumhākaṃ = 「あなた（王）の」
+* bhuñjanakasuvaṇṇathāle = 「食事用の金の皿に」
+* tumhākaṃ bhuñjanakabhattaṃ = 「あなたが食べる食事と」
+* tumhākaṃ pivanakaraso = 「あなたが飲む飲み物（スープ）と」
+* tumhākaṃ gandhā = 「あなたの香と」
+* tumhākaṃ mālā ti = 「あなたの花輪です、と」
+
+→「『王の食事用の金の皿に盛られた王の食事、王の飲み物、王の香、王の花輪です』と。」
+
+13. Rājā sabbaṃ dāpesi. Daharo gāhāpetvā agamāsi.
+
+* rājā sabbaṃ dāpesi = 「王はすべてを与えさせた」
+* daharo = 「若者は」
+* gāhāpetvā = 「それらを持たせて」
+* agamāsi = 「行った」
+
+→「王はそれらすべてを与えさせた。若者はそれらを持たせて向かった。」
+
+14. Asso gandhaṃ ghāyitvāva ‘‘mayhaṃ guṇajānanakaācariyo atthi maññe’’ti sīsaṃ ukkhipitvā olokento aṭṭhāsi.
+
+* asso = 「馬は」
+* gandhaṃ = 「香を」
+* ghāyitvā eva = 「嗅ぐやいなや」
+* mayhaṃ = 「私の」
+* guṇajānanaka-ācariyo = 「価値を知る調教師が」
+* atthi maññe ti = 「いるに違いないと考え」
+* sīsaṃ ukkhipitvā = 「頭を上げて」
+* olokento = 「見回しながら」
+* aṭṭhāsi = 「立った」
+
+→「馬は香を嗅ぐやいなや、『私の価値を知る調教師が現れたに違いない』と考え、頭を上げて見回しながら立った。」
+
+15. Daharo gantvā ‘‘bhattaṃ bhuñjā’’ti accharaṃ pahari.
+
+* daharo gantvā = 「若者は近づき」
+* bhattaṃ bhuñjā ti = 「『食事を食べなさい』と」
+* accharaṃ pahari = 「指を鳴らした（合図した）」
+
+→「若者は近づき、『食事を食べなさい』と指を鳴らして合図した。」
+
+16. Asso āgantvā suvaṇṇathāle bhattaṃ bhuñji, rasaṃ pivi.
+
+* asso āgantvā = 「馬はやって来て」
+* suvaṇṇathāle = 「金の皿の」
+* bhattaṃ bhuñji = 「食事を食べ」
+* rasaṃ pivi = 「飲み物を飲んだ」
+
+→「馬はやって来て、金の皿の食事を食べ、飲み物を飲んだ。」
+
+17. Atha naṃ gandhehi vilimpitvā rājapiḷandhanaṃ piḷandhitvā ‘‘purato purato gacchā’’ti accharaṃ pahari.
+
+* atha = 「それから」
+* naṃ = 「それ（馬）に」
+* gandhehi vilimpitvā = 「香を塗って」
+* rājapiḷandhanaṃ piḷandhitvā = 「王の装身具（馬具）を着けて」
+* purato purato gacchā ti = 「『まっすぐ前に進め』と」
+* accharaṃ pahari = 「指を鳴らした」
+
+→「それから馬に香を塗り、王の装身具を着け、『まっすぐ前に進め』と指を鳴らした。」
+
+18. So daharassa purato purato gantvā maṅgalassaṭṭhāne aṭṭhāsi.
+
+* so = 「それ（馬）は」
+* daharassa = 「若者の」
+* purato purato gantvā = 「まっすぐ前へと進んで」
+* maṅgalassaṭṭhāne = 「吉祥の馬の定位置に」
+* aṭṭhāsi = 「立った」
+
+→「馬は若者の前を真っ直ぐに進み、王の吉祥の馬の定位置に立った。」
+
+19. Daharo – ‘‘ayaṃ te, mahārāja, anaggho sindhavapotako, imināva naṃ niyāmena katipāhaṃ paṭijaggāpehī’’ti vatvā nikkhami.
+
+* daharo = 「若者は（言った）」
+* ayaṃ te, mahārāja = 「『大王よ、これがあなたの」
+* anaggho sindhavapotako = 「計り知れない価値のあるシンド馬の仔です」
+* iminā eva niyāmena = 「まさにこの方法で」
+* naṃ = 「これを」
+* katipāhaṃ = 「数日の間」
+* paṭijaggāpehī ti = 「世話をさせなさい』と」
+* vatvā nikkhami = 「言って立ち去った」
+
+→「若者は、『大王よ、これがあなたの計り知れない価値をもつシンド馬の仔です。数日の間、まさにこの方法で世話をさせなさい』と言って立ち去った。」
+
+## 147 (3)
+
+Atha katipāhassa accayena āgantvā assassa ānubhāvaṃ passissasi, mahārājāti. Sādhu ācariya kuhiṃ ṭhatvā passāmāti? Uyyānaṃ gaccha, mahārājāti. Rājā assaṃ gāhāpetvā agamāsi. Daharo accharaṃ paharitvā ‘‘etaṃ rukkhaṃ anupariyāhī’’ti assassa saññaṃ adāsi. Asso pakkhanditvā rukkhaṃ anuparigantvā āgato. Rājā neva gacchantaṃ na āgacchantaṃ addasa. Diṭṭho te, mahārājāti? Na diṭṭho, tātāti. Valañjakadaṇḍaṃ etaṃ rukkhaṃ nissāya ṭhapethāti vatvā accharaṃ pahari ‘‘valañjakadaṇḍaṃ gahetvā ehī’’ti. Asso pakkhanditvā mukhena gahetvā āgato. Diṭṭhaṃ, mahārājāti. Diṭṭhaṃ, tātāti.
+
+Puna accharaṃ pahari ‘‘uyyānassa pākāramatthakena caritvā ehī’’ti. Asso tathā akāsi. Diṭṭho, mahārājāti. Na diṭṭho, tātāti. Rattakambalaṃ āharāpetvā assassa pāde bandhāpetvā tatheva saññaṃ adāsi. Asso ullaṅghitvā pākāramatthakena anupariyāyi. Balavatā purisena āviñchanaalātaggisikhā viya uyyānapākāramatthake paññāyittha. Asso gantvā samīpe ṭhito. Diṭṭhaṃ, mahārājāti. Diṭṭhaṃ, tātāti. Maṅgalapokkharaṇipākāramatthake anupariyāhīti saññaṃ adāsi.
+
+Puna ‘‘pokkharaṇiṃ otaritvā padumapattesu cārikaṃ carāhī’’ti saññaṃ adāsi. Pokkharaṇiṃ otaritvā sabbapadumapatte caritvā agamāsi, ekaṃ pattampi anakkantaṃ vā phālitaṃ vā chinditaṃ vā khaṇḍitaṃ vā nāhosi. Diṭṭhaṃ, mahārājāti. Diṭṭhaṃ, tātāti. Accharaṃ paharitvā taṃ hatthatalaṃ upanāmesi. Dhātūpatthaddho laṅghitvā hatthatale aṭṭhāsi. Diṭṭhaṃ, mahārājāti? Diṭṭhaṃ, tātāti. Evaṃ uttamahayo eva uttamakāraṇāya uttamajavaṃ paṭipajjati.
+
+### Gemini
+
+- 2026/04/14
+- gemini-3.1-pro-preview
+
+### 対訳
+
+1. Atha katipāhassa accayena āgantvā assassa ānubhāvaṃ passissasi, mahārājāti.
+
+* atha = 「そして」
+* katipāhassa accayena = 「数日経過した後に」
+* āgantvā = 「来て」
+* assassa = 「馬の」
+* ānubhāvaṃ = 「能力（すばらしさ）を」
+* passissasi = 「見るでしょう」
+* mahārājā ti = 「大王よ、と（若者は言った）」
+
+→「『そして数日経った後においでになれば、馬のすばらしさをご覧になるでしょう、大王よ』と。」
+
+2. Sādhu ācariya kuhiṃ ṭhatvā passāmāti?
+
+* sādhu = 「よろしい」
+* ācariya = 「先生（調教師）よ」
+* kuhiṃ ṭhatvā = 「どこに立って」
+* passāmā ti = 「見ようか、と」
+
+→「『よろしい、先生よ。どこに立って見ようか？』と。」
+
+3. Uyyānaṃ gaccha, mahārājāti.
+
+* uyyānaṃ = 「庭園に」
+* gaccha = 「行きなさい」
+* mahārājā ti = 「大王よ、と」
+
+→「『庭園へ行きなさい、大王よ』と。」
+
+4. Rājā assaṃ gāhāpetvā agamāsi.
+
+* rājā = 「王は」
+* assaṃ = 「馬を」
+* gāhāpetvā = 「連れさせて」
+* agamāsi = 「（庭園へ）行った」
+
+→「王は馬を連れさせて庭園へ行った。」
+
+5. Daharo accharaṃ paharitvā ‘‘etaṃ rukkhaṃ anupariyāhī’’ti assassa saññaṃ adāsi.
+
+* daharo = 「若者は」
+* accharaṃ paharitvā = 「指を鳴らして」
+* etaṃ rukkhaṃ = 「この木の」
+* anupariyāhī ti = 「周囲を回れ、と」
+* assassa = 「馬に」
+* saññaṃ adāsi = 「合図を与えた」
+
+→「若者は指を鳴らし、『この木の周囲を回れ』と馬に合図を与えた。」
+
+6. Asso pakkhanditvā rukkhaṃ anuparigantvā āgato.
+
+* asso = 「馬は」
+* pakkhanditvā = 「駆け出して」
+* rukkhaṃ anuparigantvā = 「木の周囲を回って」
+* āgato = 「戻ってきた」
+
+→「馬は駆け出して、木の周囲を回って戻ってきた。」
+
+7. Rājā neva gacchantaṃ na āgacchantaṃ addasa.
+
+* rājā = 「王は」
+* na eva gacchantaṃ = 「（馬が）去っていくのも」
+* na āgacchantaṃ = 「戻ってくるのも」
+* addasa = 「見えなかった」
+
+→「（速すぎて）王には、馬が去っていくのも戻ってくるのも見えなかった。」
+
+8. Diṭṭho te, mahārājāti?
+
+* diṭṭho = 「見えましたか」
+* te = 「あなたに」
+* mahārājā ti = 「大王よ、と」
+
+→「『大王よ、あなたに見えましたか？』と。」
+
+9. Na diṭṭho, tātāti.
+
+* na diṭṭho = 「見えなかった」
+* tātā ti = 「若者よ、と」
+
+→「『見えなかった、若者よ』と。」
+
+10. Valañjakadaṇḍaṃ etaṃ rukkhaṃ nissāya ṭhapethāti vatvā accharaṃ pahari ‘‘valañjakadaṇḍaṃ gahetvā ehī’’ti.
+
+* valañjakadaṇḍaṃ = 「（あなたが）お持ちの杖を」
+* etaṃ rukkhaṃ nissāya = 「この木に立て掛けて」
+* ṭhapethā ti = 「置きなさい、と」
+* vatvā = 「言って」
+* accharaṃ pahari = 「指を鳴らした」
+* valañjakadaṇḍaṃ gahetvā ehī ti = 「『その杖を取って来い』と」
+
+→「『お持ちの杖をこの木に立て掛けて置きなさい』と言ってから、『その杖を取って来い』と指を鳴らした。」
+
+11. Asso pakkhanditvā mukhena gahetvā āgato.
+
+* asso = 「馬は」
+* pakkhanditvā = 「駆け出して」
+* mukhena gahetvā = 「口にくわえて」
+* āgato = 「戻ってきた」
+
+→「馬は駆け出して、口に杖をくわえて戻ってきた。」
+
+12. Diṭṭhaṃ, mahārājāti. Diṭṭhaṃ, tātāti.
+
+* diṭṭhaṃ = 「見えましたか」
+* mahārājā ti = 「大王よ、と」
+* diṭṭhaṃ = 「見えた」
+* tātā ti = 「若者よ、と」
+
+→「『見えましたか、大王よ』『見えた、若者よ』と。」
+
+13. Puna accharaṃ pahari ‘‘uyyānassa pākāramatthakena caritvā ehī’’ti.
+
+* puna = 「再び」
+* accharaṃ pahari = 「指を鳴らした」
+* uyyānassa pākāramatthakena = 「庭園の壁（塀）の上を」
+* caritvā ehī ti = 「走って戻ってこい、と」
+
+→「再び指を鳴らして、『庭園の壁の上を走って戻ってこい』と（合図した）。」
+
+14. Asso tathā akāsi.
+
+* asso = 「馬は」
+* tathā akāsi = 「そのようにした」
+
+→「馬はそのようにした。」
+
+15. Diṭṭho, mahārājāti. Na diṭṭho, tātāti.
+
+* diṭṭho = 「見えましたか」
+* mahārājā ti = 「大王よ、と」
+* na diṭṭho = 「見えなかった」
+* tātā ti = 「若者よ、と」
+
+→「『見えましたか、大王よ』『見えなかった、若者よ』と。」
+
+16. Rattakambalaṃ āharāpetvā assassa pāde bandhāpetvā tatheva saññaṃ adāsi.
+
+* rattakambalaṃ = 「赤い布（毛布）を」
+* āharāpetvā = 「持って来させて」
+* assassa pāde = 「馬の足に」
+* bandhāpetvā = 「結びつけさせて」
+* tathā eva = 「まさにそのように（同様に）」
+* saññaṃ adāsi = 「合図を与えた」
+
+→「赤い布を持って来させ、馬の足に結びつけさせてから、同様に合図を与えた。」
+
+17. Asso ullaṅghitvā pākāramatthakena anupariyāyi.
+
+* asso = 「馬は」
+* ullaṅghitvā = 「跳ね上がって」
+* pākāramatthakena = 「壁の上を」
+* anupariyāyi = 「走り回った」
+
+→「馬は跳ね上がり、壁の上を走り回った。」
+
+18. Balavatā purisena āviñchanaalātaggisikhā viya uyyānapākāramatthake paññāyittha.
+
+* balavatā purisena = 「力強い男によって」
+* āviñchana-alāta-aggi-sikhā = 「振り回された松明の炎のように」
+* viya = 「～のように」
+* uyyānapākāramatthake = 「庭園の壁の上に」
+* paññāyittha = 「現れた（見えた）」
+
+→「力強い男が振り回す松明の炎（炎の輪）のように、庭園の壁の上に見えた。」
+
+19. Asso gantvā samīpe ṭhito.
+
+* asso = 「馬は」
+* gantvā = 「走ってきて」
+* samīpe = 「近くに」
+* ṭhito = 「立った」
+
+→「馬は走ってきて、近くに立った。」
+
+20. Diṭṭhaṃ, mahārājāti. Diṭṭhaṃ, tātāti.
+
+* diṭṭhaṃ = 「見えましたか」
+* mahārājā ti = 「大王よ、と」
+* diṭṭhaṃ = 「見えた」
+* tātā ti = 「若者よ、と」
+
+→「『見えましたか、大王よ』『見えた、若者よ』と。」
+
+21. Maṅgalapokkharaṇipākāramatthake anupariyāhīti saññaṃ adāsi.
+
+* maṅgala-pokkharaṇi-pākāra-matthake = 「吉祥の蓮池の壁の上を」
+* anupariyāhī ti = 「回れ、と」
+* saññaṃ adāsi = 「合図を与えた」
+
+→「『吉祥の蓮池の壁の上を回れ』と合図を与えた。」
+
+22. Puna ‘‘pokkharaṇiṃ otaritvā padumapattesu cārikaṃ carāhī’’ti saññaṃ adāsi.
+
+* puna = 「再び」
+* pokkharaṇiṃ otaritvā = 「蓮池に降りて」
+* padumapattesu = 「蓮の葉の上を」
+* cārikaṃ carāhī ti = 「歩き回れ、と」
+* saññaṃ adāsi = 「合図を与えた」
+
+→「再び、『蓮池に降りて、蓮の葉の上を歩き回れ』と合図を与えた。」
+
+23. Pokkharaṇiṃ otaritvā sabbapadumapatte caritvā agamāsi, ekaṃ pattampi anakkantaṃ vā phālitaṃ vā chinditaṃ vā khaṇḍitaṃ vā nāhosi.
+
+* pokkharaṇiṃ otaritvā = 「蓮池に降りて」
+* sabbapadumapatte = 「すべての蓮の葉の上を」
+* caritvā agamāsi = 「歩き回った（が）」
+* ekaṃ pattam pi = 「一枚の葉さえも」
+* anakkantaṃ vā = 「踏み沈められたり」
+* phālitaṃ vā = 「裂けたり」
+* chinditaṃ vā = 「切れたり」
+* khaṇḍitaṃ vā = 「砕けたり」
+* na ahosi = 「しなかった」
+
+→「蓮池に降りて、すべての蓮の葉の上を歩き回ったが、一枚の葉さえも、踏み沈められたり、裂けたり、切れたり、砕けたりしなかった。」
+
+24. Diṭṭhaṃ, mahārājāti. Diṭṭhaṃ, tātāti.
+
+* diṭṭhaṃ = 「見えましたか」
+* mahārājā ti = 「大王よ、と」
+* diṭṭhaṃ = 「見えた」
+* tātā ti = 「若者よ、と」
+
+→「『見えましたか、大王よ』『見えた、若者よ』と。」
+
+25. Accharaṃ paharitvā taṃ hatthatalaṃ upanāmesi.
+
+* accharaṃ paharitvā = 「指を鳴らして」
+* taṃ hatthatalaṃ = 「その手のひらを」
+* upanāmesi = 「差し出した」
+
+→「指を鳴らして、手のひらを（馬に）差し出した。」
+
+26. Dhātūpatthaddho laṅghitvā hatthatale aṭṭhāsi.
+
+* dhātūpatthaddho = 「気力を奮い起こして」
+* laṅghitvā = 「跳ね上がり」
+* hatthatale = 「手のひらの上に」
+* aṭṭhāsi = 「立った」
+
+→「馬は気力を奮い起こして跳ね上がり、手のひらの上に立った。」
+
+27. Diṭṭhaṃ, mahārājāti? Diṭṭhaṃ, tātāti.
+
+* diṭṭhaṃ = 「見えましたか」
+* mahārājā ti = 「大王よ、と」
+* diṭṭhaṃ = 「見えた」
+* tātā ti = 「若者よ、と」
+
+→「『見えましたか、大王よ』『見えた、若者よ』と。」
+
+28. Evaṃ uttamahayo eva uttamakāraṇāya uttamajavaṃ paṭipajjati.
+
+* evaṃ = 「このように」
+* uttamahayo eva = 「最高の馬だけが」
+* uttamakāraṇāya = 「最高の訓練によって」
+* uttamajavaṃ = 「最高の速力（能力）を」
+* paṭipajjati = 「達成する（得る）」
+
+→「このように、最高の馬だけが最高の訓練によって最高の速力を達成するのである。」
+
+## 147 (4)
+
+Uttame sākhalyeti muduvācāya. Muduvācāya hi, ‘‘tāta, tvaṃ mā cintayi, rañño maṅgalasso bhavissasi, rājabhojanādīni labhissasī’’ti uttamahayakāraṇaṃ kāretabbo. Tena vuttaṃ ‘‘uttame sākhalye’’ti. Rājabhoggoti rañño upabhogo. Rañño aṅganteva saṅkhaṃ gacchatīti yattha katthaci gacchantena hatthaṃ viya pādaṃ viya anohāyeva gantabbaṃ hoti. Tasmā aṅganti saṅkhaṃ gacchati, catūsu vā senaṅgesu ekaṃ aṅgaṃ hoti.
+
+Asekhāya sammādiṭṭhiyāti arahattaphalasammādiṭṭhiyā. Sammāsaṅkappādayopi taṃsampayuttāva. Sammāñāṇaṃ pubbe vuttasammādiṭṭhiyeva. Ṭhapetvā pana aṭṭha phalaṅgāni sesā dhammā vimuttīti veditabbā. Sesaṃ sabbattha uttānameva. Ayaṃ pana desanā ugghaṭitaññūpuggalassa vasena arahattanikūṭaṃ gahetvā niṭṭhāpitāti.
+
+Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
+
+Bhaddālisuttavaṇṇanā niṭṭhitā.
+
+### Gemini
+
+- 2026/04/14
+- gemini-3.1-pro-preview
+
+### 対訳
+
+1. Uttame sākhalyeti muduvācāya.
+
+* Uttame sākhalye ti = 「『最高の柔和さにおいて』とは」
+* muduvācāya = 「柔らかい言葉によって（である）」
+
+→「『最高の柔和さにおいて』とは、柔らかい言葉によって、という意味である。」
+
+2. Muduvācāya hi, ‘‘tāta, tvaṃ mā cintayi, rañño maṅgalasso bhavissasi, rājabhojanādīni labhissasī’’ti uttamahayakāraṇaṃ kāretabbo.
+
+* muduvācāya hi = 「というのも、柔らかい言葉によって」
+* tāta = 「坊や（親愛なる者よ）」
+* tvaṃ mā cintayi = 「お前は心配するな」
+* rañño maṅgalasso = 「王の吉祥の馬と」
+* bhavissasi = 「なるだろう」
+* rājabhojanādīni = 「王の食事などを」
+* labhissasī ti = 「得るだろう、と（言って）」
+* uttamahayakāraṇaṃ = 「最高の馬の訓練が」
+* kāretabbo = 「受けさせられるべきである」
+
+→「というのも、柔らかい言葉で『坊や、心配するな。お前は王の吉祥の馬となり、王の食事などを得るだろう』と言って、最高の馬の訓練を受けさせるべきだからである。」
+
+3. Tena vuttaṃ ‘‘uttame sākhalye’’ti.
+
+* tena = 「それゆえに」
+* vuttaṃ = 「説かれた」
+* uttame sākhalye ti = 「『最高の柔和さにおいて』と」
+
+→「それゆえに、『最高の柔和さにおいて』と説かれたのである。」
+
+4. Rājabhoggoti rañño upabhogo.
+
+* Rājabhoggo ti = 「『王の財産（王の用いるべきもの）』とは」
+* rañño upabhogo = 「王の利用物（用いるべきもの）」
+
+→「『王の財産』とは、王の利用物（用いるべきもの）という意味である。」
+
+5. Rañño aṅganteva saṅkhaṃ gacchatīti yattha katthaci gacchantena hatthaṃ viya pādaṃ viya anohāyeva gantabbaṃ hoti.
+
+* Rañño aṅgaṃ ti eva = 「『王の一部であると』」
+* saṅkhaṃ gacchatī ti = 「『みなされる』とは」
+* yattha katthaci = 「どこであれ」
+* gacchantena = 「行く者（王）によって」
+* hatthaṃ viya = 「手のように」
+* pādaṃ viya = 「足のように」
+* anohāya eva = 「置いていくことなく（手放すことなく）」
+* gantabbaṃ hoti = 「行かれるべきものとなる」
+
+→「『王の一部であるとみなされる』とは、王がどこへ行くにしても、手や足のように手放すことなく連れて行かれるべきものとなる、という意味である。」
+
+6. Tasmā aṅganti saṅkhaṃ gacchati, catūsu vā senaṅgesu ekaṃ aṅgaṃ hoti.
+
+* tasmā = 「それゆえに」
+* aṅgaṃ ti saṅkhaṃ gacchati = 「一部であるとみなされる」
+* catūsu vā senaṅgesu = 「あるいは、四つの軍隊の要素（象・馬・車・歩兵）の中で」
+* ekaṃ aṅgaṃ hoti = 「一つの要素となる」
+
+→「それゆえに一部であるとみなされる。あるいは、四つの軍隊の要素の中で一つの要素となる（からである）。」
+
+7. Asekhāya sammādiṭṭhiyāti arahattaphalasammādiṭṭhiyā.
+
+* Asekhāya sammādiṭṭhiyā ti = 「『無学の正見によって』とは」
+* arahattaphala-sammādiṭṭhiyā = 「阿羅漢果の正見によって」
+
+→「『無学の正見によって』とは、阿羅漢果の正見によって、という意味である。」
+
+8. Sammāsaṅkappādayopi taṃsampayuttāva.
+
+* Sammāsaṅkappādayo pi = 「正思惟などもまた」
+* taṃ-sampayuttā eva = 「それ（阿羅漢果の心）に相応したものに他ならない」
+
+→「正思惟などもまた、それに相応したものに他ならない。」
+
+9. Sammāñāṇaṃ pubbe vuttasammādiṭṭhiyeva.
+
+* Sammāñāṇaṃ = 「正智とは」
+* pubbe = 「先に」
+* vutta-sammādiṭṭhi eva = 「説かれた正見そのものである」
+
+→「正智とは、先に説かれた正見そのものである。」
+
+10. Ṭhapetvā pana aṭṭha phalaṅgāni sesā dhammā vimuttīti veditabbā.
+
+* ṭhapetvā pana = 「しかし～を除いて」
+* aṭṭha phalaṅgāni = 「8つの果の要素（八正道）を」
+* sesā dhammā = 「残りの法が」
+* vimuttī ti = 「解脱であると」
+* veditabbā = 「知られるべきである」
+
+→「しかし、8つの果の要素（八正道）を除いた残りの法が『解脱』であると知るべきである。」
+
+11. Sesaṃ sabbattha uttānameva.
+
+* sesaṃ = 「残り（の部分）は」
+* sabbattha = 「全てにおいて」
+* uttānaṃ eva = 「明白である」
+
+→「残りの部分は、全てにおいて明白である。」
+
+12. Ayaṃ pana desanā ugghaṭitaññūpuggalassa vasena arahattanikūṭaṃ gahetvā niṭṭhāpitāti.
+
+* ayaṃ pana desanā = 「しかし、この教説は」
+* ugghaṭitaññū-puggalassa = 「略説を理解する者（機根の鋭い者）の」
+* vasena = 「観点から」
+* arahatta-nikūṭaṃ = 「阿羅漢という頂点を」
+* gahetvā = 「取って（到達して）」
+* niṭṭhāpitā ti = 「完結させられたのである」
+
+→「しかし、この教説は、略説を理解する者の観点から、阿羅漢という頂点に到達して完結させられたのである。」
+
+13. Papañcasūdaniyā majjhimanikāyaṭṭhakathāya Bhaddālisuttavaṇṇanā niṭṭhitā.
+
+* Papañcasūdaniyā = 「『パパンチャスーダニー』（という）」
+* majjhimanikāya-aṭṭhakathāya = 「中部経典註釈の」
+* Bhaddālisutta-vaṇṇanā = 「バッダーリ経の解説が」
+* niṭṭhitā = 「終わった」
+
+→「中部経典註釈『パパンチャスーダニー』における、バッダーリ経の解説が終わった。」
