@@ -16,6 +16,12 @@ Chattha Sangayana Tipitaka を使用しています.
 - クレジット: Vipassana Research Institute (https://www.tipitaka.org/)
 
 ## システムプロンプト
+
 - system_prompt.md (意訳あり)
 - system_prompt_no_paraphrase.md (意訳なし)
 	- 意訳を出力しないことでトークン消費量と出力のボリュームを抑える
+
+## ディレクトリ構成
+
+- mn 中部経典 (Majjhima-nikāya)
+- dhammapada 小部経典 ダンマパダ (Khuddaka-nikāya, Dhammapada)
