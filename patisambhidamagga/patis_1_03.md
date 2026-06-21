@@ -1,4 +1,280 @@
 
+## 164
+
+164.Idhāti imissā diṭṭhiyā, imissā khantiyā, imissā ruciyā, imasmiṃ ādāye, imasmiṃ dhamme, imasmiṃ vinaye, imasmiṃ dhammavinaye, imasmiṃ pāvacane, imasmiṃ brahmacariye, imasmiṃ satthusāsane. Tena vuccati – ‘‘idhā’’ti. Bhikkhūti puthujjanakalyāṇako vā hoti bhikkhu sekkho vā arahā vā akuppadhammo. Araññanti nikkhamitvā bahi indakhīlā sabbametaṃ araññaṃ. Rukkhamūlanti yattha bhikkhuno āsanaṃ paññattaṃ hoti mañco vā pīṭhaṃ vā bhisi vā taṭṭikā vā cammakhaṇḍo vā tiṇasantharo [tiṇasaṇṭharo (syā.)] vā paṇṇasantharo vā palālasantharo [palāsasaṇṭharo (syā.)] vā, tattha bhikkhu caṅkamati vā tiṭṭhati vā nisīdati vā seyyaṃ vā kappeti. Suññanti kenaci anākiṇṇaṃ hoti gahaṭṭhehi vā pabbajitehi vā. Agāranti [āgāranti (syā.)] vihāro aḍḍhayogo pāsādo hammiyaṃ guhā. Nisīdati pallaṅkaṃ ābhujitvāti nisinno hoti pallaṅkaṃ ābhujitvā . Ujuṃ kāyaṃ paṇidhāyāti ujuko hoti kāyo ṭhito [panidhito (syā.)] supaṇihito. Parimukhaṃ satiṃ upaṭṭhapetvāti. Parīti pariggahaṭṭho. Mukhanti niyyānaṭṭho. Satīti upaṭṭhānaṭṭho. Tena vuccati – ‘‘parimukhaṃ satiṃ upaṭṭhapetvā’’ti.
+
+### Gemini
+
+- 2026/06/21
+- gemini-3.1-pro-preview
+
+### 対訳
+
+1. 164. Idhāti imissā diṭṭhiyā, imissā khantiyā, imissā ruciyā, imasmiṃ ādāye, imasmiṃ dhamme, imasmiṃ vinaye, imasmiṃ dhammavinaye, imasmiṃ pāvacane, imasmiṃ brahmacariye, imasmiṃ satthusāsane. Tena vuccati – ‘‘idhā’’ti.
+
+* 164. Idhā ti = 164. 「『ここに（idha）』とは」
+* imissā diṭṭhiyā = 「この見解において」
+* imissā khantiyā = 「この忍（信受）において」
+* imissā ruciyā = 「この意向において」
+* imasmiṃ ādāye = 「この所持（受け入れた教え）において」
+* imasmiṃ dhamme = 「この法において」
+* imasmiṃ vinaye = 「この律において」
+* imasmiṃ dhammavinaye = 「この法と律において」
+* imasmiṃ pāvacane = 「この教説において」
+* imasmiṃ brahmacariye = 「この梵行（清浄行）において」
+* imasmiṃ satthu-sāsane = 「この師（ブッダ）の教えにおいて」
+* Tena vuccati = 「したがって、～と言われる」
+* ‘‘idhā’’ti = 「『ここに』と」
+
+→ 「164. 『ここに』とは、この見解において、この忍において、この意向において、この所持において、この法において、この律において、この法と律において、この教説において、この梵行において、この師の教えにおいて、という意味である。したがって『ここに』と言われる。」
+
+2. Bhikkhūti puthujjanakalyāṇako vā hoti bhikkhu sekkho vā arahā vā akuppadhammo.
+
+* Bhikkhū ti = 「『比丘』とは」
+* puthujjana-kalyāṇako vā = 「善き凡夫であるか」
+* hoti = 「である」
+* bhikkhu = 「比丘が」
+* sekkho vā = 「有学（聖者）であるか」
+* arahā vā = 「阿羅漢であるか」
+* akuppa-dhammo = 「揺るぎない法を持つ者（である）」
+
+→ 「『比丘』とは、善き凡夫の比丘であるか、有学（の聖者）であるか、あるいは揺るぎない法を持つ阿羅漢である。」
+
+3. Araññanti nikkhamitvā bahi indakhīlā sabbametaṃ araññaṃ.
+
+* Araññan ti = 「『森』とは」
+* nikkhamitvā = 「出て」
+* bahi = 「外に」
+* inda-khīlā = 「門柱（村の境界を示す柱）から」
+* sabbaṃ etaṃ = 「これらすべてが」
+* araññaṃ = 「森である」
+
+→ 「『森』とは、門柱（村の境界）から外へ出た、これらすべてが森である。」
+
+4. Rukkhamūlanti yattha bhikkhuno āsanaṃ paññattaṃ hoti mañco vā pīṭhaṃ vā bhisi vā taṭṭikā vā cammakhaṇḍo vā tiṇasantharo [tiṇasaṇṭharo (syā.)] vā paṇṇasantharo vā palālasantharo [palāsasaṇṭharo (syā.)] vā, tattha bhikkhu caṅkamati vā tiṭṭhati vā nisīdati vā seyyaṃ vā kappeti.
+
+* Rukkha-mūlan ti = 「『樹下』とは」
+* yattha = 「そこで」
+* bhikkhuno = 「比丘の」
+* āsanaṃ = 「座席が」
+* paññattaṃ hoti = 「設けられている（施設されている）」
+* mañco vā = 「寝台、または」
+* pīṭhaṃ vā = 「椅子、または」
+* bhisi vā = 「クッション（丸い敷物）、または」
+* taṭṭikā vā = 「ござ（編んだ敷物）、または」
+* camma-khaṇḍo vā = 「皮の切れ端（敷皮）、または」
+* tiṇa-santharo [tiṇasaṇṭharo (syā.)] vā = 「草の敷物、または」
+* paṇṇa-santharo vā = 「葉の敷物、または」
+* palāla-santharo [palāsasaṇṭharo (syā.)] vā = 「わらの敷物」
+* tattha = 「そこに」
+* bhikkhu = 「比丘が」
+* caṅkamati vā = 「経行する、または」
+* tiṭṭhati vā = 「立つ、または」
+* nisīdati vā = 「座る、または」
+* seyyaṃ vā kappeti = 「臥す（横たわる）ことをなす」
+
+→ 「『樹下』とは、そこに比丘の座席が設けられており、寝台、椅子、クッション、ござ、敷皮、草の敷物、葉の敷物、あるいは、わらの敷物があり、そこに比丘が経行するか、立つか、座るか、臥す場所のことである。」
+
+5. Suññanti kenaci anākiṇṇaṃ hoti gahaṭṭhehi vā pabbajitehi vā.
+
+* Suññan ti = 「『空（人気のない場所）』とは」
+* kenaci = 「誰によっても」
+* anākiṇṇaṃ = 「混雑していない（人がいない）」
+* hoti = 「状態である」
+* gahaṭṭhehi vā = 「在家者によって、または」
+* pabbajitehi vā = 「出家者によって」
+
+→ 「『空（人気のない場所）』とは、在家者であれ出家者であれ、誰によっても混雑していない（人がいない）状態のことである。」
+
+6. Agāranti [āgāranti (syā.)] vihāro aḍḍhayogo pāsādo hammiyaṃ guhā.
+
+* Agāran ti [āgāranti (syā.)] = 「『家（空き家の家）』とは」
+* vihāro = 「精舎（僧院）」
+* aḍḍhayogo = 「半妻屋根（片流れ屋根）の建物」
+* pāsādo = 「楼閣（多層建築）」
+* hammiyaṃ = 「殿堂（平らな屋根を持つ建物）」
+* guhā = 「洞窟」
+
+→ 「『家』とは、精舎、片流れ屋根の建物、楼閣、殿堂、洞窟のことである。」
+
+7. Nisīdati pallaṅkaṃ ābhujitvāti nisinno hoti pallaṅkaṃ ābhujitvā.
+
+* Nisīdati pallaṅkaṃ ābhujitvā ti = 「『結跏趺坐を組んで座る』とは」
+* nisinno hoti = 「座っている状態である」
+* pallaṅkaṃ ābhujitvā = 「結跏趺坐を組んで」
+
+→ 「『結跏趺坐を組んで座る』とは、結跏趺坐を組んで座っている状態のことである。」
+
+8. Ujuṃ kāyaṃ paṇidhāyāti ujuko hoti kāyo ṭhito [panidhito (syā.)] supaṇihito.
+
+* Ujuṃ kāyaṃ paṇidhāyā ti = 「『身体を真っ直ぐに保って』とは」
+* ujuko hoti = 「真っ直ぐである」
+* kāyo = 「身体が」
+* ṭhito [panidhito (syā.)] = 「立てられた」
+* supaṇihito = 「よく保たれた（正しく置かれた）」
+
+→ 「『身体を真っ直ぐに保って』とは、身体が真っ直ぐに立てられ、よく保たれていることである。」
+
+9. Parimukhaṃ satiṃ upaṭṭhapetvāti.
+
+* Pari-mukhaṃ = 「前面（対象）に」
+* satiṃ = 「念を」
+* upaṭṭhapetvā ti = 「確立して、とは」
+
+→ 「『前面に念を確立して』とは。」
+
+10. Parīti pariggahaṭṭho. Mukhanti niyyānaṭṭho. Satīti upaṭṭhānaṭṭho. Tena vuccati – ‘‘parimukhaṃ satiṃ upaṭṭhapetvā’’ti.
+
+* Parī ti = 「『pari（周りに、遍く）』とは」
+* pariggaha-aṭṭho = 「把握の意味である」
+* Mukhan ti = 「『mukha（顔、前）』とは」
+* niyyāna-aṭṭho = 「出離（導き出し）の意味である」
+* Satī ti = 「『sati（念）』とは」
+* upaṭṭhāna-aṭṭho = 「現前（確立）の意味である」
+* Tena vuccati = 「したがって、～と言われる」
+* ‘‘parimukhaṃ satiṃ upaṭṭhapetvā’’ti = 「『前面に念を確立して』と」
+
+→ 「『pari』は把握の意味である。『mukha』は出離の意味である。『sati』は現前の意味である。したがって『前面に念を確立して』と言われる。」
+
+## 165
+
+165.Satova assasati, sato passasatīti bāttiṃsāya ākārehi sato kārī hoti. Dīghaṃ assāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti. Tāya satiyā tena ñāṇena sato kārī hoti. Dīghaṃ passāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti. Tāya satiyā tena ñāṇena sato kārī hoti. Rassaṃ assāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti. Tāya satiyā tena ñāṇena sato kārī hoti. Rassaṃ passāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti. Tāya satiyā tena ñāṇena sato kārī hoti…pe… paṭinissaggānupassī assāsavasena paṭinissaggānupassī passāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti. Tāya satiyā tena ñāṇena sato kārī hoti.
+
+### Gemini
+
+- 2026/06/20
+- gemini-3.1-pro-preview
+
+### 対訳
+
+1. 165. Satova assasati, sato passasatīti bāttiṃsāya ākārehi sato kārī hoti.
+
+* 165. = 段落番号165
+* satova (sato eva) = まさに気づきをもって
+* assasati = 息を吸う
+* sato = 気づきをもって
+* passasatīti (passasati iti) = 息を吐く、ということで
+* bāttiṃsāya = 32の
+* ākārehi = 行相（様相）によって
+* sato = 気づきを
+* kārī = 行なう者
+* hoti = となる
+
+→「165. 『まさに気づきをもって息を吸い、気づきをもって息を吐く』ということで、32の行相によって気づきを行なう者となる。」
+
+
+2. Dīghaṃ assāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti.
+
+* dīghaṃ = 長く
+* assāsavasena = 息を吸うことによって
+* cittassa = 心の
+* ekaggataṃ = 一境性（専一さ）を
+* avikkhepaṃ = 無散乱（乱れがないこと）を
+* pajānato = よく知る者に
+* sati = 気づき（念）が
+* upaṭṭhitā = 確立した（現前した）状態に
+* hoti = なる
+
+→「長く息を吸うことによって心の一境性と無散乱をよく知る者に、気づきが確立する。」
+
+
+3. Tāya satiyā tena ñāṇena sato kārī hoti.
+
+* tāya = その
+* satiyā = 気づきによって
+* tena = その
+* ñāṇena = 智（知識）によって
+* sato = 気づきを
+* kārī = 行なう者
+* hoti = となる
+
+→「その気づきによって、その智によって、気づきを行なう者となる。」
+
+
+4. Dīghaṃ passāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti.
+
+* dīghaṃ = 長く
+* passāsavasena = 息を吐くことによって
+* cittassa ekaggataṃ avikkhepaṃ = 心の一境性と無散乱を
+* pajānato sati upaṭṭhitā hoti = よく知る者に、気づきが確立する
+
+→「長く息を吐くことによって心の一境性と無散乱をよく知る者に、気づきが確立する。」
+
+
+5. Tāya satiyā tena ñāṇena sato kārī hoti.
+
+* tāya satiyā tena ñāṇena sato kārī hoti = その気づきによって、その智によって、気づきを行なう者となる
+
+→「その気づきによって、その智によって、気づきを行なう者となる。」
+
+
+6. Rassaṃ assāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti.
+
+* rassaṃ = 短く
+* assāsavasena = 息を吸うことによって
+* cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti = 心の一境性と無散乱をよく知る者に、気づきが確立する
+
+→「短く息を吸うことによって心の一境性と無散乱をよく知る者に、気づきが確立する。」
+
+
+7. Tāya satiyā tena ñāṇena sato kārī hoti.
+
+* tāya satiyā tena ñāṇena sato kārī hoti = その気づきによって、その智によって、気づきを行なう者となる
+
+→「その気づきによって、その智によって、気づきを行なう者となる。」
+
+
+8. Rassaṃ passāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti.
+
+* rassaṃ = 短く
+* passāsavasena = 息を吐くことによって
+* cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti = 心の一境性と無散乱をよく知る者に、気づきが確立する
+
+→「短く息を吐くことによって心の一境性と無散乱をよく知る者に、気づきが確立する。」
+
+
+9. Tāya satiyā tena ñāṇena sato kārī hoti…pe…
+
+* tāya satiyā tena ñāṇena sato kārī hoti = その気づきによって、その智によって、気づきを行なう者となる
+* pe (peyyāla) = （以下省略）
+
+→「その気づきによって、その智によって、気づきを行なう者となる…（中略）…」
+
+
+10. paṭinissaggānupassī assāsavasena paṭinissaggānupassī passāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti.
+
+* paṭinissaggānupassī = 捨遣（手放すこと）を随観しながら
+* assāsavasena = 息を吸うことによって
+* paṭinissaggānupassī = 捨遣を随観しながら
+* passāsavasena = 息を吐くことによって
+* cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti = 心の一境性と無散乱をよく知る者に、気づきが確立する
+
+→「捨遣を随観しながら息を吸うことによって、捨遣を随観しながら息を吐くことによって心の一境性と無散乱をよく知る者に、気づきが確立する。」
+
+
+11. Tāya satiyā tena ñāṇena sato kārī hoti.
+
+* tāya satiyā tena ñāṇena sato kārī hoti = その気づきによって、その智によって、気づきを行なう者となる
+
+→「その気づきによって、その智によって、気づきを行なう者となる。」
+
+## Paṭhamacatukkaniddeso
+
+### Gemini
+
+- 2026/06/20
+- gemini-3.1-pro-preview
+
+### 対訳
+
+1. Paṭhamacatukkaniddeso
+
+* paṭhama = 「第一の」
+* catukka = 「四法（四つの組）」
+* niddeso = 「解説、説明」
+
+→ 「第一の四法の解説」
+
 ## 166
 
 Paṭhamacatukkaniddeso
