@@ -1248,3 +1248,527 @@ Asāraddhamhi kāyamhi, sukhumaṃ sampavattatī’’ti. (pārā. aṭṭha. 2.
   * (pārā. aṭṭha. 2.165) = 「(『律・波羅夷註』2.165)」(典拠表示)
 
 → 「『身と心が焦燥しているとき、(身行は)過度に転起し、身が焦燥していないとき、(身行は)微細なものとして転起する』と。(『律蔵・波羅夷註』2.165)」
+
+## 221 (1)
+
+221. Pariggahepi oḷāriko, paṭhamajjhānupacāre sukhumo. Tasmimpi oḷāriko, paṭhamajjhāne sukhumo. Paṭhamajjhāne ca dutiyajjhānupacāre ca oḷāriko, dutiyajjhāne sukhumo. Dutiyajjhāne ca tatiyajjhānupacāre ca oḷāriko, tatiyajjhāne sukhumo. Tatiyajjhāne ca catutthajjhānupacāre ca oḷāriko, catutthajjhāne atisukhumo appavattimeva pāpuṇātīti. Idaṃ tāva dīghabhāṇakasaṃyuttabhāṇakānaṃ mataṃ.
+
+Majjhimabhāṇakā pana paṭhamajjhāne oḷāriko, dutiyajjhānupacāre sukhumoti evaṃ heṭṭhimaheṭṭhimajjhānato uparūparijjhānupacārepi sukhumataramicchanti. Sabbesaññeva pana matena apariggahitakāle pavattakāyasaṅkhāro pariggahitakāle paṭippassambhati. Pariggahitakāle pavattakāyasaṅkhāro paṭhamajjhānupacāre…pe… catutthajjhānupacāre pavattakāyasaṅkhāro catutthajjhāne paṭippassambhati. Ayaṃ tāva samathe nayo.
+
+### Claude
+
+- 2026/06/24
+- Claude Opus 4.8 High
+
+### 出典・凡例
+Visuddhimagga, Ānāpānassatikathā（出入息念の章）, passambhayaṃ kāyasaṅkhāraṃ（身行を止息する）段。
+本段の kāyasaṅkhāra（身行）＝ assāsapassāsa（出入息）。ここでは assāsa/passāsa 語自体は現れず、出入息の粗・微細の進展を論ずる。
+〔…pe…〕→（中略）
+
+### 対訳
+
+1. Pariggahepi oḷāriko, paṭhamajjhānupacāre sukhumo.
+* pariggahe pi = 「把捉（の段階）においても」（pariggaha 処格・m.＋ pi 強調）
+* oḷāriko = 「粗である」（oḷārika 主格・m.、主語に身行 kāyasaṅkhāra を補う）
+* paṭhama-jjhāna-upacāre = 「初禅の近行において」（kammadhāraya＋tappurisa, 処格）
+* sukhumo = 「微細である」（sukhuma 主格・m.）
+→「把捉（の段階）においても（身行は）粗であり、初禅の近行において微細となる。」
+
+2. Tasmimpi oḷāriko, paṭhamajjhāne sukhumo.
+* tasmim pi = 「それ（＝初禅の近行）においても」（指示代名詞 処格）
+* oḷāriko = 「粗である」
+* paṭhama-jjhāne = 「初禅において」（処格）
+* sukhumo = 「微細である」
+→「その（初禅の近行）においても粗であり、初禅において微細となる。」
+
+3. Paṭhamajjhāne ca dutiyajjhānupacāre ca oḷāriko, dutiyajjhāne sukhumo.
+* paṭhama-jjhāne ca … ca = 「初禅においても…も」
+* dutiya-jjhāna-upacāre = 「第二禅の近行において」（処格）
+* oḷāriko = 「粗である」
+* dutiya-jjhāne sukhumo = 「第二禅において微細である」
+→「初禅においても第二禅の近行においても粗であり、第二禅において微細となる。」
+
+4. Dutiyajjhāne ca tatiyajjhānupacāre ca oḷāriko, tatiyajjhāne sukhumo.
+* dutiya-jjhāne ca … ca = 「第二禅においても…も」
+* tatiya-jjhāna-upacāre = 「第三禅の近行において」（処格）
+* oḷāriko = 「粗である」
+* tatiya-jjhāne sukhumo = 「第三禅において微細である」
+→「第二禅においても第三禅の近行においても粗であり、第三禅において微細となる。」
+
+5. Tatiyajjhāne ca catutthajjhānupacāre ca oḷāriko, catutthajjhāne atisukhumo appavattimeva pāpuṇātīti.
+* tatiya-jjhāne ca … ca = 「第三禅においても…も」
+* catuttha-jjhāna-upacāre = 「第四禅の近行において」（処格）
+* oḷāriko = 「粗である」
+* catuttha-jjhāne = 「第四禅において」
+* atisukhumo = 「極めて微細である」（ati-sukhuma）
+* appavattiṃ eva = 「不転起そのものを／まさに不転起に」（a-pavatti 対格＋ eva 強調）
+* pāpuṇāti = 「到達する」（pa√āp, 3 単・現）
+* ti = 引用辞「と」
+→「第三禅においても第四禅の近行においても粗であり、第四禅において極めて微細となり、まさに不転起（呼吸の停止）に至る、と。」
+
+6. Idaṃ tāva dīghabhāṇakasaṃyuttabhāṇakānaṃ mataṃ.
+* idaṃ tāva = 「まずこれが」（中性主格＋ tāva）
+* dīgha-bhāṇaka-saṃyutta-bhāṇakānaṃ = 「長部誦者と相応部誦者の」（dvanda, 属格・複）
+* mataṃ = 「説・所許である」（√man の過分・中性主格）
+→「まずこれが長部誦者および相応部誦者の説である。」
+
+7. Majjhimabhāṇakā pana paṭhamajjhāne oḷāriko, dutiyajjhānupacāre sukhumoti evaṃ heṭṭhimaheṭṭhimajjhānato uparūparijjhānupacārepi sukhumataramicchanti.
+* majjhima-bhāṇakā pana = 「一方、中部誦者は」（主格・複）
+* paṭhama-jjhāne oḷāriko, dutiya-jjhāna-upacāre sukhumo ti = 「『初禅において粗、第二禅の近行において微細』と」
+* evaṃ = 「このように」
+* heṭṭhima-heṭṭhima-jjhānato = 「それぞれ下位の禅よりも」（heṭṭhima を畳語化＋jhāna, 奪格）
+* uparūpari-jhāna-upacāre pi = 「順次上位の禅の近行においてさえ」（uparūpari 副詞＋upacāra 処格）
+* sukhumataraṃ = 「いっそう微細であると」（sukhuma の比較級）
+* icchanti = 「主張する・認める」（√is, 3 複）
+→「一方、中部誦者は『初禅において粗、第二禅の近行において微細である』と、このように、それぞれ下位の禅よりも、順次上位の禅の近行においてさえ、（身行は）いっそう微細であると主張する。」
+
+8. Sabbesaññeva pana matena apariggahitakāle pavattakāyasaṅkhāro pariggahitakāle paṭippassambhati.
+* sabbesaṃ yeva pana matena = 「しかしすべての（誦者）の説によれば」（sabba 属格・複＋eva、matena 具格）
+* a-pariggahita-kāle = 「未把捉の時に」（処格）
+* pavatta-kāya-saṅkhāro = 「転起していた身行は」（pavatta：pa√vatt の過分、kammadhāraya＋tappurisa, 主格）
+* pariggahita-kāle = 「把捉された時に」（処格）
+* paṭippassambhati = 「止息する・静まる」（paṭi-pa√sambh, 3 単・現）
+→「しかし、すべての（誦者）の説によれば、未把捉の時に転起していた身行は、把捉された時に止息する。」
+
+9. Pariggahitakāle pavattakāyasaṅkhāro paṭhamajjhānupacāre…pe… catutthajjhānupacāre pavattakāyasaṅkhāro catutthajjhāne paṭippassambhati.
+* pariggahita-kāle pavatta-kāya-saṅkhāro = 「把捉された時に転起していた身行は」
+* paṭhama-jjhāna-upacāre = 「初禅の近行において（止息し）」（処格）
+* …pe… = （中略）〔初禅近行→第四禅近行までの各段を反復する定型を省略〕
+* catuttha-jjhāna-upacāre pavatta-kāya-saṅkhāro = 「第四禅の近行に転起していた身行は」
+* catuttha-jjhāne = 「第四禅において」（処格）
+* paṭippassambhati = 「止息する」
+→「把捉された時に転起していた身行は初禅の近行において（止息し）、（中略）第四禅の近行に転起していた身行は第四禅において止息する。」
+
+10. Ayaṃ tāva samathe nayo.
+* ayaṃ tāva = 「まずこれが」（指示代名詞 主格）
+* samathe = 「止（奢摩他）における」（処格）
+* nayo = 「理趣・方法である」（主格・m.）
+→「まずこれが止（奢摩他）における理趣である。」
+
+## 221 (2)
+
+Vipassanāyaṃ pana apariggahe pavatto kāyasaṅkhāro oḷāriko, mahābhūtapariggahe sukhumo. Sopi oḷāriko, upādārūpapariggahe sukhumo. Sopi oḷāriko, sakalarūpapariggahe sukhumo. Sopi oḷāriko, arūpapariggahe sukhumo. Sopi oḷāriko, rūpārūpapariggahe sukhumo. Sopi oḷāriko, paccayapariggahe sukhumo. Sopi oḷāriko, sappaccayanāmarūpapariggahe sukhumo. Sopi oḷāriko, lakkhaṇārammaṇikavipassanāya sukhumo. Sopi dubbalavipassanāya oḷāriko, balavavipassanāya sukhumo. Tattha pubbe vuttanayeneva purimassa purimassa pacchimena pacchimena paṭippassaddhi veditabbā. Evamettha oḷārikasukhumatā ca passaddhi ca veditabbā.
+
+### Claude
+
+- 2026/06/24
+- Claude Opus 4.8 High
+
+### 出典・凡例
+Visuddhimagga, Ānāpānassatikathā（出入息念の章）, passambhayaṃ kāyasaṅkhāraṃ（身行を止息する）段の続き。前段の止（samatha）に対し, ここでは観（vipassanā）における身行の粗・微細と止息を論ずる。
+※本書 Visuddhimagga の通例では assāsa = 出息（出息）, passāsa = 入息。ただし本段に assāsa/passāsa 語は現れない。
+〔kāyasaṅkhāra（身行）＝ assāsapassāsa（出入息）〕
+
+### 対訳
+
+1. Vipassanāyaṃ pana apariggahe pavatto kāyasaṅkhāro oḷāriko, mahābhūtapariggahe sukhumo.
+* vipassanāyaṃ pana = 「一方, 観においては」（vipassanā 処格・f.＋pana）
+* a-pariggahe = 「未把捉の（段階）において」（処格）
+* pavatto kāya-saṅkhāro = 「転起していた身行は」（pavatta：pa√vatt 過分＋tappurisa, 主格）
+* oḷāriko = 「粗である」
+* mahābhūta-pariggahe = 「四大種の把捉において」（mahābhūta「大種」, tappurisa, 処格）
+* sukhumo = 「微細である」
+→「一方, 観においては, 未把捉の（段階）に転起していた身行は粗であり, 四大種の把捉において微細となる。」
+
+2. Sopi oḷāriko, upādārūpapariggahe sukhumo.
+* so pi = 「それ（＝四大種把捉における身行）もまた」（指示代名詞 主格）
+* oḷāriko = 「粗である」
+* upādā-rūpa-pariggahe = 「所造色の把捉において」（upādārūpa「所造色」, tappurisa, 処格）
+* sukhumo = 「微細である」
+→「それもまた粗であり, 所造色の把捉において微細となる。」
+
+3. Sopi oḷāriko, sakalarūpapariggahe sukhumo.
+* so pi oḷāriko = 「それもまた粗である」
+* sakala-rūpa-pariggahe = 「一切色の把捉において」（sakala「全ての」, kammadhāraya＋tappurisa, 処格）
+* sukhumo = 「微細である」
+→「それもまた粗であり, 一切色の把捉において微細となる。」
+
+4. Sopi oḷāriko, arūpapariggahe sukhumo.
+* so pi oḷāriko = 「それもまた粗である」
+* arūpa-pariggahe = 「無色（＝名・心心所）の把捉において」（arūpa「無色, 非色」, tappurisa, 処格）
+* sukhumo = 「微細である」
+→「それもまた粗であり, 無色（名）の把捉において微細となる。」
+
+5. Sopi oḷāriko, rūpārūpapariggahe sukhumo.
+* so pi oḷāriko = 「それもまた粗である」
+* rūpa-arūpa-pariggahe = 「色・無色（＝名色）の把捉において」（rūpārūpa, dvanda＋tappurisa, 処格）
+* sukhumo = 「微細である」
+→「それもまた粗であり, 色・無色（名色）の把捉において微細となる。」
+
+6. Sopi oḷāriko, paccayapariggahe sukhumo.
+* so pi oḷāriko = 「それもまた粗である」
+* paccaya-pariggahe = 「縁の把捉において」（paccaya「縁」, tappurisa, 処格）
+* sukhumo = 「微細である」
+→「それもまた粗であり, 縁の把捉において微細となる。」
+
+7. Sopi oḷāriko, sappaccayanāmarūpapariggahe sukhumo.
+* so pi oḷāriko = 「それもまた粗である」
+* sa-paccaya-nāma-rūpa-pariggahe = 「縁を伴う名色の把捉において」（sappaccaya「有縁の」bahubbīhi＋nāmarūpa dvanda, 全体 tappurisa, 処格）
+* sukhumo = 「微細である」
+→「それもまた粗であり, 縁を伴う名色の把捉において微細となる。」
+
+8. Sopi oḷāriko, lakkhaṇārammaṇikavipassanāya sukhumo.
+* so pi oḷāriko = 「それもまた粗である」
+* lakkhaṇa-ārammaṇika-vipassanāya = 「（三）相を所縁とする観において」（lakkhaṇa「相」, ārammaṇika「所縁とする」bahubbīhi 的形容, 全体 kammadhāraya, 処格）
+* sukhumo = 「微細である」
+→「それもまた粗であり, （無常・苦・無我の）相を所縁とする観において微細となる。」
+
+9. Sopi dubbalavipassanāya oḷāriko, balavavipassanāya sukhumo.
+* so pi = 「それもまた」
+* dubbala-vipassanāya = 「弱い観において」（dubbala「弱い」, kammadhāraya, 処格）
+* oḷāriko = 「粗である」
+* balava-vipassanāya = 「強い観において」（balava「力ある, 強い」, kammadhāraya, 処格）
+* sukhumo = 「微細である」
+→「それもまた弱い観において粗であり, 強い観において微細となる。」
+
+10. Tattha pubbe vuttanayeneva purimassa purimassa pacchimena pacchimena paṭippassaddhi veditabbā.
+* tattha = 「そこにおいて, この件に関して」
+* pubbe vutta-nayena eva = 「先に説かれた理趣によって」（pubbe 処格・副, vutta：vac 過分, naya 具格＋eva）
+* purimassa purimassa = 「それぞれ前のもの（段階）の」（purima を畳語化, 属格）
+* pacchimena pacchimena = 「それぞれ後のもの（段階）によって」（pacchima を畳語化, 具格）
+* paṭippassaddhi = 「止息（が）」（paṭippassaddhi 主格・f.）
+* veditabbā = 「知られるべきである」（√vid 未来受分・f.）
+→「この件に関しては, 先に説かれた理趣のとおり, それぞれ前の（段階）の止息が, それぞれ後の（段階）によって（生ずると）知られるべきである。」
+
+11. Evamettha oḷārikasukhumatā ca passaddhi ca veditabbā.
+* evaṃ ettha = 「このように, ここにおいて」
+* oḷārika-sukhumatā ca = 「粗・微細性も」（oḷārika＋sukhuma の抽象名詞化 sukhumatā, dvanda 的並列, 主格・f.）
+* passaddhi ca = 「止息も」（passaddhi 主格・f.）
+* veditabbā = 「知られるべきである」（未来受分・f.）
+→「このように, ここにおいては, 粗・微細性と止息とが知られるべきである。」
+
+## 221 (3)
+
+Paṭisambhidāyaṃ (paṭi. ma. 1.171) panassa saddhiṃ codanāsodhanāhi evamattho vutto –
+
+‘‘Kathaṃ passambhayaṃ kāyasaṅkhāraṃ assasissāmi…pe… passasissāmīti sikkhati? Katame kāyasaṅkhārā? Dīghaṃ assāsapassāsā kāyikā ete dhammā kāyapaṭibaddhā kāyasaṅkhārā. Te kāyasaṅkhāre passambhento nirodhento vūpasamento sikkhati…pe… yathārūpehi kāyasaṅkhārehi kāyassa ānamanā, vinamanā, sannamanā, paṇamanā, iñjanā, phandanā, calanā, kampanā passambhayaṃ kāyasaṅkhāraṃ assasissāmīti sikkhati, passambhayaṃ kāyasaṅkhāraṃ passasissāmīti sikkhati. Yathārūpehi kāyasaṅkhārehi kāyassa na ānamanā, na vinamanā, na sannamanā, na paṇamanā, aniñjanā, aphandanā, acalanā, akampanā santaṃ sukhumaṃ passambhayaṃ kāyasaṅkhāraṃ assasissāmi passasissāmīti sikkhati.
+
+### Claude
+
+- 2026/06/24
+- Claude Opus 4.8 High
+
+### 出典・凡例
+Paṭisambhidāmagga（paṭi. ma. 1.171）, Ānāpānassatikathā（出入息念論）の引用。Visuddhimagga が身行止息の義を Paṭisambhidā によって, その難詰（codanā）と解明（sodhanā）とともに示す箇所。
+※assāsa/passāsa の方向性：Paṭisambhidāmagga・Samantapāsādikā・律註の伝統では **assāsa = 入息（入息）, passāsa = 出息（出息）**。これは Visuddhimagga・経註の慣例（assāsa＝出息, passāsa＝入息）と**逆**である。本引用は Paṭisambhidā のため前者に従う。
+〔…pe…〕→（中略）
+
+### 対訳
+
+1. Paṭisambhidāyaṃ (paṭi. ma. 1.171) panassa saddhiṃ codanāsodhanāhi evamattho vutto –
+* paṭisambhidāyaṃ = 「『無礙解道』において」（Paṭisambhidā 処格・f.）
+* (paṭi. ma. 1.171) = 「（無礙解道・大品・第171節）」典拠略号
+* pana assa = 「さて, これ（＝身行止息）の」（pana＋ayaṃ 属格 assa）
+* saddhiṃ codanā-sodhanāhi = 「難詰と解明とともに」（saddhiṃ「ともに」＋codanā「難詰・問い詰め」, sodhanā「解明・浄化」dvanda, 具格・複）
+* evaṃ attho vutto = 「このように義が説かれた」（attha 主格＋vac 過分）
+→「さて『無礙解道』（無礙解道・大品・171）においては, これ（身行止息）の義が, その難詰と解明とともに, 次のように説かれた──」
+
+2. ‘‘Kathaṃ passambhayaṃ kāyasaṅkhāraṃ assasissāmi…pe… passasissāmīti sikkhati?
+* kathaṃ = 「いかにして」（疑問副詞）
+* passambhayaṃ = 「止息しつつ」（paṭi-pa√sambh の使役現在分詞・主格, 「静めつつ」）
+* kāya-saṅkhāraṃ = 「身行を」（tappurisa, 対格）
+* assasissāmi = 「われ入息せん」（ā√śvas 1 単・未来）
+* …pe… = （中略）〔assasissāmīti sikkhati の定型を省略〕
+* passasissāmi ti = 「われ出息せん, と」（pa√śvas 1 単・未来＋ti）
+* sikkhati = 「学ぶ」（√śikṣ, 3 単・現）
+→「『いかにして〈身行を止息しつつ, われ入息せん〉と（中略）〈出息せん〉と学ぶのか。』」
+
+3. Katame kāyasaṅkhārā?
+* katame = 「いかなるものが」（疑問代名詞・複・主格）
+* kāya-saṅkhārā = 「身行（複数）は」（tappurisa, 主格・複）
+→「身行とはいかなるものか。」
+
+4. Dīghaṃ assāsapassāsā kāyikā ete dhammā kāyapaṭibaddhā kāyasaṅkhārā.
+* dīghaṃ = 「長く」（副詞的対格, あるいは assāsapassāsā を修飾）
+* assāsa-passāsā = 「入息・出息は」（dvanda, 主格・複）
+* kāyikā = 「身に属する（もの）」（kāyika 主格・複）
+* ete dhammā = 「これらの法は」（主格・複）
+* kāya-paṭibaddhā = 「身に繋属したもの」（paṭibaddha「結びついた」, tappurisa, 主格・複）
+* kāya-saṅkhārā = 「身行（である）」（主格・複）
+→「長き入息・出息は身に属するものであり, これらの法は身に繋属したものであって, 身行である。」
+
+5. Te kāyasaṅkhāre passambhento nirodhento vūpasamento sikkhati…pe…
+* te kāya-saṅkhāre = 「それら身行を」（対格・複）
+* passambhento = 「止息させつつ」（使役現在分詞・主格）
+* nirodhento = 「滅させつつ」（ni√rudh 使役現在分詞・主格）
+* vūpasamento = 「寂静ならしめつつ」（vi-upa√śam 使役現在分詞・主格）
+* sikkhati = 「学ぶ」
+* …pe… = （中略）
+→「それら身行を止息させ, 滅させ, 寂静ならしめつつ学ぶ。（中略）」
+
+6. yathārūpehi kāyasaṅkhārehi kāyassa ānamanā, vinamanā, sannamanā, paṇamanā, iñjanā, phandanā, calanā, kampanā
+* yathārūpehi kāya-saṅkhārehi = 「いかなる類いの身行によって」（yathārūpa「～のごとき」, 具格・複）
+* kāyassa = 「身の」（属格）
+* ānamanā = 「前屈（があり）」（ā√nam の動作名詞, 主格・f.）
+* vinamanā = 「後屈・側屈」（vi√nam）
+* sannamanā = 「（全体的な）屈曲」（saṃ√nam）
+* paṇamanā = 「（前方への）傾倒」（pa√nam）
+* iñjanā = 「動揺」（√iñj「動く」）
+* phandanā = 「震動」（√phand「ふるえる」）
+* calanā = 「揺動」（√cal「揺れる」）
+* kampanā = 「振動」（√kamp「震える」）
+→「いかなる類いの身行によって身の前屈・後屈・屈曲・傾倒・動揺・震動・揺動・振動があり,」
+
+7. passambhayaṃ kāyasaṅkhāraṃ assasissāmīti sikkhati, passambhayaṃ kāyasaṅkhāraṃ passasissāmīti sikkhati.
+* passambhayaṃ kāya-saṅkhāraṃ = 「身行を止息しつつ」（使役現在分詞＋対格）
+* assasissāmi ti sikkhati = 「〈われ入息せん〉と学ぶ」
+* passasissāmi ti sikkhati = 「〈われ出息せん〉と学ぶ」
+→「〈身行を止息しつつ, われ入息せん〉と学び, 〈身行を止息しつつ, われ出息せん〉と学ぶ。」
+
+8. Yathārūpehi kāyasaṅkhārehi kāyassa na ānamanā, na vinamanā, na sannamanā, na paṇamanā, aniñjanā, aphandanā, acalanā, akampanā
+* yathārūpehi kāya-saṅkhārehi = 「いかなる類いの身行によっては」（具格・複）
+* kāyassa = 「身の」（属格）
+* na ānamanā … na paṇamanā = 「前屈なく・後屈なく・屈曲なく・傾倒なく」（否定辞 na ＋各動作名詞）
+* aniñjanā = 「不動揺」（a-iñjanā）
+* aphandanā = 「不震動」（a-phandanā）
+* acalanā = 「不揺動」（a-calanā）
+* akampanā = 「不振動」（a-kampanā）
+→「いかなる類いの身行によっては身の前屈なく, 後屈なく, 屈曲なく, 傾倒なく, 不動揺・不震動・不揺動・不振動である（その身行を）,」
+
+9. santaṃ sukhumaṃ passambhayaṃ kāyasaṅkhāraṃ assasissāmi passasissāmīti sikkhati.
+* santaṃ = 「寂静な（身行を）」（√śam の現在分詞・対格, 「静まった」）
+* sukhumaṃ = 「微細な」（対格）
+* passambhayaṃ kāya-saṅkhāraṃ = 「（その）身行を止息しつつ」（使役現在分詞＋対格）
+* assasissāmi passasissāmi ti = 「〈われ入息せん, 出息せん〉と」
+* sikkhati = 「学ぶ」
+→「寂静で微細な, （その）身行を止息しつつ, 〈われ入息せん, 出息せん〉と学ぶ。」
+
+## 221 (4)
+
+‘‘Iti kira passambhayaṃ kāyasaṅkhāraṃ assasissāmīti sikkhati. Passambhayaṃ kāyasaṅkhāraṃ passasissāmīti sikkhati. Evaṃ sante vātūpaladdhiyā ca pabhāvanā na hoti. Assāsapassāsānañca pabhāvanā na hoti. Ānāpānassatiyā ca pabhāvanā na hoti, ānāpānassatisamādhissa ca pabhāvanā na hoti, na ca naṃ taṃ samāpattiṃ paṇḍitā samāpajjantipi vuṭṭhahantipi.
+
+‘‘Iti kira passambhayaṃ kāyasaṅkhāraṃ assasissāmi passasissāmīti sikkhati. Evaṃ sante vātūpaladdhiyā ca pabhāvanā hoti, assāsapassāsānañca pabhāvanā hoti, ānāpānassatiyā ca pabhāvanā hoti, ānāpānassatisamādhissa ca pabhāvanā hoti, tañca naṃ samāpattiṃ paṇḍitā samāpajjantipi vuṭṭhahantipi. Yathā kathaṃ viya?
+
+### Claude
+
+- 2026/06/24
+- Claude Opus 4.8 High
+
+### 出典・凡例
+Paṭisambhidāmagga（paṭi. ma. 1.171）, Ānāpānassatikathā（出入息念論）の続き。前段の「身行を止息しつつ入息・出息せんと学ぶ」という定型に対する難詰（codanā）の提示。一見すると身行（＝呼吸）を止息するなら呼吸そのものが成立しないのではないか, という問いを立て, 然らず（しかして）と転ずる箇所。
+※assāsa/passāsa の方向性：Paṭisambhidāmagga の伝統では **assāsa = 入息（入息）, passāsa = 出息（出息）**（Visuddhimagga・経註の慣例とは逆）。
+〔vāta（風）＝出入息たる気息〕
+
+### 対訳
+
+1. ‘‘Iti kira passambhayaṃ kāyasaṅkhāraṃ assasissāmīti sikkhati.
+* iti kira = 「（そうすると）かくのごとくであれば／いったい」（iti「かく」＋kira「伝聞・疑念の語気, ～とか」）
+* passambhayaṃ kāya-saṅkhāraṃ = 「身行を止息しつつ」（使役現在分詞＋対格）
+* assasissāmi ti sikkhati = 「〈われ入息せん〉と学ぶ（という）」
+→「『そうすると, いったい〈身行を止息しつつ, われ入息せん〉と学ぶ（という）。』」
+
+2. Passambhayaṃ kāyasaṅkhāraṃ passasissāmīti sikkhati.
+* passambhayaṃ kāya-saṅkhāraṃ = 「身行を止息しつつ」
+* passasissāmi ti sikkhati = 「〈われ出息せん〉と学ぶ」
+→「『〈身行を止息しつつ, われ出息せん〉と学ぶ。』」
+
+3. Evaṃ sante vātūpaladdhiyā ca pabhāvanā na hoti.
+* evaṃ sante = 「そのようであるならば」（処格絶対節：evaṃ＋√as 現在分詞 santa 処格, 「かく在るとき」）
+* vāta-upaladdhiyā ca = 「風（気息）の獲得も」（vāta「風・気息」＋upaladdhi「獲得・現れ・知覚」, tappurisa, 属格・f.）
+* pabhāvanā na hoti = 「生起・成立がない」（pabhāvanā「生起・増進・成就」主格・f.＋na hoti）
+→「『そのようであるならば, 風（気息）の獲得（現起）も成立しない。』」
+
+4. Assāsapassāsānañca pabhāvanā na hoti.
+* assāsa-passāsānaṃ ca = 「入息・出息（ら）の～も」（dvanda, 属格・複）
+* pabhāvanā na hoti = 「生起・成立がない」
+→「『入息・出息の生起も成立しない。』」
+
+5. Ānāpānassatiyā ca pabhāvanā na hoti,
+* ānāpāna-ssatiyā ca = 「出入息念の～も」（ānāpānasati, tappurisa, 属格・f.）
+* pabhāvanā na hoti = 「生起がない」
+→「『出入息念の生起も成立せず,』」
+
+6. ānāpānassatisamādhissa ca pabhāvanā na hoti,
+* ānāpāna-ssati-samādhissa ca = 「出入息念三昧の～も」（ānāpānassatisamādhi, tappurisa, 属格・m.）
+* pabhāvanā na hoti = 「生起がない」
+→「『出入息念三昧の生起も成立しない,』」
+
+7. na ca naṃ taṃ samāpattiṃ paṇḍitā samāpajjantipi vuṭṭhahantipi.
+* na ca = 「また～ない」
+* naṃ taṃ samāpattiṃ = 「かの, その等至を」（naṃ「それを」強調的指示＋taṃ samāpattiṃ「その等至を」, 対格）
+* paṇḍitā = 「賢者たちは」（主格・複）
+* samāpajjanti pi = 「入定することも（し）」（saṃ-ā√pad, 3 複・現＋pi）
+* vuṭṭhahanti pi = 「（また）出定することも（する, がない）」（vi-ud√sthā, 3 複・現＋pi）
+→「『また賢者たちは, かのその等至に入定することも, 出定することもない。』」
+
+8. ‘‘Iti kira passambhayaṃ kāyasaṅkhāraṃ assasissāmi passasissāmīti sikkhati.
+* iti kira = 「（しかして）かくのごとくであれば／いったい」
+* passambhayaṃ kāya-saṅkhāraṃ = 「身行を止息しつつ」
+* assasissāmi passasissāmi ti sikkhati = 「〈われ入息せん, 出息せん〉と学ぶ（という）」
+→「『（しかるに）かくのごとく〈身行を止息しつつ, われ入息せん, 出息せん〉と学ぶ（という）。』」
+
+9. Evaṃ sante vātūpaladdhiyā ca pabhāvanā hoti,
+* evaṃ sante = 「そのようであるならば」（処格絶対節）
+* vāta-upaladdhiyā ca = 「風（気息）の獲得も」（属格・f.）
+* pabhāvanā hoti = 「生起・成立がある」
+→「『そのようであるならば, 風（気息）の獲得（現起）も成立し,』」
+
+10. assāsapassāsānañca pabhāvanā hoti,
+* assāsa-passāsānaṃ ca = 「入息・出息（ら）の～も」（属格・複）
+* pabhāvanā hoti = 「生起がある」
+→「『入息・出息の生起も成立し,』」
+
+11. ānāpānassatiyā ca pabhāvanā hoti,
+* ānāpāna-ssatiyā ca = 「出入息念の～も」（属格・f.）
+* pabhāvanā hoti = 「生起がある」
+→「『出入息念の生起も成立し,』」
+
+12. ānāpānassatisamādhissa ca pabhāvanā hoti,
+* ānāpāna-ssati-samādhissa ca = 「出入息念三昧の～も」（属格・m.）
+* pabhāvanā hoti = 「生起がある」
+→「『出入息念三昧の生起も成立し,』」
+
+13. tañca naṃ samāpattiṃ paṇḍitā samāpajjantipi vuṭṭhahantipi.
+* tañca naṃ samāpattiṃ = 「またかの, その等至に」（taṃ ca＋naṃ＋samāpattiṃ, 対格）
+* paṇḍitā = 「賢者たちは」（主格・複）
+* samāpajjanti pi = 「入定することも（し）」
+* vuṭṭhahanti pi = 「出定することも（する）」
+→「『また賢者たちは, かのその等至に入定することも, 出定することもある。』」
+
+14. Yathā kathaṃ viya?
+* yathā kathaṃ viya = 「たとえばどのように（であるか）」（yathā「～のごとく」＋kathaṃ「いかに」＋viya「～のように」, 譬喩を求める慣用句）
+→「『（それは）たとえばどのようであるか。』」
+
+## 221 (5)
+
+‘‘Seyyathāpi kaṃse ākoṭite paṭhamaṃ oḷārikā saddā pavattanti. Oḷārikānaṃ saddānaṃ nimittaṃ sugahitattā sumanasikatattā sūpadhāritattā niruddhepi oḷārike sadde atha pacchā sukhumakā saddā pavattanti. Sukhumakānaṃ saddānaṃ nimittaṃ suggahitattā sumanasikatattā sūpadhāritattā niruddhepi sukhumake sadde atha pacchā sukhumasaddanimittārammaṇatāpi cittaṃ pavattati, evameva paṭhamaṃ oḷārikā assāsapassāsā pavattanti. Oḷārikānaṃ assāsapassāsānaṃ nimittaṃ suggahitattā sumanasikatattā sūpadhāritattā niruddhepi oḷārike assāsapassāse atha pacchā sukhumakā assāsapassāsā pavattanti. Sukhumakānaṃ assāsapassāsānaṃ nimittaṃ suggahitattā sumanasikatattā sūpadhāritattā niruddhepi sukhumake assāsapassāse atha pacchā sukhumaassāsapassāsanimittārammaṇatāpi cittaṃ na vikkhepaṃ gacchati.
+
+### Claude
+
+- 2026/06/24
+- Claude Opus 4.8 High
+
+### 出典・凡例
+Paṭisambhidāmagga（paṭi. ma. 1.171）, Ānāpānassatikathā の続き。前段の「身行を止息しつつ入息・出息せんと学ぶ」が呼吸の止息と呼吸の成立とを両立させる仕方を, 打ち鳴らした銅鑼（kaṃsa）の音が粗から微細へと推移してなお心がその微細音の相を所縁としつづける譬喩によって解明（sodhanā）する箇所。
+※assāsa/passāsa の方向性：Paṭisambhidāmagga の伝統では **assāsa = 入息（入息）, passāsa = 出息（出息）**（Visuddhimagga・経註の慣例とは逆）。
+〔nimitta（相）→ ここでは粗・微細の音／息の「形相・しるし」。upaṭṭhāna（現起）の対象的契機〕
+
+### 対訳
+
+1. ‘‘Seyyathāpi kaṃse ākoṭite paṭhamaṃ oḷārikā saddā pavattanti.
+* seyyathā pi = 「たとえば～のごとく」（譬喩導入句）
+* kaṃse ākoṭite = 「銅鑼（青銅器）が打ち鳴らされたとき」（処格絶対節：kaṃsa「青銅・銅鑼」処格＋ākoṭita：ā√kuṭ 過分・処格）
+* paṭhamaṃ = 「まず最初に」（副詞的対格）
+* oḷārikā saddā = 「粗い音が（複数）」（主格・複）
+* pavattanti = 「転起する・生ずる」（pa√vatt, 3 複・現）
+→「『たとえば, 銅鑼が打ち鳴らされたとき, まず最初に粗い音が生ずる。』」
+
+2. Oḷārikānaṃ saddānaṃ nimittaṃ sugahitattā sumanasikatattā sūpadhāritattā niruddhepi oḷārike sadde atha pacchā sukhumakā saddā pavattanti.
+* oḷārikānaṃ saddānaṃ = 「粗い音らの」（属格・複）
+* nimittaṃ = 「相を」（対格, 以下三つの ablative 的奪格・具格の対象）
+* su-gahita-ttā = 「よく把捉されたことのゆえに」（su「善く」＋gahita：√gah 過分＋tā 抽象名詞, 奪格）
+* su-manasikata-ttā = 「よく作意されたことのゆえに」（manasikata「作意された」＋tā, 奪格）
+* sū-padhārita-ttā = 「よく憶持されたことのゆえに」（upadhārita「憶持・把持された」＋tā, 奪格）
+* niruddhe pi oḷārike sadde = 「粗い音が滅したときにも」（処格絶対節：niruddha：ni√rudh 過分＋oḷārika sadda 処格＋pi）
+* atha pacchā = 「その後に」
+* sukhumakā saddā = 「微細な音が（複数）」（主格・複, -ka は指小・親愛接辞）
+* pavattanti = 「転起する」
+→「『粗い音らの相がよく把捉され, よく作意され, よく憶持されたことのゆえに, 粗い音が滅したときにも, その後に微細な音が生ずる。』」
+
+3. Sukhumakānaṃ saddānaṃ nimittaṃ suggahitattā sumanasikatattā sūpadhāritattā niruddhepi sukhumake sadde atha pacchā sukhumasaddanimittārammaṇatāpi cittaṃ pavattati,
+* sukhumakānaṃ saddānaṃ = 「微細な音らの」（属格・複）
+* nimittaṃ = 「相を」（対格）
+* su-(g)gahita-ttā / su-manasikata-ttā / sū-padhārita-ttā = 「よく把捉され・よく作意され・よく憶持されたことのゆえに」（各奪格）
+* niruddhe pi sukhumake sadde = 「微細な音が滅したときにも」（処格絶対節＋pi）
+* atha pacchā = 「その後に」
+* sukhuma-sadda-nimitta-ārammaṇatā pi = 「微細音の相を所縁とすること（の状態）すらも」（sukhumasaddanimitta「微細音の相」tappurisa＋ārammaṇatā「所縁性」, 主格・f.＋pi）
+* cittaṃ pavattati = 「心が転起する」（中性主格＋3 単・現）
+→「『微細な音らの相がよく把捉され, よく作意され, よく憶持されたことのゆえに, 微細な音が滅したときにも, その後に, 微細音の相を所縁とすること（の状態）として心が転起する。』」
+
+4. evameva paṭhamaṃ oḷārikā assāsapassāsā pavattanti.
+* evam eva = 「まさにそのように」（譬喩を本義に結ぶ語）
+* paṭhamaṃ = 「まず最初に」
+* oḷārikā assāsa-passāsā = 「粗い入息・出息が（複数）」（dvanda, 主格・複）
+* pavattanti = 「転起する」
+→「『まさにそのように, まず最初に粗い入息・出息が生ずる。』」
+
+5. Oḷārikānaṃ assāsapassāsānaṃ nimittaṃ suggahitattā sumanasikatattā sūpadhāritattā niruddhepi oḷārike assāsapassāse atha pacchā sukhumakā assāsapassāsā pavattanti.
+* oḷārikānaṃ assāsa-passāsānaṃ = 「粗い入息・出息らの」（属格・複）
+* nimittaṃ = 「相を」（対格）
+* su-(g)gahita-ttā / su-manasikata-ttā / sū-padhārita-ttā = 「よく把捉され・よく作意され・よく憶持されたことのゆえに」（各奪格）
+* niruddhe pi oḷārike assāsa-passāse = 「粗い入息・出息が滅したときにも」（処格絶対節＋pi）
+* atha pacchā = 「その後に」
+* sukhumakā assāsa-passāsā = 「微細な入息・出息が（複数）」（主格・複）
+* pavattanti = 「転起する」
+→「『粗い入息・出息らの相がよく把捉され, よく作意され, よく憶持されたことのゆえに, 粗い入息・出息が滅したときにも, その後に微細な入息・出息が生ずる。』」
+
+6. Sukhumakānaṃ assāsapassāsānaṃ nimittaṃ suggahitattā sumanasikatattā sūpadhāritattā niruddhepi sukhumake assāsapassāse atha pacchā sukhumaassāsapassāsanimittārammaṇatāpi cittaṃ na vikkhepaṃ gacchati.
+* sukhumakānaṃ assāsa-passāsānaṃ = 「微細な入息・出息らの」（属格・複）
+* nimittaṃ = 「相を」（対格）
+* su-(g)gahita-ttā / su-manasikata-ttā / sū-padhārita-ttā = 「よく把捉され・よく作意され・よく憶持されたことのゆえに」（各奪格）
+* niruddhe pi sukhumake assāsa-passāse = 「微細な入息・出息が滅したときにも」（処格絶対節＋pi）
+* atha pacchā = 「その後に」
+* sukhuma-assāsa-passāsa-nimitta-ārammaṇatā pi = 「微細な入息・出息の相を所縁とすること（の状態）すらも」（tappurisa＋ārammaṇatā, 主格・f.＋pi）
+* cittaṃ na vikkhepaṃ gacchati = 「心は散乱に至らない」（cittaṃ 中性主格＋na＋vikkhepaṃ「散乱を」対格＋gacchati「赴く」3 単・現）
+→「『微細な入息・出息らの相がよく把捉され, よく作意され, よく憶持されたことのゆえに, 微細な入息・出息が滅したときにも, その後に, 微細な入息・出息の相を所縁とすること（の状態）としても, 心は散乱に至らない。』」
+
+## 221 (6)
+
+‘‘Evaṃ sante vātūpaladdhiyā ca pabhāvanā hoti, assāsapassāsānañca pabhāvanā hoti, ānāpānassatiyā ca pabhāvanā hoti, ānāpānassatisamādhissa ca pabhāvanā hoti, tañca naṃ samāpattiṃ paṇḍitā samāpajjantipi vuṭṭhahantipi. Passambhayaṃ kāyasaṅkhāraṃ assāsapassāsā kāyo, upaṭṭhānaṃ sati, anupassanā ñāṇaṃ, kāyo upaṭṭhānaṃ, no sati, sati upaṭṭhānañceva sati ca, tāya satiyā tena ñāṇena taṃ kāyaṃ anupassati. Tena vuccati kāye kāyānupassanā satipaṭṭhānabhāvanā’’ti.
+
+Ayaṃ tāvettha kāyānupassanāvasena vuttassa paṭhamacatukkassa anupubbapadavaṇṇanā.
+
+### Claude
+
+- 2026/06/24
+- Claude Opus 4.8 High
+
+### 出典・凡例
+Paṭisambhidāmagga（paṭi. ma. 1.171）, Ānāpānassatikathā の結び。前段の銅鑼の譬喩による解明（sodhanā）を受け, 身行止息の四義（風の獲得・出入息・出入息念・出入息念三昧）の成立を確言し, 身随観念処の定型（身・現起・随観の分別）をもって第一四法（身随観の四句）を結す。末尾は Visuddhimagga の地の文に戻り, 本四法の逐句註釈の結語を述べる。
+※assāsa/passāsa の方向性：Paṭisambhidāmagga の伝統では **assāsa = 入息（入息）, passāsa = 出息（出息）**（Visuddhimagga・経註の慣例とは逆）。
+※upaṭṭhāna（現起）の二義：①所縁が現れること（対象義）, ②念を establish する作（作用義）。本段はその区別を要する定型。
+※abhidhamma 的注記：諸法（身たる出入息）は upaṭṭhāna（対象義）であって sati そのものではない。一方 sati は upaṭṭhāna（作用義）かつ sati である。また当該 sati は ñāṇasampayuttā（智相応）であり, 故に随観に智が伴う。
+
+### 対訳
+
+1. ‘‘Evaṃ sante vātūpaladdhiyā ca pabhāvanā hoti, assāsapassāsānañca pabhāvanā hoti, ānāpānassatiyā ca pabhāvanā hoti, ānāpānassatisamādhissa ca pabhāvanā hoti, tañca naṃ samāpattiṃ paṇḍitā samāpajjantipi vuṭṭhahantipi.
+* evaṃ sante = 「そのようであるならば」（処格絶対節）
+* vāta-upaladdhiyā ca pabhāvanā hoti = 「風（気息）の獲得の生起もあり」（属格・f.＋pabhāvanā 主格）
+* assāsa-passāsānaṃ ca pabhāvanā hoti = 「入息・出息（ら）の生起もあり」（属格・複）
+* ānāpāna-ssatiyā ca pabhāvanā hoti = 「出入息念の生起もあり」（属格・f.）
+* ānāpāna-ssati-samādhissa ca pabhāvanā hoti = 「出入息念三昧の生起もある」（属格・m.）
+* tañca naṃ samāpattiṃ = 「またかの, その等至に」（taṃ ca＋naṃ＋samāpattiṃ, 対格）
+* paṇḍitā samāpajjanti pi vuṭṭhahanti pi = 「賢者たちは入定することも出定することもある」（主格・複＋3 複・現）
+→「『そのようであるならば, 風（気息）の獲得の生起もあり, 入息・出息の生起もあり, 出入息念の生起もあり, 出入息念三昧の生起もある。また賢者たちは, かのその等至に入定することも, 出定することもある。』」
+
+2. Passambhayaṃ kāyasaṅkhāraṃ assāsapassāsā kāyo,
+* passambhayaṃ kāya-saṅkhāraṃ = 「『身行を止息しつつ（云々）』（における）」（定型句の標目として提示）
+* assāsa-passāsā = 「入息・出息は」（主格・複, 集合的に単数 kāyo で受ける）
+* kāyo = 「身（である）」（主格・m.）
+→「『〈身行を止息しつつ……〉（の句）において, 入息・出息は身であり,』」
+
+3. upaṭṭhānaṃ sati, anupassanā ñāṇaṃ,
+* upaṭṭhānaṃ = 「現起は」（主格・n., ここでは「念が確立すること＝作用義の現起」）
+* sati = 「念（である）」（主格・f.）
+* anupassanā = 「随観は」（主格・f.）
+* ñāṇaṃ = 「智（である）」（主格・n.）
+→「『現起は念であり, 随観は智である。』」
+
+4. kāyo upaṭṭhānaṃ, no sati, sati upaṭṭhānañceva sati ca,
+* kāyo upaṭṭhānaṃ = 「身は現起（＝対象義の現起・所縁）であり」（主格）
+* no sati = 「念ではない」（否定）
+* sati upaṭṭhānaṃ ca eva sati ca = 「念は現起（＝作用義）であり, かつ念でもある」（sati 主格＋upaṭṭhānaṃ＋ca eva … ca）
+→「『身は現起であって念ではなく, 念は現起であり, かつ念でもある。』」
+
+5. tāya satiyā tena ñāṇena taṃ kāyaṃ anupassati.
+* tāya satiyā = 「その念によって」（具格・f.）
+* tena ñāṇena = 「その智によって」（具格・n.）
+* taṃ kāyaṃ = 「その身を」（対格）
+* anupassati = 「随観する」（anu√paś, 3 単・現）
+→「『その念によって, その智によって, その身を随観する。』」
+
+6. Tena vuccati kāye kāyānupassanā satipaṭṭhānabhāvanā’’ti.
+* tena = 「それゆえに」（具格・副）
+* vuccati = 「説かれる・言われる」（√vac 受動, 3 単・現）
+* kāye kāya-anupassanā = 「身において身を随観すること（身随観）が」（kāye 処格＋kāyānupassanā tappurisa, 主格・f.）
+* satipaṭṭhāna-bhāvanā = 「念処の修習（である, と）」（satipaṭṭhāna「念処」＋bhāvanā「修習」, tappurisa, 主格・f.）
+* ti = 引用辞「と」
+→「『それゆえに〈身において身を随観すること（身随観）の念処修習〉と説かれる』と。」
+
+7. Ayaṃ tāvettha kāyānupassanāvasena vuttassa paṭhamacatukkassa anupubbapadavaṇṇanā.
+* ayaṃ tāva ettha = 「まずここにおいて, これが」（指示代名詞 主格・f.＋tāva＋ettha）
+* kāya-anupassanā-vasena = 「身随観の側面によって」（kāyānupassanā＋vasa「力・故・観点」, 具格）
+* vuttassa = 「説かれた（ところの）」（√vac 過分・属格）
+* paṭhama-catukkassa = 「第一四法（第一の四句）の」（paṭhama＋catukka「四法・四句一組」, 属格・n.）
+* anupubba-pada-vaṇṇanā = 「順次の句釈（逐句註釈）（である）」（anupubba「順次の」＋pada「句」＋vaṇṇanā「註釈」, tappurisa, 主格・f.）
+→「まずここにおいて, これが, 身随観の側面によって説かれた第一四法の, 順次の逐句註釈である。」
