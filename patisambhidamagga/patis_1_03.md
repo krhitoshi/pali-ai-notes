@@ -6,6 +6,11 @@
 
 # 3. Ānāpānassatikathā
 
+# 1. Gaṇanavāra
+# 2. Soḷasañāṇaniddeso
+# 3. Upakkilesañāṇaniddeso
+# 4. Vodānañāṇaniddeso
+
 # 5. Satokāriñāṇaniddeso
 
 ## 163
@@ -5891,3 +5896,445 @@ Satokāriñāṇaniddeso pañcamo.
 * pañcamo = 「第五〔の〕」（序数・主格・単数）
 
 → 「念をなす者の智の解説、第五〔章おわる〕。」
+
+# 6. Ñāṇarāsichakkaniddeso
+
+## 183 (1)
+
+183. Katamāni catuvīsati samādhivasena ñāṇāni? Dīghaṃ assāsavasena cittassa ekaggatā avikkhepo samādhi, dīghaṃ passāsavasena cittassa ekaggatā avikkhepo samādhi…pe… vimocayaṃ cittaṃ assāsavasena cittassa ekaggatā avikkhepo samādhi, vimocayaṃ cittaṃ passāsavasena cittassa ekaggatā avikkhepo samādhi. Imāni catuvīsati samādhivasena ñāṇāni.
+
+Katamāni dvesattati vipassanāvasena ñāṇāni? Dīghaṃ assāsaṃ aniccato anupassanaṭṭhena vipassanā, dukkhato anupassanaṭṭhena vipassanā, anattato anupassanaṭṭhena vipassanā, dīghaṃ passāsaṃ aniccato anupassanaṭṭhena vipassanā, dukkhato anupassanaṭṭhena vipassanā, anattato anupassanaṭṭhena vipassanā…pe… vimocayaṃ cittaṃ assāsaṃ, vimocayaṃ cittaṃ passāsaṃ aniccato anupassanaṭṭhena vipassanā, dukkhato anupassanaṭṭhena vipassanā, anattato anupassanaṭṭhena vipassanā. Imāni dvesattati vipassanāvasena ñāṇāni.
+
+### Claude
+
+- 2026/06/24
+- Claude Opus 4.8 High
+
+### 対訳
+
+**典拠**: Paṭisambhidāmagga, Mahāvagga, Ānāpānassatikathā §183（無礙解道・大品・安般念論）
+**章節**: 6. Ñāṇarāsichakkaniddeso（智聚六種の釈示）
+**入出息の方向性に関する注記**: 本系統（無礙解道／律註・善見律毘婆沙系統）では assāsa＝入息（入息）, passāsa＝出息（出息）。清浄道論・経註系統とは逆である点に留意。
+**全体構造の注記**: 定による智24＝〔第一〜第三の三テトラッド計12項〕×〔入息・出息2〕。観による智72＝12項×2×〔無常・苦・無我3〕。
+
+1. 6. Ñāṇarāsichakkaniddeso
+
+* ñāṇa = 「智」
+* rāsi = 「聚・蘊（積集したもの）」
+* chakka = 「六種・六法（cha 六 + ka）」
+* niddesa = 「釈示・解説（ni + √dis）」
+  * ñāṇa-rāsi-chakka-niddesa：依主釈（tappurisa）「六種なる智聚の釈示」
+→ 「6. 智聚六種の釈示」
+
+2. Katamāni catuvīsati samādhivasena ñāṇāni?
+
+* katamāni = 「いかなるものが～か（疑問代名詞・中性複数主格）」
+* catuvīsati = 「二十四（catu 四 + vīsati 二十）」数詞
+* samādhi-vasena = 「定によって・定の観点から」
+  * samādhi = 「定」
+  * vasena = 「～の力により、～の点から（vasa 男性具格）」
+  * 依主釈（tappurisa）
+* ñāṇāni = 「諸々の智（中性複数主格）」
+→ 「定による二十四の智とは、いかなるものか。」
+
+3. Dīghaṃ assāsavasena cittassa ekaggatā avikkhepo samādhi,
+
+* dīghaṃ = 「長く（副詞的対格、長き〔息〕につき）」
+* assāsa-vasena = 「入息によって・入息の点から」〔本系統＝入息〕
+  * assāsa = 「入息」
+  * vasena = 「～によって、～の観点から（具格）」
+  * 依主釈（tappurisa）
+* cittassa = 「心の（属格）」
+* ekaggatā = 「一境性（eka 一 + agga 頂点・対象 + tā 抽象名詞接尾辞、女性主格）」
+* avikkhepo = 「不散乱（a + vikkhepa 散乱、男性主格）」
+* samādhi = 「定（男性主格）」
+→ 「長き入息によって〔生ずる〕心の一境性・不散乱が定である。」
+
+4. dīghaṃ passāsavasena cittassa ekaggatā avikkhepo samādhi …pe…
+
+* passāsa-vasena = 「出息によって・出息の点から」〔本系統＝出息〕
+  * （他は前句に同じ）
+* …pe… = 「（中略）」〔短き入出息（rassaṃ）より samādahaṃ cittaṃ に至る第2〜第11項を、各々入息・出息につき省略〕
+→ 「長き出息によって〔生ずる〕心の一境性・不散乱が定である。（中略）」
+
+5. vimocayaṃ cittaṃ assāsavasena cittassa ekaggatā avikkhepo samādhi,
+
+* vimocayaṃ = 「解脱せしめつつ（vi-√muc 使役現在分詞、男性主格、行者を主語とする）」
+* cittaṃ = 「心を（対格、vimocayaṃ の目的語）」
+  * vimocayaṃ cittaṃ＝「心を解脱せしめつつ〔あって〕」＝安般念第十二項
+* assāsa-vasena = 「入息によって」
+* （以下、心の一境性・不散乱・定は前同）
+→ 「『心を解脱せしめつつ』〔ある者の〕入息によって〔生ずる〕心の一境性・不散乱が定である。」
+
+6. vimocayaṃ cittaṃ passāsavasena cittassa ekaggatā avikkhepo samādhi.
+
+* passāsa-vasena = 「出息によって」
+  * （他は前句に同じ）
+→ 「『心を解脱せしめつつ』〔ある者の〕出息によって〔生ずる〕心の一境性・不散乱が定である。」
+
+7. Imāni catuvīsati samādhivasena ñāṇāni.
+
+* imāni = 「これらが（指示代名詞・中性複数主格）」
+* catuvīsati = 「二十四」
+* samādhi-vasena = 「定によって」
+* ñāṇāni = 「諸々の智」
+→ 「これらが定による二十四の智である。」
+
+8. Katamāni dvesattati vipassanāvasena ñāṇāni?
+
+* katamāni = 「いかなるものが～か（中性複数主格）」
+* dvesattati = 「七十二（dve 二 + sattati 七十）」数詞
+* vipassanā-vasena = 「観（毘鉢舎那）によって・観の観点から」
+  * vipassanā = 「観（vi + √pass）」
+  * vasena = 「～によって（具格）」
+  * 依主釈（tappurisa）
+* ñāṇāni = 「諸々の智」
+→ 「観による七十二の智とは、いかなるものか。」
+
+9. Dīghaṃ assāsaṃ aniccato anupassanaṭṭhena vipassanā, dukkhato anupassanaṭṭhena vipassanā, anattato anupassanaṭṭhena vipassanā,
+
+* dīghaṃ assāsaṃ = 「長き入息を（観の対象としての対格）」
+* aniccato = 「無常として（anicca + to 副詞的奪格、『～の点から』）」
+* anupassana-aṭṭhena = 「随観という義によって・随観の意義の点で」
+  * anupassana = 「随観」
+  * aṭṭha（＝attha）= 「義・意味」
+  * ena = 「～によって（男性具格）」
+  * 依主釈（tappurisa）「随観の義」
+* vipassanā = 「観（女性主格）」
+* dukkhato = 「苦として（dukkha + to 奪格）」
+* anattato = 「無我として（anatta + to 奪格）」
+→ 「長き入息を無常として随観するという義によって観であり、苦として随観するという義によって観であり、無我として随観するという義によって観である。」
+
+10. dīghaṃ passāsaṃ aniccato anupassanaṭṭhena vipassanā, dukkhato anupassanaṭṭhena vipassanā, anattato anupassanaṭṭhena vipassanā …pe…
+
+* dīghaṃ passāsaṃ = 「長き出息を（対格）」
+* （無常・苦・無我の三観は前句に同じ）
+* …pe… = 「（中略）」〔第2〜第11項を、各々入息・出息につき、かつ無常・苦・無我の三相につき省略〕
+→ 「長き出息を無常として随観するという義によって観であり、苦として随観するという義によって観であり、無我として随観するという義によって観である。（中略）」
+
+11. vimocayaṃ cittaṃ assāsaṃ, vimocayaṃ cittaṃ passāsaṃ aniccato anupassanaṭṭhena vipassanā, dukkhato anupassanaṭṭhena vipassanā, anattato anupassanaṭṭhena vipassanā.
+
+* vimocayaṃ cittaṃ assāsaṃ = 「『心を解脱せしめつつ』〔ある者の〕入息を（対格）」
+* vimocayaṃ cittaṃ passāsaṃ = 「『心を解脱せしめつつ』〔ある者の〕出息を（対格）」
+* aniccato / dukkhato / anattato = 「無常として／苦として／無我として」
+* anupassana-aṭṭhena = 「随観という義によって」
+* vipassanā = 「観」
+→ 「『心を解脱せしめつつ』〔ある者の〕入息を、〔また〕『心を解脱せしめつつ』〔ある者の〕出息を、無常として随観するという義によって観であり、苦として随観するという義によって観であり、無我として随観するという義によって観である。」
+
+12. Imāni dvesattati vipassanāvasena ñāṇāni.
+
+* imāni = 「これらが（中性複数主格）」
+* dvesattati = 「七十二」
+* vipassanā-vasena = 「観によって」
+* ñāṇāni = 「諸々の智」
+→ 「これらが観による七十二の智である。」
+
+## 183 (2)
+
+Katamāni aṭṭha nibbidāñāṇāni? Aniccānupassī assāsaṃ yathābhūtaṃ jānāti passatīti – nibbidāñāṇaṃ, aniccānupassī passāsaṃ yathābhūtaṃ jānāti passatīti – nibbidāñāṇaṃ…pe… paṭinissaggānupassī assāsaṃ yathābhūtaṃ jānāti passatīti – nibbidāñāṇaṃ, paṭinissaggānupassī passāsaṃ yathābhūtaṃ jānāti passatīti – nibbidāñāṇaṃ. Imāni aṭṭha nibbidāñāṇāni.
+
+Katamāni aṭṭha nibbidānulome ñāṇāni? Aniccānupassī assāsaṃ bhayatupaṭṭhāne paññā nibbidānulome ñāṇaṃ, aniccānupassī passāsaṃ bhayatupaṭṭhāne paññā nibbidānulome ñāṇaṃ…pe… paṭinissaggānupassī assāsaṃ bhayatupaṭṭhāne paññā nibbidānulome ñāṇaṃ, paṭinissaggānupassī passāsaṃ bhayatupaṭṭhāne paññā nibbidānulome ñāṇaṃ – imāni aṭṭha nibbidānulome ñāṇāni.
+
+Katamāni aṭṭha nibbidāpaṭippassaddhiñāṇāni? Aniccānupassī assāsaṃ paṭisaṅkhā santiṭṭhanā paññā nibbidāpaṭippassaddhiñāṇaṃ, aniccānupassī passāsaṃ paṭisaṅkhā santiṭṭhanā paññā nibbidāpaṭippassaddhiñāṇaṃ…pe… paṭinissaggānupassī assāsaṃ paṭisaṅkhā santiṭṭhanā paññā nibbidāpaṭippassaddhiñāṇaṃ, paṭinissaggānupassī passāsaṃ paṭisaṅkhā santiṭṭhanā paññā nibbidāpaṭippassaddhiñāṇaṃ – imāni aṭṭha nibbidāpaṭippassaddhiñāṇāni.
+
+### Claude
+
+- 2026/06/24
+- Claude Opus 4.8 High
+
+### 対訳
+
+**典拠**: Paṭisambhidāmagga, Mahāvagga, Ānāpānassatikathā §183（無礙解道・大品・安般念論）
+**章節**: 6. Ñāṇarāsichakkaniddeso（智聚六種の釈示）の続き ― 厭離智・厭離随順智・厭離止息智の三聚
+**入出息の方向性に関する注記**: 本系統（無礙解道／律註・善見律毘婆沙系統）では assāsa＝入息（入息）, passāsa＝出息（出息）。清浄道論・経註系統とは逆である点に留意。
+**全体構造の注記**: 各聚の「八」＝第四テトラッド（dhammānupassanā）の四項〔aniccānupassī・virāgānupassī・nirodhānupassī・paṭinissaggānupassī〕×〔入息・出息2〕。
+
+1. Katamāni aṭṭha nibbidāñāṇāni?
+
+* katamāni = 「いかなるものが～か（疑問代名詞・中性複数主格）」
+* aṭṭha = 「八」数詞
+* nibbidā-ñāṇāni = 「厭離智（諸々）」
+  * nibbidā = 「厭離（nis + √vid、女性）」
+  * ñāṇāni = 「諸々の智（中性複数主格）」
+  * 依主釈（tappurisa）「厭離の智」
+→ 「八つの厭離智とは、いかなるものか。」
+
+2. Aniccānupassī assāsaṃ yathābhūtaṃ jānāti passatīti – nibbidāñāṇaṃ,
+
+* anicca-anupassī = 「無常を随観する者（男性主格・有財釈 bahubbīhi）」
+  * anicca = 「無常」
+  * anupassin = 「随観する者（anu + √pass）」
+* assāsaṃ = 「入息を（対格）」〔本系統＝入息〕
+* yathābhūtaṃ = 「如実に（yathā ＋ bhūta、副詞的対格）」
+* jānāti = 「知る（√ñā 現在三単）」
+* passati = 「見る（√pass 現在三単）」
+* ti = 「～と〔いう、引用辞〕」
+* nibbidā-ñāṇaṃ = 「厭離智（中性主格）」
+→ 「無常を随観する者が入息を如実に知り見る ― これが厭離智である。」
+
+3. aniccānupassī passāsaṃ yathābhūtaṃ jānāti passatīti – nibbidāñāṇaṃ …pe…
+
+* passāsaṃ = 「出息を（対格）」〔本系統＝出息〕
+  * （他は前句に同じ）
+* …pe… = 「（中略）」〔virāgānupassī・nirodhānupassī の各々を、入息・出息につき省略〕
+→ 「無常を随観する者が出息を如実に知り見る ― これが厭離智である。（中略）」
+
+4. paṭinissaggānupassī assāsaṃ yathābhūtaṃ jānāti passatīti – nibbidāñāṇaṃ,
+
+* paṭinissagga-anupassī = 「捨遣を随観する者（有財釈 bahubbīhi）」
+  * paṭinissagga = 「捨遣（paṭi + ni + √sajj）」
+  * anupassin = 「随観する者」
+* assāsaṃ = 「入息を（対格）」
+* （他は前同）
+→ 「捨遣を随観する者が入息を如実に知り見る ― これが厭離智である。」
+
+5. paṭinissaggānupassī passāsaṃ yathābhūtaṃ jānāti passatīti – nibbidāñāṇaṃ.
+
+* passāsaṃ = 「出息を（対格）」
+  * （他は前句に同じ）
+→ 「捨遣を随観する者が出息を如実に知り見る ― これが厭離智である。」
+
+6. Imāni aṭṭha nibbidāñāṇāni.
+
+* imāni = 「これらが（中性複数主格）」
+* aṭṭha = 「八」
+* nibbidā-ñāṇāni = 「厭離智（諸々）」
+→ 「これらが八つの厭離智である。」
+
+7. Katamāni aṭṭha nibbidānulome ñāṇāni?
+
+* katamāni = 「いかなるものが～か（中性複数主格）」
+* aṭṭha = 「八」
+* nibbidā-anulome ñāṇāni = 「厭離随順における諸々の智」
+  * nibbidā = 「厭離」
+  * anuloma = 「随順（anu + loma 毛並み、『順なる』）」処格 anulome「厭離に随順するにおいて」
+  * 依主釈（tappurisa）「厭離随順〔の処〕における智」
+→ 「八つの厭離随順智とは、いかなるものか。」
+
+8. Aniccānupassī assāsaṃ bhayatupaṭṭhāne paññā nibbidānulome ñāṇaṃ,
+
+* anicca-anupassī = 「無常を随観する者（有財釈）」
+* assāsaṃ = 「入息を（対格）」
+* bhaya-t-upaṭṭhāne = 「怖畏として現起するにおいて（処格）」
+  * bhaya = 「怖畏」
+  * upaṭṭhāna = 「現起（upa + √ṭhā、対象が顕現すること＝対象義の upaṭṭhāna）」
+  * 〔-t- は連声〕依主釈（tappurisa）「怖畏の現起」
+* paññā = 「慧（女性主格）」
+* nibbidā-anulome ñāṇaṃ = 「厭離随順における智（中性主格）」
+→ 「無常を随観する者が入息を〔観じ〕、怖畏として現起するにおける慧 ― これが厭離随順智である。」
+
+9. aniccānupassī passāsaṃ bhayatupaṭṭhāne paññā nibbidānulome ñāṇaṃ …pe…
+
+* passāsaṃ = 「出息を（対格）」
+  * （他は前句に同じ）
+* …pe… = 「（中略）」〔virāgānupassī・nirodhānupassī の各々を、入息・出息につき省略〕
+→ 「無常を随観する者が出息を〔観じ〕、怖畏として現起するにおける慧 ― これが厭離随順智である。（中略）」
+
+10. paṭinissaggānupassī assāsaṃ bhayatupaṭṭhāne paññā nibbidānulome ñāṇaṃ, paṭinissaggānupassī passāsaṃ bhayatupaṭṭhāne paññā nibbidānulome ñāṇaṃ –
+
+* paṭinissagga-anupassī = 「捨遣を随観する者（有財釈）」
+* assāsaṃ / passāsaṃ = 「入息を／出息を（対格）」
+* bhaya-t-upaṭṭhāne = 「怖畏として現起するにおいて（処格）」
+* paññā = 「慧」
+* nibbidā-anulome ñāṇaṃ = 「厭離随順における智」
+→ 「捨遣を随観する者が入息を〔観じ〕、怖畏として現起するにおける慧 ― これが厭離随順智である。捨遣を随観する者が出息を〔観じ〕、怖畏として現起するにおける慧 ― これが厭離随順智である。」
+
+11. imāni aṭṭha nibbidānulome ñāṇāni.
+
+* imāni = 「これらが（中性複数主格）」
+* aṭṭha = 「八」
+* nibbidā-anulome ñāṇāni = 「厭離随順における諸々の智」
+→ 「これらが八つの厭離随順智である。」
+
+12. Katamāni aṭṭha nibbidāpaṭippassaddhiñāṇāni?
+
+* katamāni = 「いかなるものが～か（中性複数主格）」
+* aṭṭha = 「八」
+* nibbidā-paṭippassaddhi-ñāṇāni = 「厭離止息智（諸々）」
+  * nibbidā = 「厭離」
+  * paṭippassaddhi = 「止息・寂静（paṭi + pa + √sambh、『静まること』）」
+  * ñāṇāni = 「諸々の智」
+  * 依主釈（tappurisa）「厭離の止息〔せる位〕における智」
+→ 「八つの厭離止息智とは、いかなるものか。」
+
+13. Aniccānupassī assāsaṃ paṭisaṅkhā santiṭṭhanā paññā nibbidāpaṭippassaddhiñāṇaṃ,
+
+* anicca-anupassī = 「無常を随観する者（有財釈）」
+* assāsaṃ = 「入息を（対格）」
+* paṭisaṅkhā = 「簡択して・観察して（paṭi + √khyā、連続体 absolutive、女性具格的用法とも）」
+* santiṭṭhanā = 「安住・確立（saṃ + √ṭhā、女性主格、心が静まり住すること）」
+* paññā = 「慧（女性主格）」
+* nibbidā-paṭippassaddhi-ñāṇaṃ = 「厭離止息智（中性主格）」
+→ 「無常を随観する者が入息を簡択して安住する慧 ― これが厭離止息智である。」
+
+14. aniccānupassī passāsaṃ paṭisaṅkhā santiṭṭhanā paññā nibbidāpaṭippassaddhiñāṇaṃ …pe…
+
+* passāsaṃ = 「出息を（対格）」
+  * （他は前句に同じ）
+* …pe… = 「（中略）」〔virāgānupassī・nirodhānupassī の各々を、入息・出息につき省略〕
+→ 「無常を随観する者が出息を簡択して安住する慧 ― これが厭離止息智である。（中略）」
+
+15. paṭinissaggānupassī assāsaṃ paṭisaṅkhā santiṭṭhanā paññā nibbidāpaṭippassaddhiñāṇaṃ, paṭinissaggānupassī passāsaṃ paṭisaṅkhā santiṭṭhanā paññā nibbidāpaṭippassaddhiñāṇaṃ –
+
+* paṭinissagga-anupassī = 「捨遣を随観する者（有財釈）」
+* assāsaṃ / passāsaṃ = 「入息を／出息を（対格）」
+* paṭisaṅkhā = 「簡択して」
+* santiṭṭhanā = 「安住」
+* paññā = 「慧」
+* nibbidā-paṭippassaddhi-ñāṇaṃ = 「厭離止息智」
+→ 「捨遣を随観する者が入息を簡択して安住する慧 ― これが厭離止息智である。捨遣を随観する者が出息を簡択して安住する慧 ― これが厭離止息智である。」
+
+16. imāni aṭṭha nibbidāpaṭippassaddhiñāṇāni.
+
+* imāni = 「これらが（中性複数主格）」
+* aṭṭha = 「八」
+* nibbidā-paṭippassaddhi-ñāṇāni = 「厭離止息智（諸々）」
+→ 「これらが八つの厭離止息智である。」
+
+## 183 (3)
+
+Katamāni ekavīsati vimuttisukhe ñāṇāni? Sotāpattimaggena sakkāyadiṭṭhiyā pahīnattā samucchinnattā uppajjati vimuttisukhe ñāṇaṃ, vicikicchāya pahīnattā samucchinnattā uppajjati vimuttisukhe ñāṇaṃ, sīlabbataparāmāsassa…pe… diṭṭhānusayassa, vicikicchānusayassa pahīnattā samucchinnattā uppajjati vimuttisukhe ñāṇaṃ, sakadāgāmimaggena oḷārikassa, kāmarāgasaññojanassa…pe… paṭighasaññojanassa, oḷārikassa kāmarāgānusayassa, paṭighānusayassa pahīnattā samucchinnattā uppajjati vimuttisukhe ñāṇaṃ, anāgāmimaggena anusahagatassa kāmarāgasaññojanassa…pe… paṭighasaññojanassa, anusahagatassa kāmarāgānusayassa, paṭighānusayassa pahīnattā samucchinnattā uppajjati vimuttisukhe ñāṇaṃ, arahattamaggena, rūparāgassa…pe… arūparāgassa, mānassa, uddhaccassa, avijjāya, mānānusayassa, bhavarāgānusayassa, avijjānusayassa pahīnattā samucchinnattā uppajjati vimuttisukhe ñāṇaṃ. Imāni ekavīsati vimuttisukhe ñāṇāni. Soḷasavatthukaṃ ānāpānassatisamādhiṃ bhāvayato samadhikāni imāni dve ñāṇasatāni uppajjanti.
+
+Ñāṇarāsichakkaniddeso chaṭṭho.
+
+Ānāpānassatikathā [ānāpānakathā (syā. ka.)] niṭṭhitā.
+
+### Claude
+
+- 2026/06/24
+- Claude Opus 4.8 High
+
+### 対訳
+
+**典拠**: Paṭisambhidāmagga, Mahāvagga, Ānāpānassatikathā §183（無礙解道・大品・安般念論）
+**章節**: 6. Ñāṇarāsichakkaniddeso（智聚六種の釈示）の結び ― 解脱楽智二十一、及び安般念論の終結
+**入出息の方向性に関する注記**: 本系統（無礙解道／律註・善見律毘婆沙系統）では assāsa＝入息（入息）, passāsa＝出息（出息）。清浄道論・経註系統とは逆である点に留意。
+**構造の注記**: 解脱楽智の二十一＝預流道〔5〕＋一来道〔4〕＋不還道〔4〕＋阿羅漢道〔8〕。総計の「二百有余」＝定智24＋観智72＋厭離智8＋厭離随順智8＋厭離止息智8＋解脱楽智21、これに既説の諸智を合わせたもの。
+
+1. Katamāni ekavīsati vimuttisukhe ñāṇāni?
+
+* katamāni = 「いかなるものが～か（疑問代名詞・中性複数主格）」
+* ekavīsati = 「二十一（eka 一 + vīsati 二十）」数詞
+* vimutti-sukhe = 「解脱楽において（処格）」
+  * vimutti = 「解脱（vi + √muc、女性）」
+  * sukha = 「楽」処格 sukhe
+  * 依主釈（tappurisa）「解脱の楽〔に伴う／に関する〕」
+* ñāṇāni = 「諸々の智（中性複数主格）」
+→ 「解脱楽における二十一の智とは、いかなるものか。」
+
+2. Sotāpattimaggena sakkāyadiṭṭhiyā pahīnattā samucchinnattā uppajjati vimuttisukhe ñāṇaṃ,
+
+* sotāpatti-maggena = 「預流道によって（具格）」
+  * sotāpatti = 「預流（sota 流 + āpatti 入到）」
+  * magga = 「道」
+  * 依主釈（tappurisa）
+* sakkāya-diṭṭhiyā = 「有身見の（属格、pahīna の対象）」
+  * sakkāya = 「有身（sat 実在する + kāya 身）」
+  * diṭṭhi = 「見」
+* pahīnattā = 「捨断されたことによって（pahīna 過分 + tā 抽象、奪格・原因）」
+* samucchinnattā = 「断滅されたことによって（saṃ + ud + √chid 過分 + tā、奪格・原因）」
+* uppajjati = 「生起する（ud + √pad 現在三単）」
+* vimutti-sukhe ñāṇaṃ = 「解脱楽における智（中性主格）」
+→ 「預流道によって有身見が捨断され断滅されたことによって、解脱楽における智が生起する。」
+
+3. vicikicchāya pahīnattā samucchinnattā uppajjati vimuttisukhe ñāṇaṃ,
+
+* vicikicchāya = 「疑の（属格）」
+  * vicikicchā = 「疑（vi + √cit の意欲形に由来、女性）」
+* （他は前句に同じ）
+→ 「疑が捨断され断滅されたことによって、解脱楽における智が生起する。」
+
+4. sīlabbataparāmāsassa …pe… diṭṭhānusayassa, vicikicchānusayassa pahīnattā samucchinnattā uppajjati vimuttisukhe ñāṇaṃ,
+
+* sīlabbata-parāmāsassa = 「戒禁取の（属格）」
+  * sīla = 「戒」+ bbata（vata）= 「禁・誓戒」
+  * parāmāsa = 「取・執取（parā + √mas、誤った執着）」
+  * 依主釈（tappurisa）「戒禁への執取」
+* …pe… = 「（中略）」〔戒禁取の項目の定型句を省略〕
+* diṭṭhi-anusayassa = 「見随眠の（属格）」
+  * anusaya = 「随眠（anu + √si、潜在的煩悩）」
+* vicikicchā-anusayassa = 「疑随眠の（属格）」
+* （他は前同）
+→ 「戒禁取が（中略）、〔また〕見随眠・疑随眠が捨断され断滅されたことによって、解脱楽における智が生起する。」〔以上、預流道による五項〕
+
+5. sakadāgāmimaggena oḷārikassa, kāmarāgasaññojanassa …pe… paṭighasaññojanassa, oḷārikassa kāmarāgānusayassa, paṭighānusayassa pahīnattā samucchinnattā uppajjati vimuttisukhe ñāṇaṃ,
+
+* sakadāgāmi-maggena = 「一来道によって（具格）」
+  * sakadāgāmin = 「一来（sakid 一たび + āgāmin 来る者）」
+* oḷārikassa = 「粗大なる（oḷārika、形容詞・属格、後続の煩悩を修飾）」
+* kāma-rāga-saññojanassa = 「欲貪結の（属格）」
+  * kāmarāga = 「欲貪」
+  * saññojana = 「結（saṃ + √yuj、繋縛するもの）」
+* …pe… = 「（中略）」
+* paṭigha-saññojanassa = 「瞋恚結の（属格）」
+  * paṭigha = 「瞋恚・有対（paṭi + √han）」
+* oḷārikassa kāma-rāga-anusayassa = 「粗大なる欲貪随眠の（属格）」
+* paṭigha-anusayassa = 「瞋恚随眠の（属格）」
+* （他は前同）
+→ 「一来道によって、粗大なる欲貪結が（中略）瞋恚結が、〔また〕粗大なる欲貪随眠・瞋恚随眠が捨断され断滅されたことによって、解脱楽における智が生起する。」〔以上、一来道による四項〕
+
+6. anāgāmimaggena anusahagatassa kāmarāgasaññojanassa …pe… paṭighasaññojanassa, anusahagatassa kāmarāgānusayassa, paṭighānusayassa pahīnattā samucchinnattā uppajjati vimuttisukhe ñāṇaṃ,
+
+* anāgāmi-maggena = 「不還道によって（具格）」
+  * anāgāmin = 「不還（na + āgāmin、再び〔欲界に〕来らざる者）」
+* anusahagatassa = 「微細に随伴する（anu + saha + gata、『微残として伴う』、属格）」
+* kāma-rāga-saññojanassa = 「欲貪結の（属格）」
+* …pe… = 「（中略）」
+* paṭigha-saññojanassa = 「瞋恚結の（属格）」
+* anusahagatassa kāma-rāga-anusayassa = 「微細に随伴する欲貪随眠の（属格）」
+* paṭigha-anusayassa = 「瞋恚随眠の（属格）」
+* （他は前同）
+→ 「不還道によって、微細に随伴する欲貪結が（中略）瞋恚結が、〔また〕微細に随伴する欲貪随眠・瞋恚随眠が捨断され断滅されたことによって、解脱楽における智が生起する。」〔以上、不還道による四項〕
+
+7. arahattamaggena, rūparāgassa …pe… arūparāgassa, mānassa, uddhaccassa, avijjāya, mānānusayassa, bhavarāgānusayassa, avijjānusayassa pahīnattā samucchinnattā uppajjati vimuttisukhe ñāṇaṃ.
+
+* arahatta-maggena = 「阿羅漢道によって（具格）」
+  * arahatta = 「阿羅漢果性・応供性（arahant の抽象名詞）」
+* rūpa-rāgassa = 「色貪の（属格）」〔色界への貪〕
+* …pe… = 「（中略）」
+* arūpa-rāgassa = 「無色貪の（属格）」〔無色界への貪〕
+* mānassa = 「慢の（属格）」
+* uddhaccassa = 「掉挙の（属格、ud + √dhṛ、心の浮動）」
+* avijjāya = 「無明の（属格）」
+* māna-anusayassa = 「慢随眠の（属格）」
+* bhava-rāga-anusayassa = 「有貪随眠の（属格）」〔生存への貪の随眠〕
+* avijjā-anusayassa = 「無明随眠の（属格）」
+* （他は前同）
+→ 「阿羅漢道によって、色貪が（中略）無色貪・慢・掉挙・無明が、〔また〕慢随眠・有貪随眠・無明随眠が捨断され断滅されたことによって、解脱楽における智が生起する。」〔以上、阿羅漢道による八項〕
+
+8. Imāni ekavīsati vimuttisukhe ñāṇāni.
+
+* imāni = 「これらが（中性複数主格）」
+* ekavīsati = 「二十一」
+* vimutti-sukhe ñāṇāni = 「解脱楽における諸々の智」
+→ 「これらが解脱楽における二十一の智である。」
+
+9. Soḷasavatthukaṃ ānāpānassatisamādhiṃ bhāvayato samadhikāni imāni dve ñāṇasatāni uppajjanti.
+
+* soḷasa-vatthukaṃ = 「十六事より成る（soḷasa 十六 + vatthu 事・基 + ka、有財釈 bahubbīhi、安般念三昧を修飾・対格）」
+  * 〔十六事＝四テトラッド十六項〕
+* ānāpāna-sati-samādhiṃ = 「安般念三昧を（対格）」
+  * ānāpāna = 「安般（assāsa-passāsa、入出息）」
+  * sati = 「念」
+  * samādhi = 「三昧・定」
+  * 依主釈（tappurisa）「入出息念の三昧」
+* bhāvayato = 「修習する者に〔とって〕（bhāveti 使役現在分詞・属格／与格、bhāvayant の単数）」
+* samadhikāni = 「余りを伴う・有余の（saha + adhika、『超過を伴う』、中性複数主格、ñāṇasatāni を修飾）」
+* imāni = 「これらの（中性複数主格）」
+* dve ñāṇa-satāni = 「二百の智（dve 二 + ñāṇa-sata 智百、中性複数主格）」
+  * 依主釈（tappurisa）「智の百〔が二つ〕」
+* uppajjanti = 「生起する（ud + √pad 現在三複）」
+→ 「十六事より成る安般念三昧を修習する者には、これら余りを伴う二百の智（二百有余の智）が生起する。」
+
+10. Ñāṇarāsichakkaniddeso chaṭṭho.
+
+* ñāṇa-rāsi-chakka-niddeso = 「智聚六種の釈示（中性→男性主格）」
+* chaṭṭho = 「第六〔の章〕（序数詞・男性主格、niddesa に係る）」
+→ 「智聚六種の釈示、第六〔章おわる〕。」
+
+11. Ānāpānassatikathā [ānāpānakathā (syā. ka.)] niṭṭhitā.
+
+* ānāpāna-sati-kathā = 「安般念論（女性主格）」
+  * 〔異読〕ānāpāna-kathā（安般論）― シャム本・ある写本（syā. ka.）
+* niṭṭhitā = 「終結した・完了した（niṭṭhāti 過分・女性主格、kathā に係る）」
+→ 「安般念論〔異読：安般論〕、終わる。」
