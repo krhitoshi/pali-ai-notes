@@ -1,3 +1,937 @@
+# 8. Anussatikammaṭṭhānaniddeso
+
+# Ānāpānassatikathā
+
+## 215 (1)
+
+215. Idāni yaṃ taṃ bhagavatā ‘‘ayampi kho, bhikkhave, ānāpānassatisamādhi bhāvito bahulīkato santo ceva paṇīto ca asecanako ca sukho ca vihāro, uppannuppanne ca pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasametī’’ti evaṃ pasaṃsitvā –
+
+‘‘Kathaṃ bhāvito ca, bhikkhave, ānāpānassatisamādhi kathaṃ bahulīkato santo ceva paṇīto ca asecanako ca sukho ca vihāro, uppannuppanne ca pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasameti? Idha, bhikkhave, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā, so satova assasati sato passasati. Dīghaṃ vā assasanto dīghaṃ assasāmīti pajānāti. Dīghaṃ vā passasanto…pe… rassaṃ vā assasanto…pe… rassaṃ vā passasanto rassaṃ passasāmīti pajānāti. Sabbakāyapaṭisaṃvedī assasissāmīti sikkhati. Sabbakāyapaṭisaṃvedī passasissāmīti sikkhati. Passambhayaṃ kāyasaṅkhāraṃ assasissāmīti sikkhati. Passambhayaṃ kāyasaṅkhāraṃ passasissāmīti sikkhati. Pītipaṭisaṃvedī… sukhapaṭisaṃvedī… cittasaṅkhārapaṭisaṃvedī… passambhayaṃ cittasaṅkhāraṃ… cittapaṭisaṃvedī… abhippamodayaṃ cittaṃ… samādahaṃ cittaṃ… vimocayaṃ cittaṃ … aniccānupassī… virāgānupassī… nirodhānupassī. Paṭinissaggānupassī assasissāmīti sikkhati. Paṭinissaggānupassī passasissāmīti sikkhatī’’ti –
+
+### Claude
+
+- 2026/06/24
+- Claude Opus 4.8 High
+
+【出典】Paṭisambhidāmagga, Mahāvagga, Ānāpānassatikathā §215（無礙解道・大品・安般念論）
+【凡例】本伝統（paṭi. ma. ／ pārā. aṭṭha. ／律註系）では assāsa＝入息、passāsa＝出息。清浄道論・経註系の慣例とは逆である点に留意。…pe…＝（中略）。
+
+### 対訳
+
+■ 標題
+Ānāpānassatikathā
+* ānāpāna = 「出入息（āna 入息＋apāna 出息）」
+* sati = 「念」
+* kathā = 「論、説示」
+→「安般念論（出入息念についての論説）」
+
+1. Idāni yaṃ taṃ bhagavatā ‘‘…’’ti evaṃ pasaṃsitvā –
+* idāni = 「いまや、今や」
+* yaṃ taṃ = 「およそ～であるところのその（こと）」（関係詞＋指示詞、中性・対格。下の安般念三昧を承ける）
+* bhagavatā = 「世尊によって」（具格）
+* ti = 引用標識「～と」
+* evaṃ = 「このように」
+* pasaṃsitvā = 「称讃して」（pasaṃsati の連続体）
+→「いまや、世尊が『…』とこのように称讃された、その〔安般念三昧〕について――」
+
+2. ‘‘ayampi kho, bhikkhave, ānāpānassatisamādhi bhāvito bahulīkato santo ceva paṇīto ca asecanako ca sukho ca vihāro,
+* ayampi = ayaṃ＋pi「この～もまた」
+* kho = 強調の不変化詞
+* bhikkhave = 「比丘たちよ」（呼格・複数）
+* ānāpānassatisamādhi = 「安般念三昧（出入息念三昧）」（ānāpāna-sati-samādhi、依主釈）
+* bhāvito = 「修習された」（過去分詞）
+* bahulīkato = 「多修された」（bahulī-kata、過去分詞）
+* santo (=santa) = 「寂静なる」
+* ceva ... ca ... ca ... ca = 「～であり、かつ～であり…」
+* paṇīto = 「勝妙なる」
+* asecanako = 「滲入を要しない（＝それ自体で円満な、混じり気なき）」
+* sukho vihāro = 「楽住である」（sukha-vihāra）
+→「『比丘たちよ、この安般念三昧もまた、修習され多修されたならば、寂静であり、かつ勝妙であり、かつ滲入を要せず〔それ自体で円満であり〕、かつ楽住であって、」
+
+3. uppannuppanne ca pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasametī’’ti evaṃ pasaṃsitvā –
+* uppannuppanne = 「生じるたびに生じた」（uppanna-uppanna、対格・複数）
+* pāpake akusale dhamme = 「悪なる不善の諸法を」（対格・複数）
+* ṭhānaso = 「即座に、その場で、直ちに」（ṭhāna の奪格的副詞）
+* antaradhāpeti = 「消滅させる、隠没させる」（antaradhāyati の使役）
+* vūpasameti = 「寂静ならしめる、鎮める」
+* ti = 引用終止
+→「生じるたびに生じた悪なる不善の諸法を、その場で直ちに消滅させ寂止させる』と、このように称讃して――」
+
+4. ‘‘Kathaṃ bhāvito ca, bhikkhave, ānāpānassatisamādhi kathaṃ bahulīkato santo ceva paṇīto ca asecanako ca sukho ca vihāro, uppannuppanne ca pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasameti?
+* kathaṃ = 「いかに、どのように」
+* bhāvito ca ... kathaṃ bahulīkato = 「いかに修習され、いかに多修されて」
+* （以下、語句は §2–3 に同じ）
+→「『では比丘たちよ、安般念三昧はいかに修習され、いかに多修されたならば、寂静であり、かつ勝妙であり、かつ滲入を要せず、かつ楽住であって、生じるたびに生じた悪なる不善の諸法を、その場で直ちに消滅させ寂止させるのか。」
+
+5. Idha, bhikkhave, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā,
+* idha = 「ここに（この〔教説〕において）」
+* bhikkhu = 「比丘は」
+* araññagato vā = 「あるいは林に行って」（arañña-gata）
+* rukkhamūlagato vā = 「あるいは樹下に行って」（rukkha-mūla-gata）
+* suññāgāragato vā = 「あるいは空閑処（空き家）に行って」（suññāgāra-gata）
+* nisīdati = 「坐る」
+* pallaṅkaṃ ābhujitvā = 「結跏趺坐を組んで」
+* ujuṃ kāyaṃ paṇidhāya = 「身をまっすぐに保って」
+* parimukhaṃ satiṃ upaṭṭhapetvā = 「念を面前に現起させて」（upaṭṭhapetvā：upaṭṭhāti の使役連続体、現起＝注意を確立する作用の意）
+→「比丘たちよ、ここに比丘が、林に行き、あるいは樹下に行き、あるいは空閑処に行って、結跏趺坐を組み、身をまっすぐに保ち、念を面前に現起させて坐す。」
+
+6. so satova assasati sato passasati.
+* so = 「彼は」
+* sato va = 「まさに念をなしつつ（念ある者として）」
+* assasati = 「入息する（息を吸う）」
+* sato = 「念をなしつつ」
+* passasati = 「出息する（息を吐く）」
+〔本伝統では assasati＝入息、passasati＝出息〕
+→「彼はまさに念をなしつつ入息し、念をなしつつ出息する。」
+
+7. Dīghaṃ vā assasanto ‘dīghaṃ assasāmī’ti pajānāti.
+* dīghaṃ vā = 「あるいは長く」（副詞的対格）
+* assasanto = 「入息しつつ」（現在分詞）
+* dīghaṃ assasāmi = 「『長く入息している』と」（assasāmi、現在・一人称単数）
+* ti = 引用
+* pajānāti = 「了知する」
+→「あるいは長く入息しつつ『長く入息している』と了知する。」
+
+8. Dīghaṃ vā passasanto …pe… rassaṃ vā assasanto …pe… rassaṃ vā passasanto ‘rassaṃ passasāmī’ti pajānāti.
+* dīghaṃ vā passasanto = 「あるいは長く出息しつつ」
+* …pe… = （中略：『長く出息している』と了知する）
+* rassaṃ vā assasanto = 「あるいは短く入息しつつ」
+* …pe… = （中略：『短く入息している』と了知する）
+* rassaṃ vā passasanto = 「あるいは短く出息しつつ」
+* rassaṃ passasāmi = 「『短く出息している』と」
+* ti pajānāti = 「と了知する」
+→「あるいは長く出息しつつ（中略）。あるいは短く入息しつつ（中略）。あるいは短く出息しつつ『短く出息している』と了知する。」
+
+9. Sabbakāyapaṭisaṃvedī ‘assasissāmī’ti sikkhati. Sabbakāyapaṭisaṃvedī ‘passasissāmī’ti sikkhati.〔第三歩〕
+* sabbakāyapaṭisaṃvedī = 「全身を感受する者として」（sabba-kāya-paṭisaṃvedin、有財釈）
+* assasissāmi = 「『入息しよう（入息するであろう）』と」（未来・一人称単数）
+* ti sikkhati = 「と学ぶ」
+* passasissāmi = 「『出息しよう』と」
+→「『全身を感受する者として入息しよう』と学ぶ。『全身を感受する者として出息しよう』と学ぶ。」
+
+10. Passambhayaṃ kāyasaṅkhāraṃ ‘assasissāmī’ti sikkhati. Passambhayaṃ kāyasaṅkhāraṃ ‘passasissāmī’ti sikkhati.〔第四歩〕
+* passambhayaṃ = 「静めつつ」（passambheti の使役現在分詞）
+* kāyasaṅkhāraṃ = 「身行を」（対格）
+* assasissāmi / passasissāmi = 「『入息しよう』／『出息しよう』と」
+* ti sikkhati = 「と学ぶ」
+→「『身行を静めつつ入息しよう』と学ぶ。『身行を静めつつ出息しよう』と学ぶ。」
+
+11. Pītipaṭisaṃvedī… sukhapaṭisaṃvedī… cittasaṅkhārapaṭisaṃvedī… passambhayaṃ cittasaṅkhāraṃ… cittapaṭisaṃvedī… abhippamodayaṃ cittaṃ… samādahaṃ cittaṃ… vimocayaṃ cittaṃ… aniccānupassī… virāgānupassī… nirodhānupassī.
+〔…はいずれも「‘assasissāmī’ti sikkhati. …‘passasissāmī’ti sikkhati.（『…入息しよう』と学ぶ。『…出息しよう』と学ぶ）」の中略〕
+* pītipaṭisaṃvedī = 「喜を感受する者として」〔第五歩〕
+* sukhapaṭisaṃvedī = 「楽を感受する者として」〔第六歩〕（sukha＝楽、vedanā 系）
+* cittasaṅkhārapaṭisaṃvedī = 「心行を感受する者として」〔第七歩〕
+* passambhayaṃ cittasaṅkhāraṃ = 「心行を静めつつ」〔第八歩〕
+* cittapaṭisaṃvedī = 「心を感受する者として」〔第九歩〕
+* abhippamodayaṃ cittaṃ = 「心を喜悦させつつ」〔第十歩〕（abhippamoda＝喜悦／極喜、使役現在分詞）
+* samādahaṃ cittaṃ = 「心を等持させつつ（統一しつつ）」〔第十一歩〕（samādahati の現在分詞）
+* vimocayaṃ cittaṃ = 「心を解脱させつつ」〔第十二歩〕（vimoceti の使役現在分詞）
+* aniccānupassī = 「無常を随観する者として」〔第十三歩〕（anicca-anupassin）
+* virāgānupassī = 「離貪を随観する者として」〔第十四歩〕（virāga-anupassin）
+* nirodhānupassī = 「滅を随観する者として」〔第十五歩〕（nirodha-anupassin）
+→「『喜を感受する者として…』（中略）。『楽を感受する者として…』（中略）。『心行を感受する者として…』（中略）。『心行を静めつつ…』（中略）。『心を感受する者として…』（中略）。『心を喜悦させつつ…』（中略）。『心を等持させつつ…』（中略）。『心を解脱させつつ…』（中略）。『無常を随観する者として…』（中略）。『離貪を随観する者として…』（中略）。『滅を随観する者として…』（中略、それぞれ「入息しよう」「出息しよう」と学ぶ）。」
+
+12. Paṭinissaggānupassī ‘assasissāmī’ti sikkhati. Paṭinissaggānupassī ‘passasissāmī’ti sikkhatī’’ti –
+* paṭinissaggānupassī = 「捨遣を随観する者として」〔第十六歩〕（paṭinissagga-anupassin、捨遣＝paṭinissagga）
+* assasissāmi = 「『入息しよう』と」
+* ti sikkhati = 「と学ぶ」
+* passasissāmi = 「『出息しよう』と」
+* ti sikkhati = 「と学ぶ」
+* ti = 引用終止（以上が世尊の説示の引用）
+→「『捨遣を随観する者として入息しよう』と学ぶ。『捨遣を随観する者として出息しよう』と学ぶ』と――」
+
+## 215 (2)
+
+Evaṃ soḷasavatthukaṃ ānāpānassatikammaṭṭhānaṃ niddiṭṭhaṃ. Tassa bhāvanānayo anuppatto. So pana yasmā pāḷivaṇṇanānusāreneva vuccamāno sabbākāraparipūro hoti. Tasmā ayamettha pāḷivaṇṇanāpubbaṅgamo niddeso.
+
+### Claude
+
+- 2026/06/24
+- Claude Opus 4.8 High
+
+【出典】Saddhammappakāsinī（無礙解道註）, Ānāpānassatikathāvaṇṇanā 冒頭（§215 への註釈導入部）
+【凡例】本伝統（paṭi. ma. ／ pārā. aṭṭha. ／律註系）では assāsa＝入息、passāsa＝出息。清浄道論・経註系の慣例とは逆である点に留意。本段は出入息語を含まず、根本聖典（pāḷi）の説示を承けて註釈の方針を述べる移行句である。
+
+### 対訳
+
+1. Evaṃ soḷasavatthukaṃ ānāpānassatikammaṭṭhānaṃ niddiṭṭhaṃ.
+* evaṃ = 「このように、以上のごとく」
+* soḷasavatthukaṃ = 「十六の事項をもつ」（soḷasa-vatthuka、有財釈。soḷasa＝十六／vatthu＝事・項目・基礎／-ka 有財釈接尾辞）
+* ānāpānassatikammaṭṭhānaṃ = 「安般念の業処（出入息念という瞑想主題）」（ānāpāna-sati-kammaṭṭhāna、依主釈。kamma-ṭṭhāna＝業処）
+* niddiṭṭhaṃ = 「説示された」（niddisati〈nid-√diś〉の過去分詞、中性単数主格）
+→「このように、十六の事項をもつ安般念の業処が説示された。」
+
+2. Tassa bhāvanānayo anuppatto.
+* tassa = 「その〔業処の〕」（指示代名詞、属格）
+* bhāvanānayo = 「修習の方軌（修習の方法・理趣）」（bhāvanā-naya、依主釈。bhāvanā＝修習／naya＝方法・道理）
+* anuppatto = 「到来した、（説くべき順番が）至った」（anu-√pad、anuppatta の過去分詞、男性単数主格）
+→「その〔業処の〕修習の方軌〔を説くべき順番〕が到来した。」
+
+3. So pana yasmā pāḷivaṇṇanānusāreneva vuccamāno sabbākāraparipūro hoti.
+* so pana = 「しかしてそれ〔修習の方軌〕は」（so＝それは／pana 接続不変化詞）
+* yasmā = 「～であるがゆえに」（理由を導く関係副詞、下の tasmā と相関）
+* pāḷivaṇṇanānusārena = 「聖典〔本文〕の註釈に随順して」（pāḷi-vaṇṇanā-anusāra、依主釈、具格。pāḷi＝根本聖典・本文／vaṇṇanā＝註釈・解説／anusāra＝随順）
+* eva = 「まさに、こそ、のみ」（限定の強調不変化詞）
+* vuccamāno = 「説かれるならば、説かれつつあるとき」（vuccati の現在受動分詞、男性単数主格）
+* sabbākāraparipūro = 「一切の行相において円満な〔ものと〕」（sabba-ākāra-paripūra、有財釈。sabba＝一切／ākāra＝行相・様態／paripūra＝円満・完備）
+* hoti = 「～となる、～である」
+→「しかしてそれ〔修習の方軌〕は、まさに聖典〔本文〕の註釈に随順して説かれるならば、一切の行相において円満なものとなるがゆえに、」
+
+4. Tasmā ayamettha pāḷivaṇṇanāpubbaṅgamo niddeso.
+* tasmā = 「それゆえに」（§3 の yasmā と相関する結論辞）
+* ayaṃ = 「この」（指示代名詞、男性単数主格、niddeso を承ける）
+* ettha = 「ここにおいて、この〔註釈の〕場において」
+* pāḷivaṇṇanāpubbaṅgamo = 「聖典〔本文〕の註釈を先導とする」（pāḷivaṇṇanā-pubbaṅgama、有財釈。pubba＝前／aṅgama＝赴くもの→ pubbaṅgama＝先行・先導）
+* niddeso = 「説示、詳説、解説」（nid-√diś、男性単数主格）
+→「それゆえに、ここでのこの説示は、聖典〔本文〕の註釈を先導とする〔ものである〕。」
+
+## 216 (1)
+
+216. Kathaṃ bhāvito ca, bhikkhave, ānāpānassati samādhīti ettha tāva kathanti ānāpānassatisamādhibhāvanaṃ nānappakārato vitthāretukamyatāpucchā. Bhāvito ca bhikkhave ānāpānassatisamādhīti nānappakārato vitthāretukamyatāya puṭṭhadhammanidassanaṃ. Kathaṃ bahulīkato…pe… vūpasametīti etthāpi eseva nayo. Tattha bhāvitoti uppādito vaḍḍhito vā. Ānāpānassatisamādhīti ānāpānapariggāhikāya satiyā saddhiṃ sampayutto samādhi. Ānāpānassatiyaṃ vā samādhi ānāpānassatisamādhi. Bahulīkatoti punappunaṃ kato. Santoceva paṇīto cāti santo ceva paṇīto ceva. Ubhayattha eva saddena niyamo veditabbo. Kiṃ vuttaṃ hoti? Ayañhi yathā asubhakammaṭṭhānaṃ kevalaṃ paṭivedhavasena santañca paṇītañca, oḷārikārammaṇattā pana paṭikkūlārammaṇattā ca ārammaṇavasena neva santaṃ na paṇītaṃ, na evaṃ kenaci pariyāyena asanto vā apaṇīto vā, atha kho ārammaṇasantatāyapi santo vūpasanto nibbuto, paṭivedhasaṅkhātaaṅgasantatāyapi. Ārammaṇapaṇītatāyapi paṇīto atittikaro, aṅgapaṇītatāyapīti. Tena vuttaṃ ‘‘santo ceva paṇīto cā’’ti.
+
+### Claude
+
+- 2026/06/24
+- Claude Opus 4.8 High
+
+### 対訳
+
+【出典】Visuddhimagga, Ānāpānassatikathā（清浄道論・安般念論, §216）
+　※当該箇所には assāsa/passāsa の語は現れないため方向性注記は省略。
+　　なお本書は Vism 系統（assāsa＝出息／passāsa＝入息）に属する。
+　被註本文（根本聖典）＝ Saṃyutta-nikāya, Ānāpānasaṃyutta の定型句。
+
+1. Kathaṃ bhāvito ca, bhikkhave, ānāpānassati samādhī ti ettha tāva kathan ti ānāpānassatisamādhibhāvanaṃ nānappakārato vitthāretukamyatāpucchā.
+
+* Kathaṃ bhāvito ca bhikkhave ānāpānassatisamādhī ti =〔被註句〕「比丘たちよ、いかにして安般念三昧が修習され（るのか）」とは
+* ettha = 「ここでは」（loc.）
+* tāva = 「まず」
+* kathaṃ ti = 「（語のうち）『いかにして（kathaṃ）』とは」
+* ānāpānassatisamādhibhāvanaṃ = 「安般念三昧の修習を」（acc., tappurisa 連鎖）
+* nānappakārato = 「種々の仕方で」（abl. 副詞的用法）
+* vitthāretukamyatā-pucchā = 「詳説しようと欲することによる問い」
+  * vitthāretu(ṃ) = 「詳説しようと」（不定詞）
+  * kamyatā = 「欲すること」（願望名詞）
+  * pucchā = 「問い」（tappurisa）
+
+→「『比丘たちよ、いかにして安般念三昧が修習され（るのか）』とは、ここでまず『いかにして』とは、安般念三昧の修習を種々の仕方で詳説しようと欲することによる問いである。」
+
+2. Bhāvito ca bhikkhave ānāpānassatisamādhī ti nānappakārato vitthāretukamyatāya puṭṭhadhammanidassanaṃ.
+
+* Bhāvito ca bhikkhave ānāpānassatisamādhī ti =〔被註句〕「比丘たちよ、安般念三昧が修習され（た）」とは
+* nānappakārato vitthāretukamyatāya = 「種々の仕方で詳説しようと欲することによって」（instr.）
+* puṭṭha-dhamma-nidassanaṃ = 「問われた事柄（法）の提示」（tappurisa）
+  * puṭṭha = 「問われた」（pucch の過分）
+  * dhamma = 「法・事柄」
+  * nidassana = 「提示・指示」
+
+→「『比丘たちよ、安般念三昧が修習され（た）』とは、種々の仕方で詳説しようと欲することによって、問われた事柄（法）を提示するものである。」
+
+3. Kathaṃ bahulīkato …pe… vūpasametī ti etthāpi eseva nayo.
+
+* Kathaṃ bahulīkato = 「『いかにして多修され（た）か』」
+* …pe… = （中略）〔peyyāla：根本句中 “santo ceva paṇīto ca asecanako ca sukho ca vihāro uppannuppanne ca pāpake akusale dhamme ṭhānaso antaradhāpeti” までを省略し、末尾 vūpasameti に接続〕
+* vūpasameti ti = 「『（それを）寂止せしめる』とは」
+* etthāpi = 「ここでも」
+* eso eva nayo = 「まさにこの理趣（道理）が（適用される）」
+
+→「『いかにして多修され（た）か…（中略）…（悪不善法を）寂止せしめる』とは、ここでもまさに同じ理趣（が適用される）。」
+
+4. Tattha bhāvito ti uppādito vaḍḍhito vā.
+
+* Tattha = 「そのうち（諸句中）」
+* bhāvito ti = 「『修習された（bhāvito）』とは」
+* uppādito = 「生起せしめられた」（使役過分）
+* vaḍḍhito vā = 「あるいは増大せしめられた」（使役過分）
+
+→「そのうち、『修習された』とは、生起せしめられた、あるいは増大せしめられた（の意）である。」
+
+5. Ānāpānassatisamādhī ti ānāpānapariggāhikāya satiyā saddhiṃ sampayutto samādhi.
+
+* Ānāpānassatisamādhī ti = 「『安般念三昧』とは」
+* ānāpāna-pariggāhikāya satiyā = 「出入息を把握する念と」（instr., pariggāhikā は sati に係る女性形）
+* saddhiṃ = 「ともに」
+* sampayutto samādhi = 「相応した三昧（である）」
+
+→「『安般念三昧』とは、出入息を把握する念とともに相応した三昧（である）。」
+
+6. Ānāpānassatiyaṃ vā samādhi ānāpānassatisamādhi.
+
+* Ānāpānassatiyaṃ vā = 「あるいは安般念において」（loc.）
+* samādhi = 「三昧（は）」
+* ānāpānassatisamādhi = 「安般念三昧（である）」（場所格依主釈：ānāpānassatiyaṃ samādhi）
+
+→「あるいは、安般念における三昧（であるから）『安般念三昧』（と名づけられる）。」
+〔注：第5句は念との相応（sampayoga）の側面、第6句は所依たる念を場所とする依主釈の側面の二解。〕
+
+7. Bahulīkato ti punappunaṃ kato.
+
+* Bahulīkato ti = 「『多修された（bahulīkato）』とは」
+* punappunaṃ kato = 「繰り返しなされた（の意）」
+
+→「『多修された』とは、繰り返しなされた（の意）である。」
+
+8. Santo ceva paṇīto cā ti santo ceva paṇīto ceva.
+
+* Santo ceva paṇīto cā ti =〔被註句〕「『寂静にして、かつ勝妙なる』とは」
+* santo ceva paṇīto ceva = 「寂静そのものであり、かつ勝妙そのものである（の意）」
+  * santo = 「寂静（なる）」（√śam, 現分／形容詞）
+  * paṇīto = 「勝妙（なる）」（pa-√nī の過分由来）
+
+→「『寂静にして、かつ勝妙なる』とは、寂静そのものであり、かつ勝妙そのものである（の意）である。」
+
+9. Ubhayattha eva saddena niyamo veditabbo.
+
+* Ubhayattha = 「両者において（両所において）」
+* eva-saddena = 「『eva（…こそ・…そのもの）』という語によって」
+* niyamo = 「限定（確定の意）が」
+* veditabbo = 「知られるべきである」（義務分詞）
+
+→「両者において、『eva（…こそ）』という語によって限定（の意）が知られるべきである。」
+
+10. Kiṃ vuttaṃ hoti?
+
+* Kiṃ vuttaṃ hoti = 「何が言われたことになるのか（＝その意とするところは何か）」
+
+→「（では）その意とするところは何か。」
+
+11. Ayañ hi yathā asubhakammaṭṭhānaṃ kevalaṃ paṭivedhavasena santañca paṇītañca, oḷārikārammaṇattā pana paṭikkūlārammaṇattā ca ārammaṇavasena neva santaṃ na paṇītaṃ, na evaṃ kenaci pariyāyena asanto vā apaṇīto vā, atha kho ārammaṇasantatāyapi santo vūpasanto nibbuto, paṭivedhasaṅkhātaaṅgasantatāyapi.
+
+* Ayaṃ hi = 「なぜなら、この（安般念三昧）は」
+* yathā asubhakammaṭṭhānaṃ = 「あたかも不浄業処が」
+* kevalaṃ paṭivedhavasena = 「ただ通達（証得）の力（観点）からのみ」
+* santañ ca paṇītañ ca = 「寂静であり、かつ勝妙である（が）」
+* oḷārika-ārammaṇattā pana = 「しかし所縁が粗大であること（粗大所縁性）のゆえに」（abl., bhāva-taddhita；oḷārikārammaṇa は kammadhāraya）
+* paṭikkūla-ārammaṇattā ca = 「また所縁が厭逆（嫌悪）すべきものであることのゆえに」（abl.）
+* ārammaṇavasena = 「所縁の観点からは」
+* neva santaṃ na paṇītaṃ = 「寂静でもなく勝妙でもない――（不浄業処はそのようであるが）」
+* na evaṃ = 「（安般念三昧は）そのようではない」
+* kenaci pariyāyena = 「いかなる仕方（理由）によっても」
+* asanto vā apaṇīto vā = 「不寂静であったり不勝妙であったりすることは（ない）」
+* atha kho = 「むしろ、それどころか」
+* ārammaṇa-santatāya pi = 「所縁が寂静であること（所縁寂静性）によっても」（instr., tappurisa＋ta）
+* santo vūpasanto nibbuto = 「寂静であり、寂止し、寂滅している」
+* paṭivedhasaṅkhāta-aṅga-santatāya pi = 「通達と称される支分（禅支）の寂静性によっても（寂静である）」
+  * paṭivedhasaṅkhāta = 「通達と称される」（kammadhāraya；aṅga を修飾）
+  * aṅga = 「支分（禅支等）」
+  * santatā = 「寂静性」
+
+→「なぜなら、この（安般念三昧）は、あたかも不浄業処がただ通達の観点からのみ寂静かつ勝妙であって、所縁が粗大であり、また所縁が厭逆すべきものであるがゆえに、所縁の観点からは寂静でも勝妙でもない――そのようには、いかなる仕方によっても不寂静・不勝妙であることはなく、むしろ所縁が寂静であることによっても寂静・寂止・寂滅しており、また通達と称される支分（禅支）の寂静性によっても（寂静であり）、」
+
+12. Ārammaṇapaṇītatāyapi paṇīto atittikaro, aṅgapaṇītatāyapī ti.
+
+* Ārammaṇa-paṇītatāya pi = 「所縁の勝妙性によっても」（instr., tappurisa＋ta）
+* paṇīto = 「勝妙であり」
+* atittikaro = 「飽くことなからしめる者（厭飽を生ぜしめない者）」（a-titti-kara, kammadhāraya／否定複合）
+* aṅga-paṇītatāya pi ti = 「また支分（禅支）の勝妙性によっても（勝妙である）、と」
+
+→「所縁の勝妙性によっても勝妙であり、（味わって）飽くことなからしめるものであり、また支分（禅支）の勝妙性によっても（勝妙である）、と（いうことである）。」
+
+13. Tena vuttaṃ ‘‘santo ceva paṇīto cā’’ti.
+
+* Tena vuttaṃ = 「それゆえに説かれた」
+* "santo ceva paṇīto cā" ti = 「『寂静にして、かつ勝妙なる』と」
+
+→「それゆえに『寂静にして、かつ勝妙なる』と説かれたのである。」
+
+## 216 (2)
+
+Asecanako ca sukho ca vihāroti ettha pana nāssa secananti asecanako, anāsittako abbokiṇṇo pāṭiyekko āveṇiko. Natthi ettha parikammena vā upacārena vā santatā. Ādisamannāhārato pabhuti attano sabhāveneva santo ca paṇīto cāti attho. Keci pana asecanakoti anāsittako ojavanto sabhāveneva madhuroti vadanti. Evaṃ ayaṃ asecanako ca, appitappitakkhaṇe kāyikacetasikasukhapaṭilābhāya saṃvattanato sukho ca vihāroti veditabbo. Uppannuppanneti avikkhambhite avikkhambhite. Pāpaketi lāmake. Akusale dhammeti akosallasambhūte dhamme. Ṭhānaso antaradhāpetīti khaṇeneva antaradhāpeti vikkhambheti. Vūpasametīti suṭṭhu upasameti. Nibbedhabhāgiyattā vā anupubbena ariyamaggavuddhippatto samucchindati, paṭippassambhetīti vuttaṃ hoti.
+
+Ayaṃ panettha saṅkhepattho. Bhikkhave, kena pakārena kenākārena kena vidhinā bhāvito ānāpānassatisamādhi kena pakārena bahulīkato santo ceva…pe… vūpasametīti.
+
+### Claude
+
+- 2026/06/24
+- Claude Opus 4.8 High
+
+### 対訳
+
+【出典】Visuddhimagga, Ānāpānassatikathā（清浄道論・安般念論, §216 続）
+　※当該箇所には assāsa/passāsa の語は現れないため方向性注記は省略。
+　　本書は Vism 系統（assāsa＝出息／passāsa＝入息）に属する。
+　被註本文（根本聖典）＝ Saṃyutta-nikāya, Ānāpānasaṃyutta の定型句。
+
+1. Asecanako ca sukho ca vihāro ti ettha pana nāssa secanan ti asecanako, anāsittako abbokiṇṇo pāṭiyekko āveṇiko.
+
+* Asecanako ca sukho ca vihāro ti =〔被註句〕「『不雑にして、かつ安楽なる住なる』とは」
+  * asecanaka = 「灌ぎ混ぜることのない、混ぜ物なき」（a-secana-ka）
+  * sukho vihāro = 「安楽なる住」
+* ettha pana = 「しかしここでは」
+* na assa secanan ti asecanako = 「これには『灌ぎ混ぜ（secana）』がない、ゆえに『asecanaka（不雑）』（である）」（bahubbīhi として語釈）
+  * na assa secanaṃ = 「これ（この三昧）には混入がない」
+* anāsittako = 「（他を）灌ぎ加えられていない者、混和されていないもの」（an-āsitta-ka, ā-√sic の過分由来）
+* abbokiṇṇo = 「（他で）覆い乱されていない、間雑なき」（a-vyavakiṇṇa）
+* pāṭiyekko = 「個別の、それ自体独立した」
+* āveṇiko = 「不共の、独自の（他と共通しない）」
+
+→「『不雑にして、かつ安楽なる住なる』とは、ここでは、これ（この三昧）には『灌ぎ混ぜ』がない、ゆえに『asecanaka（不雑）』であり、（他を）混和されていない、間雑なき、個別独立の、不共独自の（ものである）。」
+
+2. Natthi ettha parikammena vā upacārena vā santatā.
+
+* Natthi ettha = 「ここには存在しない」
+* parikammena vā = 「遍作（予備作業）によってであれ」（instr.）
+* upacārena vā = 「近行（近接）によってであれ」（instr.）
+* santatā = 「寂静性が」
+
+→「ここには、遍作によってであれ近行によってであれ（生ずるような段階的な）寂静性は存在しない。」
+
+3. Ādisamannāhārato pabhuti attano sabhāveneva santo ca paṇīto cā ti attho.
+
+* Ādisamannāhārato pabhuti = 「最初の作意（思惟を向けること）の時より以来」（abl.；ādi＝最初, samannāhāra＝作意・等引）
+* attano sabhāvena eva = 「（この三昧）自身の自性によってこそ」（instr.）
+* santo ca paṇīto ca ti attho = 「寂静であり、かつ勝妙である、という意味である」
+
+→「最初の作意の時より以来、（この三昧）自身の自性によってこそ寂静であり、かつ勝妙である、という意味である。」
+〔注：不浄業処等のように parikamma → upacāra と段階を経て寂静化するのではなく、最初から所縁・自性そのものが寂静・勝妙であることを言う。〕
+
+4. Keci pana asecanako ti anāsittako ojavanto sabhāveneva madhuro ti vadanti.
+
+* Keci pana = 「しかし或る者たち（一部の註釈家）は」
+* asecanako ti = 「『asecanaka』とは」
+* anāsittako = 「（水を）注ぎ足されていない（もの）」
+* ojavanto = 「滋味（精気）に富む」（oja＋vant）
+* sabhāvena eva madhuro = 「自性のままで甘美なもの（である）」
+* ti vadanti = 「と説く」
+
+→「しかし或る者たちは、『asecanaka』とは、（水を）注ぎ足されていない、滋味に富み、自性のままで甘美なものである、と説く。」
+〔注：asecanaka を「（薄めるための）水を注ぎ加える必要のない、それ自体で美味な飲料」の如きものと解する別釈。〕
+
+5. Evaṃ ayaṃ asecanako ca, appitappitakkhaṇe kāyikacetasikasukhapaṭilābhāya saṃvattanato sukho ca vihāro ti veditabbo.
+
+* Evaṃ ayaṃ = 「このように、この（三昧）は」
+* asecanako ca = 「不雑であり」
+* appitappita-kkhaṇe = 「安止（に入った）その都度の刹那において」（appita の畳語＝「安止する毎に」, appeti 安止する の過分）
+* kāyika-cetasika-sukha-paṭilābhāya = 「身の・心の楽の獲得のために」（dat.；kāyika＝身に属する, cetasika＝心に属する）
+* saṃvattanato = 「資する（導く）がゆえに」（abl.）
+* sukho ca vihāro ti = 「かつ安楽なる住である、と」
+* veditabbo = 「知られるべきである」（義務分詞）
+
+→「このように、この（三昧）は不雑であり、また安止に入る都度の刹那において身心の楽の獲得に資するがゆえに、安楽なる住でもある、と知られるべきである。」
+
+6. Uppannuppanne ti avikkhambhite avikkhambhite.
+
+* Uppannuppanne ti = 「『生起しつつある（生起する毎に）』とは」（uppanna の畳語＝「生起する都度」, loc.）
+* avikkhambhite avikkhambhite = 「いまだ鎮伏されていない毎に（の意）」（a-vikkhambhita の畳語, loc.）
+
+→「『生起する毎に』とは、いまだ鎮伏されていないその都度（の意）である。」
+
+7. Pāpake ti lāmake.
+
+* Pāpake ti = 「『悪しき（pāpaka）』とは」
+* lāmake = 「劣悪なる（の意）」
+
+→「『悪しき』とは、劣悪なる（の意）である。」
+
+8. Akusale dhamme ti akosallasambhūte dhamme.
+
+* Akusale dhamme ti = 「『不善なる諸法（akusalā dhammā）』とは」
+* akosalla-sambhūte dhamme = 「不善巧（無智）より生じた諸法（の意）」（akosalla＝善巧ならざること, sambhūta＝より生じた；tappurisa）
+
+→「『不善なる諸法』とは、不善巧（無智）より生じた諸法（の意）である。」
+
+9. Ṭhānaso antaradhāpetī ti khaṇeneva antaradhāpeti vikkhambheti.
+
+* Ṭhānaso antaradhāpetī ti = 「『即座に消失せしめる』とは」（ṭhānaso＝その場で・たちどころに, abl. 副詞）
+* khaṇena eva = 「刹那のうちに（直ちに）」（instr.）
+* antaradhāpeti = 「消失せしめる」（使役）
+* vikkhambheti = 「鎮伏する（の意）」
+
+→「『即座に消失せしめる』とは、刹那のうちに消失せしめ、（すなわち）鎮伏する（の意）である。」
+
+10. Vūpasametī ti suṭṭhu upasameti.
+
+* Vūpasametī ti = 「『寂止せしめる（vūpasameti）』とは」
+* suṭṭhu upasameti = 「善く寂止せしめる（の意）」（vi＋upa＋√śam を suṭṭhu＋upasameti と分解語釈）
+
+→「『寂止せしめる』とは、善く寂止せしめる（の意）である。」
+
+11. Nibbedhabhāgiyattā vā anupubbena ariyamaggavuddhippatto samucchindati, paṭippassambhetī ti vuttaṃ hoti.
+
+* Nibbedha-bhāgiyattā vā = 「あるいは（この三昧が）決択分（に資する性質）に属するものであることのゆえに」（abl.；nibbedha＝決択・通達, bhāgiya＝分に属する, ta＝性）
+* anupubbena = 「順次に（次第に）」（instr. 副詞）
+* ariyamagga-vuddhippatto = 「聖道の増大に達した（者・状態となって）」（vuddhi＋patta；tappurisa）
+* samucchindati = 「（諸悪不善法を）断ち切る」
+* paṭippassambheti ti = 「（また）軽安ならしめ寂滅せしめる、と」
+* vuttaṃ hoti = 「説かれたことになる」
+
+→「あるいは、（この三昧が）決択分に属するものであるがゆえに、順次に聖道の増大に達して（諸悪不善法を）断ち切り、軽安ならしめ寂滅せしめる、と説かれたことになる。」
+〔注：antaradhāpeti を、近義としては vikkhambhana（鎮伏）として、究極義としては聖道による samuccheda（正断）・paṭippassaddhi（軽安捨断）として二重に解する。〕
+
+12. Ayaṃ pan' ettha saṅkhepattho.
+
+* Ayaṃ pana = 「しかして、これが」
+* ettha = 「ここにおける」
+* saṅkhepattho = 「要略の意義（である）」（saṅkhepa＋attha, tappurisa）
+
+→「しかして、これがここにおける要略の意義である。」
+
+13. Bhikkhave, kena pakārena kenākārena kena vidhinā bhāvito ānāpānassatisamādhi kena pakārena bahulīkato santo ceva …pe… vūpasametī ti.
+
+* Bhikkhave = 「比丘たちよ」（呼格）
+* kena pakārena = 「いかなる方法によって」（instr.）
+* kena ākārena = 「いかなる行相（あり方）によって」（instr.）
+* kena vidhinā = 「いかなる仕方によって」（instr.）
+* bhāvito ānāpānassatisamādhi = 「安般念三昧が修習され（て）」
+* kena pakārena bahulīkato = 「いかなる方法によって多修され（て）」
+* santo ceva …pe… = 「寂静にして、かつ…（中略）…〔paṇīto…asecanako…sukho ca vihāro… uppannuppanne pāpake akusale dhamme ṭhānaso antaradhāpeti を省略〕」
+* vūpasametī ti = 「（それを）寂止せしめる（のか）、と（いう問いである）」
+
+→「（すなわち）『比丘たちよ、いかなる方法・いかなる行相・いかなる仕方によって安般念三昧が修習され、いかなる方法によって多修されて、寂静にして…（中略）…（諸悪不善法を）寂止せしめるのか』と（いうことが、この問いの意である）。」
+
+## 217 (1)
+
+217. Idāni tamatthaṃ vitthārento ‘‘idha, bhikkhave’’tiādimāha. Tattha idha bhikkhave bhikkhūti bhikkhave, imasmiṃ sāsane bhikkhu. Ayañhi ettha idhasaddo sabbappakāraānāpānassatisamādhinibbattakassa puggalassa sannissayabhūtasāsanaparidīpano aññasāsanassa tathābhāvapaṭisedhano ca. Vuttañhetaṃ – idheva, bhikkhave, samaṇo…pe… suññā parappavādā samaṇebhi aññehī’’ti (ma. ni. 1.139). Tena vuttaṃ ‘‘imasmiṃ sāsane bhikkhū’’ti.
+
+### Claude
+
+- 2026/06/24
+- Claude Opus 4.8 High
+
+### 対訳
+
+出典：Visuddhimagga, Ānāpānassatikathā §217（清浄道論・安般念論）
+※本箇所には assāsa／passāsa は現れないため方向性注記は省略。
+
+1. Idāni tamatthaṃ vitthārento ‘‘idha, bhikkhave’’tiādimāha.
+
+* idāni = 「今や、ここに至って」
+* taṃ atthaṃ = 「その意義を」（taṃ 指示代名詞・男/中・対 ＋ atthaṃ・対）
+* vitthārento = 「詳説しつつ／敷衍しつつ」（vi-√thar 使役系・現在分詞・男・主）
+* ‘‘idha, bhikkhave’’ti ādiṃ = 「『idha, bhikkhave（ここに、比丘たちよ）』に始まる（一節）を」（ti-ādiṃ：引用辞 ti ＋ ādi「～等・～以下」の対、tappurisa）
+* āha = 「説いた／述べた」（√ah 完了形・三・単）
+
+→「今や、その意義を詳説しつつ、『ここに、比丘たちよ』に始まる一節を説いた。」
+
+2. Tattha idha bhikkhave bhikkhūti bhikkhave, imasmiṃ sāsane bhikkhu.
+
+* tattha = 「そのうち／そこにおいて」（場所・基準を示す）
+* idha bhikkhave bhikkhū ti = 「『ここに、比丘たちよ、比丘は』とは」（引用辞 ti による語句の標示）
+* bhikkhave = 「比丘たちよ」（呼格・複）
+* imasmiṃ sāsane = 「この教法（教説）において」（imasmiṃ 指示・処格 ＋ sāsana・処格）
+* bhikkhu = 「比丘（は）」（主・単）
+
+→「そのうち、『ここに、比丘たちよ、比丘は』とは、〔すなわち〕比丘たちよ、この教法における比丘〔のこと〕である。」
+
+3. Ayañhi ettha idhasaddo sabbappakāraānāpānassatisamādhinibbattakassa puggalassa sannissayabhūtasāsanaparidīpano aññasāsanassa tathābhāvapaṭisedhano ca.
+
+* ayaṃ hi = 「なぜなら、この～は」（ayaṃ 主・単 ＋ 理由の hi）
+* ettha = 「ここにおいて／この文脈で」
+* idha-saddo = 「『idha（ここに）』という語は」（idha ＋ sadda「語」、kammadhāraya／主・単）
+* sabbappakāra-ānāpānassati-samādhi-nibbattakassa puggalassa = 「あらゆる種類の安般念三昧を生起せしめる人の」（属・単、長い tappurisa）
+  * sabba-ppakāra = 「あらゆる種類の」（kammadhāraya）
+  * ānāpānassati = 「安般念（出入息念）」
+  * samādhi = 「三昧／定」
+  * nibbattaka = 「生起せしめる者・産み出す者」（ni-√vatt 使役の行為者名詞）
+  * puggalassa = 「人の／個人の」（属・単）
+* sannissaya-bhūta-sāsana-paridīpano = 「依りどころ（所依）たる教法を顕示するものであり」（主・単、bahubbīhi 的に idhasaddo を限定）
+  * sannissaya = 「所依・依拠・基盤」（saṃ-ni-√si）
+  * bhūta = 「～たる・～となった」（√bhū 過分、kammadhāraya：sannissaya-bhūta「所依たる」）
+  * sāsana = 「教法・教説」
+  * paridīpana = 「遍く照らし出すもの・顕示するもの」（pari-√dīp の行為者）
+* añña-sāsanassa = 「他の教法に関して」（añña「他の」＋ sāsana・属、kammadhāraya）
+* tathā-bhāva-paṭisedhano ca = 「またそのような〔所依たる〕在り方を遮遣するものである」（主・単）
+  * tathā = 「そのような・かくのごとき」
+  * bhāva = 「在り方・状態・性質」（tathā-bhāva「そのような状態」kammadhāraya）
+  * paṭisedhana = 「遮遣するもの・否定するもの」（paṭi-√sidh の行為者）
+
+→「なぜなら、ここにおいてこの『idha（ここに）』という語は、あらゆる種類の安般念三昧を生起せしめる人の所依たる教法を顕示するものであり、また他の教法にはそのような〔所依たる〕在り方が存することを遮遣するものだからである。」
+
+4. Vuttañhetaṃ – idheva, bhikkhave, samaṇo…pe… suññā parappavādā samaṇebhi aññehī’ti (ma. ni. 1.139).
+
+* vuttaṃ hi etaṃ = 「なぜなら、このことが説かれているからである」（vuttaṃ 過分・中・主 ＋ 理由の hi ＋ etaṃ「これが」中・主）
+* idha eva bhikkhave samaṇo = 「比丘たちよ、まさにここにのみ〔第一の〕沙門が〔ある〕」（eva「まさに～のみ」限定辞）
+* …pe… = （中略）〔＝「ここに第二の沙門が、ここに第三の沙門が、ここに第四の沙門が〔ある〕」の省略〕
+* suññā parappavādā = 「他の諸説（外道の論）は空虚である」（suññā 主・複 ＋ parappavādā「他者の論・異説」主・複）
+* samaṇebhi aññehi = 「他の〔真の〕沙門たちを欠いて／〔真の〕沙門たることなく」（具・複、suñña「～を欠く」の補語）
+* ti = 「と〔説かれた〕」（引用辞）
+* (ma. ni. 1.139) = 〔典拠〕中部・第1巻139（Majjhimanikāya, Cūḷasīhanādasutta）
+
+→「なぜなら、このことが説かれているからである――『比丘たちよ、まさにここにのみ〔第一の〕沙門があり……（中略）……他の諸説は〔真の〕沙門たちを欠いて空虚である』と（中部一・一三九）。」
+
+5. Tena vuttaṃ ‘‘imasmiṃ sāsane bhikkhū’’ti.
+
+* tena = 「それゆえに／そのことによって」（具格による理由表示）
+* vuttaṃ = 「説かれた／言われた」（過分・中・主）
+* ‘‘imasmiṃ sāsane bhikkhū’’ti = 「『この教法における比丘は』と」（引用辞 ti）
+
+→「それゆえに、『この教法における比丘は』と説かれたのである。」
+
+## 217 (2)
+
+Araññagato vā…pe… suññāgāragato vāti idamassa ānāpānassatisamādhibhāvanānurūpasenāsanapariggahaparidīpanaṃ. Imassa hi bhikkhuno dīgharattaṃ rūpādīsu ārammaṇesu anuvisaṭaṃ cittaṃ ānāpānassatisamādhiārammaṇaṃ abhiruhituṃ na icchati, kūṭagoṇayuttaratho viya uppathameva dhāvati. Tasmā seyyathāpi nāma gopo kūṭadhenuyā sabbaṃ khīraṃ pivitvā vaḍḍhitaṃ kūṭavacchaṃ dametukāmo dhenuto apanetvā ekamante mahantaṃ thambhaṃ nikhaṇitvā tattha yottena bandheyya, athassa so vaccho ito cito ca vipphanditvā palāyituṃ asakkonto tameva thambhaṃ upanisīdeyya vā upanipajjeyya vā, evameva imināpi bhikkhunā dīgharattaṃ rūpārammaṇādirasapānavaḍḍhitaṃ duṭṭhacittaṃ dametukāmena rūpādiārammaṇato apanetvā araññaṃ vā…pe… suññāgāraṃ vā pavesetvā tattha assāsapassāsathambhe satiyottena bandhitabbaṃ. Evamassa taṃ cittaṃ ito cito ca vipphanditvāpi pubbe āciṇṇārammaṇaṃ alabhamānaṃ satiyottaṃ chinditvā palāyituṃ asakkontaṃ tamevārammaṇaṃ upacārappanāvasena upanisīdati ceva upanipajjati ca.
+
+### Claude
+
+- 2026/06/24
+- Claude Opus 4.8 High
+
+### 対訳
+
+出典：Visuddhimagga, Ānāpānassatikathā（清浄道論・安般念論／牛飼いの譬喩）
+※方向性注記：本箇所は Visuddhimagga（注釈の通用慣例）に従い、assāsa＝出息（呼気）、passāsa＝入息（吸気）。〔Paṭisambhidāmagga／Samantapāsādikā 系の逆順とは反対〕
+
+1. Araññagato vā…pe… suññāgāragato vā ti idamassa ānāpānassatisamādhibhāvanānurūpasenāsanapariggahaparidīpanaṃ.
+
+* araññagato vā …pe… suññāgāragato vā ti = 「『阿蘭若に行き、あるいは……（中略）……空閑処に行き』とは」（引用辞 ti による標示。…pe… は「rukkhamūlagato vā（樹下に行き）」の省略）
+  * arañña-gata = 「阿蘭若に行ける者」（処格的 tappurisa、過分）
+  * suññāgāra-gata = 「空閑処（空き家・無人の住処）に行ける者」（suñña「空なる」＋ agāra「家」kammadhāraya ＋ gata）
+* idaṃ assa = 「これは、その〔句〕の」（idaṃ 中・主 ＋ assa 属・単、指示）
+* ānāpānassati-samādhi-bhāvanā-anurūpa-senāsana-pariggaha-paridīpanaṃ = 「安般念三昧の修習にふさわしい坐臥処（住処）の摂受を顕示するものである」（主・中・単、長大な tappurisa）
+  * ānāpānassati = 「安般念（出入息念）」
+  * samādhi = 「三昧／定」
+  * bhāvanā = 「修習」
+  * anurūpa = 「随順する・ふさわしい」（kammadhāraya：bhāvanā-anurūpa「修習に随順する」）
+  * senāsana = 「坐臥処・住処」（sena＜sayana「臥処」＋ āsana「坐処」dvanda）
+  * pariggaha = 「摂受・把持・取得」（pari-√gah）
+  * paridīpana = 「遍く顕示するもの」（pari-√dīp の行為者）
+
+→「『阿蘭若に行き、あるいは……（中略）……空閑処に行き』とは、これは、その〔比丘〕にとっての、安般念三昧の修習にふさわしい坐臥処の摂受を顕示するものである。」
+
+2. Imassa hi bhikkhuno dīgharattaṃ rūpādīsu ārammaṇesu anuvisaṭaṃ cittaṃ ānāpānassatisamādhiārammaṇaṃ abhiruhituṃ na icchati, kūṭagoṇayuttaratho viya uppathameva dhāvati.
+
+* imassa hi bhikkhuno = 「なぜなら、この比丘の」（属・単 ＋ 理由の hi）
+* dīgharattaṃ = 「長きにわたり・久しく」（副詞的対格）
+* rūpādīsu ārammaṇesu = 「色などの諸所縁において」（rūpa-ādi「色等」＋ ārammaṇa・処格複）
+* anuvisaṭaṃ cittaṃ = 「拡散した（流れ広がった）心は」（anu-vi-√sar 過分・中・主 ＋ citta）
+* ānāpānassati-samādhi-ārammaṇaṃ = 「安般念三昧の所縁へ」（対・単、tappurisa）
+* abhiruhituṃ na icchati = 「攀じ登ることを欲しない」（abhi-√ruh 不定詞 ＋ na icchati）
+* kūṭa-goṇa-yutta-ratho viya = 「曲(くせ)ある牛（強情な牡牛）に繋がれた車のように」（viya「～の如く」）
+  * kūṭa = 「曲がった・狡猾な・強情な・偽りの」
+  * goṇa = 「牡牛」
+  * yutta = 「繋がれた・軛(くびき)された」（√yuj 過分）
+  * ratha = 「車」（kūṭagoṇa-yutta-ratha：tappurisa／kammadhāraya 複合）
+* uppatham eva dhāvati = 「まさに邪道（非道・横道）を走る」（uppatha「無道・横道」対 ＋ eva ＋ dhāvati）
+
+→「なぜなら、この比丘の、長きにわたって色などの諸所縁の中へ拡散してきた心は、安般念三昧の所縁へ攀じ登ることを欲せず、強情な牡牛に繋がれた車のように、まさに横道へと走り去るからである。」
+
+3. Tasmā seyyathāpi nāma gopo kūṭadhenuyā sabbaṃ khīraṃ pivitvā vaḍḍhitaṃ kūṭavacchaṃ dametukāmo dhenuto apanetvā ekamante mahantaṃ thambhaṃ nikhaṇitvā tattha yottena bandheyya, athassa so vaccho ito cito ca vipphanditvā palāyituṃ asakkonto tameva thambhaṃ upanisīdeyya vā upanipajjeyya vā,
+
+* tasmā = 「それゆえに」（具格的、理由表示）
+* seyyathāpi nāma = 「あたかも、たとえば（次のごとし）」（譬喩導入の定型句）
+* gopo = 「牛飼いが」（主・単）
+* kūṭadhenuyā sabbaṃ khīraṃ pivitvā vaḍḍhitaṃ kūṭavacchaṃ = 「曲(くせ)ある牝牛の乳をことごとく飲んで肥育した強情な仔牛を」（対・単）
+  * kūṭa-dhenuyā = 「強情な牝牛の」（属・単）
+  * sabbaṃ khīraṃ pivitvā = 「すべての乳を飲んで」（pivitvā 連続体）
+  * vaḍḍhita = 「育った・肥えた」（√vaḍḍh 使役過分）
+  * kūṭa-vaccha = 「強情な仔牛」（kammadhāraya）
+* dametukāmo = 「調御せんと欲する者が」（dametuṃ ＋ kāma、「dam の不定詞＋欲求」bahubbīhi 的形容、主・単）
+* dhenuto apanetvā = 「牝牛から引き離して」（dhenu 奪格 ＋ apanetvā 連続体）
+* ekamante = 「一隅に・片隅に」（処・単）
+* mahantaṃ thambhaṃ nikhaṇitvā = 「大きな杭を打ち込んで」（nikhaṇitvā 連続体）
+* tattha yottena bandheyya = 「そこに縄で繋ぐであろう」（yotta「縄・革紐」具格 ＋ bandheyya 願望法・三・単）
+* atha assa so vaccho = 「そのとき、その者の、かの仔牛は」（assa 属・単「その牛飼いの」）
+* ito cito ca vipphanditvā = 「あちこちへもがいて・暴れて」（ito cito「此方彼方へ」＋ vipphandati「もがく・あがく」連続体）
+* palāyituṃ asakkonto = 「逃げ去ることができずに」（palāyituṃ 不定詞 ＋ a-sakkonta「能わざる」現在分詞・主）
+* tam eva thambhaṃ = 「まさにその杭に〔のそばに〕」（対・単）
+* upanisīdeyya vā upanipajjeyya vā = 「〔そばに〕坐り込むか、あるいは横たわるであろう」（upa-ni-√sad／upa-ni-√pad 願望法・三・単）
+
+→「それゆえに、たとえば牛飼いが、強情な牝牛の乳をことごとく飲んで肥育した強情な仔牛を調御しようと欲して、それを牝牛から引き離し、片隅に大きな杭を打ち込んで、そこに縄で繋いだとする。そのとき、その牛飼いの、かの仔牛は、あちこちへもがいても逃げ去ることができずに、まさにその杭のそばに坐り込むか、あるいは横たわるであろう。」
+
+4. evameva imināpi bhikkhunā dīgharattaṃ rūpārammaṇādirasapānavaḍḍhitaṃ duṭṭhacittaṃ dametukāmena rūpādiārammaṇato apanetvā araññaṃ vā…pe… suññāgāraṃ vā pavesetvā tattha assāsapassāsathambhe satiyottena bandhitabbaṃ.
+
+* evam eva = 「まさに同様に」
+* iminā pi bhikkhunā = 「この比丘によっても」（具・単）
+* dīgharattaṃ = 「長きにわたり」（副詞的対格）
+* rūpa-ārammaṇa-ādi-rasa-pāna-vaḍḍhitaṃ duṭṭha-cittaṃ = 「色という所縁などの〔味の〕汁を飲むことによって肥育した悪しき心を」（対・単）
+  * rūpārammaṇa-ādi = 「色所縁を初めとする〔諸所縁〕」
+  * rasa-pāna = 「味（汁）を飲むこと」（rasa「味・汁」＋ pāna「飲」tappurisa）
+  * vaḍḍhita = 「肥え育った」（使役過分）
+  * duṭṭha-citta = 「汚れた・悪しき心」（duṭṭha＜√dus 過分 ＋ citta、kammadhāraya）
+* dametukāmena = 「調御せんと欲する者によって」（具・単、bhikkhunā に呼応）
+* rūpādi-ārammaṇato apanetvā = 「色等の所縁から引き離して」（奪格 ＋ 連続体）
+* araññaṃ vā …pe… suññāgāraṃ vā pavesetvā = 「阿蘭若に、あるいは……（中略）……空閑処に入らしめて」（…pe… は「樹下に」等の省略。pavesetvā「入らせて」使役連続体）
+* tattha = 「そこにおいて」
+* assāsa-passāsa-thambhe = 「出息・入息という杭に」（処・単、tappurisa）〔Visuddhimagga 慣例：assāsa＝出息、passāsa＝入息〕
+* sati-yottena bandhitabbaṃ = 「念の縄によって繋がれるべきである」（sati「念」＋ yotta「縄」具格 ＋ bandhitabba 未来受動分詞・中・主）
+
+→「まさに同様に、この比丘によっても、長きにわたって色所縁などの〔味の〕汁を飲むことによって肥育した悪しき心を、調御しようと欲して、色等の所縁から引き離し、阿蘭若に、あるいは……（中略）……空閑処に入らしめて、そこで出息・入息という杭に、念の縄によって繋がるべきである。」
+
+5. Evamassa taṃ cittaṃ ito cito ca vipphanditvāpi pubbe āciṇṇārammaṇaṃ alabhamānaṃ satiyottaṃ chinditvā palāyituṃ asakkontaṃ tamevārammaṇaṃ upacārappanāvasena upanisīdati ceva upanipajjati ca.
+
+* evam assa = 「このように、その者の」（assa 属・単「その比丘の」）
+* taṃ cittaṃ = 「その心は」（中・主）
+* ito cito ca vipphanditvā pi = 「あちこちへもがいてさえ」（連続体 ＋ pi「もまた・さえ」）
+* pubbe āciṇṇa-ārammaṇaṃ alabhamānaṃ = 「以前に習熟した所縁を得られずに」（pubbe「以前に」＋ āciṇṇa「習慣化した・親しんだ」過分 ＋ ārammaṇa 対 ＋ a-labhamāna「得ざる」現在分詞・中・主）
+* sati-yottaṃ chinditvā = 「念の縄を断ち切って」（対 ＋ chinditvā 連続体）
+* palāyituṃ asakkontaṃ = 「逃げ去ることができずに」（不定詞 ＋ 現在分詞・中・主）
+* tam eva ārammaṇaṃ = 「まさにその〔出入息という〕所縁に〔のそばに〕」（対・単）
+* upacāra-appanā-vasena = 「近行〔定〕と安止〔定〕とのちからによって（の仕方で）」（upacāra「近行」＋ appanā「安止」＋ vasa「力・自在」具格、tappurisa）
+* upanisīdati c'eva upanipajjati ca = 「〔そのそばに〕坐り込み、かつ横たわる」（upa-ni-√sad／upa-ni-√pad 現在・三・単）
+
+→「このように、その者の、その心は、あちこちへもがいてさえも、以前に習熟した所縁を得られず、念の縄を断ち切って逃げ去ることもできずに、まさにその〔出入息という〕所縁のそばに、近行〔定〕と安止〔定〕とのありかたをもって、坐り込み、かつ横たわるのである。」
+
+## 217 (3)
+
+Tenāhu porāṇā –
+
+‘‘Yathā thambhe nibandheyya, vacchaṃ damaṃ naro idha;
+
+Bandheyyevaṃ sakaṃ cittaṃ, satiyārammaṇe daḷha’’nti. (pārā. aṭṭha. 2.165; dī. ni. aṭṭha. 3.374; ma. ni. aṭṭha. 1.107);
+
+Evamassetaṃ senāsanaṃ bhāvanānurūpaṃ hoti. Tena vuttaṃ ‘‘idamassa ānāpānassatisamādhibhāvanānurūpasenāsanapariggahaparidīpana’’nti.
+
+Atha vā yasmā idaṃ kammaṭṭhānappabhede muddhabhūtaṃ sabbaññubuddhapaccekabuddhabuddhasāvakānaṃ visesādhigamadiṭṭhadhammasukhavihārapadaṭṭhānaṃ ānāpānassatikammaṭṭhānaṃ itthipurisahatthiassādisaddasamākulaṃ gāmantaṃ apariccajitvā na sukaraṃ bhāvetuṃ, saddakaṇṭakattā jhānassa. Agāmake pana araññe sukaraṃ yogāvacarena idaṃ kammaṭṭhānaṃ pariggahetvā ānāpānacatutthajjhānaṃ nibbattetvā tadeva pādakaṃ katvā saṅkhāre sammasitvā aggaphalaṃ arahattaṃ sampāpuṇituṃ. Tasmāssa anurūpasenāsanaṃ dassento bhagavā ‘‘araññagato vā’’tiādimāha.
+
+### Claude
+
+- 2026/06/24
+- Claude Opus 4.8 High
+
+### 対訳
+
+出典：Visuddhimagga, Ānāpānassatikathā（清浄道論・安般念論／牛飼いの譬喩の結びと、坐臥処の論拠）
+※方向性注記：本箇所には assāsa／passāsa は現れないため、方向性の注記は省略（なお Visuddhimagga 慣例では assāsa＝出息、passāsa＝入息）。
+
+1. Tenāhu porāṇā –
+
+* tena = 「それゆえに・このことから」（具格的、理由表示）
+* āhu = 「（彼らは）言った・説いた」（√ah 完了形・三・複）
+* porāṇā = 「古人たち・古師たちは」（主・複）
+
+→「それゆえに、古師たちは〔次のように〕説いた――」
+
+2. ‘‘Yathā thambhe nibandheyya, vacchaṃ damaṃ naro idha; Bandheyyevaṃ sakaṃ cittaṃ, satiyārammaṇe daḷha’’nti.
+
+* yathā = 「あたかも～のごとく」（相関辞、evaṃ と呼応）
+* thambhe = 「杭に」（処・単）
+* nibandheyya = 「繋ぐであろう」（ni-√bandh 願望法・三・単）
+* vacchaṃ = 「仔牛を」（対・単）
+* damaṃ = 「調御しつつ・調御せんがため」（√dam に由来、副詞的／目的的に「調御」を表す）
+* naro = 「人が」（主・単）
+* idha = 「ここに（この世で）」
+* bandheyya evaṃ = 「そのように繋ぐべし」（√bandh 願望法・三・単 ＋ evaṃ「そのように」）
+* sakaṃ cittaṃ = 「自らの心を」（saka「自己の」＋ citta、対・単）
+* satiyā = 「念によって」（具・単）
+* ārammaṇe = 「所縁に」（処・単）
+* daḷhaṃ = 「堅固に・しっかりと」（副詞）
+* ti = 「と」（引用辞）
+
+→「『あたかも人がこの世において、仔牛を調御せんがために杭に繋ぐがごとく、まさにそのように、念によって自らの心を所縁に堅固に繋ぐべし』と。」
+
+3. (pārā. aṭṭha. 2.165; dī. ni. aṭṭha. 3.374; ma. ni. aṭṭha. 1.107);
+
+* (pārā. aṭṭha. 2.165) = 〔典拠〕律・波羅夷註（Samantapāsādikā／一切善見律註）2.165
+* (dī. ni. aṭṭha. 3.374) = 〔典拠〕長部註（Sumaṅgalavilāsinī）3.374
+* (ma. ni. aṭṭha. 1.107) = 〔典拠〕中部註（Papañcasūdanī）1.107
+
+→「（律註二・一六五、長部註三・三七四、中部註一・一〇七）」
+
+4. Evamassetaṃ senāsanaṃ bhāvanānurūpaṃ hoti.
+
+* evaṃ = 「このように」
+* assa etaṃ senāsanaṃ = 「その〔比丘〕にとって、この坐臥処は」（assa 属・単 ＋ etaṃ ＋ senāsana・主）
+* bhāvanā-anurūpaṃ = 「修習にふさわしいもの」（bhāvanā「修習」＋ anurūpa「随順する・適合する」kammadhāraya、主・中・単）
+* hoti = 「である」（√bhū 現在・三・単）
+
+→「このように、その〔比丘〕にとって、この坐臥処は修習にふさわしいものとなる。」
+
+5. Tena vuttaṃ ‘‘idamassa ānāpānassatisamādhibhāvanānurūpasenāsanapariggahaparidīpana’’nti.
+
+* tena = 「それゆえに」（具格的、理由表示）
+* vuttaṃ = 「説かれた」（過分・中・主）
+* ‘‘idam assa ānāpānassati-samādhi-bhāvanā-anurūpa-senāsana-pariggaha-paridīpanaṃ’’ti = 「『これは、その〔比丘〕にとっての、安般念三昧の修習にふさわしい坐臥処の摂受を顕示するものである』と」（前段に既出の長大 tappurisa を引用、引用辞 ti）
+
+→「それゆえに、『これは、その〔比丘〕にとっての、安般念三昧の修習にふさわしい坐臥処の摂受を顕示するものである』と説かれたのである。」
+
+6. Atha vā yasmā idaṃ kammaṭṭhānappabhede muddhabhūtaṃ sabbaññubuddhapaccekabuddhabuddhasāvakānaṃ visesādhigamadiṭṭhadhammasukhavihārapadaṭṭhānaṃ ānāpānassatikammaṭṭhānaṃ itthipurisahatthiassādisaddasamākulaṃ gāmantaṃ apariccajitvā na sukaraṃ bhāvetuṃ, saddakaṇṭakattā jhānassa.
+
+* atha vā = 「あるいは（別の解釈として）」
+* yasmā = 「～であるがゆえに」（tasmā と呼応する理由節）
+* idaṃ … ānāpānassati-kammaṭṭhānaṃ = 「この安般念という業処（瞑想対象）は」（中・主。以下の諸形容句がこれを修飾）
+* kammaṭṭhāna-ppabhede muddha-bhūtaṃ = 「諸業処の分類のうちで頂点たるものであり」（処・単 ＋ muddha「頭・頂・最上」＋ bhūta「～たる」kammadhāraya）
+* sabbaññubuddha-paccekabuddha-buddhasāvakānaṃ = 「一切知者たる仏・独覚（辟支仏）・仏弟子たちにとっての」（属・複、dvanda）
+  * sabbaññu-buddha = 「一切知の仏」
+  * paccekabuddha = 「独覚（辟支仏）」
+  * buddha-sāvaka = 「仏の声聞（弟子）」
+* visesa-adhigama-diṭṭhadhamma-sukhavihāra-padaṭṭhānaṃ = 「殊勝の証得と現法楽住との近因（足処）であって」（主・中・単、長大 tappurisa）
+  * visesa-adhigama = 「殊勝〔の境地〕の証得」
+  * diṭṭhadhamma-sukhavihāra = 「現法楽住（現世における安楽な住）」
+  * padaṭṭhāna = 「近因・足処（直接の依拠）」
+* itthi-purisa-hatthi-assa-ādi-sadda-samākulaṃ gāmantaṃ = 「女・男・象・馬などの〔発する〕音声に満ち騒がしい村の界隈を」（対・単）
+  * itthi-purisa-hatthi-assa-ādi = 「女・男・象・馬を初めとする〔ものども〕」（dvanda ＋ ādi）
+  * sadda-samākula = 「音声に乱れ満ちた」（samākula「混雑した・騒然たる」kammadhāraya）
+  * gāmanta = 「村の界隈・村のほとり」（gāma ＋ anta、対・単）
+* apariccajitvā = 「捨て去ることなくしては」（a-pariccajitvā：pari-√caj「遍捨する」の連続体の否定）
+* na sukaraṃ bhāvetuṃ = 「修習することは容易でない」（na ＋ sukara「為し易き」＋ bhāvetuṃ 不定詞）
+* sadda-kaṇṭakattā jhānassa = 「禅定にとって音声は棘(とげ)であるがゆえに」（sadda「音声」＋ kaṇṭaka「棘」＋ -ttā 抽象名詞・奪格的「～たることのゆえに」、jhānassa 属・単「禅定の〔棘〕」）
+
+→「あるいは〔別解として〕、この安般念という業処は、諸業処の分類のうちで頂点たるものであり、一切知者たる仏・独覚・仏弟子たちにとっての、殊勝の証得と現法楽住との近因であって、〔しかも〕女・男・象・馬などの音声に満ち騒がしい村の界隈を捨て去ることなくしては修習することが容易でない――禅定にとって音声は棘であるがゆえに――。」
+
+7. Agāmake pana araññe sukaraṃ yogāvacarena idaṃ kammaṭṭhānaṃ pariggahetvā ānāpānacatutthajjhānaṃ nibbattetvā tadeva pādakaṃ katvā saṅkhāre sammasitvā aggaphalaṃ arahattaṃ sampāpuṇituṃ.
+
+* agāmake pana araññe = 「しかし村を離れた（無人の）阿蘭若においては」（a-gāmaka「村なき」＋ arañña・処格）
+* sukaraṃ = 「容易である」（主・中・単、述語）
+* yogāvacarena = 「瑜伽行者（修行者）によって」（具・単。以下の連続体群の主体）
+* idaṃ kammaṭṭhānaṃ pariggahetvā = 「この業処を摂受して」（pariggahetvā 連続体）
+* ānāpāna-catuttha-jjhānaṃ nibbattetvā = 「安般〔による〕第四禅を生起せしめて」（nibbattetvā 使役連続体）
+* tad eva pādakaṃ katvā = 「まさにそれを基礎（足場）として」（pādaka「基礎・足場」＋ katvā 連続体）
+* saṅkhāre sammasitvā = 「諸行を遍知（思惟観察）して」（saṅkhāra・対複 ＋ sammasitvā「触知・観察する」連続体）
+* agga-phalaṃ arahattaṃ sampāpuṇituṃ = 「最上の果たる阿羅漢果に到達することが〔容易である〕」（agga-phala「最高の果」＝ arahatta「阿羅漢果」を同格的に提示、対 ＋ sampāpuṇituṃ 不定詞）
+
+→「しかし村を離れた阿蘭若においては、瑜伽行者がこの業処を摂受し、安般による第四禅を生起せしめ、まさにそれを基礎として諸行を遍知し、最上の果たる阿羅漢果に到達することが容易である。」
+
+8. Tasmāssa anurūpasenāsanaṃ dassento bhagavā ‘‘araññagato vā’’tiādimāha.
+
+* tasmā assa = 「それゆえに、その〔比丘〕にとって」（tasmā ＋ assa 属・単）
+* anurūpa-senāsanaṃ dassento = 「ふさわしい坐臥処を示しつつ」（anurūpa「随順する」＋ senāsana、対 ＋ dassento「示す」現在分詞・男・主）
+* bhagavā = 「世尊は」（主・単）
+* ‘‘araññagato vā’’ti ādiṃ āha = 「『阿蘭若に行き』に始まる〔一節〕を説いた」（araññagato「阿蘭若に行ける者」＋ vā、ti-ādiṃ「～等」対 ＋ āha 完了・三・単）
+
+→「それゆえに、その〔比丘〕にふさわしい坐臥処を示しつつ、世尊は『阿蘭若に行き』に始まる〔一節〕を説いたのである。」
+
+## 217 (4)
+
+Vatthuvijjācariyo viya hi bhagavā, so yathā vatthuvijjācariyo nagarabhūmiṃ passitvā suṭṭhu upaparikkhitvā ‘‘ettha nagaraṃ māpethā’’ti upadisati, sotthinā ca nagare niṭṭhite rājakulato mahāsakkāraṃ labhati, evameva yogāvacarassa anurūpasenāsanaṃ upaparikkhitvā ‘‘ettha kammaṭṭhānaṃ anuyuñjitabba’’nti upadisati, tato tattha kammaṭṭhānaṃ anuyuttena yoginā kamena arahatte patte ‘‘sammāsambuddho vata so bhagavā’’ti mahantaṃ sakkāraṃ labhati.
+
+Ayaṃ pana bhikkhu dīpisadisoti vuccati. Yathā hi mahādīpirājā araññe tiṇagahanaṃ vā vanagahanaṃ vā pabbatagahanaṃ vā nissāya nilīyitvā vanamahiṃsagokaṇṇasūkarādayo mige gaṇhāti, evameva ayaṃ araññādīsu kammaṭṭhānaṃ anuyuñjanto bhikkhu yathākkamena sotāpattisakadāgāmianāgāmiarahattamagge ceva ariyaphalañca gaṇhatīti veditabbo. Tenāhu porāṇā –
+
+‘‘Yathāpi dīpiko nāma, nilīyitvā gaṇhatī mige;
+
+Tathevāyaṃ buddhaputto, yuttayogo vipassako;
+
+Araññaṃ pavisitvāna, gaṇhāti phalamuttama’’nti. (pārā. aṭṭha. 2.165; dī. ni. aṭṭha. 2.374; ma. ni. aṭṭha. 1.107);
+
+Tenassa parakkamajavayoggabhūmiṃ araññasenāsanaṃ dassento bhagavā ‘‘araññagato vā’’tiādimāha.
+
+### Claude
+
+- 2026/06/24
+- Claude Opus 4.8 High
+
+### 対訳
+
+出典：Visuddhimagga, Ānāpānassatikathā（清浄道論・安般念論／地相師の譬喩と豹の譬喩）
+※方向性注記：本箇所には assāsa／passāsa は現れないため、方向性の注記は省略（Visuddhimagga 慣例では assāsa＝出息、passāsa＝入息）。
+
+1. Vatthuvijjācariyo viya hi bhagavā,
+
+* vatthu-vijjā-cariyo viya = 「地相師（宅地相術の師）のように」（viya「～の如く」）
+  * vatthu-vijjā = 「地相術・宅地占いの学」（vatthu「土地・宅地」＋ vijjā「明・術・学」tappurisa）
+  * ācariya = 「師・阿闍梨」
+* hi = 「なぜなら・じつに」（理由・強調）
+* bhagavā = 「世尊は」（主・単）
+
+→「なぜなら、世尊はあたかも地相師のごとくであるからである。」
+
+2. so yathā vatthuvijjācariyo nagarabhūmiṃ passitvā suṭṭhu upaparikkhitvā ‘‘ettha nagaraṃ māpethā’’ti upadisati, sotthinā ca nagare niṭṭhite rājakulato mahāsakkāraṃ labhati,
+
+* so = 「その〔世尊〕は」（主・単。ここでは譬喩の主語「その地相師」として機能）
+* yathā vatthuvijjācariyo = 「あたかも地相師が～のごとく」（yathā、後続の evameva と呼応）
+* nagara-bhūmiṃ passitvā = 「都城の〔造るべき〕土地を見て」（nagara「都市・城」＋ bhūmi「地」対 ＋ passitvā 連続体）
+* suṭṭhu upaparikkhitvā = 「よく検分して・精査して」（suṭṭhu「善く」＋ upaparikkhitvā「考察する」連続体）
+* ‘‘ettha nagaraṃ māpethā’’ti = 「『ここに都城を造営せよ』と」（māpetha「造らしめよ」使役命令・二・複 ＋ 引用辞 ti）
+* upadisati = 「指示する・教示する」（upa-√dis 現在・三・単）
+* sotthinā ca nagare niṭṭhite = 「そして安穏に都城が完成したとき」（sotthi「安穏・吉祥」具格 ＋ nagare niṭṭhite 処格絶対節「都城が成就したとき」）
+* rājakulato mahā-sakkāraṃ labhati = 「王家から大いなる尊敬（恩賞）を得る」（rāja-kula「王族・王家」奪格 ＋ mahā-sakkāra「大いなる供養・尊崇」対 ＋ labhati）
+
+→「その〔世尊〕は、あたかも地相師が、都城の〔造るべき〕土地を見てよく検分し、『ここに都城を造営せよ』と指示し、そして安穏に都城が完成したとき、王家から大いなる恩賞を得るがごとく――」
+
+3. evameva yogāvacarassa anurūpasenāsanaṃ upaparikkhitvā ‘‘ettha kammaṭṭhānaṃ anuyuñjitabba’’nti upadisati, tato tattha kammaṭṭhānaṃ anuyuttena yoginā kamena arahatte patte ‘‘sammāsambuddho vata so bhagavā’’ti mahantaṃ sakkāraṃ labhati.
+
+* evam eva = 「まさに同様に」
+* yogāvacarassa anurūpa-senāsanaṃ upaparikkhitvā = 「瑜伽行者にふさわしい坐臥処を検分して」（yogāvacara・属 ＋ anurūpa-senāsana 対 ＋ upaparikkhitvā 連続体）
+* ‘‘ettha kammaṭṭhānaṃ anuyuñjitabba’’nti = 「『ここで業処に専念すべし』と」（anuyuñjitabba「専修されるべし」未来受動分詞・中・主 ＋ 引用辞 ti）
+* upadisati = 「指示する」（現在・三・単）
+* tato = 「それより後・それゆえに」
+* tattha kammaṭṭhānaṃ anuyuttena yoginā = 「そこで業処に専念した瑜伽者によって」（anuyutta「専従した・専修した」過分 ＋ yogin・具格）
+* kamena arahatte patte = 「次第に阿羅漢果に達したとき」（kama「順序・次第」具格的「漸次に」＋ arahatta・処 ＋ patta・処格絶対節「達せられたとき」）
+* ‘‘sammāsambuddho vata so bhagavā’’ti = 「『かの世尊は、まことに正等覚者である』と」（sammāsambuddha「正等覚者」＋ vata「まことに・ああ」＋ so bhagavā ＋ 引用辞 ti）
+* mahantaṃ sakkāraṃ labhati = 「大いなる尊崇を得る」（対 ＋ labhati）
+
+→「まさに同様に、〔世尊は〕瑜伽行者にふさわしい坐臥処を検分して、『ここで業処に専念すべし』と指示し、その後、そこで業処に専念した瑜伽者によって次第に阿羅漢果が達せられたとき、『かの世尊は、まことに正等覚者であった』と〔讃えられ〕、大いなる尊崇を得るのである。」
+
+4. Ayaṃ pana bhikkhu dīpisadisoti vuccati.
+
+* ayaṃ pana bhikkhu = 「ところで、この比丘は」（主・単 ＋ 転換の pana）
+* dīpi-sadiso = 「豹に似た者」（dīpi「豹」＋ sadisa「類似の」kammadhāraya、主・単）
+* ti vuccati = 「と言われる」（引用辞 ti ＋ vuccati 受動・三・単）
+
+→「ところで、この比丘は、豹に似た者と言われる。」
+
+5. Yathā hi mahādīpirājā araññe tiṇagahanaṃ vā vanagahanaṃ vā pabbatagahanaṃ vā nissāya nilīyitvā vanamahiṃsagokaṇṇasūkarādayo mige gaṇhāti,
+
+* yathā hi = 「なぜなら、あたかも～ごとく」（yathā、evameva と呼応）
+* mahā-dīpi-rājā = 「大いなる豹の王が」（mahā ＋ dīpi ＋ rāja「王・主」、主・単）
+* araññe = 「森林（阿蘭若）において」（処・単）
+* tiṇa-gahanaṃ vā vana-gahanaṃ vā pabbata-gahanaṃ vā = 「草の茂み、あるいは林の茂み、あるいは山の険所を」（対・単、gahana「茂み・密林・険隘」）
+  * tiṇa-gahana = 「草の茂み」
+  * vana-gahana = 「林の密生地」
+  * pabbata-gahana = 「山の険所・山の密林」
+* nissāya = 「依りて・たよりにして」（ni-√si の連続体、対格支配「～に依拠して」）
+* nilīyitvā = 「身を潜めて・隠れ伏して」（ni-√lī 連続体）
+* vana-mahiṃsa-gokaṇṇa-sūkara-ādayo mige = 「野牛・大鹿（ゴーカンナ）・猪などの獣たちを」（対・複）
+  * vana-mahiṃsa = 「野牛・野水牛」
+  * gokaṇṇa = 「ゴーカンナ（一種の大鹿・羚羊）」
+  * sūkara = 「猪」
+  * ādayo = 「～などの〔ものども〕」
+  * mige = 「獣・鹿類を」（miga・対複）
+* gaṇhāti = 「捕える」（√gah 現在・三・単）
+
+→「なぜなら、あたかも大豹の王が、森林において草の茂み、あるいは林の密生地、あるいは山の険所に依拠して身を潜め、野牛・大鹿・猪などの獣たちを捕えるがごとく――」
+
+6. evameva ayaṃ araññādīsu kammaṭṭhānaṃ anuyuñjanto bhikkhu yathākkamena sotāpattisakadāgāmianāgāmiarahattamagge ceva ariyaphalañca gaṇhatīti veditabbo.
+
+* evam eva = 「まさに同様に」
+* ayaṃ … bhikkhu = 「この比丘は」（主・単）
+* araññādīsu kammaṭṭhānaṃ anuyuñjanto = 「阿蘭若などにおいて業処に専念しつつ」（arañña-ādi・処複 ＋ kammaṭṭhāna 対 ＋ anuyuñjanto 現在分詞・主）
+* yathākkamena = 「順次に・次第に」（yathā-kama の具格、副詞「順を追って」）
+* sotāpatti-sakadāgāmi-anāgāmi-arahatta-magge c'eva = 「預流・一来・不還・阿羅漢の〔四〕道を、また」（対・複。dvanda）
+  * sotāpatti = 「預流」
+  * sakadāgāmi = 「一来」
+  * anāgāmi = 「不還」
+  * arahatta = 「阿羅漢〔位〕」
+  * magge = 「諸道を」（対・複）
+* ariya-phalaṃ ca = 「また聖なる果（諸聖果）をも」（対 ＋ ca）
+* gaṇhāti = 「捕える・獲得する」（現在・三・単）
+* ti veditabbo = 「と知られるべきである」（引用辞 ti ＋ veditabba 未来受動分詞・男・主）
+
+→「まさに同様に、この比丘は、阿蘭若などにおいて業処に専念しつつ、順次に、預流・一来・不還・阿羅漢の〔四〕道を、また聖なる果をも捕える（獲得する）、と知られるべきである。」
+
+7. Tenāhu porāṇā –
+
+* tena = 「それゆえに」（具格的、理由表示）
+* āhu = 「説いた・言った」（√ah 完了・三・複）
+* porāṇā = 「古師たちは」（主・複）
+
+→「それゆえに、古師たちは〔次のように〕説いた――」
+
+8. ‘‘Yathāpi dīpiko nāma, nilīyitvā gaṇhatī mige; Tathevāyaṃ buddhaputto, yuttayogo vipassako; Araññaṃ pavisitvāna, gaṇhāti phalamuttama’’nti.
+
+* yathāpi dīpiko nāma = 「あたかも、いわゆる豹なるものが」（yathā-pi「ちょうど～のごとく」＋ dīpika「豹」＋ nāma「いわゆる・～という」）
+* nilīyitvā = 「身を潜めて」（連続体）
+* gaṇhatī mige = 「獣たちを捕えるように」（gaṇhati 韻律上長音化 ＋ mige 対複）
+* tath'eva ayaṃ buddha-putto = 「まさにそのように、この仏子は」（tathā eva ＋ buddha-putta「仏の子・仏弟子」主・単）
+* yutta-yogo = 「瑜伽に専念した者・修行に勤しむ者」（yutta「専従した」＋ yoga「瑜伽・修行」bahubbīhi、主・単）
+* vipassako = 「観行者（毘鉢舎那を修する者）」（vipassaka、主・単）
+* araññaṃ pavisitvāna = 「阿蘭若に入って」（arañña 対 ＋ pavisitvāna 連続体・古形）
+* gaṇhāti phalam-uttamaṃ = 「最上の果を捕える（獲得する）」（phala-uttama「最上の果」対・単）
+* ti = 「と」（引用辞）
+
+→「『あたかも、いわゆる豹なるものが、身を潜めて獣たちを捕えるがごとく、まさにそのように、この仏子は、瑜伽に専念した観行者として、阿蘭若に入って最上の果を獲得する』と。」
+
+9. (pārā. aṭṭha. 2.165; dī. ni. aṭṭha. 2.374; ma. ni. aṭṭha. 1.107);
+
+* (pārā. aṭṭha. 2.165) = 〔典拠〕律・波羅夷註（Samantapāsādikā）2.165
+* (dī. ni. aṭṭha. 2.374) = 〔典拠〕長部註（Sumaṅgalavilāsinī）2.374
+* (ma. ni. aṭṭha. 1.107) = 〔典拠〕中部註（Papañcasūdanī）1.107
+
+→「（律註二・一六五、長部註二・三七四、中部註一・一〇七）」
+
+10. Tenassa parakkamajavayoggabhūmiṃ araññasenāsanaṃ dassento bhagavā ‘‘araññagato vā’’tiādimāha.
+
+* tena = 「それゆえに」（具格的、理由表示）
+* assa = 「その〔比丘〕にとって」（属・単）
+* parakkama-java-yogga-bhūmiṃ = 「精進の速力（勢い）にふさわしい地（地盤）である」（対・単、araññasenāsana を限定）
+  * parakkama = 「精進・努力」
+  * java = 「速さ・速力・勢い」（parakkama-java「精進の勢い」tappurisa）
+  * yogga = 「ふさわしい・適した」（kammadhāraya）
+  * bhūmi = 「地・地盤・場」
+* arañña-senāsanaṃ dassento = 「阿蘭若の坐臥処を示しつつ」（arañña ＋ senāsana 対 ＋ dassento 現在分詞・主）
+* bhagavā = 「世尊は」（主・単）
+* ‘‘araññagato vā’’ti ādiṃ āha = 「『阿蘭若に行き』に始まる〔一節〕を説いた」（ti-ādiṃ 対 ＋ āha 完了・三・単）
+
+→「それゆえに、その〔比丘〕にとって精進の勢いにふさわしい地盤たる阿蘭若の坐臥処を示しつつ、世尊は『阿蘭若に行き』に始まる〔一節〕を説いたのである。」
 
 ## 218 (1)
 
