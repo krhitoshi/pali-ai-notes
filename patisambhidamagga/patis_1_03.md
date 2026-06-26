@@ -10,16 +10,997 @@
 
 ## 152
 
+152. Soḷasavatthukaṃ ānāpānassatisamādhiṃ [ānāpānasatisamādhiṃ (sī. aṭṭha.)] bhāvayato samādhikāni dve ñāṇasatāni uppajjanti – aṭṭha paripanthe [paribandhe (ka.)] ñāṇāni, aṭṭha ca upakāre ñāṇāni, aṭṭhārasa upakkilese ñāṇāni, terasa vodāne ñāṇāni, bāttiṃsa satokārissa [satokārīsu (syā.)] ñāṇāni, catuvīsati samādhivasena ñāṇāni, dvesattati vipassanāvasena ñāṇāni, aṭṭha nibbidāñāṇāni, aṭṭha nibbidānulomañāṇāni, aṭṭha nibbidāpaṭippassaddhiñāṇāni, ekavīsati vimuttisukhe ñāṇāni.
+
+Katamāni aṭṭha paripanthe ñāṇāni, aṭṭha ca upakāre ñāṇāni? Kāmacchando samādhissa paripantho, nekkhammaṃ samādhissa upakāraṃ. Byāpādo samādhissa paripantho, abyāpādo samādhissa upakāraṃ. Thinamiddhaṃ samādhissa paripantho, ālokasaññā samādhissa upakāraṃ. Uddhaccaṃ samādhissa paripantho, avikkhepo samādhissa upakāraṃ. Vicikicchā samādhissa paripantho, dhammavavatthānaṃ samādhissa upakāraṃ. Avijjā samādhissa paripantho, ñāṇaṃ samādhissa upakāraṃ. Arati samādhissa paripantho, pāmojjaṃ samādhissa upakāraṃ. Sabbepi akusalā dhammā samādhissa paripanthā, sabbepi kusalā dhammā samādhissa upakārā. Imāni aṭṭha paripanthe ñāṇāni, aṭṭha ca upakāre ñāṇāni.
+
+Gaṇanavāro paṭhamo.
+
+### Claude
+
+- 2026/06/26
+- Claude Opus 4.8 High
+
+出典：Paṭisambhidāmagga, Mahāvagga, Ānāpānassatikathā, Gaṇanavāra §152
+assāsa/passāsa の方向性：本節には assāsa/passāsa が現れないため該当なし
+（参考：Paṭisambhidāmagga 系統では assāsa＝入息、passāsa＝出息）
+
+### 対訳
+
+1. Soḷasavatthukaṃ ānāpānassatisamādhiṃ bhāvayato samādhikāni dve ñāṇasatāni uppajjanti –
+
+  * soḷasa-vatthukaṃ ＝ soḷasa「十六」＋ vatthuka「事・基盤をもつ」（有財釈、samādhiṃ を修飾、対格）→「十六の事から成る」
+  * ānāpāna-ssati-samādhiṃ ＝ ānāpāna「出入息」（āna＋apāna の相違釈）＋ sati「念」＋ samādhi「三昧」、対格単数 →「出入息念の三昧を」〔異読：ānāpānasatisamādhiṃ (sī. aṭṭha.)〕
+  * bhāvayato ＝ bhāveti（√bhū 使役）現在分詞・属格単数「修習する者に」
+  * samādhikāni ＝ sa-「〜とともに」＋ adhika「余分の」（dve ñāṇasatāni を修飾）「二百を超える」
+  * dve ñāṇa-satāni ＝ dve「二」＋ ñāṇa「智」＋ sata「百」、主格複数中性「二百の智」
+  * uppajjanti ＝ uppajjati（ud＋√pad）現在三人称複数「生起する」
+
+→「十六の事から成る出入息念の三昧を修習する者には、二百あまりの智が生起する——」
+
+2. aṭṭha paripanthe ñāṇāni, aṭṭha ca upakāre ñāṇāni, aṭṭhārasa upakkilese ñāṇāni, terasa vodāne ñāṇāni, bāttiṃsa satokārissa ñāṇāni, catuvīsati samādhivasena ñāṇāni, dvesattati vipassanāvasena ñāṇāni, aṭṭha nibbidāñāṇāni, aṭṭha nibbidānulomañāṇāni, aṭṭha nibbidāpaṭippassaddhiñāṇāni, ekavīsati vimuttisukhe ñāṇāni.
+
+  * aṭṭha paripanthe ñāṇāni ＝「八つの、障碍に関する智」（paripanthe は paripantha「障碍・妨げ」の処格）〔異読：paribandhe (ka.)〕
+  * aṭṭha ca upakāre ñāṇāni ＝「八つの、たすけ（資益）に関する智」（upakāre は upakāra「助け・支え」の処格）
+  * aṭṭhārasa upakkilese ñāṇāni ＝「十八の、随煩悩に関する智」（upakkilesa「汚れ・随煩悩」処格）
+  * terasa vodāne ñāṇāni ＝「十三の、浄化に関する智」（vodāna「清め・浄化」処格）
+  * bāttiṃsa satokārissa ñāṇāni ＝「三十二の、念をもって行ずる者の智」（sato＋kāri「念ある行者」属格）〔異読：satokārīsu (syā.)＝処格複数〕
+  * catuvīsati samādhivasena ñāṇāni ＝「二十四の、三昧の力による智」（samādhi＋vasa 具格「〜のはたらきによって」）
+  * dvesattati vipassanāvasena ñāṇāni ＝「七十二の、観のはたらきによる智」（vipassanā「観」＋vasa 具格）
+  * aṭṭha nibbidāñāṇāni ＝「八つの、厭離の智」（nibbidā「厭い離れること」）
+  * aṭṭha nibbidānulomañāṇāni ＝「八つの、厭離に随順する智」（anuloma「順応・随順」）
+  * aṭṭha nibbidāpaṭippassaddhiñāṇāni ＝「八つの、厭離が静まる（止息する）智」（paṭippassaddhi「止息」）
+  * ekavīsati vimuttisukhe ñāṇāni ＝「二十一の、解脱の楽に関する智」（vimutti「解脱」＋sukha「楽」処格）
+
+→「八つは障碍に関する智、八つはたすけ（資益）に関する智、十八は随煩悩に関する智、十三は浄化に関する智、三十二は念をもって行ずる者の智、二十四は三昧のはたらきによる智、七十二は観のはたらきによる智、八つは厭離の智、八つは厭離に随順する智、八つは厭離が静まる智、二十一は解脱の楽に関する智である。」
+
+3. Katamāni aṭṭha paripanthe ñāṇāni, aṭṭha ca upakāre ñāṇāni?
+
+  * katamāni ＝ 疑問代名詞、主格複数中性「いかなるものが」
+  * aṭṭha paripanthe ñāṇāni ＝「八つの、障碍に関する智」
+  * aṭṭha ca upakāre ñāṇāni ＝「八つの、たすけに関する智」
+
+→「障碍に関する八智、たすけ（資益）に関する八智とは、いかなるものか。」
+
+4. Kāmacchando samādhissa paripantho, nekkhammaṃ samādhissa upakāraṃ.
+
+  * kāmacchando ＝ kāma「欲」＋chanda「欲求」、主格単数「愛欲」
+  * samādhissa ＝ samādhi 属格単数「三昧の」
+  * paripantho ＝ 主格単数「障碍」（述語名詞）
+  * nekkhammaṃ ＝ 主格単数中性「出離」
+  * upakāraṃ ＝ 中性主格、述語「たすけ（資益）」
+
+→「愛欲は三昧の障碍であり、出離は三昧のたすけである。」
+
+5. Byāpādo samādhissa paripantho, abyāpādo samādhissa upakāraṃ.
+
+  * byāpādo ＝「瞋恚」、主格単数
+  * abyāpādo ＝「無瞋」、主格単数
+
+→「瞋恚は三昧の障碍であり、無瞋は三昧のたすけである。」
+
+6. Thinamiddhaṃ samādhissa paripantho, ālokasaññā samādhissa upakāraṃ.
+
+  * thina-middhaṃ ＝ thina「惛沈」＋middha「睡眠」、主格単数中性「惛沈睡眠」
+  * āloka-saññā ＝ āloka「光明」＋saññā「想」、主格単数「光明想」
+
+→「惛沈睡眠は三昧の障碍であり、光明想は三昧のたすけである。」
+
+7. Uddhaccaṃ samādhissa paripantho, avikkhepo samādhissa upakāraṃ.
+
+  * uddhaccaṃ ＝「掉挙（心の浮つき）」、主格単数中性
+  * avikkhepo ＝ a-「不」＋vikkhepa「散乱」、主格単数「不散乱」
+
+→「掉挙は三昧の障碍であり、不散乱は三昧のたすけである。」
+
+8. Vicikicchā samādhissa paripantho, dhammavavatthānaṃ samādhissa upakāraṃ.
+
+  * vicikicchā ＝「疑」、主格単数
+  * dhamma-vavatthānaṃ ＝ dhamma「法」＋vavatthāna「見極め・確定」（依主釈）、主格単数「諸法を見極めること」
+
+→「疑は三昧の障碍であり、諸法を見極めること（法の確定）は三昧のたすけである。」
+
+9. Avijjā samādhissa paripantho, ñāṇaṃ samādhissa upakāraṃ.
+
+  * avijjā ＝「無明」、主格単数
+  * ñāṇaṃ ＝「智」、主格単数中性
+
+→「無明は三昧の障碍であり、智は三昧のたすけである。」
+
+10. Arati samādhissa paripantho, pāmojjaṃ samādhissa upakāraṃ.
+
+  * arati ＝ a-「不」＋rati「楽しみ」、主格単数「楽しまないこと・倦厭」
+  * pāmojjaṃ ＝「喜悦（よろこび）」、主格単数中性
+
+→「楽しまないこと（倦厭）は三昧の障碍であり、喜悦は三昧のたすけである。」
+
+11. Sabbepi akusalā dhammā samādhissa paripanthā, sabbepi kusalā dhammā samādhissa upakārā.
+
+  * sabbe pi ＝「すべての〜もまた」（sabbe 主格複数＋強調の pi）
+  * akusalā dhammā ＝「不善の諸法」、主格複数
+  * paripanthā ＝「障碍（となるもの）」、主格複数
+  * kusalā dhammā ＝「善の諸法」、主格複数
+  * upakārā ＝「たすけ（資益となるもの）」、主格複数
+
+→「すべての不善の法は三昧の障碍であり、すべての善の法は三昧のたすけである。」
+
+12. Imāni aṭṭha paripanthe ñāṇāni, aṭṭha ca upakāre ñāṇāni.
+
+  * imāni ＝ 指示代名詞、主格複数中性「これらが」
+  * aṭṭha paripanthe ñāṇāni ＝「八つの、障碍に関する智」
+  * aṭṭha ca upakāre ñāṇāni ＝「八つの、たすけに関する智」
+
+→「これらが障碍に関する八智、たすけ（資益）に関する八智である。」
+
+13. Gaṇanavāro paṭhamo.
+
+  * gaṇana-vāro ＝ gaṇana「計数・数えること」＋vāra「節・章段」（依主釈）、主格単数
+  * paṭhamo ＝「第一の」、主格単数
+
+→「計数の節、第一。」
+
 # 2. Soḷasañāṇaniddeso
 
-## 153
+## 153 (1)
+
+153. Imehi soḷasahi ākārehi uducittaṃ cittaṃ samuducitaṃ cittaṃ ekatte santiṭṭhati, nīvaraṇehi visujjhati. Katame te ekattā? Nekkhammaṃ ekattaṃ, abyāpādo ekattaṃ, ālokasaññā ekattaṃ, avikkhepo ekattaṃ, dhammavavatthānaṃ ekattaṃ, ñāṇaṃ ekattaṃ, pāmojjaṃ ekattaṃ, sabbepi kusalā dhammā ekattā.
+
+Nīvaraṇāti, katame te nīvaraṇā? Kāmacchando nīvaraṇaṃ, byāpādo nīvaraṇaṃ, thinamiddhaṃ nīvaraṇaṃ, uddhaccakukkuccaṃ nīvaraṇaṃ, vicikicchā nīvaraṇaṃ, avijjā nīvaraṇaṃ, arati nīvaraṇaṃ, sabbepi akusalā dhammā nīvaraṇā.
+
+### Claude
+
+- 2026/06/26
+- Claude Opus 4.8 High
+
+### 対訳
+
+出典：無礙解道（Paṭisambhidāmagga）安般念論・十六智解説（Soḷasañāṇaniddeso）§153
+assāsa/passāsa の方向性注記：該当なし（本箇所に assāsa/passāsa は現れない）
+
+【見出し】Soḷasañāṇaniddeso
+* soḷasa = 「十六」（数詞）
+* ñāṇa = 「智」
+* niddesa = 「解説、釈」（ni + √dis、指し示すこと）
+  → 「十六智の解説」
+
+1. Imehi soḷasahi ākārehi uducittaṃ cittaṃ samuducitaṃ cittaṃ ekatte santiṭṭhati, nīvaraṇehi visujjhati.
+* imehi = 「これらの」（指示代名詞 ima、具格・複数）
+* soḷasahi = 「十六の」（数詞、具格・複数）
+* ākārehi = 「行相によって、仕方によって」（ākāra、具格・複数）
+* uducitaṃ = 「積み調えられた、高められた」（ud + √ci の過去分詞 cita を修飾語化、対格→主題、単数・中性。なお ucita「習熟した・適った」と解する読みも成り立つ）
+* cittaṃ = 「心」（単数・中性）
+* samuducitaṃ = 「十全に積み調えられた、よく調えられた」（sam + ud + √ci の過去分詞）
+* ekatte = 「一性において」（ekatta、処格・単数）
+* santiṭṭhati = 「安立する、しっかりと住する」（saṃ + √ṭhā、現在・三人称・単数）
+* nīvaraṇehi = 「諸蓋から」（nīvaraṇa、奪格・複数）
+* visujjhati = 「清浄になる、浄まる」（vi + √sudh、現在・三人称・単数）
+  → 「これら十六の行相によって、積み調えられた心、よく積み調えられた心は、一性において安立し、諸蓋から清浄になる。」
+
+2. Katame te ekattā?
+* katame = 「どれが、何が」（疑問代名詞、主格・複数）
+* te = 「それらの」（主格・複数）
+* ekattā = 「一性（の諸相）」（ekatta、主格・複数）
+  → 「それらの一性とは何か。」
+
+3. Nekkhammaṃ ekattaṃ, abyāpādo ekattaṃ, ālokasaññā ekattaṃ, avikkhepo ekattaṃ, dhammavavatthānaṃ ekattaṃ, ñāṇaṃ ekattaṃ, pāmojjaṃ ekattaṃ, sabbepi kusalā dhammā ekattā.
+* nekkhammaṃ = 「出離」（nekkhamma、主格・単数・中性）
+* abyāpādo = 「無瞋（瞋りのないこと）」（a + byāpāda、主格・単数・男性）
+* ālokasaññā = 「光明想」（āloka 光明 + saññā 想、依主釈、主格・単数・女性）
+* avikkhepo = 「不散乱」（a + vikkhepa、主格・単数・男性）
+* dhammavavatthānaṃ = 「法の見極め（確立）」（dhamma 法 + vavatthāna 確立・限定、依主釈、主格・単数・中性）
+* ñāṇaṃ = 「智」（主格・単数・中性）
+* pāmojjaṃ = 「悦び」（pāmojja、主格・単数・中性。pīti「喜」とは別語）
+* sabbe pi = 「すべての～もまた」
+* kusalā dhammā = 「善なる諸法」（主格・複数・男性）
+* ekattā = 「一性（の諸相）」（主格・複数）
+  → 「出離は一性であり、無瞋は一性であり、光明想は一性であり、不散乱は一性であり、法の見極めは一性であり、智は一性であり、悦びは一性であり、すべての善法もまた一性である。」
+
+4. Nīvaraṇāti, katame te nīvaraṇā?
+* nīvaraṇā ti = 「『諸蓋』とは」（引用の ti を伴う、主格・複数）
+* katame = 「どれが、何が」（疑問代名詞、主格・複数）
+* te = 「それらの」（主格・複数）
+* nīvaraṇā = 「諸蓋」（nīvaraṇa、主格・複数）
+  → 「『諸蓋』とは、それらの蓋とは何か。」
+
+5. Kāmacchando nīvaraṇaṃ, byāpādo nīvaraṇaṃ, thinamiddhaṃ nīvaraṇaṃ, uddhaccakukkuccaṃ nīvaraṇaṃ, vicikicchā nīvaraṇaṃ, avijjā nīvaraṇaṃ, arati nīvaraṇaṃ, sabbepi akusalā dhammā nīvaraṇā.
+* kāmacchando = 「欲貪（愛欲への欲）」（kāma + chanda、依主釈、主格・単数・男性）
+* byāpādo = 「瞋恚」（主格・単数・男性）
+* thinamiddhaṃ = 「惛沈睡眠」（thina 惛沈 + middha 睡眠、相違釈、主格・単数・中性）
+* uddhaccakukkuccaṃ = 「掉挙悪作（落ち着きのなさと後悔）」（uddhacca + kukkucca、相違釈、主格・単数・中性）
+* vicikicchā = 「疑」（主格・単数・女性）
+* avijjā = 「無明」（主格・単数・女性）
+* arati = 「不楽（倦み・嫌気）」（主格・単数・女性）
+* sabbe pi = 「すべての～もまた」
+* akusalā dhammā = 「不善なる諸法」（主格・複数・男性）
+* nīvaraṇā = 「諸蓋」（主格・複数）
+  → 「欲貪は蓋であり、瞋恚は蓋であり、惛沈睡眠は蓋であり、掉挙悪作は蓋であり、疑は蓋であり、無明は蓋であり、不楽は蓋であり、すべての不善法もまた蓋である。」
+
+## 153 (2)
+
+Nīvaraṇāti, kenaṭṭhena nīvaraṇā? Niyyānāvaraṇaṭṭhena nīvaraṇā. Katame te niyyānā? Nekkhammaṃ ariyānaṃ niyyānaṃ. Tena ca nekkhammena ariyā niyyanti. Kāmacchando niyyānāvaraṇaṃ. Tena ca kāmacchandena nivutattā nekkhammaṃ ariyānaṃ niyyānaṃ nappajānātīti – kāmacchando niyyānāvaraṇaṃ. Abyāpādo ariyānaṃ niyyānaṃ. Tena ca abyāpādena ariyā niyyanti. Byāpādo niyyānāvaraṇaṃ. Tena ca byāpādena nivutattā abyāpādaṃ ariyānaṃ niyyānaṃ nappajānātīti – byāpādo niyyānāvaraṇaṃ. Ālokasaññā ariyānaṃ niyyānaṃ. Tāya ca ālokasaññāya ariyā niyyanti . Thinamiddhaṃ niyyānāvaraṇaṃ. Tena ca thinamiddhena nivutattā ālokasaññaṃ ariyānaṃ niyyānaṃ nappajānātīti – thinamiddhaṃ niyyānāvaraṇaṃ. Avikkhepo ariyānaṃ niyyānaṃ. Tena ca avikkhepena ariyā niyyanti. Uddhaccaṃ niyyānāvaraṇaṃ . Tena ca uddhaccena nivutattā avikkhepaṃ ariyānaṃ niyyānaṃ nappajānātīti – uddhaccaṃ niyyānāvaraṇaṃ. Dhammavavatthānaṃ ariyānaṃ niyyānaṃ. Tena ca dhammavavatthānena ariyā niyyanti. Vicikicchā niyyānāvaraṇaṃ. Tāya ca vicikicchāya nivutattā dhammavavatthānaṃ ariyānaṃ niyyānaṃ nappajānātīti – vicikicchā niyyānāvaraṇaṃ. Ñāṇaṃ ariyānaṃ niyyānaṃ. Tena ca ñāṇena ariyā niyyanti. Avijjā niyyānāvaraṇaṃ. Tāya ca avijjāya nivutattā ñāṇaṃ ariyānaṃ niyyānaṃ nappajānātīti – avijjā niyyānāvaraṇaṃ. Pāmojjaṃ ariyānaṃ niyyānaṃ. Tena ca pāmojjena ariyā niyyanti. Arati niyyānāvaraṇaṃ. Tāya ca aratiyā nivutattā pāmojjaṃ ariyānaṃ niyyānaṃ nappajānātīti – arati niyyānāvaraṇaṃ. Sabbepi kusalā dhammā ariyānaṃ niyyānaṃ. Tehi ca kusalehi dhammehi ariyā niyyanti. Sabbepi akusalā dhammā niyyānāvaraṇā. Tehi ca akusalehi dhammehi nivutattā kusale dhamme ariyānaṃ niyyānaṃ nappajānātīti – sabbepi akusalā dhammā niyyānāvaraṇā. Imehi ca pana nīvaraṇehi visuddhacittassa soḷasavatthukaṃ ānāpānassatisamādhiṃ bhāvayato khaṇikasamodhānā.
+
+Soḷasañāṇaniddeso dutiyo.
+
+### Claude
+
+- 2026/06/26
+- Claude Opus 4.8 High
+
+### 対訳
+
+出典：無礙解道（Paṭisambhidāmagga）安般念論・十六智解説（Soḷasañāṇaniddeso）§153（承前）
+assāsa/passāsa の方向性注記：該当なし（本箇所に assāsa/passāsa は方向語としては現れない。末尾の ānāpānassati は複合語中の語）
+
+【枠組み語彙の確認】
+* niyyāna = 「出要（しゅつよう）、すなわち（聖者を輪廻から）導き出すこと・解脱への出立」（ni + √yā、主格・単数・中性。nekkhamma〈出離〉とは別語）
+* niyyānāvaraṇa = 「出要を妨げるもの、解脱への出立をさえぎる障り」（niyyāna + āvaraṇa〈覆い・障り〉、依主釈）
+* niyyanti = 「（聖者たちは解脱へと）出ていく、導き出される」（ni + √yā、現在・三人称・複数）
+* nivutattā = 「覆われている／さえぎられているがゆえに」（ni + √vṛ の過去分詞 nivuta + tta 抽象名詞化、奪格・単数）
+* nappajānāti = 「了知しない、よく知らない」（na + pa + √ñā、現在・三人称・単数）
+
+1. Nīvaraṇāti, kenaṭṭhena nīvaraṇā? Niyyānāvaraṇaṭṭhena nīvaraṇā.
+* nīvaraṇā ti = 「『諸蓋』とは」（引用の ti、主格・複数）
+* kena aṭṭhena = 「いかなる意味によって」（ka の具格 kena + aṭṭha の具格、具格・単数）
+* niyyānāvaraṇaṭṭhena = 「出要をさえぎるという意味によって」（niyyānāvaraṇa + aṭṭha、具格・単数）
+* nīvaraṇā = 「諸蓋（である）」（主格・複数）
+  → 「『諸蓋』とは、いかなる意味で蓋なのか。出要をさえぎるという意味で蓋なのである。」
+
+2. Katame te niyyānā?
+* katame = 「どれが、何が」（疑問代名詞、主格・複数）
+* te = 「それらの」（主格・複数）
+* niyyānā = 「出要（の諸相）」（主格・複数）
+  → 「それらの出要とは何か。」
+
+3. Nekkhammaṃ ariyānaṃ niyyānaṃ. Tena ca nekkhammena ariyā niyyanti. Kāmacchando niyyānāvaraṇaṃ. Tena ca kāmacchandena nivutattā nekkhammaṃ ariyānaṃ niyyānaṃ nappajānātīti – kāmacchando niyyānāvaraṇaṃ.
+* nekkhammaṃ = 「出離」（主格・単数・中性）
+* ariyānaṃ = 「聖者たちの／聖者たちにとっての」（属格・複数）
+* niyyānaṃ = 「出要」（主格・単数・中性）
+* tena ... nekkhammena = 「その出離によって」（具格・単数）
+* ariyā niyyanti = 「聖者たちは（解脱へ）導き出される」
+* kāmacchando = 「欲貪」（主格・単数・男性）
+* niyyānāvaraṇaṃ = 「出要をさえぎるもの」（主格・単数・中性）
+* tena ... kāmacchandena nivutattā = 「その欲貪によって覆われているがゆえに」
+* nappajānāti ti = 「了知しない、というわけで」
+  → 「出離は聖者たちの出要である。その出離によって聖者たちは導き出される。欲貪は出要をさえぎるものである。その欲貪に覆われているがゆえに、聖者たちの出要である出離を了知しない――それゆえ欲貪は出要をさえぎるものである。」
+
+4. Abyāpādo ariyānaṃ niyyānaṃ. Tena ca abyāpādena ariyā niyyanti. Byāpādo niyyānāvaraṇaṃ. Tena ca byāpādena nivutattā abyāpādaṃ ariyānaṃ niyyānaṃ nappajānātīti – byāpādo niyyānāvaraṇaṃ.
+* abyāpādo = 「無瞋（瞋りのないこと）」（主格・単数・男性）
+* byāpādo = 「瞋恚」（主格・単数・男性）
+  （枠組みは上に同じ。具格は男性 tena ... byāpādena）
+  → 「無瞋は聖者たちの出要である。その無瞋によって聖者たちは導き出される。瞋恚は出要をさえぎるものである。その瞋恚に覆われているがゆえに、聖者たちの出要である無瞋を了知しない――それゆえ瞋恚は出要をさえぎるものである。」
+
+5. Ālokasaññā ariyānaṃ niyyānaṃ. Tāya ca ālokasaññāya ariyā niyyanti. Thinamiddhaṃ niyyānāvaraṇaṃ. Tena ca thinamiddhena nivutattā ālokasaññaṃ ariyānaṃ niyyānaṃ nappajānātīti – thinamiddhaṃ niyyānāvaraṇaṃ.
+* ālokasaññā = 「光明想」（āloka 光明 + saññā 想、依主釈、主格・単数・女性）
+* tāya ... ālokasaññāya = 「その光明想によって」（女性名詞ゆえ具格は tāya）
+* thinamiddhaṃ = 「惛沈睡眠」（相違釈、主格・単数・中性）
+  → 「光明想は聖者たちの出要である。その光明想によって聖者たちは導き出される。惛沈睡眠は出要をさえぎるものである。その惛沈睡眠に覆われているがゆえに、聖者たちの出要である光明想を了知しない――それゆえ惛沈睡眠は出要をさえぎるものである。」
+
+6. Avikkhepo ariyānaṃ niyyānaṃ. Tena ca avikkhepena ariyā niyyanti. Uddhaccaṃ niyyānāvaraṇaṃ. Tena ca uddhaccena nivutattā avikkhepaṃ ariyānaṃ niyyānaṃ nappajānātīti – uddhaccaṃ niyyānāvaraṇaṃ.
+* avikkhepo = 「不散乱」（a + vikkhepa、主格・単数・男性）
+* uddhaccaṃ = 「掉挙（落ち着きのなさ）」（主格・単数・中性）
+  → 「不散乱は聖者たちの出要である。その不散乱によって聖者たちは導き出される。掉挙は出要をさえぎるものである。その掉挙に覆われているがゆえに、聖者たちの出要である不散乱を了知しない――それゆえ掉挙は出要をさえぎるものである。」
+
+7. Dhammavavatthānaṃ ariyānaṃ niyyānaṃ. Tena ca dhammavavatthānena ariyā niyyanti. Vicikicchā niyyānāvaraṇaṃ. Tāya ca vicikicchāya nivutattā dhammavavatthānaṃ ariyānaṃ niyyānaṃ nappajānātīti – vicikicchā niyyānāvaraṇaṃ.
+* dhammavavatthānaṃ = 「法の見極め（法を確定すること）」（dhamma + vavatthāna、依主釈、主格・単数・中性）
+* vicikicchā = 「疑」（主格・単数・女性）
+* tāya ... vicikicchāya = 「その疑によって」（女性名詞ゆえ具格は tāya）
+  → 「法の見極めは聖者たちの出要である。その法の見極めによって聖者たちは導き出される。疑は出要をさえぎるものである。その疑に覆われているがゆえに、聖者たちの出要である法の見極めを了知しない――それゆえ疑は出要をさえぎるものである。」
+
+8. Ñāṇaṃ ariyānaṃ niyyānaṃ. Tena ca ñāṇena ariyā niyyanti. Avijjā niyyānāvaraṇaṃ. Tāya ca avijjāya nivutattā ñāṇaṃ ariyānaṃ niyyānaṃ nappajānātīti – avijjā niyyānāvaraṇaṃ.
+* ñāṇaṃ = 「智」（主格・単数・中性）
+* avijjā = 「無明」（主格・単数・女性）
+* tāya ... avijjāya = 「その無明によって」（女性名詞ゆえ具格は tāya）
+  → 「智は聖者たちの出要である。その智によって聖者たちは導き出される。無明は出要をさえぎるものである。その無明に覆われているがゆえに、聖者たちの出要である智を了知しない――それゆえ無明は出要をさえぎるものである。」
+
+9. Pāmojjaṃ ariyānaṃ niyyānaṃ. Tena ca pāmojjena ariyā niyyanti. Arati niyyānāvaraṇaṃ. Tāya ca aratiyā nivutattā pāmojjaṃ ariyānaṃ niyyānaṃ nappajānātīti – arati niyyānāvaraṇaṃ.
+* pāmojjaṃ = 「悦び」（pāmojja、主格・単数・中性。pīti〈喜〉とは別語）
+* arati = 「不楽（倦み・嫌気）」（主格・単数・女性）
+* tāya ... aratiyā = 「その不楽によって」（女性名詞ゆえ具格は tāya）
+  → 「悦びは聖者たちの出要である。その悦びによって聖者たちは導き出される。不楽は出要をさえぎるものである。その不楽に覆われているがゆえに、聖者たちの出要である悦びを了知しない――それゆえ不楽は出要をさえぎるものである。」
+
+10. Sabbepi kusalā dhammā ariyānaṃ niyyānaṃ. Tehi ca kusalehi dhammehi ariyā niyyanti. Sabbepi akusalā dhammā niyyānāvaraṇā. Tehi ca akusalehi dhammehi nivutattā kusale dhamme ariyānaṃ niyyānaṃ nappajānātīti – sabbepi akusalā dhammā niyyānāvaraṇā.
+* sabbe pi kusalā dhammā = 「すべての善法もまた」（主格・複数・男性）
+* tehi ... kusalehi dhammehi = 「それらの善法によって」（具格・複数）
+* sabbe pi akusalā dhammā = 「すべての不善法もまた」（主格・複数・男性）
+* niyyānāvaraṇā = 「出要をさえぎるもの（である）」（主格・複数）
+* tehi ... akusalehi dhammehi nivutattā = 「それらの不善法によって覆われているがゆえに」
+* kusale dhamme = 「諸善法を」（対格・複数）
+  → 「すべての善法もまた聖者たちの出要である。それらの善法によって聖者たちは導き出される。すべての不善法もまた出要をさえぎるものである。それらの不善法に覆われているがゆえに、聖者たちの出要である諸善法を了知しない――それゆえすべての不善法もまた出要をさえぎるものである。」
+
+11. Imehi ca pana nīvaraṇehi visuddhacittassa soḷasavatthukaṃ ānāpānassatisamādhiṃ bhāvayato khaṇikasamodhānā.
+* imehi ca pana nīvaraṇehi = 「そしてさらに、これらの諸蓋から」（奪格・複数）
+* visuddhacittassa = 「清浄になった心をもつ者の」（visuddha 清浄な + citta 心、有財釈、属格・単数）
+* soḷasavatthukaṃ = 「十六の事項（基盤）をもつ」（soḷasa 十六 + vatthu 事 + ka 所有接尾辞、対格・単数）
+* ānāpānassatisamādhiṃ = 「安般念三昧（出入息に対する念の三昧）を」（ānāpāna + sati + samādhi、対格・単数）
+* bhāvayato = 「修習する者の」（√bhū 使役 bhāveti の現在分詞、属格・単数）
+* khaṇikasamodhānā = 「刹那ごとの結びつき（諸要素が瞬間瞬間にまとまり集まること）」（khaṇika 刹那的な + samodhāna 結合・集約、主格・複数。次節の主題へと続く導入句）
+  → 「そしてさらに、これらの諸蓋から心が清浄になった者が、十六の事項からなる安般念三昧を修習するとき、その者には刹那ごとの結びつき（諸要素の瞬間的な集約）がある。」
+
+【結尾】Soḷasañāṇaniddeso dutiyo.
+* soḷasañāṇaniddeso = 「十六智の解説」（主格・単数・男性）
+* dutiyo = 「第二（の）」（序数、主格・単数・男性）
+  → 「十六智の解説、第二〔章おわり〕。」
 
 # 3. Upakkilesañāṇaniddeso
 
+## Paṭhamacchakkaṃ
+
 ## 154
+
+154. Imehi ca pana nīvaraṇehi visuddhacittassa soḷasavatthukaṃ ānāpānassatisamādhiṃ bhāvayato khaṇikasamodhānā katame aṭṭhārasa upakkilesā uppajjanti? Assāsādimajjhapariyosānaṃ satiyā anugacchato ajjhattavikkhepagataṃ cittaṃ samādhissa paripantho. Passāsādimajjhapariyosānaṃ satiyā anugacchato bahiddhāvikkhepagataṃ cittaṃ samādhissa paripantho. Assāsapaṭikaṅkhanā nikanti taṇhācariyā samādhissa paripantho. Passāsapaṭikaṅkhanā nikanti taṇhācariyā samādhissa paripantho. Assāsenābhitunnassa passāsapaṭilābhe mucchanā samādhissa paripantho. Passāsenābhitunnassa assāsapaṭilābhe mucchanā samādhissa paripantho.
+
+Anugacchanā ca assāsaṃ, passāsaṃ anugacchanā;
+
+Sati ajjhattavikkhepā, kaṅkhanā bahiddhāvikkhepapatthanā [vikkhepapanthanā (syā.)].
+
+Assāsenābhitunnassa, passāsapaṭilābhe mucchanā;
+
+Passāsenābhitunnassa, assāsapaṭilābhe mucchanā.
+
+Cha ete upakkilesā, ānāpānassatisamādhissa;
+
+Yehi vikkhippamānassa [vikampamānassa (syā.)], no ca cittaṃ vimuccati;
+
+Vimokkhaṃ appajānantā, te honti parapattiyāti.
+
+### Claude
+
+- 2026/06/26
+- Claude Opus 4.8 High
+
+### 対訳
+
+【出典】Paṭisambhidāmagga, Upakkilesañāṇaniddesa, Paṭhamacchakka §154
+〔assāsa/passāsa の方向性〕本系統（Paṭisambhidāmagga／律註系統）では assāsa＝入息、passāsa＝出息。
+
+0. 3. Upakkilesañāṇaniddeso / Paṭhamacchakkaṃ
+
+  * upakkilesa =「随煩悩（心を曇らせる微細な汚れ）」
+  * ñāṇa =「智」
+  * niddesa =「解説・釈（詳しく説き示すこと）」
+    →「随煩悩智の解説」
+  * paṭhama =「第一の」
+  * chakka =「六法、六つ一組（六項目のまとまり）」
+    →「第一の六法」
+
+→「三 随煩悩智の解説／第一の六法」
+
+1. Imehi ca pana nīvaraṇehi visuddhacittassa soḷasavatthukaṃ ānāpānassatisamādhiṃ bhāvayato khaṇikasamodhānā katame aṭṭhārasa upakkilesā uppajjanti?
+
+  * imehi =「これらの」（指示代名詞 ima、具格・複数）
+  * ca pana =「さて、しかしまた」
+  * nīvaraṇehi =「蓋によって」（nīvaraṇa、具格・複数）
+  * visuddhacittassa =「心が清浄となった者にとって」（属格・単数；visuddha 清浄な＋citta 心、有財釈）
+  * soḷasavatthukaṃ =「十六の事をもつ」（対格；soḷasa 十六＋vatthu 事・基、有財釈）
+  * ānāpānassatisamādhiṃ =「出入息念の三昧を」（対格；ānāpānassati＋samādhi、依主釈）
+  * bhāvayato =「修習する者にとって」（現在分詞・属格／与格・単数；bhāveti 使役）
+  * khaṇikasamodhānā =「刹那的な統合により」（奪格；khaṇika 刹那的な＋samodhāna 統合・まとまり）
+  * katame =「どのような」（疑問代名詞、主格・複数）
+  * aṭṭhārasa =「十八の」
+  * upakkilesā =「随煩悩が」（主格・複数）
+  * uppajjanti =「生起する」（uppajjati、三人称複数・現在）
+    →「さて、これらの蓋によって心が清浄となった者が、十六の事ある出入息念の三昧を修習するとき、刹那的な〔心の〕統合により、どのような十八の随煩悩が生起するのか。」
+
+2. Assāsādimajjhapariyosānaṃ satiyā anugacchato ajjhattavikkhepagataṃ cittaṃ samādhissa paripantho.
+
+  * assāsādimajjhapariyosānaṃ =「入息の初め・中ほど・終わりを」（対格；assāsa 入息＋ādi 初め＋majjha 中間＋pariyosāna 終わり、依主釈）
+  * satiyā =「念によって」（具格・単数）
+  * anugacchato =「追随する者にとって」（現在分詞・属格／与格・単数；anugacchati 後を追う・随行する）
+  * ajjhattavikkhepagataṃ =「内への散乱に陥った」（cittaṃ を修飾；ajjhatta 内＋vikkhepa 散乱＋gata 至った、有財釈）
+  * cittaṃ =「心は」（主格・単数）
+  * samādhissa =「三昧の」（属格・単数）
+  * paripantho =「妨げ・障碍」（主格・単数；paripantha 障害・難所）
+    →「入息の初め・中ほど・終わりを念によって追随する者にとって、内へと散乱した心は三昧の妨げである。」
+
+3. Passāsādimajjhapariyosānaṃ satiyā anugacchato bahiddhāvikkhepagataṃ cittaṃ samādhissa paripantho.
+
+  * passāsādimajjhapariyosānaṃ =「出息の初め・中ほど・終わりを」（対格；passāsa 出息＋ādi＋majjha＋pariyosāna）
+  * bahiddhāvikkhepagataṃ =「外への散乱に陥った」（bahiddhā 外＋vikkhepa＋gata、有財釈）
+  * 他は 2 と同じ
+    →「出息の初め・中ほど・終わりを念によって追随する者にとって、外へと散乱した心は三昧の妨げである。」
+
+4. Assāsapaṭikaṅkhanā nikanti taṇhācariyā samādhissa paripantho.
+
+  * assāsapaṭikaṅkhanā =「入息を待ち望むこと」（主格；assāsa＋paṭikaṅkhanā 期待・待望）
+  * nikanti =「欲求・希求」（主格；同格による言い換え）
+  * taṇhācariyā =「渇愛の働き・渇愛のふるまい」（主格；taṇhā 渇愛＋cariyā 行・ふるまい、依主釈）
+  * samādhissa paripantho =「三昧の妨げ」
+    →「入息を待ち望むこと、すなわち欲求、渇愛の働きは、三昧の妨げである。」
+
+5. Passāsapaṭikaṅkhanā nikanti taṇhācariyā samādhissa paripantho.
+
+  * passāsapaṭikaṅkhanā =「出息を待ち望むこと」（主格）
+  * 他は 4 と同じ
+    →「出息を待ち望むこと、すなわち欲求、渇愛の働きは、三昧の妨げである。」
+
+6. Assāsenābhitunnassa passāsapaṭilābhe mucchanā samādhissa paripantho.
+
+  * assāsena =「入息によって」（具格・単数）
+  * abhitunnassa =「圧倒された者にとって」（過去分詞・属格・単数；abhitunna、abhi-tudati の過分、突かれ悩まされた）
+  * passāsapaṭilābhe =「出息を得ることにおいて」（処格；passāsa＋paṭilābha 獲得）
+  * mucchanā =「昏迷（意識のもうろう）・とらわれ」（主格；mucchanā 失神・昏迷）
+  * samādhissa paripantho =「三昧の妨げ」
+    →「入息に圧倒された者にとって、出息を得る際の昏迷（意識のもうろう）は、三昧の妨げである。」
+
+7. Passāsenābhitunnassa assāsapaṭilābhe mucchanā samādhissa paripantho.
+
+  * passāsena =「出息によって」（具格・単数）
+  * assāsapaṭilābhe =「入息を得ることにおいて」（処格）
+  * 他は 6 と同じ
+    →「出息に圧倒された者にとって、入息を得る際の昏迷は、三昧の妨げである。」
+
+8. Anugacchanā ca assāsaṃ, passāsaṃ anugacchanā; Sati ajjhattavikkhepā, kaṅkhanā bahiddhāvikkhepapatthanā [vikkhepapanthanā (syā.)].
+
+  * anugacchanā =「追随すること」（主格・女性）
+  * ca =「～と、また」
+  * assāsaṃ =「入息を」（対格；動作名詞 anugacchanā の目的語）
+  * passāsaṃ =「出息を」（対格）
+  * anugacchanā =「追随すること」
+  * sati =「念（が）」（主格・女性）
+  * ajjhattavikkhepā =「内への散乱〔となる〕」（ajjhatta 内＋vikkhepa 散乱）
+  * kaṅkhanā =「待ち望むこと・期待」（主格・女性）
+  * bahiddhāvikkhepapatthanā =「外への散乱を希求すること」（bahiddhā 外＋vikkhepa 散乱＋patthanā 希求・願望）
+    〔異読〕vikkhepapanthanā（シャム本）＝「外への散乱という難所」
+    →「入息を追随すること、また出息を追随すること、念〔に伴う〕内への散乱、〔そして〕外への散乱を希求する待望——〔これらが障碍である〕。」
+
+9. Assāsenābhitunnassa, passāsapaṭilābhe mucchanā; Passāsenābhitunnassa, assāsapaṭilābhe mucchanā.
+
+  * 内容は散文 6・7 と同義（偈頌としての要約）
+  * assāsena abhitunnassa passāsapaṭilābhe mucchanā =「入息に圧倒された者の、出息を得る際の昏迷」
+  * passāsena abhitunnassa assāsapaṭilābhe mucchanā =「出息に圧倒された者の、入息を得る際の昏迷」
+    →「入息に圧倒された者の、出息を得る際の昏迷、出息に圧倒された者の、入息を得る際の昏迷——」
+
+10. Cha ete upakkilesā, ānāpānassatisamādhissa; Yehi vikkhippamānassa [vikampamānassa (syā.)], no ca cittaṃ vimuccati; Vimokkhaṃ appajānantā, te honti parapattiyāti.
+
+  * cha ete =「これら六つの」（主格・複数）
+  * upakkilesā =「随煩悩」（主格・複数）
+  * ānāpānassatisamādhissa =「出入息念三昧の」（属格・単数）
+  * yehi =「それらによって」（関係代名詞・具格・複数）
+  * vikkhippamānassa =「散乱させられている者にとって」（受動現在分詞・属格・単数；vikkhipati 散乱させる）
+    〔異読〕vikampamānassa（シャム本）＝「動揺している者にとって」
+  * no ca … vimuccati =「～心は解脱しない」（no 否定＋vimuccati 解脱する）
+  * cittaṃ =「心は」（主格・単数）
+  * vimokkhaṃ =「解脱を」（対格・単数）
+  * appajānantā =「了知しない者たちは」（現在分詞・主格・複数；a＋pajānanta、はっきり知らない）
+  * te =「彼らは」（主格・複数）
+  * honti =「～となる」（hoti、三人称複数）
+  * parapattiyā =「他に依存する者・他人の言を頼む者」（主格・複数；para 他＋pattiya 信頼・依存）
+  * ti =「『～』と」（引用）
+    →「これら六つは、出入息念三昧の随煩悩である。それらによって散乱させられる者は、心が解脱しない。解脱を了知しない彼らは、他に依存する者となる。」と。
+
+## Dutiyacchakkaṃ
+
 ## 155
+
+155. Nimittaṃ āvajjato assāse cittaṃ vikampati – samādhissa paripantho. Assāsaṃ āvajjato nimitte cittaṃ vikampati – samādhissa paripantho. Nimittaṃ āvajjato passāse cittaṃ vikampati – samādhissa paripantho. Passāsaṃ āvajjato nimitte cittaṃ vikampati – samādhissa paripantho. Assāsaṃ āvajjato passāse cittaṃ vikampati – samādhissa paripantho. Passāsaṃ āvajjato assāse cittaṃ vikampati – samādhissa paripantho.
+
+Nimittaṃ āvajjamānassa, assāse vikkhipate mano;
+
+Assāsaṃ āvajjamānassa, nimitte cittaṃ vikampati.
+
+Nimittaṃ āvajjamānassa, passāse vikkhipate mano;
+
+Passāsaṃ āvajjamānassa, nimitte cittaṃ vikampati.
+
+Assāsaṃ āvajjamānassa, passāse vikkhipate mano;
+
+Passāsaṃ āvajjamānassa, assāse cittaṃ vikampati.
+
+Cha ete upakkilesā, ānāpānassatisamādhissa;
+
+Yehi vikkhippamānassa, no ca cittaṃ vimuccati;
+
+Vimokkhaṃ appajānantā, te honti parapattiyāti.
+
+### Claude
+
+- 2026/06/26
+- Claude Opus 4.8 High
+
+### 出典
+無礙解道・安般念論・第二の六法 §155（paṭi. ma. 1.155）
+
+### assāsa / passāsa の方向性
+本テキスト（無礙解道）の伝統：assāsa = 入息、passāsa = 出息
+
+### 対訳
+
+1. Dutiyacchakkaṃ
+
+* dutiya = 「第二の」
+* chakka = 「六つ一組、六法」
+* dutiya-chakkaṃ = kammadhāraya／持業釈「第二の六法」
+
+→「第二の六法」
+
+2. Nimittaṃ āvajjato assāse cittaṃ vikampati – samādhissa paripantho.
+
+* nimittaṃ = 相（nimitta, 男/中・対・単）＝心を向ける対象
+* āvajjato = 「心を向ける（者）の」（ā-√vajj, āvajjati の現在分詞・属・単）＝注意を転じる
+* assāse = 「入息において」（assāsa, 男・処・単）
+* cittaṃ = 「心が」（citta, 中・主・単）
+* vikampati = 「動揺する、揺れ動く」（vi-√kamp, 現在・三・単）
+* samādhissa = 「定の」（samādhi, 男・属・単）
+* paripantho = 「障碍、妨げとなるもの」（paripantha, 男・主・単）
+
+→「相に心を向けると、入息において心が動揺する——これは定の障碍である。」
+
+3. Assāsaṃ āvajjato nimitte cittaṃ vikampati – samādhissa paripantho.
+
+* 構造は 2 と同型。assāsaṃ（入息・対）に心を向ける／nimitte（相・処）で動揺。
+
+→「入息に心を向けると、相において心が動揺する——これは定の障碍である。」
+
+4. Nimittaṃ āvajjato passāse cittaṃ vikampati – samādhissa paripantho.
+
+* passāse = 「出息において」（passāsa, 男・処・単）
+
+→「相に心を向けると、出息において心が動揺する——これは定の障碍である。」
+
+5. Passāsaṃ āvajjato nimitte cittaṃ vikampati – samādhissa paripantho.
+
+* passāsaṃ（出息・対）に心を向ける／nimitte（相・処）で動揺。
+
+→「出息に心を向けると、相において心が動揺する——これは定の障碍である。」
+
+6. Assāsaṃ āvajjato passāse cittaṃ vikampati – samādhissa paripantho.
+
+* assāsaṃ（入息）に心を向ける／passāse（出息）で動揺。
+
+→「入息に心を向けると、出息において心が動揺する——これは定の障碍である。」
+
+7. Passāsaṃ āvajjato assāse cittaṃ vikampati – samādhissa paripantho.
+
+* passāsaṃ（出息）に心を向ける／assāse（入息）で動揺。
+
+→「出息に心を向けると、入息において心が動揺する——これは定の障碍である。」
+
+― 偈文 ―
+
+8. Nimittaṃ āvajjamānassa, assāse vikkhipate mano;
+
+* nimittaṃ = 「相に」（対・単）
+* āvajjamānassa = 「心を向けつつある者の」（āvajjati の現在分詞・属・単, -māna 形）
+* assāse = 「入息において」（処・単）
+* vikkhipate = 「散乱する、散り乱れる」（vi-√khip, 中動・現在・三・単 ＝ vikkhipati の韻律形）
+* mano = 「意（心）が」（manas, 中・主・単）
+
+→「相に心を向ける者には、入息において意が散乱する。」
+
+9. Assāsaṃ āvajjamānassa, nimitte cittaṃ vikampati.
+
+* assāsaṃ（入息）に心を向ける／nimitte（相・処）で cittaṃ vikampati（心が動揺）。
+
+→「入息に心を向ける者には、相において心が動揺する。」
+
+10. Nimittaṃ āvajjamānassa, passāse vikkhipate mano;
+
+→「相に心を向ける者には、出息において意が散乱する。」
+
+11. Passāsaṃ āvajjamānassa, nimitte cittaṃ vikampati.
+
+→「出息に心を向ける者には、相において心が動揺する。」
+
+12. Assāsaṃ āvajjamānassa, passāse vikkhipate mano;
+
+→「入息に心を向ける者には、出息において意が散乱する。」
+
+13. Passāsaṃ āvajjamānassa, assāse cittaṃ vikampati.
+
+→「出息に心を向ける者には、入息において心が動揺する。」
+
+― 結びの偈 ―
+
+14. Cha ete upakkilesā, ānāpānassatisamādhissa;
+
+* cha = 「六つ」（数詞）
+* ete = 「これらは」（主・複）
+* upakkilesā = 「随煩悩（定を汚し乱すもの）」（upakkilesa, 男・主・複）
+* ānāpānassati-samādhissa = 「安般念定（出入息に向ける念の定）の」（tappurisa／依主釈, 属・単）
+
+→「これら六つは、安般念定（出入息に向ける念の定）の随煩悩（定を汚し乱すもの）である。」
+
+15. Yehi vikkhippamānassa, no ca cittaṃ vimuccati;
+
+* yehi = 「それらによって」（関係代名詞, 具・複）
+* vikkhippamānassa = 「散乱させられつつある者の」（vikkhipati の受動現在分詞・属・単）
+* no ca = 「そして～しない」
+* cittaṃ = 「心が」（中・主・単）
+* vimuccati = 「解脱する」（vi-√muc, 受動・現在・三・単）
+
+→「それら（六つ）によって散乱させられる者は、心が解脱することがない。」
+
+16. Vimokkhaṃ appajānantā, te honti parapattiyāti.
+
+* vimokkhaṃ = 「解脱を」（vimokkha, 男・対・単）
+* appajānantā = 「了知しない者たちは」（a + pajānāti の現在分詞・主・複）
+* te = 「彼らは」（主・複）
+* honti = 「～となる」（√bhū, 現在・三・複）
+* parapattiyā = 「他に依存する者（自力で達せず他に頼る者）」（para + pattiya, 男・主・複）
+* ti = 引用の結び
+
+→「解脱を了知しないため、彼らは他に依存する者となる、と。」
+
+## Tatiyacchakkaṃ
+
 ## 156
-## 157
+
+156. Atītānudhāvanaṃ cittaṃ vikkhepānupatitaṃ – samādhissa paripantho. Anāgatapaṭikaṅkhanaṃ cittaṃ vikampitaṃ – samādhissa paripantho. Līnaṃ cittaṃ kosajjānupatitaṃ – samādhissa paripantho. Atipaggahitaṃ cittaṃ uddhaccānupatitaṃ – samādhissa paripantho. Abhinataṃ cittaṃ rāgānupatitaṃ – samādhissa paripantho. Apanataṃ cittaṃ byāpādānupatitaṃ – samādhissa paripantho.
+
+Atītānudhāvanaṃ cittaṃ, anāgatapaṭikaṅkhanaṃ līnaṃ;
+
+Atipaggahitaṃ abhinataṃ, apanataṃ cittaṃ na samādhiyati.
+
+Cha ete upakkilesā, ānāpānassatisamādhissa;
+
+Yehi upakkiliṭṭhasaṅkappo, adhicittaṃ nappajānātīti.
+
+### Claude
+
+- 2026/06/26
+- Claude Opus 4.8 High
+
+### 出典
+無礙解道（Paṭisambhidāmagga）・安般念論（Ānāpānassatikathā）・第三六法（Tatiyacchakka）§156
+※assāsa/passāsa の入出息方向の別：該当なし（本箇所に assāsa/passāsa は現れず、ānāpāna の複合語のみ）
+※本入力は散文（六随煩悩の列挙）＋偈文（要約偈）。註釈は付されていない。
+
+### 対訳
+
+1. Tatiyacchakkaṃ
+
+* tatiya =「第三の」（序数）
+* chakka =「六法、六つ一組」（中性）
+* tatiyacchakka =「第三の六法」（tatiya-chakka、持業釈／kammadhāraya；中性・単数・主格）
+
+→「第三の六法（六つ一組のうち第三のもの）」
+
+2. Atītānudhāvanaṃ cittaṃ vikkhepānupatitaṃ – samādhissa paripantho.
+
+* atīta =「過去（過ぎ去ったもの）」（ati-eti の過去分詞の名詞的用法）
+* anudhāvana =「追いかけること、追走」（anu-√dhāv「追って走る」の動作名詞）
+* atītānudhāvanaṃ =「過去を追走する〔心〕」（atīta-anudhāvana、目的語を含む依主釈／tappurisa；中性・単数・主格、cittaṃ を修飾）
+* cittaṃ =「心」（中性・単数・主格）
+* vikkhepa =「散乱」
+* anupatita =「〜に陥った、随伴した」（anu-patati「後を追って落ちる」の過去分詞）
+* vikkhepānupatitaṃ =「散乱に陥った」（処格的依主釈／tappurisa、cittaṃ にかかる）
+* samādhissa =「定の」（samādhi、男性・単数・属格）
+* paripantho =「障碍、妨げ（道をふさぐもの）」（男性・単数・主格）
+
+→「過去を追いかけ、散乱に陥った心——これは定の障碍である。」
+
+3. Anāgatapaṭikaṅkhanaṃ cittaṃ vikampitaṃ – samādhissa paripantho.
+
+* anāgata =「未来（未だ来ざるもの）」（an-āgata）
+* paṭikaṅkhana =「期待すること、待ち望むこと」（paṭi-√kaṅkh の動作名詞）
+* anāgatapaṭikaṅkhanaṃ =「未来を待ち望む〔心〕」（依主釈／tappurisa）
+* vikampita =「動揺した、揺れ動いた」（vi-kampati の過去分詞）
+
+→「未来を待ち望み、動揺した心——これは定の障碍である。」
+
+4. Līnaṃ cittaṃ kosajjānupatitaṃ – samādhissa paripantho.
+
+* līna =「沈み込んだ、萎縮した、退縮した」（līyati「沈む・退く」の過去分詞）
+* kosajja =「懈怠（怠け）」（中性）
+* kosajjānupatitaṃ =「懈怠に陥った」
+
+→「沈み込んだ心、懈怠に陥った〔心〕——これは定の障碍である。」
+
+5. Atipaggahitaṃ cittaṃ uddhaccānupatitaṃ – samādhissa paripantho.
+
+* ati =「過度に」（接頭辞）
+* paggahita =「張り詰めた、励まされた」（pa-gaṇhāti「励起する・努める」の過去分詞）
+* atipaggahitaṃ =「過度に張り詰めた、励みすぎた〔心〕」
+* uddhacca =「掉挙（心の浮つき・落ち着きのなさ）」
+* uddhaccānupatitaṃ =「掉挙に陥った」
+
+→「過度に張り詰めた心、掉挙（浮つき）に陥った〔心〕——これは定の障碍である。」
+
+6. Abhinataṃ cittaṃ rāgānupatitaṃ – samādhissa paripantho.
+
+* abhinata =「（対象へ）傾いた、向かった」（abhi-namati の過去分詞）
+* rāga =「貪（むさぼり・欲）」
+* rāgānupatitaṃ =「貪に陥った」
+
+→「（対象へ）傾いた心、貪に陥った〔心〕——これは定の障碍である。」
+
+7. Apanataṃ cittaṃ byāpādānupatitaṃ – samādhissa paripantho.
+
+* apanata =「（対象から）背き離れた、そむいた」（apa-namati の過去分詞）
+* byāpāda =「瞋恚（怒り・敵意）」
+* byāpādānupatitaṃ =「瞋恚に陥った」
+
+→「（対象から）そむき離れた心、瞋恚（怒り）に陥った〔心〕——これは定の障碍である。」
+
+【以下、要約偈】
+
+8. Atītānudhāvanaṃ cittaṃ, anāgatapaṭikaṅkhanaṃ līnaṃ;
+
+* cittaṃ にかかる三つの形容：atītānudhāvanaṃ（過去を追走する）／anāgatapaṭikaṅkhanaṃ（未来を待ち望む）／līnaṃ（沈み込んだ）
+
+→「過去を追いかけ、未来を待ち望み、沈み込んだ心、」
+
+9. Atipaggahitaṃ abhinataṃ, apanataṃ cittaṃ na samādhiyati.
+
+* atipaggahitaṃ（過度に張り詰めた）／abhinataṃ（対象へ傾いた）／apanataṃ（対象からそむいた）
+* na samādhiyati =「定に入らない、統一されない」（samādhiyati は sam-ā-dahati の受動／中動「定まる・統一される」；na で否定）
+
+→「過度に張り詰め、（対象へ）傾き、（対象から）そむいた心は、定まらない（統一されない）。」
+
+10. Cha ete upakkilesā, ānāpānassatisamādhissa;
+
+* cha =「六」（数詞）
+* ete =「これら」（指示代名詞・男性・複数・主格）
+* upakkilesā =「随煩悩（心を汚し妨げるもの）」（男性・複数・主格）
+* ānāpāna =「入息・出息（呼吸）」
+* sati =「念」
+* samādhi =「定」
+* ānāpānassatisamādhissa =「入出息念の定の」（依主釈／tappurisa；属格）
+
+→「これら六つは、入出息念の定の随煩悩（汚れ・妨げ）である。」
+
+11. Yehi upakkiliṭṭhasaṅkappo, adhicittaṃ nappajānātīti.
+
+* yehi =「それらによって」（関係代名詞・男性・複数・具格；先行詞は六つの随煩悩）
+* upakkiliṭṭha =「汚された」（upa-kilissati の過去分詞）
+* saṅkappa =「思惟、思い（意図・思念）」
+* upakkiliṭṭhasaṅkappo =「思いが汚された者」（有財釈／bahubbīhi；男性・単数・主格）
+* adhicittaṃ =「増上心（すぐれた心・高度な定の心）」（中性・単数・対格）
+* na pajānāti =「了知しない、明らかに知らない」（pa-jānāti の否定）
+* ti =「〜と」（引用・結文を示す辞）
+
+→「それら（六随煩悩）によって思いを汚された者は、増上心（すぐれた定の心）を明らかに知ることがない、と。」
+
+## 157 (1)
+
+157. Assāsādimajjhapariyosānaṃ satiyā anugacchato ajjhattaṃ vikkhepagatena cittena kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca. Passāsādimajjhapariyosānaṃ satiyā anugacchato bahiddhāvikkhepagatena cittena kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca. Assāsapaṭikaṅkhanāya nikantiyā taṇhācariyāya kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca. Passāsapaṭikaṅkhanāya nikantiyā taṇhācariyāya kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca. Assāsenābhitunnassa passāsapaṭilābhe mucchitattā kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca. Passāsenābhitunnassa assāsapaṭilābhe mucchitattā kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca. Nimittaṃ āvajjato assāse cittaṃ vikampitattā kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca. Assāsaṃ āvajjato nimitte cittaṃ vikampitattā kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca. Nimittaṃ āvajjato passāse cittaṃ vikampitattā kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca. Passāsaṃ āvajjato nimitte cittaṃ vikampitattā kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca.
+
+### Claude
+
+- 2026/06/26
+- Claude Opus 4.8 High
+
+【出典】Paṭisambhidāmagga, Ānāpānassatikathā §157（paṭi. ma. 1.157）
+【assāsa/passāsa 方向性】本伝承（Paṭisambhidāmagga 系）では assāsa＝入息、passāsa＝出息
+【共通句】kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca
+  ＝「身も心も緊張し、動揺し、震える」
+  ・kāyo pi cittam pi＝身も心も
+  ・sāraddhā honti＝緊張する・ざわつく（sāraddha＝動揺した・落ち着かない／複数主格）
+  ・iñjitā（ca）＝揺れ動いた（iñjita＝動かされた、iñjati の過去分詞／複数主格）
+  ・phanditā（ca）＝震えた（phandita＝戦慄した、phandati の過去分詞／複数主格）
+
+### 対訳
+
+1. Assāsādimajjhapariyosānaṃ satiyā anugacchato ajjhattaṃ vikkhepagatena cittena kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca.
+
+* assāsa-ādi-majjha-pariyosānaṃ＝入息の初め・中間・終わりを（依主釈の対格・単数、anugacchato の目的語）
+  * assāsa＝入息／ādi＝初め／majjha＝中間／pariyosāna＝終わり
+* satiyā＝念によって（具格・単数）
+* anugacchato＝（順に）追っていく者にとって（anugacchati の現在分詞・属格・単数）
+* ajjhattaṃ＝内に、内側へと（副詞）
+* vikkhepa-gatena cittena＝散乱に陥った心によって（具格・単数）
+  * vikkhepa＝散乱／gata＝至った・陥った
+→「入息の初め・中間・終わりを念によって追っていく者にとって、内へと散乱に陥った心によって、身も心も緊張し、動揺し、震える。」
+
+2. Passāsādimajjhapariyosānaṃ satiyā anugacchato bahiddhāvikkhepagatena cittena kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca.
+
+* passāsa-ādi-majjha-pariyosānaṃ＝出息の初め・中間・終わりを（依主釈の対格・単数）
+  * passāsa＝出息
+* bahiddhā-vikkhepa-gatena cittena＝外へと散乱に陥った心によって（具格・単数）
+  * bahiddhā＝外に
+→「出息の初め・中間・終わりを念によって追っていく者にとって、外へと散乱に陥った心によって、身も心も緊張し、動揺し、震える。」
+
+3. Assāsapaṭikaṅkhanāya nikantiyā taṇhācariyāya kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca.
+
+* assāsa-paṭikaṅkhanāya＝入息を待ち望むことによって（依主釈の具格・単数）
+  * paṭikaṅkhanā＝期待・待望
+* nikantiyā＝欲求によって（具格・単数）
+  * nikanti＝欲求・求めること
+* taṇhā-cariyāya＝渇愛のはたらきによって（依主釈の具格・単数）
+  * taṇhā＝渇愛／cariyā＝行・ふるまい
+→「入息を待ち望むこと、欲求、渇愛のはたらきによって、身も心も緊張し、動揺し、震える。」
+
+4. Passāsapaṭikaṅkhanāya nikantiyā taṇhācariyāya kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca.
+
+* passāsa-paṭikaṅkhanāya＝出息を待ち望むことによって（依主釈の具格・単数）
+* nikantiyā＝欲求によって／taṇhā-cariyāya＝渇愛のはたらきによって（3に同じ）
+→「出息を待ち望むこと、欲求、渇愛のはたらきによって、身も心も緊張し、動揺し、震える。」
+
+5. Assāsenābhitunnassa passāsapaṭilābhe mucchitattā kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca.
+
+* assāsena abhitunnassa＝入息によって悩まされた者にとって（abhitunna＝打たれた・悩まされた、abhitudati の過去分詞／属格・単数）
+* passāsa-paṭilābhe＝出息を得ることにおいて（処格・単数）
+  * paṭilābha＝獲得・得ること
+* mucchitattā＝夢中になっているために（mucchita＝心を奪われた・迷乱した＋-tta 抽象名詞／奪格・単数）
+→「入息によって悩まされた者が、出息を得ることに夢中になっているために、身も心も緊張し、動揺し、震える。」
+
+6. Passāsenābhitunnassa assāsapaṭilābhe mucchitattā kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca.
+
+* passāsena abhitunnassa＝出息によって悩まされた者にとって（属格・単数）
+* assāsa-paṭilābhe＝入息を得ることにおいて（処格・単数）
+* mucchitattā＝夢中になっているために（奪格・単数）
+→「出息によって悩まされた者が、入息を得ることに夢中になっているために、身も心も緊張し、動揺し、震える。」
+
+7. Nimittaṃ āvajjato assāse cittaṃ vikampitattā kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca.
+
+* nimittaṃ āvajjato＝相に注意を向ける者にとって（nimitta＝相、対格／āvajjati の現在分詞・属格・単数）
+* assāse cittaṃ vikampitattā＝入息において心が揺れ動いたために
+  * assāse＝入息において（処格・単数）／cittaṃ＝心が（主格）
+  * vikampita＝揺れ動いた（vikampati の過去分詞）＋-tta 抽象名詞／奪格・単数
+→「相に注意を向ける者にとって、入息において心が揺れ動いたために、身も心も緊張し、動揺し、震える。」
+
+8. Assāsaṃ āvajjato nimitte cittaṃ vikampitattā kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca.
+
+* assāsaṃ āvajjato＝入息に注意を向ける者にとって（対格＋現在分詞・属格・単数）
+* nimitte cittaṃ vikampitattā＝相において心が揺れ動いたために（処格・単数）
+→「入息に注意を向ける者にとって、相において心が揺れ動いたために、身も心も緊張し、動揺し、震える。」
+
+9. Nimittaṃ āvajjato passāse cittaṃ vikampitattā kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca.
+
+* nimittaṃ āvajjato＝相に注意を向ける者にとって
+* passāse cittaṃ vikampitattā＝出息において心が揺れ動いたために（処格・単数）
+→「相に注意を向ける者にとって、出息において心が揺れ動いたために、身も心も緊張し、動揺し、震える。」
+
+10. Passāsaṃ āvajjato nimitte cittaṃ vikampitattā kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca.
+
+* passāsaṃ āvajjato＝出息に注意を向ける者にとって（対格＋現在分詞・属格・単数）
+* nimitte cittaṃ vikampitattā＝相において心が揺れ動いたために（処格・単数）
+→「出息に注意を向ける者にとって、相において心が揺れ動いたために、身も心も緊張し、動揺し、震える。」
+
+## 157 (2)
+
+Assāsaṃ āvajjato passāse cittaṃ vikampitattā kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca. Passāsaṃ āvajjato assāse cittaṃ vikampitattā kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca. Atītānudhāvanena cittena vikkhepānupatitena kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca. Anāgatapaṭikaṅkhanena cittena vikampitena kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca. Līnena cittena kosajjānupatitena kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca. Atipaggahitena cittena uddhaccānupatitena kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca. Abhinatena cittena rāgānupatitena kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca. Apanatena cittena byāpādānupatitena kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca.
+
+Ānāpānassati yassa, paripuṇṇā abhāvitā;
+
+Kāyopi iñjito hoti, cittampi hoti iñjitaṃ;
+
+Kāyopi phandito hoti, cittampi hoti phanditaṃ.
+
+Ānāpānassati yassa, paripuṇṇā subhāvitā;
+
+Kāyopi aniñjito hoti, cittampi hoti aniñjitaṃ;
+
+Kāyopi aphandito hoti, cittampi hoti aphanditanti.
+
+Imehi ca pana nīvaraṇehi visuddhacittassa soḷasavatthukaṃ ānāpānassatisamādhiṃ bhāvayato khaṇikasamodhānā ime aṭṭhārasa upakkilesā uppajjanti.
+
+Upakkilesañāṇaniddeso tatiyo.
+
+### Claude
+
+- 2026/06/26
+- Claude Opus 4.8 High
+
+【出典】Paṭisambhidāmagga, Ānāpānassatikathā §157 続き（paṭi. ma. 1.157）
+【assāsa/passāsa 方向性】本伝承（Paṭisambhidāmagga 系）では assāsa＝入息、passāsa＝出息
+【共通句】kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca
+  ＝「身も心も緊張し、動揺し、震える」（前段に同じ）
+
+### 対訳
+
+1. Assāsaṃ āvajjato passāse cittaṃ vikampitattā kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca.
+
+* assāsaṃ āvajjato＝入息に注意を向ける者にとって（対格＋āvajjati の現在分詞・属格・単数）
+* passāse cittaṃ vikampitattā＝出息において心が揺れ動いたために（処格・単数）
+→「入息に注意を向ける者にとって、出息において心が揺れ動いたために、身も心も緊張し、動揺し、震える。」
+
+2. Passāsaṃ āvajjato assāse cittaṃ vikampitattā kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca.
+
+* passāsaṃ āvajjato＝出息に注意を向ける者にとって（対格＋現在分詞・属格・単数）
+* assāse cittaṃ vikampitattā＝入息において心が揺れ動いたために（処格・単数）
+→「出息に注意を向ける者にとって、入息において心が揺れ動いたために、身も心も緊張し、動揺し、震える。」
+
+3. Atītānudhāvanena cittena vikkhepānupatitena kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca.
+
+* atīta-anudhāvanena cittena＝過去を追いかける心によって（具格・単数）
+  * atīta＝過去／anudhāvana＝追いかけること（anu-√dhāv）
+* vikkhepa-anupatitena＝散乱に陥った（具格・単数、cittena に係る）
+  * anupatita＝つき従った・陥った（anupatati の過去分詞）
+→「過去を追いかける、散乱に陥った心によって、身も心も緊張し、動揺し、震える。」
+
+4. Anāgatapaṭikaṅkhanena cittena vikampitena kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca.
+
+* anāgata-paṭikaṅkhanena cittena＝未来を待ち望む心によって（具格・単数）
+  * anāgata＝未来／paṭikaṅkhana＝期待・待望
+* vikampitena＝揺れ動いた（具格・単数、cittena に係る／vikampita 過去分詞）
+→「未来を待ち望む、揺れ動いた心によって、身も心も緊張し、動揺し、震える。」
+
+5. Līnena cittena kosajjānupatitena kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca.
+
+* līnena cittena＝沈んだ心によって（līna＝退縮した・沈滞した、過去分詞／具格・単数）
+* kosajja-anupatitena＝怠惰に陥った（具格・単数、cittena に係る）
+  * kosajja＝怠惰・懈怠
+→「沈滞した、怠惰に陥った心によって、身も心も緊張し、動揺し、震える。」
+
+6. Atipaggahitena cittena uddhaccānupatitena kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca.
+
+* ati-paggahitena cittena＝過度に励まされた心によって（paggahita＝励起された・努めすぎた、過去分詞／具格・単数）
+* uddhacca-anupatitena＝掉挙に陥った（具格・単数、cittena に係る）
+  * uddhacca＝掉挙（こころのうわつき）
+→「過度に張りつめた、掉挙に陥った心によって、身も心も緊張し、動揺し、震える。」
+
+7. Abhinatena cittena rāgānupatitena kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca.
+
+* abhinatena cittena＝（対象へ）傾いた心によって（abhinata＝引き寄せられた・傾いた、過去分詞／具格・単数）
+* rāga-anupatitena＝貪欲に陥った（具格・単数、cittena に係る）
+  * rāga＝貪欲
+→「（対象へ）傾いた、貪欲に陥った心によって、身も心も緊張し、動揺し、震える。」
+
+8. Apanatena cittena byāpādānupatitena kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca.
+
+* apanatena cittena＝（対象から）背いた心によって（apanata＝そむけられた・退いた、過去分詞／具格・単数）
+* byāpāda-anupatitena＝瞋恚に陥った（具格・単数、cittena に係る）
+  * byāpāda＝瞋恚・害意
+→「（対象から）退いた、瞋恚に陥った心によって、身も心も緊張し、動揺し、震える。」
+
+―――――（偈頌）―――――
+
+9. Ānāpānassati yassa, paripuṇṇā abhāvitā;
+
+* ānāpānassati＝入出息念（主格・単数）
+* yassa＝その人にとって（関係代名詞・属格・単数）
+* paripuṇṇā＝（教説として）完備しているが（paripuṇṇa＝充足した、過去分詞／女性・主格・単数）
+* abhāvitā＝修められていない（a-bhāvita＝未修習の／女性・主格・単数）
+→「入出息念が、（教えとしては）完備していても修められていない者は、」
+
+10. Kāyopi iñjito hoti, cittampi hoti iñjitaṃ;
+
+* kāyo pi＝身もまた／iñjito hoti＝動揺している（iñjita＝揺れ動いた、過去分詞／男性・主格・単数）
+* cittam pi＝心もまた／hoti iñjitaṃ＝動揺している（中性・主格・単数）
+→「身もまた動揺し、心もまた動揺する。」
+
+11. Kāyopi phandito hoti, cittampi hoti phanditaṃ.
+
+* kāyo pi＝身もまた／phandito hoti＝震えている（phandita 過去分詞／男性・主格・単数）
+* cittam pi＝心もまた／hoti phanditaṃ＝震えている（中性・主格・単数）
+→「身もまた震え、心もまた震える。」
+
+12. Ānāpānassati yassa, paripuṇṇā subhāvitā;
+
+* ānāpānassati＝入出息念（主格・単数）／yassa＝その人にとって（属格・単数）
+* paripuṇṇā＝完備し（女性・主格・単数）
+* su-bhāvitā＝よく修められた（su＝善く＋bhāvita＝修習された／女性・主格・単数）
+→「入出息念が、完備しよく修められた者は、」
+
+13. Kāyopi aniñjito hoti, cittampi hoti aniñjitaṃ;
+
+* kāyo pi＝身もまた／aniñjito hoti＝動揺しない（a-iñjita／男性・主格・単数）
+* cittam pi＝心もまた／hoti aniñjitaṃ＝動揺しない（中性・主格・単数）
+→「身もまた動揺せず、心もまた動揺しない。」
+
+14. Kāyopi aphandito hoti, cittampi hoti aphanditanti.
+
+* kāyo pi＝身もまた／aphandito hoti＝震えない（a-phandita／男性・主格・単数）
+* cittam pi＝心もまた／hoti aphanditaṃ＝震えない（中性・主格・単数）
+* ti＝（引用を結ぶ辞）＝「と〔以上〕」
+→「身もまた震えず、心もまた震えない、と。」
+
+―――――（結びの散文）―――――
+
+15. Imehi ca pana nīvaraṇehi visuddhacittassa soḷasavatthukaṃ ānāpānassatisamādhiṃ bhāvayato khaṇikasamodhānā ime aṭṭhārasa upakkilesā uppajjanti.
+
+* imehi ca pana nīvaraṇehi＝そしてこれらの蓋（おおい）から（具格・複数、奪離の意）
+  * nīvaraṇa＝蓋（五蓋）
+* visuddha-cittassa＝心の清浄となった者にとって（属格・単数）
+  * visuddha＝清浄な（過去分詞）／citta＝心
+* soḷasa-vatthukaṃ＝十六事よりなる（有財釈の対格・単数、samādhiṃ に係る）
+  * soḷasa＝十六／vatthu＝事・基礎
+* ānāpānassati-samādhiṃ＝入出息念の三昧を（依主釈の対格・単数）
+* bhāvayato＝修習する者にとって（bhāveti の現在分詞・属格・単数）
+* khaṇika-samodhānā＝刹那の集合（結びつき）から（奪格・単数）
+  * khaṇika＝刹那の／samodhāna＝集合・結合
+* ime aṭṭhārasa upakkilesā＝これら十八の随煩悩が（主格・複数）
+  * upakkilesa＝随煩悩・けがれ
+* uppajjanti＝生じる（uppajjati・現在・三人称複数）
+→「そして、これらの蓋（五蓋）から心が清浄となった者、十六事よりなる入出息念の三昧を修習する者にとって、（諸法が）刹那に集合することにより、これら十八の随煩悩が生じる。」
+
+16. Upakkilesañāṇaniddeso tatiyo.
+
+* upakkilesa-ñāṇa-niddeso＝随煩悩智の解説（依主釈の主格・単数）
+  * upakkilesa＝随煩悩／ñāṇa＝智／niddesa＝解説・詳説
+* tatiyo＝第三の（序数・男性・主格・単数）
+→「随煩悩智の解説、第三〔おわり〕。」
 
 # 4. Vodānañāṇaniddeso
 
