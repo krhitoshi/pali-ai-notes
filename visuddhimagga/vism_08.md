@@ -3352,3 +3352,370 @@ Visuddhimagga ― Ānāpānassatikathā（gaṇanā の継続と止め時）
 * ti = 「と（いうことである）」（引用の結び）
 
 →「なぜなら、外へ散逸した尋（思考）を断ち切って、出入息という所縁において念を確立させるためにこそ、数えること（がある）からである。」
+
+## 224 (1)
+
+224. Evaṃ gaṇanāya manasi katvā anubandhanāya manasi kātabbaṃ. Anubandhanā nāma gaṇanaṃ paṭisaṃharitvā satiyā nirantaraṃ assāsapassāsānaṃ anugamanaṃ. Tañca kho na ādimajjhapariyosānānugamanavasena. Bahinikkhamanavātassa hi nābhi ādi, hadayaṃ majjhaṃ, nāsikaggaṃ pariyosānaṃ. Abbhantaraṃ pavisanavātassa nāsikaggaṃ ādi, hadayaṃ majjhaṃ nābhi pariyosānaṃ. Tañcassa anugacchato vikkhepagataṃ cittaṃ sāraddhāya ceva hoti iñjanāya ca. Yathāha –
+
+‘‘Assāsādimajjhapariyosānaṃ satiyā anugacchato ajjhattaṃ vikkhepagatena cittena kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca. Passāsādimajjhapariyosānaṃ satiyā anugacchato bahiddhā vikkhepagatena cittena kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā cā’’ti (paṭi. ma. 1.157).
+
+### Claude
+
+- 2026/06/28
+- Claude Opus 4.8 High
+
+### 対訳
+Visuddhimagga §224(Ānāpānassatikathā, anubandhanā)
+
+1. Evaṃ gaṇanāya manasi katvā anubandhanāya manasi kātabbaṃ.
+
+* evaṃ = 「このように」
+* gaṇanāya = 「数えること(数息)によって」(gaṇanā 女・具)
+* manasi katvā = 「作意して」(manasikaroti の連続体)
+* anubandhanāya = 「随行によって」(anubandhanā 女・具)
+* manasi kātabbaṃ = 「作意すべきである」(manasikaroti の未来受動分詞)
+→ 「このように数えることによって作意したならば、次に随行によって作意すべきである。」
+
+2. Anubandhanā nāma gaṇanaṃ paṭisaṃharitvā satiyā nirantaraṃ assāsapassāsānaṃ anugamanaṃ.
+
+* anubandhanā nāma = 「随行とは」
+* gaṇanaṃ paṭisaṃharitvā = 「数えることを止めて」(paṭisaṃharati の連続体)
+* satiyā = 「念によって」(sati 女・具)
+* nirantaraṃ = 「絶え間なく」(副詞的対格)
+* assāsapassāsānaṃ = 「出息と入息の」(assāsa=出息・passāsa=入息、相違釈、属・複)
+* anugamanaṃ = 「後を追うこと、随うこと」(anu-gam 由来の中性動作名詞)
+→ 「随行とは、数えることを止めて、念によって絶え間なく出息と入息の後を追うことである。」
+
+3. Tañca kho na ādimajjhapariyosānānugamanavasena.
+
+* tañca kho = 「そしてそれは(まさに)」
+* na = 「～ではない」
+* ādi-majjha-pariyosāna-anugamana-vasena = 「初め・中間・終わりを追随することによって(という仕方で)」
+  * ādi = 「初め」、majjha = 「中間」、pariyosāna = 「終わり」(相違釈)
+  * anugamana = 「追随」、vasena = 「～によって、～の力で」(具)
+→ 「そしてそれは、初め・中間・終わりを追随することによって(行うの)ではない。」
+
+4. Bahinikkhamanavātassa hi nābhi ādi, hadayaṃ majjhaṃ, nāsikaggaṃ pariyosānaṃ.
+
+* bahi-nikkhamana-vātassa = 「外へ出ていく息にとっては」(bahi=外へ、nikkhamana=出ていくこと、が vāta=息 を修飾、持業釈、属)
+* hi = 「というのは(理由)」
+* nābhi = 「臍」、ādi = 「初め」
+* hadayaṃ = 「心臓」、majjhaṃ = 「中間」
+* nāsikaggaṃ = 「鼻先」(nāsikā=鼻 + agga=先端、依主釈)、pariyosānaṃ = 「終わり」
+→ 「というのは、外へ出ていく息にとっては臍が初め、心臓が中間、鼻先が終わりだからである。」
+
+5. Abbhantaraṃ pavisanavātassa nāsikaggaṃ ādi, hadayaṃ majjhaṃ nābhi pariyosānaṃ.
+
+* abbhantaraṃ pavisana-vātassa = 「内へ入ってくる息にとっては」(abbhantaraṃ=内へ、pavisana=入ること、が vāta を修飾、属)
+* nāsikaggaṃ ādi = 「鼻先が初め」
+* hadayaṃ majjhaṃ = 「心臓が中間」
+* nābhi pariyosānaṃ = 「臍が終わり」
+→ 「内へ入ってくる息にとっては鼻先が初め、心臓が中間、臍が終わりである。」
+
+6. Tañcassa anugacchato vikkhepagataṃ cittaṃ sāraddhāya ceva hoti iñjanāya ca.
+
+* tañ ca assa = 「そしてそれ(初・中・終)を、その者の」
+* anugacchato = 「追随する者にとって、追随するとき」(anugacchati の現在分詞・属、絶対属格的用法)
+* vikkhepagataṃ cittaṃ = 「散乱に陥った心は」(vikkhepaṃ gata=散乱に至った、依主釈)
+* sāraddhāya ceva … iñjanāya ca = 「動揺(ざわつき)と、揺れ動きとの〔もと〕に」(ともに与格)
+  * sāraddha = 「こわばり、動揺」、iñjana = 「動くこと、ぐらつき」
+* hoti = 「～となる」
+→ 「そして、その者がそれ(初め・中間・終わり)を追随するとき、散乱に陥った心は、動揺と揺れ動きの〔原因と〕なる。」
+
+7. Yathāha –
+
+* yathāha = yathā + āha = 「説かれているとおり」
+→ 「次のように説かれているとおりである――」
+
+8. ‘‘Assāsādimajjhapariyosānaṃ satiyā anugacchato ajjhattaṃ vikkhepagatena cittena kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā ca.
+
+* assāsa-ādi-majjha-pariyosānaṃ = 「出息の初め・中間・終わりを」(対)
+* satiyā anugacchato = 「念によって追随する者にとって」(現在分詞・属)
+* ajjhattaṃ = 「内に」(副詞的対格)
+* vikkhepagatena cittena = 「散乱に陥った心によって」(具)
+* kāyo pi cittam pi = 「身体も心も」
+* sāraddhā ca honti = 「動揺するものとなり」(sāraddha 過分・主複)
+* iñjitā ca = 「揺れ動き」(iñjati の過分)
+* phanditā ca = 「おののく(震える)」(phandati の過分)
+→ 「『出息の初め・中間・終わりを念によって追随する者にとっては、内に散乱に陥った心によって、身体も心も動揺し、揺れ動き、おののくものとなる。』」
+
+9. Passāsādimajjhapariyosānaṃ satiyā anugacchato bahiddhā vikkhepagatena cittena kāyopi cittampi sāraddhā ca honti iñjitā ca phanditā cā’’ti (paṭi. ma. 1.157).
+
+* passāsa-ādi-majjha-pariyosānaṃ = 「入息の初め・中間・終わりを」(対)
+* bahiddhā = 「外に」(他は前文と同一構造、対応語のみ相違:assāsa→passāsa、ajjhattaṃ→bahiddhā)
+* ti = 「と(引用の終止)」、(paṭi. ma. 1.157) = 『無礙解道』1.157 の出典
+→ 「『入息の初め・中間・終わりを念によって追随する者にとっては、外に散乱に陥った心によって、身体も心も動揺し、揺れ動き、おののくものとなる。』(無礙解道 1.157)」
+
+## 224 (2)
+
+Tasmā anubandhanāya manasikarontena ādimajjhapariyosānavasena na manasi kātabbaṃ. Apica kho phusanāvasena ca ṭhapanāvasena ca manasi kātabbaṃ. Gaṇanānubandhanāvasena viya hi phusanāṭhapanāvasena visuṃ manasikāro natthi. Phuṭṭhaphuṭṭhaṭṭhāneyeva pana gaṇento gaṇanāya ca phusanāya ca manasi karoti. Tattheva gaṇanaṃ paṭisaṃharitvā te satiyā anubandhanto, appanāvasena ca cittaṃ ṭhapento anubandhanāya ca phusanāya ca ṭhapanāya ca manasi karotīti vuccati. Svāyamattho aṭṭhakathāsu vuttapaṅguḷadovārikūpamāhi paṭisambhidāyaṃ vuttakakacūpamāya ca veditabbo.
+
+### Claude
+
+- 2026/06/28
+- Claude Opus 4.8 High
+
+### 対訳
+Visuddhimagga §225(Ānāpānassatikathā, phusanā・ṭhapanā)
+
+1. Tasmā anubandhanāya manasikarontena ādimajjhapariyosānavasena na manasi kātabbaṃ.
+
+* tasmā = 「それゆえ」
+* anubandhanāya = 「随行によって」(anubandhanā 女・具)
+* manasikarontena = 「作意する者によって」(manasikaroti の現在分詞・具)
+* ādi-majjha-pariyosāna-vasena = 「初め・中間・終わりという仕方で」(相違釈、vasena 具)
+* na manasi kātabbaṃ = 「作意すべきではない」(未来受動分詞)
+→ 「それゆえ、随行によって作意する者は、初め・中間・終わりという仕方で作意すべきではない。」
+
+2. Apica kho phusanāvasena ca ṭhapanāvasena ca manasi kātabbaṃ.
+
+* apica kho = 「むしろ、しかしながら」
+* phusanā-vasena ca = 「触れること(接触)という仕方によって」(phusanā=触れること、vasena 具)
+* ṭhapanā-vasena ca = 「据えること(安立)という仕方によって」(ṭhapanā=据えること・固定、vasena 具)
+* manasi kātabbaṃ = 「作意すべきである」
+→ 「むしろ、触れること(接触)と、据えること(安立)という仕方によって作意すべきである。」
+
+3. Gaṇanānubandhanāvasena viya hi phusanāṭhapanāvasena visuṃ manasikāro natthi.
+
+* gaṇanā-anubandhanā-vasena viya = 「数えることと随行という仕方のようには」(viya=～のように)
+* hi = 「というのは」
+* phusanā-ṭhapanā-vasena = 「触れることと据えることという仕方に関して」(phusanā・ṭhapanā 相違釈、vasena 具)
+* visuṃ = 「別々に、個別に」(副詞)
+* manasikāro natthi = 「作意は存在しない」
+→ 「というのは、数えることと随行という仕方の場合のようには、触れることと据えることという仕方では、〔それぞれ〕別個の作意があるわけではないからである。」
+
+4. Phuṭṭhaphuṭṭhaṭṭhāneyeva pana gaṇento gaṇanāya ca phusanāya ca manasi karoti.
+
+* phuṭṭha-phuṭṭha-ṭhāne eva = 「まさに触れる触れるその場所(=息が触れるその都度の箇所)においてこそ」(phuṭṭha=phusati の過分の畳語で反復「触れるたびに」、ṭhāna=場所、依主釈、処)
+* pana = 「しかし、ところで」
+* gaṇento = 「数えている者は」(gaṇeti の現在分詞・主)
+* gaṇanāya ca phusanāya ca = 「数えることによっても、触れることによっても」(具)
+* manasi karoti = 「作意する」
+→ 「しかし、〔息が〕触れるたびにそのまさに触れる箇所において数える者は、数えることによっても、触れることによっても作意するのである。」
+
+5. Tattheva gaṇanaṃ paṭisaṃharitvā te satiyā anubandhanto, appanāvasena ca cittaṃ ṭhapento anubandhanāya ca phusanāya ca ṭhapanāya ca manasi karotīti vuccati.
+
+* tatth' eva = 「まさにそこにおいて(同じその箇所で)」
+* gaṇanaṃ paṭisaṃharitvā = 「数えることを止めて」(paṭisaṃharati の連続体)
+* te = 「それら(出入息)を」(対・複)
+* satiyā anubandhanto = 「念によって随行しつつ」(anubandhati の現在分詞・主)
+* appanā-vasena = 「安止(専注)という仕方によって」(appanā=安止定、vasena 具)
+* cittaṃ ṭhapento = 「心を据えつつ」(ṭhapeti の現在分詞・主)
+* anubandhanāya ca phusanāya ca ṭhapanāya ca = 「随行によっても、触れることによっても、据えることによっても」(具)
+* manasi karoti = 「作意する」
+* ti vuccati = 「と言われる」
+→ 「まさに同じその箇所において、数えることを止めて、念によってそれら〔出入息〕に随行しつつ、また安止(専注)という仕方で心を据えつつ〔修する者は〕、随行によっても、触れることによっても、据えることによっても作意する、と言われる。」
+
+6. Svāyamattho aṭṭhakathāsu vuttapaṅguḷadovārikūpamāhi paṭisambhidāyaṃ vuttakakacūpamāya ca veditabbo.
+
+* svāyam attho = so + ayaṃ + attho = 「この〔今述べた〕意味は」(主)
+* aṭṭhakathāsu vutta-paṅguḷa-dovārika-ūpamāhi = 「諸註釈書において説かれた、足萎えの者(跛者)と門番の譬喩によって」(具・複)
+  * paṅguḷa = 「足の不自由な者、跛者」
+  * dovārika = 「門番」
+  * upamā = 「譬喩」(依主釈)
+* paṭisambhidāyaṃ vutta-kakaca-ūpamāya = 「『無礙解道』において説かれた鋸(のこぎり)の譬喩によって」(具)
+  * kakaca = 「鋸(のこぎり)」
+* ca = 「～と」
+* veditabbo = 「知られるべきである」(vid の未来受動分詞・主)
+→ 「この〔今述べた〕意味は、諸註釈書に説かれた跛者と門番の譬喩、および『無礙解道』に説かれた鋸の譬喩によって知られるべきである。」
+
+## 225
+
+225. Tatrāyaṃ paṅguḷopamā – seyyathāpi paṅguḷo dolāya kīḷataṃ mātāputtānaṃ dolaṃ khipitvā tattheva dolāthambhamūle nisinno kamena āgacchantassa ca gacchantassa ca dolāphalakassa ubho koṭiyo majjhañca passati, na ca ubhokoṭimajjhānaṃ dassanatthaṃ byāvaṭo hoti, evamevāyaṃ bhikkhu sativasena upanibandhanathambhamūle ṭhatvā assāsapassāsadolaṃ khipitvā tattheva nimitte satiyā nisīdanto kamena āgacchantānañca gacchantānañca phuṭṭhaṭṭhāne assāsapassāsānaṃ ādimajjhapariyosānaṃ satiyā anugacchanto tattha ca cittaṃ ṭhapento passati, na ca tesaṃ dassanatthaṃ byāvaṭo hoti, ayaṃ paṅguḷopamā.
+
+### Claude
+
+- 2026/06/28
+- Claude Opus 4.8 High
+
+Visuddhimagga（Ānāpānassatikathā）§225 — paṅguḷopamā（跛者の譬喩・足の不自由な人の譬え）
+
+1. Tatrāyaṃ paṅguḷopamā –
+
+* tatra = 「そこで、その点で」（不変化詞）
+* ayaṃ = 「この」（upamā に一致、女性・主格・単数）
+* paṅguḷa-upamā = 「跛者（足の不自由な人）の譬喩」
+  * paṅguḷa = 「足の不自由な人、跛者」（男性）
+  * upamā = 「譬喩、たとえ」（女性）
+  * 複合：依主釈（paṅguḷa に関する upamā）
+
+→「ここに、この跛者（足の不自由な人）の譬喩がある。すなわち――」
+
+2. seyyathāpi paṅguḷo dolāya kīḷataṃ mātāputtānaṃ dolaṃ khipitvā tattheva dolāthambhamūle nisinno
+
+* seyyathāpi = 「たとえば～のように」（不変化詞）
+* paṅguḷo = 「足の不自由な人が」（男性・主格・単数）
+* dolāya = 「ブランコで」（女性・具格・単数）
+* kīḷataṃ = 「遊んでいる（者たちの）」（√kīḷ 現在分詞・属格・複数）
+* mātāputtānaṃ = 「母と子らの」（属格・複数／相違釈：māta + putta）
+* dolaṃ = 「ブランコを」（女性・対格・単数）
+* khipitvā = 「押し動かして」（√khip 連続体）
+* tattheva = 「まさにその場に」（tattha + eva）
+* dolāthambhamūle = 「ブランコの柱の根もとに」（処格・単数）
+  * dolā-thambha = 「ブランコの柱」（依主釈）
+  * (dolāthambha)-mūla = 「～の根もと」（依主釈）
+* nisinno = 「坐って」（ni-√sad 過去分詞・男性・主格・単数）
+
+→「たとえば、ブランコで遊んでいる母と子らの、その（母子の）ブランコを押し動かして、まさにその場の、ブランコの柱の根もとに坐り、」
+
+3. kamena āgacchantassa ca gacchantassa ca dolāphalakassa ubho koṭiyo majjhañca passati,
+
+* kamena = 「順々に、次第に」（具格・副詞）
+* āgacchantassa = 「（こちらへ）来る（板の）」（ā-√gam 現在分詞・属格・単数）
+* gacchantassa = 「（向こうへ）行く（板の）」（√gam 現在分詞・属格・単数）
+* ca … ca = 「～も～も」
+* dolāphalakassa = 「ブランコの板（座板）の」（属格・単数／依主釈）
+* ubho = 「両の」（両数由来、acc）
+* koṭiyo = 「両端を」（koṭi 女性・対格・複数）
+* majjhaṃ ca = 「中央をも」（majjha 中性・対格・単数）
+* passati = 「見る」（√dis 現在・三・単数）
+
+→「順々に行き来するブランコの板の、その両端と中央とを見るが、」
+
+4. na ca ubhokoṭimajjhānaṃ dassanatthaṃ byāvaṭo hoti,
+
+* na ca = 「しかも～ない」
+* ubhokoṭimajjhānaṃ = 「両端と中央の」（属格・複数／相違釈：両端 + 中央）
+* dassanatthaṃ = 「見るために」（dassana + attha 依主釈、目的の対格）
+* byāvaṭo = 「忙しく立ち働く、あくせくする」（vyāvaṭa；vi-ā-√vṛt、男性・主格・単数）
+* hoti = 「～である」（√bhū 現在・三・単数）
+
+→「しかも、その両端と中央とを見ようとして、あくせく立ち働くわけではない。」
+
+5. evamevāyaṃ bhikkhu sativasena upanibandhanathambhamūle ṭhatvā assāsapassāsadolaṃ khipitvā tattheva nimitte satiyā nisīdanto
+
+* evameva = 「まさにそのように」（evaṃ + eva）
+* ayaṃ bhikkhu = 「この比丘は」（男性・主格・単数）
+* sativasena = 「念の力によって」（具格／依主釈：sati + vasa）
+* upanibandhanathambhamūle = 「（念を）つなぎとめる柱の根もとに」（処格・単数）
+  * upanibandhana = 「繋ぎとめること」（upa-ni-√bandh）
+  * upanibandhana-thambha = 「つなぎとめる柱」（依主釈）／ -mūla（依主釈）
+* ṭhatvā = 「立って」（√ṭhā 連続体）
+* assāsapassāsadolaṃ = 「出入息のブランコを」（対格・単数）
+  * assāsa = 「出息（外へ出る息）」／ passāsa = 「入息（内へ入る息）」（相違釈）
+  * assāsapassāsa-dolā = 「出入息というブランコ」（依主釈）
+* khipitvā = 「押し動かして」（√khip 連続体）
+* tattheva nimitte = 「まさにその相（nimitta）において」（処格・単数）
+* satiyā = 「念とともに」（女性・具格・単数）
+* nisīdanto = 「坐りながら」（ni-√sad 現在分詞・男性・主格・単数）
+
+→「ちょうどそのように、この比丘は、念の力によって、（念を）つなぎとめる柱の根もとに立ち、出入息というブランコを押し動かして、まさにその場の相（nimitta）において念とともに坐り、」
+
+6. kamena āgacchantānañca gacchantānañca phuṭṭhaṭṭhāne assāsapassāsānaṃ ādimajjhapariyosānaṃ satiyā anugacchanto tattha ca cittaṃ ṭhapento passati,
+
+* kamena = 「順々に」（→2.3 と同型）
+* āgacchantānaṃ ca gacchantānaṃ ca = 「行き来する（息どもの）」（現在分詞・属格・複数）
+* phuṭṭhaṭṭhāne = 「（息の）触れる箇所において」（処格・単数）
+  * phuṭṭha = 「触れられた」（phusati の過去分詞）／ -ṭhāna（持業釈：触れられた処）
+* assāsapassāsānaṃ = 「出入息の」（属格・複数／相違釈）
+* ādimajjhapariyosānaṃ = 「初め・中ほど・終わりを」（対格／相違釈）
+* satiyā anugacchanto = 「念によって随っていきながら」（anu-√gam 現在分詞・男性・主格・単数）
+* tattha ca = 「そしてそこに」
+* cittaṃ = 「心を」（中性・対格・単数）
+* ṭhapento = 「据えながら」（√ṭhā 使役 ṭhapeti、現在分詞・男性・主格・単数）
+* passati = 「見る」
+
+→「順々に行き来する出入息の、その触れる箇所における初め・中ほど・終わりを念によって随っていき、そこに心を据えて見るが、」
+
+7. na ca tesaṃ dassanatthaṃ byāvaṭo hoti,
+
+* na ca = 「しかも～ない」
+* tesaṃ = 「それら（初め・中ほど・終わり）の」（属格・複数）
+* dassanatthaṃ = 「見るために」（→4. と同型）
+* byāvaṭo hoti = 「あくせく立ち働く」（→4. と同型）
+
+→「しかも、それら（初め・中ほど・終わり）を見ようとして、あくせく立ち働くわけではない。」
+
+8. ayaṃ paṅguḷopamā.
+
+* ayaṃ = 「これが」（女性・主格・単数、upamā に一致）
+* paṅguḷa-upamā = 「跛者（足の不自由な人）の譬喩」（→1. と同）
+
+→「これが跛者（足の不自由な人）の譬喩である。」
+
+## 226
+
+226. Ayaṃ pana dovārikūpamā – seyyathāpi dovāriko nagarassa anto ca bahi ca purise ‘‘ko tvaṃ, kuto vā āgato, kuhiṃ vā gacchasi, kiṃ vā te hatthe’’ti na vīmaṃsati. Na hi tassa te bhārā, dvārappattaṃ dvārappattaṃyeva pana vīmaṃsati, evameva imassa bhikkhuno antopaviṭṭhavātā ca bahinikkhantavātā ca na bhārā honti, dvārappattā dvārappattāyeva bhārāti ayaṃ dovārikūpamā.
+
+### Claude
+
+- 2026/06/28
+- Claude Opus 4.8 High
+
+Visuddhimagga（Ānāpānassatikathā）§226 — dovārikūpamā（門番の譬喩）
+
+1. Ayaṃ pana dovārikūpamā –
+
+* ayaṃ = 「この」（upamā に一致、女性・主格・単数）
+* pana = 「さて、一方」（不変化詞・転換）
+* dovārika-upamā = 「門番の譬喩」
+  * dovārika = 「門番、門衛」（dvāra「門」からの派生・男性）
+  * upamā = 「譬喩、たとえ」（女性）
+  * 複合：依主釈（dovārika に関する upamā）
+
+→「さて、これは門番の譬喩である。すなわち――」
+
+2. seyyathāpi dovāriko nagarassa anto ca bahi ca purise ‘‘ko tvaṃ, kuto vā āgato, kuhiṃ vā gacchasi, kiṃ vā te hatthe’’ti na vīmaṃsati.
+
+* seyyathāpi = 「たとえば～のように」（不変化詞）
+* dovāriko = 「門番が」（男性・主格・単数）
+* nagarassa = 「町（城市）の」（属格・単数）
+* anto ca bahi ca = 「内も外も」（anto「内に」／ bahi「外に」、いずれも処格的副詞）
+* purise = 「人々を（について）」（男性・対格・複数）
+* ko tvaṃ = 「おまえは誰か」
+* kuto vā āgato = 「またはどこから来たのか」
+  * kuto = 「どこから」／ āgato = 「来た」（ā-√gam 過去分詞）
+* kuhiṃ vā gacchasi = 「またはどこへ行くのか」
+  * kuhiṃ = 「どこへ」／ gacchasi = 「行く」（√gam 現在・二・単数）
+* kiṃ vā te hatthe = 「またはおまえの手に何があるのか」
+  * kiṃ = 「何が」／ te = 「おまえの」（属格）／ hatthe = 「手に」（処格・単数）
+* ti = 「と」（引用標識）
+* na vīmaṃsati = 「吟味しない、問いただしはしない」（vi-√mṛś 由来、意欲動詞 vīmaṃsati、現在・三・単数）
+
+→「たとえば門番が、町の内にいる人々にも外にいる人々にも、『おまえは誰か、どこから来たのか、どこへ行くのか、手に何を持っているのか』と問いただしはしない。」
+
+3. Na hi tassa te bhārā,
+
+* na hi = 「なぜなら～ないからである」
+* tassa = 「その（門番）にとって」（属格・単数）
+* te = 「それら（の人々）は」（男性・主格・複数）
+* bhārā = 「負担、責務（となるもの）」（男性・主格・複数）
+
+→「なぜなら、それら（の人々）は彼（門番）の負うべき責務ではないからである。」
+
+4. dvārappattaṃ dvārappattaṃyeva pana vīmaṃsati,
+
+* dvārappattaṃ dvārappattaṃ = 「門に達した者を、門に達した者だけを」（畳語的反復で「～する都度それだけを」の意）
+  * dvāra-patta = 「門に達した（者）」（依主釈：門に到達した）
+  * patta = 「達した、到達した」（pāpuṇāti / √āp 過去分詞）
+* yeva = 「まさに～だけ」（強意）
+* pana = 「しかし、一方では」
+* vīmaṃsati = 「吟味する、調べる」
+
+→「しかし、門に達した者を、門に達した者だけを、その都度吟味するのである。」
+
+5. evameva imassa bhikkhuno antopaviṭṭhavātā ca bahinikkhantavātā ca na bhārā honti,
+
+* evameva = 「まさにそのように」（evaṃ + eva）
+* imassa bhikkhuno = 「この比丘にとって」（属格・単数）
+* antopaviṭṭhavātā = 「内へ入った風（息）どもは」（男性・主格・複数）
+  * anto = 「内へ」／ paviṭṭha = 「入った」（pa-√viś 過去分詞）
+  * antopaviṭṭha-vāta = 「内へ入った風（息）」（依主釈）
+* bahinikkhantavātā = 「外へ出た風（息）どもは」（男性・主格・複数）
+  * bahi = 「外へ」／ nikkhanta = 「出た」（nis-√kram 過去分詞）
+  * bahinikkhanta-vāta = 「外へ出た風（息）」（依主釈）
+* ca … ca = 「～も～も」
+* na bhārā honti = 「責務ではない」（bhārā 主格・複数／honti √bhū 現在・三・複数）
+
+→「まさにそのように、この比丘にとって、内へ入った息どもも外へ出た息どもも、（追いかけるべき）責務とはならない。」
+
+6. dvārappattā dvārappattāyeva bhārāti ayaṃ dovārikūpamā.
+
+* dvārappattā dvārappattā = 「門（鼻先の触処）に達したもの、達したものだけ（が）」（畳語的反復、男性・主格・複数）
+  * dvāra-patta = 「門に達した」（→4. と同型。ここでは息に即して「鼻先の触れる箇所に達した息」の意）
+* yeva = 「まさに～だけ」（強意）
+* bhārā = 「責務、注意すべきもの（となる）」（主格・複数）
+* ti = 「と（いうのが）」（引用標識）
+* ayaṃ dovārika-upamā = 「これが門番の譬喩である」（→1. と同）
+
+→「門（鼻先の触れる箇所）に達した息、それに達した息だけが（注意すべき）対象となる――というのが、この門番の譬喩である。」
