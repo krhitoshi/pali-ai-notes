@@ -2881,3 +2881,474 @@ assāsa／passāsa の方向性に関する注記：該当なし（本箇所に 
 * tatra ayaṃ = 「そこにおいて、これが」（tatra 副詞「そこに」＋ ayaṃ 主格単数男性「これが」）
 * manasikāra-vidhi = 「作意の方法」（主格単数男性。manasikāra「作意」＋vidhi「方法・規定」依主釈）
   → 「そこにおいて、これが作意の方法である――」
+
+## 223 (1)
+
+223.
+
+Gaṇanā anubandhanā, phusanā ṭhapanā sallakkhaṇā;
+
+Vivaṭṭanā pārisuddhi, tesañca paṭipassanāti.
+
+Tattha gaṇanāti gaṇanāyeva. Anubandhanāti anuvahanā. Phusanāti phuṭṭhaṭṭhānaṃ. Ṭhapanāti appanā. Sallakkhaṇāti vipassanā. Vivaṭṭanāti maggo. Pārisuddhīti phalaṃ. Tesañca paṭipassanāti paccavekkhaṇā.
+
+Tattha iminā ādikammikena kulaputtena paṭhamaṃ gaṇanāya idaṃ kammaṭṭhānaṃ manasi kātabbaṃ . Gaṇentena ca pañcannaṃ heṭṭhā na ṭhapetabbaṃ. Dasannaṃ upari na netabbaṃ. Antarā khaṇḍaṃ na dassetabbaṃ. Pañcannaṃ heṭṭhā ṭhapentassa hi sambādhe okāse cittuppādo vipphandati sambādhe vaje sanniruddhagogaṇo viya. Dasannampi upari nentassa gaṇananissitako cittuppādo hoti. Antarā khaṇḍaṃ dassentassa ‘‘sikhāppattaṃ nu kho me kammaṭṭhānaṃ, no’’ti cittaṃ vikampati. Tasmā ete dose vajjetvā gaṇetabbaṃ.
+
+### Claude
+
+- 2026/06/28
+- Claude Opus 4.8 High
+
+### 対訳
+
+Visuddhimagga §223 ― Ānāpānassatikathā（gaṇanā 以下、八種の数え方の註釈）
+
+1. （偈・第一句）Gaṇanā anubandhanā, phusanā ṭhapanā sallakkhaṇā;
+
+* gaṇanā = 「数えること、計数」（女・主・単／√gaṇ「数える」+ -ana）
+* anubandhanā = 「随行、つき従うこと」（女・主・単／anu「随って」+ √bandh「結ぶ・追う」+ -ana）
+* phusanā = 「触れること、接触」（女・主・単／√phus「触れる」+ -ana）
+* ṭhapanā = 「据えること、安置」（女・主・単／√ṭhā「立つ」の使役 ṭhapeti + -ana）
+* sallakkhaṇā = 「よく見分けること、観察」（女・主・単／saṃ + √lakkh「特徴づける」+ -ana）
+
+→「数えること、随行、触れること、据えること、よく見分けること、」
+
+2. （偈・第二句）Vivaṭṭanā pārisuddhi, tesañca paṭipassanāti.
+
+* vivaṭṭanā = 「転回、離転（輪廻から離れ向かうこと）」（女・主・単／vi + √vaṭṭ「転ずる」+ -ana）
+* pārisuddhi = 「清浄」（女・主・単／pari + √sudh + -ti）
+* tesañ ca = 「そしてそれらの」（tesaṃ：指示代名詞・属・複 + ca）
+* paṭipassanā = 「振り返って見ること」（女・主・単／paṭi「再び・対して」+ passanā「見ること」）
+* ti = iti（引用・列挙の結び）
+
+→「転回、清浄、そしてそれら（七種）を振り返って見ること、（の八つである）。」
+
+3. Tattha gaṇanāti gaṇanāyeva.
+
+* tattha = 「そこで、それらのうち」
+* gaṇanā ti = 「『数えること（gaṇanā）』とは」（以下、「X ti」＝「『X』とは」の形は同じなので繰り返し説明しない）
+* gaṇanā yeva = 「まさに数えることそのもの」（gaṇanā + eva 強意）
+
+→「そこで『数えること』とは、まさに数えることそのものである。」
+
+4. Anubandhanāti anuvahanā.
+
+* anuvahanā = 「（気息に）随い行くこと」（女・主・単／anu「随って」+ vahana「運ぶこと、行くこと」）
+
+→「『随行』とは、（気息に）随い行くことである。」
+
+5. Phusanāti phuṭṭhaṭṭhānaṃ.
+
+* phuṭṭhaṭṭhānaṃ = 「（息が）触れる箇所」（中・主・単・持業釈）
+  * phuṭṭha = 「触れられた」（phusati の過去分詞）
+  * ṭhāna = 「場所、箇所」
+
+→「『触れること』とは、（息が）触れる箇所のことである。」
+
+6. Ṭhapanāti appanā.
+
+* appanā = 「安止（没入的集中）」（女・主・単）
+
+→「『据えること』とは、安止である。」
+
+7. Sallakkhaṇāti vipassanā.
+
+* vipassanā = 「観（つぶさに見る智）」（女・主・単）
+
+→「『よく見分けること』とは、観である。」
+
+8. Vivaṭṭanāti maggo.
+
+* maggo = 「道（聖道）」（男・主・単）
+
+→「『転回』とは、道である。」
+
+9. Pārisuddhīti phalaṃ.
+
+* phalaṃ = 「果」（中・主・単）
+
+→「『清浄』とは、果である。」
+
+10. Tesañca paṭipassanāti paccavekkhaṇā.
+
+* paccavekkhaṇā = 「振り返って観察すること」（女・主・単／paṭi + ava + √ikkh「見る」+ -ana）
+
+→「『そしてそれらを振り返って見ること』とは、（過去を）振り返って観察することである。」
+
+11. Tattha iminā ādikammikena kulaputtena paṭhamaṃ gaṇanāya idaṃ kammaṭṭhānaṃ manasi kātabbaṃ.
+
+* tattha = 「そのうち（これら八つのうちで）」
+* iminā = 「この」（指示代名詞・具・単・男）
+* ādikammikena = 「初心の修行者によって」（具・単／ādi「初め」+ kammika「作業に従事する者」＝作業の初めにある者）
+* kulaputtena = 「良家の子（善男子）によって」（具・単・依主釈：kula「家」の putta「子」）
+* paṭhamaṃ = 「まず最初に」（副詞的）
+* gaṇanāya = 「数えることによって」（具・単）
+* idaṃ kammaṭṭhānaṃ = 「この業処（瞑想の対象）を」（中・対・単・依主釈：kamma の ṭhāna）
+* manasi kātabbaṃ = 「作意されるべきである（心に留めるべきである）」（manasi 処・単 + kātabba：karoti の未来受動分詞）
+
+→「そのうち、この初心の善男子は、まず数えることによって、この業処を作意すべきである。」
+
+12. Gaṇentena ca pañcannaṃ heṭṭhā na ṭhapetabbaṃ.
+
+* gaṇentena = 「数える者によって」（具・単・現在分詞 gaṇeti）
+* pañcannaṃ = 「五の」（数詞 pañca・属・複）
+* heṭṭhā = 「下に」（副詞・後置）
+* na ṭhapetabbaṃ = 「据えてはならない、置いてはならない」（ṭhapeti の未来受動分詞）
+
+→「そして数える者は、（数を）五より下に置いてはならない（五に満たないところで止めてはならない）。」
+
+13. Dasannaṃ upari na netabbaṃ.
+
+* dasannaṃ = 「十の」（数詞 dasa・属・複）
+* upari = 「上に、超えて」（副詞・後置）
+* na netabbaṃ = 「導いてはならない」（neti の未来受動分詞）
+
+→「（数を）十より上に導いてはならない（十を超えて数えてはならない）。」
+
+14. Antarā khaṇḍaṃ na dassetabbaṃ.
+
+* antarā = 「途中で、間で」（副詞）
+* khaṇḍaṃ = 「中断、欠落」（中・対・単）
+* na dassetabbaṃ = 「示してはならない、生じさせてはならない」（dasseti：使役の未来受動分詞）
+
+→「途中で中断を生じさせてはならない（数の連なりを途切れさせてはならない）。」
+
+15. Pañcannaṃ heṭṭhā ṭhapentassa hi sambādhe okāse cittuppādo vipphandati sambādhe vaje sanniruddhagogaṇo viya.
+
+* pañcannaṃ heṭṭhā ṭhapentassa = 「五より下に（数を）置く者にとっては」（属・単・現在分詞 ṭhapenta）
+* hi = 「なぜなら」
+* sambādhe okāse = 「狭い場所において」（処・単／sambādha「狭い、窮屈な」）
+* cittuppādo = 「心の生起（心の起こり）」（男・主・単・依主釈：citta の uppāda）
+* vipphandati = 「もがく、動揺する」（vi + √phand）
+* sambādhe vaje = 「狭い牛囲い（牛舎）において」（処・単／vaja「牛の囲い」）
+* sanniruddhagogaṇo = 「閉じ込められた牛の群れ」（男・主・単・持業釈）
+  * sanniruddha = 「閉じ込められた」（saṃ + ni + √rudh の過去分詞）
+  * gogaṇa = 「牛の群れ」（依主釈：go「牛」の gaṇa「群れ」）
+* viya = 「～のように」
+
+→「なぜなら、五より下に（数を）置く者にとっては、狭い牛囲いに閉じ込められた牛の群れのように、狭い場所で心の生起がもがく（落ち着かず動揺する）からである。」
+
+16. Dasannampi upari nentassa gaṇananissitako cittuppādo hoti.
+
+* dasannam pi = 「十（の数）をも」
+* upari nentassa = 「（十）より上に導く者にとっては」（属・単・現在分詞 nenta）
+* gaṇananissitako = 「数えることに依存した（計数頼みの）」（男・主・単・依主釈 gaṇana-nissita +ka／nissita：nissayati「依る」の過去分詞）
+* cittuppādo hoti = 「心の生起となる」
+
+→「十をも超えて（数を）導く者にとっては、心の生起が計数に依存したもの（数えること自体にとらわれた心）となる。」
+
+17. Antarā khaṇḍaṃ dassentassa ‘‘sikhāppattaṃ nu kho me kammaṭṭhānaṃ, no’’ti cittaṃ vikampati.
+
+* antarā khaṇḍaṃ dassentassa = 「途中で中断を生じさせる者にとっては」（属・単・現在分詞 dassenta）
+* sikhāppattaṃ = 「頂点に達した、極致に達した」（中・主・単・依主釈：sikhā「頂・極致」+ patta「達した」）
+* nu kho = 「～であろうか」（疑問の語気）
+* me = 「私の」（属／与）
+* kammaṭṭhānaṃ = 「業処」
+* no = 「いや（達していないのか）」
+* ti = 「と」（引用）
+* cittaṃ vikampati = 「心が動揺する、ぐらつく」（vi + √kamp）
+
+→「途中で中断を生じさせる者には、『私の業処は頂点に達したのだろうか、それとも達していないのか』と心が動揺する。」
+
+18. Tasmā ete dose vajjetvā gaṇetabbaṃ.
+
+* tasmā = 「それゆえ」
+* ete dose = 「これらの過失を」（男・対・複／dosa「過失、欠点」）
+* vajjetvā = 「避けて、回避して」（vajjeti：使役の連続体）
+* gaṇetabbaṃ = 「数えるべきである」（gaṇeti の未来受動分詞）
+
+→「それゆえ、これらの過失を避けて数えるべきである。」
+
+## 223 (2)
+
+Gaṇentena ca paṭhamaṃ dandhagaṇanāya dhaññamāpakagaṇanāya gaṇetabbaṃ. Dhaññamāpako hi nāḷiṃ pūretvā ‘‘eka’’nti vatvā okirati. Puna pūrento kiñci kacavaraṃ disvā taṃ chaḍḍento ‘‘ekaṃ eka’’nti vadati. Esa nayo dve dvetiādīsu. Evameva imināpi assāsapassāsesu yo upaṭṭhāti, taṃ gahetvā ‘‘ekaṃ eka’’nti ādiṃ katvā yāva ‘‘dasa dasā’’ti pavattamānaṃ pavattamānaṃ upalakkhetvāva gaṇetabbaṃ. Tassa evaṃ gaṇayato nikkhamantā ca pavisantā ca assāsapassāsā pākaṭā honti.
+
+Athānena taṃ dandhagaṇanaṃ dhaññamāpakagaṇanaṃ pahāya sīghagaṇanāya gopālakagaṇanāya gaṇetabbaṃ. Cheko hi gopālako sakkharādayo ucchaṅgena gahetvā rajjudaṇḍahattho pātova vajaṃ gantvā gāvo piṭṭhiyaṃ paharitvā palighatthambhamatthake nisinno dvārappattaṃ dvārappattaṃyeva gāviṃ ekā dveti sakkharaṃ khipitvā gaṇeti. Tiyāmarattiṃ sambādhe okāse dukkhaṃ vutthagogaṇo nikkhamanto nikkhamanto aññamaññaṃ upanighaṃsanto vegena vegena puñjapuñjo hutvā nikkhamati. So vegena vegena ‘‘tīṇi cattāri pañca dasā’’ti gaṇetiyeva, evamimassāpi purimanayena gaṇayato assāsapassāsā pākaṭā hutvā sīghaṃ sīghaṃ punappunaṃ sañcaranti. Tatonena ‘‘punappunaṃ sañcarantī’’ti ñatvā anto ca bahi ca agahetvā dvārappattaṃ dvārappattaṃyeva gahetvā ‘‘eko dve tīṇi cattāri pañca cha. Eko dve tīṇi cattāri pañca cha satta…pe… aṭṭha, nava, dasā’’ti sīghaṃ sīyaṃ gaṇetabbameva. Gaṇanapaṭibaddhe hi kammaṭṭhāne gaṇanabaleneva cittaṃ ekaggaṃ hoti, arittupatthambhanavasena caṇḍasote nāvāṭṭhapanamiva.
+
+### Claude
+
+- 2026/06/28
+- Claude Opus 4.8 High
+
+### 対訳
+
+Visuddhimagga ― Ānāpānassatikathā（gaṇanā の修習法、緩・速二種の数え方の喩え）
+
+1. Gaṇentena ca paṭhamaṃ dandhagaṇanāya dhaññamāpakagaṇanāya gaṇetabbaṃ.
+
+* gaṇentena = 「数える者によって」（具・単・現在分詞 gaṇeti）
+* paṭhamaṃ = 「まず最初に」（副詞的）
+* dandhagaṇanāya = 「緩やかな数え方によって」（女・具・単・持業釈：dandha「ゆるやかな、遅い」+ gaṇanā「数えること」）
+* dhaññamāpakagaṇanāya = 「穀物計量者の数え方によって」（女・具・単・依主釈：dhaññamāpaka「穀物を量る者」の gaṇanā）
+  * dhañña = 「穀物」
+  * māpaka = 「量る者、計量する者」（māpeti「量らせる」より）
+* gaṇetabbaṃ = 「数えるべきである」（gaṇeti の未来受動分詞）
+
+→「そして数える者は、まず最初に、緩やかな数え方、すなわち穀物計量者の数え方によって数えるべきである。」
+
+2. Dhaññamāpako hi nāḷiṃ pūretvā ‘‘eka’’nti vatvā okirati.
+
+* dhaññamāpako = 「穀物を量る者は」（男・主・単）
+* hi = 「なぜなら、というのは」
+* nāḷiṃ = 「ナーリ（一升枡、量器）を」（女・対・単）
+* pūretvā = 「満たして」（pūreti の連続体）
+* ‘‘eka’’n ti vatvā = 「『一つ』と言って」（eka + iti + vatvā：vadati の連続体）
+* okirati = 「（枡の中身を）あける、ばらまく」（ava + √kir）
+
+→「というのは、穀物を量る者は、枡を満たして『一』と言ってあける。」
+
+3. Puna pūrento kiñci kacavaraṃ disvā taṃ chaḍḍento ‘‘ekaṃ eka’’nti vadati.
+
+* puna = 「再び」
+* pūrento = 「満たしながら」（現在分詞 pūreti）
+* kiñci kacavaraṃ = 「何らかのごみ（塵芥）を」（中・対・単／kacavara「ごみ、芥」）
+* disvā = 「見て」（dassati/passati の連続体）
+* taṃ chaḍḍento = 「それを捨てながら」（現在分詞 chaḍḍeti「捨てる」）
+* ‘‘ekaṃ eka’’n ti vadati = 「『一、一』と言う」
+
+→「再び（枡を）満たしながら、何かごみを見つけてそれを捨てつつ、『一、一』と言う。」
+
+4. Esa nayo dve dvetiādīsu.
+
+* esa nayo = 「この仕方（やり方）が」（男・主・単／naya「方法、要領」）
+* dve dve ti ādīsu = 「『二、二』などにおいても」（処・複／dve「二」の反復 + iti + ādi「等」）
+
+→「『二、二』など（以下の数）についても、この要領（が同様である）。」
+
+5. Evameva imināpi assāsapassāsesu yo upaṭṭhāti, taṃ gahetvā ‘‘ekaṃ eka’’nti ādiṃ katvā yāva ‘‘dasa dasā’’ti pavattamānaṃ pavattamānaṃ upalakkhetvāva gaṇetabbaṃ.
+
+* evam eva = 「まさにそのように」
+* iminā pi = 「この（修行者）によっても」（具・単）
+* assāsapassāsesu = 「出入息において（入息と出息のうちで）」（男・処・複・相違釈：assāsa + passāsa）
+* yo upaṭṭhāti = 「現れるもの（息）を」（関係代名詞 yo + upaṭṭhāti「現れる、現前する」）
+* taṃ gahetvā = 「それを取って」（gaṇhāti の連続体）
+* ‘‘ekaṃ eka’’n ti ādiṃ katvā = 「『一、一』を初めとして」（ādiṃ katvā「初めとなして」）
+* yāva ‘‘dasa dasā’’ti = 「『十、十』に至るまで」
+* pavattamānaṃ pavattamānaṃ = 「生起しつつあるもの（息）を、その都度」（現在分詞 pavattamāna の反復、継起の強調）
+* upalakkhetvā va = 「よく見てとって、見定めてこそ」（upalakkheti の連続体 + eva）
+* gaṇetabbaṃ = 「数えるべきである」
+
+→「まさにそのように、この修行者も、出入息において現れる息を取って、『一、一』を初めとし『十、十』に至るまで、その都度生起する息を見定めてこそ数えるべきである。」
+
+6. Tassa evaṃ gaṇayato nikkhamantā ca pavisantā ca assāsapassāsā pākaṭā honti.
+
+* tassa = 「その者にとって」（属・単）
+* evaṃ gaṇayato = 「このように数える者にとって」（属・単・現在分詞 gaṇayanta）
+* nikkhamantā ca pavisantā ca = 「出て行くものも入って来るものも」（男・主・複・現在分詞／nikkhamati「出る」・pavisati「入る」）
+* assāsapassāsā = 「出入息が」（男・主・複）
+* pākaṭā honti = 「明らかになる、顕著となる」（pākaṭa「明白な」+ honti）
+
+→「このように数える者にとっては、出て行く息も入って来る息も明らかになる。」
+
+7. Athānena taṃ dandhagaṇanaṃ dhaññamāpakagaṇanaṃ pahāya sīghagaṇanāya gopālakagaṇanāya gaṇetabbaṃ.
+
+* atha = 「そこで、次に」
+* anena = 「この者によって」（具・単）
+* taṃ dandhagaṇanaṃ dhaññamāpakagaṇanaṃ = 「その緩やかな数え方、すなわち穀物計量者の数え方を」（女・対・単）
+* pahāya = 「捨てて」（pajahati の連続体）
+* sīghagaṇanāya = 「速い数え方によって」（女・具・単・持業釈：sīgha「速い」+ gaṇanā）
+* gopālakagaṇanāya = 「牛飼いの数え方によって」（女・具・単・依主釈：gopālaka「牛飼い」の gaṇanā）
+* gaṇetabbaṃ = 「数えるべきである」
+
+→「そこでこの者は、その緩やかな数え方、すなわち穀物計量者の数え方を捨てて、速い数え方、すなわち牛飼いの数え方によって数えるべきである。」
+
+8. Cheko hi gopālako sakkharādayo ucchaṅgena gahetvā rajjudaṇḍahattho pātova vajaṃ gantvā gāvo piṭṭhiyaṃ paharitvā palighatthambhamatthake nisinno dvārappattaṃ dvārappattaṃyeva gāviṃ ekā dveti sakkharaṃ khipitvā gaṇeti.
+
+* cheko = 「巧みな、熟練した」（男・主・単）
+* hi = 「というのは」
+* gopālako = 「牛飼いは」（男・主・単）
+* sakkharādayo = 「小石などを」（男・対・複・有財釈：sakkharā「小石」+ ādi「等」）
+* ucchaṅgena = 「ふところ（衣の懐）に」（具・単／ucchaṅga「膝・懐」）
+* gahetvā = 「取って」（連続体）
+* rajjudaṇḍahattho = 「縄と杖を手にした（者）」（男・主・単・有財釈：rajju「縄」+ daṇḍa「杖」+ hattha「手」＝縄と杖が手にある者）
+* pāto va = 「朝早く」（pāto「朝に」+ eva）
+* vajaṃ gantvā = 「牛囲い（牛舎）に行って」（vaja「牛の囲い」・対）
+* gāvo piṭṭhiyaṃ paharitvā = 「牛たちの背を打って」（gāvo：牛・対複／piṭṭhi「背」・処）
+* palighatthambhamatthake nisinno = 「閂柱の頂（横木の上）に坐して」（処・単・依主釈／paligha-tthambha「閂の柱」+ matthaka「頂」）
+* dvārappattaṃ dvārappattaṃ yeva gāviṃ = 「門に達した牛だけを、その都度」（女・対・単・依主釈 dvāra-patta「門に達した」の反復 + eva）
+* ekā dve ti = 「『一、二』と」
+* sakkharaṃ khipitvā = 「小石を投げて（落として）」（khipati の連続体）
+* gaṇeti = 「数える」
+
+→「というのは、巧みな牛飼いは、小石などをふところに取り、縄と杖を手にして朝早く牛囲いに行き、牛たちの背を打ち、閂柱の頂に坐して、門に達した牛だけを、その都度『一、二』と小石を投げて数える。」
+
+9. Tiyāmarattiṃ sambādhe okāse dukkhaṃ vutthagogaṇo nikkhamanto nikkhamanto aññamaññaṃ upanighaṃsanto vegena vegena puñjapuñjo hutvā nikkhamati.
+
+* tiyāmarattiṃ = 「三更の夜のあいだ（一晩中）」（対・単・時間／tiyāma「三更＝夜の三区分」+ ratti「夜」）
+* sambādhe okāse = 「狭い場所において」（処・単）
+* dukkhaṃ vuttha = 「苦しく過ごした（窮屈に夜を明かした）」（vuttha：vasati「住む・過ごす」の過去分詞 + dukkhaṃ 副詞的）
+* gogaṇo = 「牛の群れが」（男・主・単・依主釈：go「牛」の gaṇa）
+* nikkhamanto nikkhamanto = 「次々と出て行きながら」（現在分詞の反復、継起）
+* aññamaññaṃ upanighaṃsanto = 「互いに押し合いながら、こすれ合いながら」（aññamañña「互いに」+ upanighaṃsati「擦りつける、押し合う」の現在分詞）
+* vegena vegena = 「勢いよく次々と」（具・単の反復／vega「勢い、速さ」）
+* puñjapuñjo hutvā = 「群れをなして、塊となって」（puñja「塊、山」の反復・有財釈／＝塊をなす者となって）
+* nikkhamati = 「出て行く」
+
+→「一晩中、狭い場所で窮屈に過ごした牛の群れは、次々と出て行きながら、互いに押し合い、勢いよく塊となって出て行く。」
+
+10. So vegena vegena ‘‘tīṇi cattāri pañca dasā’’ti gaṇetiyeva, evamimassāpi purimanayena gaṇayato assāsapassāsā pākaṭā hutvā sīghaṃ sīghaṃ punappunaṃ sañcaranti.
+
+* so = 「彼（牛飼い）は」
+* vegena vegena = 「すばやく次々と」
+* ‘‘tīṇi cattāri pañca dasā’’ti = 「『三、四、五、十』と」
+* gaṇeti yeva = 「数えはする（数えてしまう）」（gaṇeti + eva）
+* evam imassā pi = 「そのようにこの者にとっても」（属・単）
+* purimanayena = 「前の仕方（先述の要領）によって」（具・単／purima「前の」+ naya）
+* gaṇayato = 「数える者にとって」（属・単・現在分詞）
+* assāsapassāsā = 「出入息が」（男・主・複）
+* pākaṭā hutvā = 「明らかになって」
+* sīghaṃ sīghaṃ = 「速やかに次々と」（副詞の反復）
+* punappunaṃ = 「繰り返し、何度も」
+* sañcaranti = 「往き来する、行き交う」（saṃ + √car）
+
+→「彼は勢いよく次々と『三、四、五、十』と数えてしまう。そのようにこの者にとっても、先述の要領で数えると、出入息が明らかになって、速やかに何度も往き来する。」
+
+11. Tatonena ‘‘punappunaṃ sañcarantī’’ti ñatvā anto ca bahi ca agahetvā dvārappattaṃ dvārappattaṃyeva gahetvā ‘‘eko dve tīṇi cattāri pañca cha. Eko dve tīṇi cattāri pañca cha satta…pe… aṭṭha, nava, dasā’’ti sīghaṃ sīghaṃ gaṇetabbameva.
+
+* tato = 「それから、そこで」
+* anena = 「この者によって」（具・単）
+* ‘‘punappunaṃ sañcarantī’’ti = 「『繰り返し往き来している』と」
+* ñatvā = 「知って」（jānāti の連続体）
+* anto ca bahi ca agahetvā = 「内（で）も外（で）も捉えずに（息を体内・体外で追わずに）」（anto「内に」・bahi「外に」+ a-gahetvā「取らずに」）
+* dvārappattaṃ dvārappattaṃ yeva = 「門に達したもの（息）だけを、その都度」
+* gahetvā = 「取って」
+* ‘‘eko dve tīṇi cattāri pañca cha…’’ ti = 「『一、二、三、四、五、六…』と」
+* …pe… = （中略：七までと反復句が略される。「一、二、三、四、五、六、七」の組を繰り返す箇所の省略）
+* ‘‘…aṭṭha, nava, dasā’’ti = 「『…八、九、十』と」
+* sīghaṃ sīghaṃ = 「速やかに次々と」
+* gaṇetabbam eva = 「数えるべきである（こそ）」（gaṇetabba + eva）
+
+〔dvārappattaṃ dvārappattaṃ：syā.・aṭṭha. に同じ反復形が見られる定型。門＝鼻孔の入口を指す註釈の比喩〕
+
+→「そこでこの者は『繰り返し往き来している』と知って、内でも外でも（息を）捉えず、門（鼻先）に達したものだけをその都度取って、『一、二、三、四、五、六。一、二、三、四、五、六、七……（中略）……八、九、十』と速やかに数えるべきである。」
+
+12. Gaṇanapaṭibaddhe hi kammaṭṭhāne gaṇanabaleneva cittaṃ ekaggaṃ hoti, arittupatthambhanavasena caṇḍasote nāvāṭṭhapanamiva.
+
+* gaṇanapaṭibaddhe = 「数えることに結びついた」（中・処・単・依主釈：gaṇana「数えること」+ paṭibaddha「結びつけられた、依拠した」）
+* hi = 「なぜなら、というのは」
+* kammaṭṭhāne = 「業処において」（中・処・単）
+* gaṇanabalena eva = 「まさに数えることの力によって」（具・単／gaṇana + bala「力」）
+* cittaṃ ekaggaṃ hoti = 「心が一境性となる（一点に集中する）」（ekagga「一点に専注した」）
+* arittupatthambhanavasena = 「櫂で支えること（突き支え）によって」（具・単／aritta「櫂」+ upatthambhana「支えること」+ vasa「～による」）
+* caṇḍasote = 「激流において」（処・単・持業釈：caṇḍa「激しい」+ sota「流れ」）
+* nāvāṭṭhapanam iva = 「舟を留めおくことのように」（中・主・単／nāvā「舟」+ ṭhapana「据え置くこと」+ iva「のごとく」）
+
+→「というのは、数えることに結びついた業処においては、まさに数えることの力によって心が一境（一点集中）となる。あたかも激流のなかで、櫂で突き支えることによって舟を留めおくようにである。」
+
+## 223 (3)
+
+Tassevaṃ sīghaṃ sīghaṃ gaṇayato kammaṭṭhānaṃ nirantaraṃ pavattaṃ viya hutvā upaṭṭhāti. Atha nirantaraṃ pavattatīti ñatvā anto ca bahi ca vātaṃ apariggahetvā purimanayeneva vegena vegena gaṇetabbaṃ. Anto pavisanavātena hi saddhiṃ cittaṃ pavesayato abbhantaraṃ vātabbhāhataṃ medapūritaṃ viya hoti. Bahi nikkhamanavātena saddhiṃ cittaṃ nīharato bahiddhā puthuttārammaṇe cittaṃ vikkhipati. Phuṭṭhaphuṭṭhokāse pana satiṃ ṭhapetvā bhāventasseva bhāvanā sampajjati. Tena vuttaṃ ‘‘anto ca bahi ca vātaṃ apariggahetvā purimanayeneva vegena vegena gaṇetabba’’nti.
+
+Kīvaciraṃ panetaṃ gaṇetabbanti? Yāva vinā gaṇanāya assāsapassāsārammaṇe sati santiṭṭhati. Bahivisaṭavitakkavicchedaṃ katvā assāsapassāsārammaṇe satisaṇṭhāpanatthaṃyeva hi gaṇanāti.
+
+### Claude
+
+- 2026/06/28
+- Claude Opus 4.8 High
+
+### 対訳
+
+Visuddhimagga ― Ānāpānassatikathā（gaṇanā の継続と止め時）
+
+1. Tassevaṃ sīghaṃ sīghaṃ gaṇayato kammaṭṭhānaṃ nirantaraṃ pavattaṃ viya hutvā upaṭṭhāti.
+
+* tassa = 「その者にとって」（属・単）
+* evaṃ = 「このように」
+* sīghaṃ sīghaṃ = 「速やかに次々と」（副詞の反復）
+* gaṇayato = 「数える者にとって」（属・単・現在分詞 gaṇayanta）
+* kammaṭṭhānaṃ = 「業処（瞑想の対象）が」（中・主・単）
+* nirantaraṃ = 「絶え間なく、間断なく」（副詞／nir「無」+ antara「間隙」）
+* pavattaṃ viya = 「相続しているかのように、流れ続けているように」（pavatta：pavattati の過去分詞 + viya）
+* hutvā = 「なって」
+* upaṭṭhāti = 「現れる、現前する」
+
+→「このように速やかに数える者にとっては、業処が間断なく相続しているかのようになって現れる。」
+
+2. Atha nirantaraṃ pavattatīti ñatvā anto ca bahi ca vātaṃ apariggahetvā purimanayeneva vegena vegena gaṇetabbaṃ.
+
+* atha = 「そこで、そのとき」
+* nirantaraṃ pavattatī ti = 「『間断なく相続している』と」（pavattati「相続する、起こり続ける」+ iti）
+* ñatvā = 「知って」（連続体）
+* anto ca bahi ca = 「内でも外でも」（anto「内に」・bahi「外に」）
+* vātaṃ = 「風（息）を」（男・対・単）
+* apariggahetvā = 「捉えずに、追わずに」（a + pariggaṇhāti「把捉する」の連続体）
+* purimanayen eva = 「まさに前の仕方（先述の要領）によって」（具・単／purima「前の」+ naya）
+* vegena vegena = 「勢いよく次々と」（具・単の反復）
+* gaṇetabbaṃ = 「数えるべきである」（gaṇeti の未来受動分詞）
+
+→「そこで『間断なく相続している』と知って、内でも外でも風（息）を追わず、まさに先述の要領で勢いよく数えるべきである。」
+
+3. Anto pavisanavātena hi saddhiṃ cittaṃ pavesayato abbhantaraṃ vātabbhāhataṃ medapūritaṃ viya hoti.
+
+* anto pavisanavātena = 「内に入って来る風（息）とともに」（具・単・依主釈：anto「内へ」+ pavisana「入ること」+ vāta「風」）
+* hi = 「なぜなら」
+* saddhiṃ = 「ともに、一緒に」（後置詞、具格を伴う）
+* cittaṃ pavesayato = 「心を（内へ）入れる者にとっては」（属・単・現在分詞 pavesayanta／paveseti「入れる」の使役）
+* abbhantaraṃ = 「内部が」（中・主・単／abbhantara「内側」）
+* vātabbhāhataṃ = 「風に打たれた（風で突かれた）（状態）」（中・主・単・依主釈：vāta「風」+ abbhāhata「打たれた」＝abhi+ā+√han の過去分詞）
+* medapūritaṃ viya = 「脂肪で満たされたかのように」（中・主・単／meda「脂肪」+ pūrita「満たされた」+ viya）
+* hoti = 「なる」
+
+→「なぜなら、内に入って来る息とともに心を内へ入れる者にとっては、内部が風に突かれ、脂肪で満たされたかのようになるからである。」
+
+4. Bahi nikkhamanavātena saddhiṃ cittaṃ nīharato bahiddhā puthuttārammaṇe cittaṃ vikkhipati.
+
+* bahi nikkhamanavātena = 「外へ出て行く風（息）とともに」（具・単・依主釈：bahi「外へ」+ nikkhamana「出ること」+ vāta）
+* saddhiṃ = 「ともに」
+* cittaṃ nīharato = 「心を（外へ）出す者にとっては」（属・単・現在分詞 nīharanta／nīharati「持ち出す」）
+* bahiddhā = 「外に」（副詞）
+* puthuttārammaṇe = 「多種多様な対象において」（中・処・単・依主釈：puthutta「多様性、雑多」+ ārammaṇa「所縁、対象」）
+* cittaṃ vikkhipati = 「心が散乱する」（vi + √khip）
+
+→「外へ出て行く息とともに心を外へ出す者にとっては、外の多様な対象において心が散乱する。」
+
+5. Phuṭṭhaphuṭṭhokāse pana satiṃ ṭhapetvā bhāventasseva bhāvanā sampajjati.
+
+* phuṭṭhaphuṭṭhokāse = 「（息が）触れる触れるその箇所において」（中・処・単・依主釈：phuṭṭha「触れられた」の反復 + okāsa「場所」＝息が触れるその都度の箇所）
+  * phuṭṭha = 「触れられた」（phusati の過去分詞）
+* pana = 「しかし、これに対して」
+* satiṃ ṭhapetvā = 「念（気づき）を据えて」（sati・対 + ṭhapetvā「据えて」）
+* bhāventass eva = 「修習する者にとってこそ」（属・単・現在分詞 bhāventa／bhāveti「修習する」+ eva）
+* bhāvanā sampajjati = 「修習が成就する」（bhāvanā「修習」+ sampajjati「成就する、成り立つ」）
+
+→「しかし、（息が）触れるその都度の箇所に念を据えて修習する者にこそ、修習は成就する。」
+
+6. Tena vuttaṃ ‘‘anto ca bahi ca vātaṃ apariggahetvā purimanayeneva vegena vegena gaṇetabba’’nti.
+
+* tena = 「それゆえに」（具・単、理由を示す）
+* vuttaṃ = 「説かれた、言われた」（vuccati の過去分詞・中・主・単）
+* （引用句は上記2と同一のため語釈は繰り返さない）
+* ti = 「と」（引用の結び）
+
+→「それゆえに、『内でも外でも風（息）を追わず、まさに先述の要領で勢いよく数えるべきである』と説かれたのである。」
+
+7. Kīvaciraṃ panetaṃ gaṇetabbanti?
+
+* kīvaciraṃ = 「どれほど長く」（疑問副詞／kīva「どれほど」+ ciraṃ「長く」）
+* pana = 「ところで、では」
+* etaṃ = 「これを」（中・対・単）
+* gaṇetabban ti = 「数えるべきか、と（いえば）」（gaṇetabba + iti）
+
+→「ところで、これ（数えること）はどれほど長く数えるべきか。」
+
+8. Yāva vinā gaṇanāya assāsapassāsārammaṇe sati santiṭṭhati.
+
+* yāva = 「～までの間（ずっと）」
+* vinā gaṇanāya = 「数えることなしに」（vinā「～なしに」+ gaṇanā・具／奪）
+* assāsapassāsārammaṇe = 「出入息という所縁において」（中・処・単・依主釈：assāsapassāsa「出入息」+ ārammaṇa「所縁」、＝出入息を対象として）
+* sati santiṭṭhati = 「念が確立する、安住する」（sati「念」+ santiṭṭhati「よく止住する、定着する」）
+
+→「数えることなしに、出入息という所縁において念が安住するに至るまで（数えるべきである）。」
+
+9. Bahivisaṭavitakkavicchedaṃ katvā assāsapassāsārammaṇe satisaṇṭhāpanatthaṃyeva hi gaṇanāti.
+
+* bahivisaṭavitakkavicchedaṃ = 「外へ散逸した尋（思考）の断絶を」（男・対・単・依主釈：bahi「外へ」+ visaṭa「散らばった、拡散した」+ vitakka「尋、思考」+ viccheda「断絶、切断」）
+  * visaṭa = 「散逸した、拡がった」（vi + √sar の過去分詞）
+* katvā = 「なして、行って」（karoti の連続体）
+* assāsapassāsārammaṇe = 「出入息という所縁において」（中・処・単）
+* satisaṇṭhāpanatthaṃ yeva = 「念を確立させるためにこそ」（中・対・単・依主釈：sati「念」+ saṇṭhāpana「確立させること、安立させること」+ attha「目的」＝～のため + eva）
+* hi = 「なぜなら、というのは」
+* gaṇanā = 「数えることは（ある）」（女・主・単）
+* ti = 「と（いうことである）」（引用の結び）
+
+→「なぜなら、外へ散逸した尋（思考）を断ち切って、出入息という所縁において念を確立させるためにこそ、数えること（がある）からである。」
