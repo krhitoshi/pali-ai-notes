@@ -20,6 +20,12 @@
 - 方針: assāsa=出息 / passāsa=入息 と整合させ, 音写でなく訳語に統一
 - 校訂: Claude Opus 4.8
 
+### 2026/06/28 不確かな語源の削除
+
+- 内容: vīmaṃsati（§226）の語源「vi-√mṛś 由来」を削除（vīmaṃsati は √man の desiderative で vi-√mṛś は誤り）
+- 方針: 確実でない語源・語根の分解は無理に書かず削除する
+- 校訂: Claude Opus 4.8
+
 ## 215 (1)
 
 215. Idāni yaṃ taṃ bhagavatā ‘‘ayampi kho, bhikkhave, ānāpānassatisamādhi bhāvito bahulīkato santo ceva paṇīto ca asecanako ca sukho ca vihāro, uppannuppanne ca pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasametī’’ti evaṃ pasaṃsitvā –
@@ -3469,7 +3475,7 @@ Visuddhimagga（Ānāpānassatikathā）§226 — dovārikūpamā（門番の譬
 * kiṃ vā te hatthe = 「またはおまえの手に何があるのか」
   * kiṃ = 「何が」／ te = 「おまえの」（属格）／ hatthe = 「手に」（処格・単数）
 * ti = 「と」（引用標識）
-* na vīmaṃsati = 「吟味しない、問いただしはしない」（vi-√mṛś 由来、意欲動詞 vīmaṃsati、現在・三・単数）
+* na vīmaṃsati = 「吟味しない、問いただしはしない」（意欲動詞 vīmaṃsati、現在・三・単数）
 
 →「たとえば門番が、町の内にいる人々にも外にいる人々にも、『おまえは誰か、どこから来たのか、どこへ行くのか、手に何を持っているのか』と問いただしはしない。」
 
