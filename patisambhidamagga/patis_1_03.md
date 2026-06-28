@@ -2299,7 +2299,7 @@ Anupubbaṃ paricitāti dīghaṃ assāsavasena purimā purimā paricitā, pacch
 
   * sabbāpi ＝「すべて〔の～も〕」（api＝強意「～もまた」）
   * soḷasavatthukā ＝「十六事ある（十六の基盤をもつ）」（有財釈：soḷasa＝16／vatthu＝事・基盤）
-  * ānāpānassatiyo ＝「安那般那念（出入息念）の諸々」（女複・主格）
+  * ānāpānassatiyo ＝「出入息念の諸々」（女複・主格）
   * aññamaññaṃ ＝「相互に・互いに」
   * paricitā ceva honti ＝「まさに修習されており」
   * anuparicitā ca ＝「かつ順次修習されている」
