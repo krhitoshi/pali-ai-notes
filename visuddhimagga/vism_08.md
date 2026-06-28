@@ -2,6 +2,16 @@
 
 # Ānāpānassatikathā
 
+## 校訂履歴
+
+### 2026/06/28 assāsa / passāsa の方向統一
+
+- 内容: assāsa / assasati =「出息（外へ出る息）」, passāsa / passasati =「入息（内へ入る息）」に統一
+- 対象: §215, §219, §220, §221（第一稿は assāsa を「入息」と訳していた）
+- 不変: §216, §217, §218, §222-§238（元から方針どおり）
+- 根拠: 本文 §219(2)「Assāso ti bahi nikkhamanavāto ... vinayaṭṭhakathāyaṃ vuttaṃ」（律註は assāsa=外へ出る息）。CLAUDE.md「翻訳の方針」に準拠
+- 校訂: Claude Opus 4.8 + MCP（pali-dict / cscd-text）。詳細は vism_08_check.md
+
 ## 215 (1)
 
 215. Idāni yaṃ taṃ bhagavatā ‘‘ayampi kho, bhikkhave, ānāpānassatisamādhi bhāvito bahulīkato santo ceva paṇīto ca asecanako ca sukho ca vihāro, uppannuppanne ca pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasametī’’ti evaṃ pasaṃsitvā –
