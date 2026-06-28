@@ -4827,12 +4827,12 @@ Kathaṃ te kāyā paṭividitā honti? Dīghaṃ assāsavasena cittassa ekaggat
   * sabba-kāya-paṭisaṃvedī = 「全身を感受する者」
     * sabba = 「一切・全」／ kāya = 「身」
     * paṭisaṃvedī = 「感受する者」（paṭi+saṃ+√vid、所有接尾辞 -in、主格単数）
-  * assasissāmi = 「私は呼気しよう」（assasati の未来形1人称単数、ā+√śvas）※呼気
-  * passasissāmi = 「私は吸気しよう」※吸気
+  * assasissāmi = 「私は出息しよう」（assasati の未来形1人称単数、ā+√śvas）※出息
+  * passasissāmi = 「私は入息しよう」※入息
   * ti = 「～と」（引用辞）
   * sikkhati = 「学ぶ・修学する」（√śikṣ 現在3単）
 
-→「いかにして『全身を感受する者として、私は呼気しよう』と修学し、『全身を感受する者として、私は吸気しよう』と修学するのか。」
+→「いかにして『全身を感受する者として、私は出息しよう』と修学し、『全身を感受する者として、私は入息しよう』と修学するのか。」
 
 2. Kāyoti dve kāyā – nāmakāyo ca rūpakāyo ca.
 
@@ -4863,13 +4863,13 @@ Kathaṃ te kāyā paṭividitā honti? Dīghaṃ assāsavasena cittassa ekaggat
   * catunnaṃ mahābhūtānaṃ upādāyarūpaṃ = 「四大種の所造色」
     * catunnaṃ mahābhūtānaṃ = 「四つの大種の」（属格複数）
     * upādāya-rūpaṃ = 「所造色」（upādāya = 「取って・依拠して」絶対分詞の形容詞的用法 ＋ rūpa）
-  * assāso ca passāso ca = 「呼気と吸気と」
+  * assāso ca passāso ca = 「出息と入息と」
   * nimittañca = 「相（nimitta）と」
   * upanibandhanā = 「繋縛（処）・依止」（upa+ni+√bandh、念を結びつける対象としての所縁）
   * ye ca vuccanti kāyasaṅkhārā = 「およそ身行と呼ばれるもの」
   * ayaṃ rūpakāyo = 「これが色身である」
 
-→「いかなるものが色身か。四大種と、四大種の所造色と、呼気と吸気と、相と繋縛（処）と、およそ身行と呼ばれるもの――これが色身である。」
+→「いかなるものが色身か。四大種と、四大種の所造色と、出息と入息と、相と繋縛（処）と、およそ身行と呼ばれるもの――これが色身である。」
 
 5. Kathaṃ te kāyā paṭividitā honti?
 
@@ -4884,7 +4884,7 @@ Kathaṃ te kāyā paṭividitā honti? Dīghaṃ assāsavasena cittassa ekaggat
 6. Dīghaṃ assāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti. Tāya satiyā tena ñāṇena te kāyā paṭividitā honti.
 
   * dīghaṃ = 「長く・長き」（対格・副詞的）
-  * assāsa-vasena = 「呼気によって・呼気を通じて」（vasa 具格）
+  * assāsa-vasena = 「出息によって・出息を通じて」（vasa 具格）
   * cittassa = 「心の」（属格）
   * ekaggataṃ = 「一境性を」（対格）
   * avikkhepaṃ = 「無散乱を」（対格）
@@ -4893,25 +4893,25 @@ Kathaṃ te kāyā paṭividitā honti? Dīghaṃ assāsavasena cittassa ekaggat
   * tāya satiyā = 「その念によって」（具格）／ tena ñāṇena = 「その智によって」（具格）
   * te kāyā paṭividitā honti = 「それらの身は洞察される」
 
-→「長き呼気によって、心の一境性・無散乱を了知する者には、念が現起する。その念によって、その智によって、それらの身は洞察される。」
+→「長き出息によって、心の一境性・無散乱を了知する者には、念が現起する。その念によって、その智によって、それらの身は洞察される。」
 
 7. Dīghaṃ passāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti. Tāya satiyā tena ñāṇena te kāyā paṭividitā honti.
 
-  * （第6偈と同型。dīghaṃ＝長き、passāsa-vasena＝吸気によって）
+  * （第6偈と同型。dīghaṃ＝長き、passāsa-vasena＝入息によって）
 
-→「長き吸気によって、心の一境性・無散乱を了知する者には、念が現起する。その念によって、その智によって、それらの身は洞察される。」
+→「長き入息によって、心の一境性・無散乱を了知する者には、念が現起する。その念によって、その智によって、それらの身は洞察される。」
 
 8. Rassaṃ assāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti. Tāya satiyā tena ñāṇena te kāyā paṭividitā honti.
 
-  * （第6偈と同型。rassaṃ＝短き、assāsa-vasena＝呼気によって）
+  * （第6偈と同型。rassaṃ＝短き、assāsa-vasena＝出息によって）
 
-→「短き呼気によって、心の一境性・無散乱を了知する者には、念が現起する。その念によって、その智によって、それらの身は洞察される。」
+→「短き出息によって、心の一境性・無散乱を了知する者には、念が現起する。その念によって、その智によって、それらの身は洞察される。」
 
 9. Rassaṃ passāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti. Tāya satiyā tena ñāṇena te kāyā paṭividitā honti.
 
-  * （第6偈と同型。rassaṃ＝短き、passāsa-vasena＝吸気によって）
+  * （第6偈と同型。rassaṃ＝短き、passāsa-vasena＝入息によって）
 
-→「短き吸気によって、心の一境性・無散乱を了知する者には、念が現起する。その念によって、その智によって、それらの身は洞察される。」
+→「短き入息によって、心の一境性・無散乱を了知する者には、念が現起する。その念によって、その智によって、それらの身は洞察される。」
 
 ## 170 (2)
 
@@ -4952,14 +4952,14 @@ Kathaṃ te kāyā paṭividitā honti? Dīghaṃ assāsavasena cittassa ekaggat
 11. Sabbakāyapaṭisaṃvedī assāsapassāsā kāyo upaṭṭhānaṃ sati anupassanā ñāṇaṃ.
 
   * sabba-kāya-paṭisaṃvedī = 「全身を感受する〔という規定の〕」（assāsapassāsā を修飾）
-  * assāsa-passāsā = 「呼気・吸気（出入息）」（主格複数）※呼気＝assāsa／吸気＝passāsa
+  * assāsa-passāsā = 「出息・入息（出入息）」（主格複数）※出息＝assāsa／入息＝passāsa
   * kāyo = 「『身（kāya）』〔である〕」（＝〈身における身随観〉の対象たる「身」）
   * upaṭṭhānaṃ = 「現起〔の確立〕は」（satipaṭṭhāna の upaṭṭhāna）
   * sati = 「念〔である〕」
   * anupassanā = 「随観は」
   * ñāṇaṃ = 「智〔である〕」
 
-→「全身を感受する〔規定の〕呼気・吸気が『身（kāya）』であり、現起〔の確立〕（upaṭṭhāna）が念（sati）であり、随観（anupassanā）が智（ñāṇa）である。」
+→「全身を感受する〔規定の〕出息・入息が『身（kāya）』であり、現起〔の確立〕（upaṭṭhāna）が念（sati）であり、随観（anupassanā）が智（ñāṇa）である。」
 
 12. Kāyo upaṭṭhānaṃ, no sati.
 
@@ -5038,7 +5038,7 @@ Sabbakāyapaṭisaṃvedī assāsapassāsavasena cittassa ekaggataṃ avikkhepa
 3. Sabbakāyapaṭisaṃvedī assāsapassāsānaṃ [assāsapassāsā (syā.)] saṃvaraṭṭhena sīlavisuddhi, avikkhepaṭṭhena cittavisuddhi, dassanaṭṭhena diṭṭhivisuddhi.
 
   * sabba-kāya-paṭisaṃvedī = 「全身を感受する〔規定の〕」
-  * assāsa-passāsānaṃ = 「呼気・吸気の」（属格複数）※異読 assāsapassāsā（主格複数, シャム本 syā.）
+  * assāsa-passāsānaṃ = 「出息・入息の」（属格複数）※異読 assāsapassāsā（主格複数, シャム本 syā.）
   * saṃvara-aṭṭhena = 「防護の義によって」（saṃvara＝律儀・防護／aṭṭha 具格）
   * sīla-visuddhi = 「戒清浄〔である〕」
   * avikkhepa-aṭṭhena = 「無散乱の義によって」
@@ -5046,7 +5046,7 @@ Sabbakāyapaṭisaṃvedī assāsapassāsavasena cittassa ekaggataṃ avikkhepa
   * dassana-aṭṭhena = 「見の義によって」（dassana＝見・観見）
   * diṭṭhi-visuddhi = 「見清浄〔である〕」
 
-→「全身を感受する〔規定の〕呼気・吸気の、防護の義によって戒清浄〔があり〕、無散乱の義によって心清浄〔があり〕、見の義によって見清浄〔がある〕。」
+→「全身を感受する〔規定の〕出息・入息の、防護の義によって戒清浄〔があり〕、無散乱の義によって心清浄〔があり〕、見の義によって見清浄〔がある〕。」
 
 4. Yo tattha saṃvaraṭṭho, ayaṃ adhisīlasikkhā. Yo tattha avikkhepaṭṭho, ayaṃ adhicittasikkhā. Yo tattha dassanaṭṭho, ayaṃ adhipaññāsikkhā.
 
@@ -5086,23 +5086,23 @@ Sabbakāyapaṭisaṃvedī assāsapassāsavasena cittassa ekaggataṃ avikkhepa
 6. Sabbakāyapaṭisaṃvedī assāsapassāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato viditā vedanā uppajjanti…pe…
 
   * sabba-kāya-paṭisaṃvedī = 「全身を感受する〔規定の〕」
-  * assāsa-passāsa-vasena = 「呼気・吸気によって」（vasa 具格）
+  * assāsa-passāsa-vasena = 「出息・入息によって」（vasa 具格）
   * cittassa ekaggataṃ avikkhepaṃ = 「心の一境性・無散乱を」（対格）
   * pajānato = 「了知する者にとって」（現在分詞・属格／与格）
   * viditā = 「知られたものとして」（vidita 過去分詞・主格複数、女性 vedanā に一致）
   * vedanā uppajjanti = 「諸受が生起する」（vedanā 主格複数／uppajjanti 現在3複）
   * …pe… = 「（中略）」
 
-→「全身を感受する〔規定の〕呼気・吸気によって、心の一境性・無散乱を了知する者には、諸受が知られたものとして生起する――（中略）――」
+→「全身を感受する〔規定の〕出息・入息によって、心の一境性・無散乱を了知する者には、諸受が知られたものとして生起する――（中略）――」
 
 7. sabbakāyapaṭisaṃvedī assāsapassāsavasena cittassa ekaggataṃ avikkhepaṃ pajānanto indriyāni samodhāneti…pe…
 
-  * sabba-kāya-paṭisaṃvedī assāsa-passāsa-vasena … pajānanto = 「全身を感受する〔規定の〕呼気・吸気によって……了知しながら」（pajānanto 現在分詞・主格単数）
+  * sabba-kāya-paṭisaṃvedī assāsa-passāsa-vasena … pajānanto = 「全身を感受する〔規定の〕出息・入息によって……了知しながら」（pajānanto 現在分詞・主格単数）
   * indriyāni = 「諸根を」（対格複数）
   * samodhāneti = 「総摂する・統合する」（saṃ+ava+√dhā 使役, 現在3単）
   * …pe… = 「（中略）」
 
-→「全身を感受する〔規定の〕呼気・吸気によって、心の一境性・無散乱を了知しながら、諸根を総摂する――（中略）――」
+→「全身を感受する〔規定の〕出息・入息によって、心の一境性・無散乱を了知しながら、諸根を総摂する――（中略）――」
 
 8. tena vuccati – "samatthañca paṭivijjhatī"ti.
 
@@ -6929,15 +6929,15 @@ Anupassatīti kathaṃ taṃ cittaṃ anupassati…pe… evaṃ taṃ cittaṃ a
 
   * cittaṃ = 「心を」（対格単数）
 
-  * assasissāmī = 「呼気しよう」（assasati の未来一人称単数）〔Paṭisambhidāmagga 慣例：assāsa=呼気〕
+  * assasissāmī = 「出息しよう」（assasati の未来一人称単数）〔Paṭisambhidāmagga 慣例：assāsa=出息〕
 
   * ti = 「と」（引用辞）
 
   * sikkhati = 「学ぶ」（現在三人称単数）
 
-  * passasissāmī = 「吸気しよう」（passasati の未来一人称単数）〔passāsa=吸気〕
+  * passasissāmī = 「入息しよう」（passasati の未来一人称単数）〔passāsa=入息〕
 
-→ 「いかにして『心を統一しつつ呼気しよう』と学び、『心を統一しつつ吸気しよう』と学ぶのか。」
+→ 「いかにして『心を統一しつつ出息しよう』と学び、『心を統一しつつ入息しよう』と学ぶのか。」
 
 2. Katamo samādhi [katamañca samādhindriyaṃ (syā.)]?
 
@@ -6955,7 +6955,7 @@ Anupassatīti kathaṃ taṃ cittaṃ anupassati…pe… evaṃ taṃ cittaṃ a
 
   * dīghaṃ = 「長く」（副詞的対格）
 
-  * assāsa-vasena = 「呼気を通じて、呼気のゆえに」（具格／tappurisa；vasa=力・自在）
+  * assāsa-vasena = 「出息を通じて、出息のゆえに」（具格／tappurisa；vasa=力・自在）
 
   * cittassa = 「心の」（属格単数）
 
@@ -6965,7 +6965,7 @@ Anupassatīti kathaṃ taṃ cittaṃ anupassati…pe… evaṃ taṃ cittaṃ a
 
   * samādhi = 「定」
 
-→ 「長き呼気を通じての心の一境性・不散乱が定である。」
+→ 「長き出息を通じての心の一境性・不散乱が定である。」
 
 4. yā cittassa ṭhiti saṇṭhiti avaṭṭhiti [adhiṭṭiti (syā.)] avisāhāro avikkhepo avisāhaṭamānasatā [avisāhatamānasatā (syā. ka.)] samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi.
 
@@ -6995,17 +6995,17 @@ Anupassatīti kathaṃ taṃ cittaṃ anupassati…pe… evaṃ taṃ cittaṃ a
 
 5. Dīghaṃ passāsavasena cittassa ekaggatā avikkhepo samādhi…pe… samādahaṃ cittaṃ assāsavasena…pe… samādahaṃ cittaṃ passāsavasena cittassa ekaggatā avikkhepo samādhi.
 
-  * dīghaṃ passāsavasena = 「長き吸気を通じて」
+  * dīghaṃ passāsavasena = 「長き入息を通じて」
 
   * …pe… = 「（中略）」（聖典の省略標記 peyyāla）
 
-  * samādahaṃ cittaṃ assāsavasena = 「呼気を通じて心を統一しつつ」
+  * samādahaṃ cittaṃ assāsavasena = 「出息を通じて心を統一しつつ」
 
-  * samādahaṃ cittaṃ passāsavasena = 「吸気を通じて心を統一しつつ」
+  * samādahaṃ cittaṃ passāsavasena = 「入息を通じて心を統一しつつ」
 
   * cittassa ekaggatā avikkhepo samādhi = 「心の一境性・不散乱が定である」
 
-→ 「長き吸気を通じての心の一境性・不散乱が定である（中略）呼気を通じて心を統一しつつ（中略）吸気を通じて心を統一しつつ――心の一境性・不散乱が定である。」
+→ 「長き入息を通じての心の一境性・不散乱が定である（中略）出息を通じて心を統一しつつ（中略）入息を通じて心を統一しつつ――心の一境性・不散乱が定である。」
 
 6. Yā cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – ayaṃ samādhi.
 
@@ -7017,7 +7017,7 @@ Anupassatīti kathaṃ taṃ cittaṃ anupassati…pe… evaṃ taṃ cittaṃ a
 
 7. Samādahaṃ cittaṃ assāsapassāsavasena viññāṇaṃ cittaṃ upaṭṭhānaṃ sati anupassanā ñāṇaṃ.
 
-  * samādahaṃ cittaṃ assāsapassāsavasena = 「呼気・吸気を通じて心を統一しつつ」
+  * samādahaṃ cittaṃ assāsapassāsavasena = 「出息・入息を通じて心を統一しつつ」
 
   * viññāṇaṃ cittaṃ = 「識は心（である）」（所縁としての心；viññāṇa=識）
 
@@ -7025,7 +7025,7 @@ Anupassatīti kathaṃ taṃ cittaṃ anupassati…pe… evaṃ taṃ cittaṃ a
 
   * anupassanā ñāṇaṃ = 「随観は智（である）」（anupassanā=随観／ñāṇa=智）
 
-→ 「呼気・吸気を通じて心を統一しつつ――識は心であり、現起は念であり、随観は智である。」
+→ 「出息・入息を通じて心を統一しつつ――識は心であり、現起は念であり、随観は智である。」
 
 8. Cittaṃ upaṭṭhānaṃ, no sati; sati upaṭṭhānañceva sati ca.
 
@@ -7116,7 +7116,7 @@ Anupassatīti kathaṃ taṃ cittaṃ anupassati…pe… evaṃ taṃ cittaṃ a
 
   * samādahaṃ cittaṃ = 「心を統一しつつ」（samādahati の現在分詞・主格単数＋対格 cittaṃ）
 
-  * assāsapassāsānaṃ = 「呼気・吸気の」（属格複数；dvanda）
+  * assāsapassāsānaṃ = 「出息・入息の」（属格複数；dvanda）
 
   * saṃvara-ṭṭhena = 「防護（律儀）の義によって」（具格／tappurisa；saṃvara=防護・律儀／aṭṭha=義）
 
@@ -7124,11 +7124,11 @@ Anupassatīti kathaṃ taṃ cittaṃ anupassati…pe… evaṃ taṃ cittaṃ a
 
   * …pe… = 「（中略）」
 
-→ 「呼気・吸気の防護の義によって戒清浄（がある）（中略）」
+→ 「出息・入息の防護の義によって戒清浄（がある）（中略）」
 
 4. samādahaṃ cittaṃ assāsapassāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato…pe… pajānanto indriyāni samodhāneti.
 
-  * samādahaṃ cittaṃ assāsapassāsavasena = 「呼気・吸気を通じて心を統一しつつ」
+  * samādahaṃ cittaṃ assāsapassāsavasena = 「出息・入息を通じて心を統一しつつ」
 
   * cittassa = 「心の」（属格単数）
 
@@ -7146,7 +7146,7 @@ Anupassatīti kathaṃ taṃ cittaṃ anupassati…pe… evaṃ taṃ cittaṃ a
 
   * samodhāneti = 「統合する、結合せしめる」（使役・現在三人称単数；saṃ-o-√dhā）
 
-→ 「呼気・吸気を通じて心を統一しつつ、心の一境性・不散乱を了知する者にとって（中略）了知しつつ、諸根を統合する。」
+→ 「出息・入息を通じて心を統一しつつ、心の一境性・不散乱を了知する者にとって（中略）了知しつつ、諸根を統合する。」
 
 5. Tena vuccati – ‘‘samatthañca paṭivijjhatī’’ti.
 
