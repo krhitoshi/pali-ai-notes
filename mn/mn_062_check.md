@@ -28,12 +28,14 @@ Mahārāhulovāda-sutta (MN 62) 校訂チェック
 
 ### 中
 
-2. assāsa / passāsa の方向 (#121 対訳 5 ほか)
-   - 第一稿: assasati = 息を吸う, passasati = 息を吐く
-   - 指摘: 伝統的に方向の揺れがある。律註は assāsa = 出る息 / passāsa = 入る息,
-     経註は経により逆順 (Vism 08 の註参照)。第一稿は現代の一般的な取り方で
-     可だが, 方向に伝統差があることを註記すべき
-   - 提案: 訳はそのままで可。「assāsa/passāsa の内外は伝統で逆になる」と一言註記
+2. assāsa / passāsa の方向 (#121 対訳 5 ほか) ※方針決定により 高 に格上げ
+   - 第一稿: assasati = 息を吸う, passasati = 息を吐く (assasati = 入)
+   - 方針 (2026-06-28 決定): assasati / assāsa = 出息 (外), passasati / passāsa =
+     入息 (内) に統一 (CLAUDE.md「翻訳の方針」, 律註の定義)
+   - 指摘: 第一稿は assasati = 吸う (入) で方針と逆。安那般那念の段 (#121) の
+     assasati / passasati をすべて反転する必要がある (assasati = 吐く/出息,
+     passasati = 吸う/入息)
+   - 提案: #121 の dīgha/rassa, 各 sikkhati 句などで出入を統一して修正する
 
 3. kāyasaṅkhāra / cittasaṅkhāra (#121 対訳 9, 12)
    - 第一稿: kāyasaṅkhāra =「身行(身体の形成作用, 呼吸)」, cittasaṅkhāra =
