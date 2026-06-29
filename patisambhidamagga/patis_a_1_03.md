@@ -2,6 +2,4165 @@
 
 # 3. Ānāpānassatikathā
 
+# 1. Gaṇanavāravaṇṇanā
+
+## 152 (1)
+
+152. Idāni diṭṭhikathānantaraṃ kathitāya ānāpānassatikathāya apubbatthānuvaṇṇanā anuppattā. Ayañhi ānāpānassatikathā diṭṭhikathāya suviditadiṭṭhādīnavassa micchādiṭṭhimalavisodhanena suvisuddhacittassa yathābhūtāvabodhāya samādhibhāvanā sukarā hoti, sabbasamādhibhāvanāsu ca sabbasabbaññubodhisattānaṃ bodhimūle imināva samādhinā samāhitacittānaṃ yathābhūtāvabodhato ayameva samādhibhāvanā padhānāti ca diṭṭhikathānantaraṃ kathitā. Tattha soḷasavatthukaṃ ānāpānassatisamādhiṃ bhāvayato samadhikāni dve ñāṇasatāni uppajjantīti ñāṇagaṇanuddeso, aṭṭha paripanthe ñāṇānītiādi ñāṇagaṇananiddeso, katamāni aṭṭha paripanthe ñāṇānītiādi. Imāni ekavīsati vimuttisukhe ñāṇānītipariyantaṃ sabbañāṇānaṃ vitthāraniddeso, ante soḷasavatthukaṃ ānāpānassatisamādhiṃ bhāvayatotiādi nigamananti evaṃ tāva pāḷivavatthānaṃ veditabbaṃ.
+
+Tattha gaṇanuddese gaṇanavāre tāva soḷasavatthukanti dīghaṃ rassaṃ sabbakāyapaṭisaṃvedī passambhayaṃ kāyasaṅkhāranti kāyānupassanācatukkaṃ, pītipaṭisaṃvedī sukhapaṭisaṃvedī cittasaṅkhārapaṭisaṃvedī passambhayaṃ cittasaṅkhāranti vedanānupassanācatukkaṃ, cittapaṭisaṃvedī abhippamodayaṃ cittaṃ samādahaṃ cittaṃ vimocayaṃ cittanti cittānupassanācatukkaṃ, aniccānupassī virāgānupassī nirodhānupassī paṭinissaggānupassīti dhammānupassanācatukkanti imesaṃ catunnaṃ catukkānaṃ vasena soḷasa vatthūni patiṭṭhā ārammaṇāni assāti soḷasavatthuko. Taṃ soḷasavatthukaṃ. Samāsavasena panettha vibhattilopo kato. Ānanti abbhantaraṃ pavisanavāto. Apānanti bahinikkhamanavāto. Keci pana vipariyāyena vadanti. Apānañhi apetaṃ ānatoti apānanti vuccati, niddese (paṭi. ma. 1.160) pana nā-kārassa dīghattamajjhupekkhitvā āpānanti. Tasmiṃ ānāpāne sati ānāpānassati, assāsapassāsapariggāhikāya satiyā etaṃ adhivacanaṃ. Ānāpānassatiyā yutto samādhi, ānāpānassatiyaṃ vā samādhi ānāpānassatisamādhi. Bhāvayatoti nibbedhabhāgiyaṃ bhāventassa. Samadhikānīti saha adhikena vattantīti samadhikāni, sātirekānīti attho. Ma-kāro panettha padasandhikaro. Keci pana ‘‘saṃadhikānī’’ti vadanti. Evaṃ sati dve ñāṇasatāniyeva adhikānīti āpajjati, taṃ na yujjati. Imāni hi vīsatiadhikāni dve ñāṇasatāni hontīti.
+
+### Claude
+
+- 2026/06/29
+- Claude Opus 4.8 High
+
+### 対訳
+
+1. Idāni diṭṭhikathānantaraṃ kathitāya ānāpānassatikathāya apubbatthānuvaṇṇanā anuppattā.
+
+  * idāni ＝「今や」
+  * diṭṭhi-kathā-anantaraṃ ＝ diṭṭhikathā「見論」＋ anantaraṃ「直後に」（依主釈、副詞的対格）→「見論の直後に」
+  * kathitāya ＝ katheti（√kath）過去分詞・属格単数「説かれた（〜論の）」
+  * ānāpānassati-kathāya ＝「出入息念論の」、属格単数
+  * apubbattha-anuvaṇṇanā ＝ apubba「いまだ先になかった、新しい」＋ attha「意味」＋ anuvaṇṇanā「解説・詳説」（依主釈）、主格単数「まだ説明されていない意味の解説」
+  * anuppattā ＝ anu＋pa＋√āp 過去分詞・主格単数「順次到達した、（その番が）やってきた」
+
+→「今や、見論の直後に説かれた出入息念論の、まだ説明されていない意味の解説の番がやってきた。」
+
+2. Ayañhi ānāpānassatikathā diṭṭhikathāya suviditadiṭṭhādīnavassa micchādiṭṭhimalavisodhanena suvisuddhacittassa yathābhūtāvabodhāya samādhibhāvanā sukarā hoti,
+
+  * ayaṃ hi ＝「この〜は実に」
+  * diṭṭhikathāya ＝「見論によって」、具格単数
+  * suvidita-diṭṭhi-ādīnavassa ＝ su「よく」＋vidita「知られた」＋diṭṭhi「見」＋ādīnava「過患」（suvisuddhacittassa にかかる属格）→「見の過患をよく知った（者の）」
+  * micchādiṭṭhi-mala-visodhanena ＝「邪見という汚れを浄めることによって」、具格（依主釈）
+  * suvisuddha-cittassa ＝「よく清められた心をもつ者の」、属格単数
+  * yathābhūta-avabodhāya ＝「如実の覚知のために」、与格（yathābhūta「如実」＋avabodha「覚知・了解」）
+  * samādhi-bhāvanā ＝「三昧の修習が」、主格単数
+  * sukarā hoti ＝「なしやすくなる」（sukara「なしやすい」）
+
+→「この出入息念論は、見論によって見の過患をよく知り、邪見という汚れを浄めることでよく清まった心をもつ者にとって、如実に覚知するための三昧の修習がなしやすくなる（ため）であり、」
+
+3. sabbasamādhibhāvanāsu ca sabbasabbaññubodhisattānaṃ bodhimūle imināva samādhinā samāhitacittānaṃ yathābhūtāvabodhato ayameva samādhibhāvanā padhānāti ca diṭṭhikathānantaraṃ kathitā.
+
+  * sabba-samādhi-bhāvanāsu ca ＝「またすべての三昧の修習のうちで」、処格複数
+  * sabba-sabbaññu-bodhisattānaṃ ＝「すべての一切知者たる菩薩たちの」、属格複数（sabbaññu「一切知者」）
+  * bodhi-mūle ＝「菩提樹の根本において」、処格単数
+  * iminā eva samādhinā ＝「まさにこの三昧によって」、具格単数
+  * samāhita-cittānaṃ ＝「心を統一された（者たちの）」、属格複数
+  * yathābhūta-avabodhato ＝「如実に覚知したことから」、奪格（理由）
+  * ayam eva samādhi-bhāvanā ＝「まさにこの三昧の修習が」
+  * padhānā ＝「主要である、最勝である」、述語主格
+  * ti ca ＝「という（理由）でも」
+  * diṭṭhikathānantaraṃ kathitā ＝「見論の直後に説かれた」
+
+→「また、すべての三昧の修習のうちで、すべての一切知者たる菩薩たちが菩提樹の根本でまさにこの三昧によって心を統一し、如実に覚知したことから、まさにこの三昧の修習が最も主要である、という（理由）でも、見論の直後に説かれたのである。」
+
+4. Tattha soḷasavatthukaṃ ānāpānassatisamādhiṃ bhāvayato samadhikāni dve ñāṇasatāni uppajjantīti ñāṇagaṇanuddeso, aṭṭha paripanthe ñāṇānītiādi ñāṇagaṇananiddeso, katamāni aṭṭha paripanthe ñāṇānītiādi.
+
+  * tattha ＝「そのうち、そこで」
+  * 「soḷasavatthukaṃ…uppajjantī」ti ＝「『十六事ある…生起する』という（句）が」
+  * ñāṇa-gaṇana-uddeso ＝ ñāṇa「智」＋gaṇana「計数」＋uddesa「総説・標挙」（依主釈）、主格「智の数の総説」
+  * 「aṭṭha paripanthe ñāṇānī」ti-ādi ＝「『八つの障碍に関する智』等（の句）が」
+  * ñāṇa-gaṇana-niddeso ＝「智の数の詳説（niddesa「分別・詳説」）」
+  * 「katamāni aṭṭha paripanthe ñāṇānī」ti-ādi ＝「『いかなるものが八つの障碍に関する智か』等（の句）」
+
+→「そのうち、『十六事ある出入息念の三昧を修習する者には、二百あまりの智が生起する』という（句）が智の数の総説（標挙）であり、『八つの障碍に関する智』等が智の数の詳説であり、『いかなるものが八つの障碍に関する智か』等は——」
+
+5. Imāni ekavīsati vimuttisukhe ñāṇānītipariyantaṃ sabbañāṇānaṃ vitthāraniddeso, ante soḷasavatthukaṃ ānāpānassatisamādhiṃ bhāvayatotiādi nigamananti evaṃ tāva pāḷivavatthānaṃ veditabbaṃ.
+
+  * 「imāni ekavīsati vimuttisukhe ñāṇānī」ti-pariyantaṃ ＝「『これらが二十一の解脱の楽に関する智である』というところまで（が）」（pariyanta「限り・末尾」）
+  * sabba-ñāṇānaṃ vitthāra-niddeso ＝「すべての智の広説（詳細な分別）」、主格
+  * ante ＝「最後に」、処格
+  * 「soḷasavatthukaṃ ānāpānassatisamādhiṃ bhāvayato」ti-ādi ＝「『十六事ある出入息念の三昧を修習する者には』等（の句）が」
+  * nigamanaṃ ＝「結語（結びの句）」、主格
+  * ti evaṃ tāva ＝「と、このようにまず」
+  * pāḷi-vavatthānaṃ veditabbaṃ ＝「本文（聖典）の区分を知るべきである」（vavatthāna「見極め・区分」）
+
+→「（前の句から）『これらが二十一の解脱の楽に関する智である』というところまでが、すべての智の広説（詳説）であり、最後の『十六事ある出入息念の三昧を修習する者には』等が結語である、と、このようにまず本文（聖典）の区分を知るべきである。」
+
+6. Tattha gaṇanuddese gaṇanavāre tāva soḷasavatthukanti dīghaṃ rassaṃ sabbakāyapaṭisaṃvedī passambhayaṃ kāyasaṅkhāranti kāyānupassanācatukkaṃ,
+
+  * tattha ＝「そのうち」
+  * gaṇana-uddese ＝「数の総説において」、処格
+  * gaṇana-vāre ＝「計数の節において」、処格
+  * tāva ＝「まず」
+  * 「soḷasavatthuka」nti ＝「『十六事ある』とは（次の通り）」
+  * dīghaṃ ＝「長い（息）」
+  * rassaṃ ＝「短い（息）」
+  * sabba-kāya-paṭisaṃvedī ＝「全身を感受する者」
+  * passambhayaṃ kāya-saṅkhāraṃ ＝「身行を静めつつ」（passambhaya「静める」現在分詞）
+  * ti kāyānupassanā-catukkaṃ ＝「というのが身随観の四句である」
+
+→「そのうち、数の総説たる計数の節において、まず『十六事ある』とは——『長い（息）』『短い（息）』『全身を感受する者』『身行を静めつつ』というのが身随観の四句であり、」
+
+7. pītipaṭisaṃvedī sukhapaṭisaṃvedī cittasaṅkhārapaṭisaṃvedī passambhayaṃ cittasaṅkhāranti vedanānupassanācatukkaṃ,
+
+  * pīti-paṭisaṃvedī ＝「喜を感受する者」
+  * sukha-paṭisaṃvedī ＝「楽を感受する者」
+  * citta-saṅkhāra-paṭisaṃvedī ＝「心行を感受する者」
+  * passambhayaṃ citta-saṅkhāraṃ ＝「心行を静めつつ」
+  * ti vedanānupassanā-catukkaṃ ＝「というのが受随観の四句である」
+
+→「『喜を感受する者』『楽を感受する者』『心行を感受する者』『心行を静めつつ』というのが受随観の四句であり、」
+
+8. cittapaṭisaṃvedī abhippamodayaṃ cittaṃ samādahaṃ cittaṃ vimocayaṃ cittanti cittānupassanācatukkaṃ,
+
+  * citta-paṭisaṃvedī ＝「心を感受する者」
+  * abhippamodayaṃ cittaṃ ＝「心を喜悦させつつ」（abhippamodaya 使役現在分詞）
+  * samādahaṃ cittaṃ ＝「心を統一しつつ」（samādahati「等持する・統一する」現在分詞）
+  * vimocayaṃ cittaṃ ＝「心を解脱させつつ」（vimocaya 使役現在分詞）
+  * ti cittānupassanā-catukkaṃ ＝「というのが心随観の四句である」
+
+→「『心を感受する者』『心を喜悦させつつ』『心を統一しつつ』『心を解脱させつつ』というのが心随観の四句であり、」
+
+9. aniccānupassī virāgānupassī nirodhānupassī paṭinissaggānupassīti dhammānupassanācatukkanti imesaṃ catunnaṃ catukkānaṃ vasena soḷasa vatthūni patiṭṭhā ārammaṇāni assāti soḷasavatthuko.
+
+  * anicca-anupassī ＝「無常を随観する者」
+  * virāga-anupassī ＝「離貪を随観する者」
+  * nirodha-anupassī ＝「滅を随観する者」
+  * paṭinissagga-anupassī ＝「捨遣（放棄）を随観する者」
+  * ti dhammānupassanā-catukkaṃ ＝「というのが法随観の四句である」
+  * ti imesaṃ catunnaṃ catukkānaṃ vasena ＝「と、これら四つの四句によって」（vasa「力・はたらき」、具格）
+  * soḷasa vatthūni ＝「十六の事（基盤）」、主格複数
+  * patiṭṭhā ＝「依り所（立脚処）」（vatthūni の言い換え）
+  * ārammaṇāni ＝「所縁」（vatthūni の言い換え）
+  * assa ＝「これ（この三昧）に」、属格/与格
+  * ti soḷasavatthuko ＝「（十六の事がこれにある）というので『十六事ある（者）』」（有財釈、述語主格）
+
+→「『無常を随観する者』『離貪を随観する者』『滅を随観する者』『捨遣（放棄）を随観する者』というのが法随観の四句である。と、これら四つの四句によって、十六の事——すなわち依り所であり所縁であるもの——がこの三昧にある、というので『十六事ある（soḷasavatthuka）』（と言う）。」
+
+10. Taṃ soḷasavatthukaṃ. Samāsavasena panettha vibhattilopo kato.
+
+  * taṃ soḷasavatthukaṃ ＝「それが『十六事ある（soḷasavatthukaṃ、対格）』である」
+  * samāsa-vasena ＝「複合語にする都合で」（samāsa「複合語」）
+  * pan' ettha ＝「ただしここでは」
+  * vibhatti-lopo kato ＝「格語尾（vibhatti）の脱落（lopa）がなされている」
+
+→「それが『十六事ある（soḷasavatthukaṃ）』である。ただしここでは、複合語にする都合で格語尾の脱落がなされている。」
+
+11. Ānanti abbhantaraṃ pavisanavāto. Apānanti bahinikkhamanavāto. Keci pana vipariyāyena vadanti.
+
+  * 「āna」nti ＝「『āna（アーナ）』とは」
+  * abbhantaraṃ pavisana-vāto ＝「内に入ってくる風（息）」（abbhantaraṃ「内に」＋pavisana「入ること」＋vāta「風」）→ 入息
+  * 「apāna」nti ＝「『apāna』とは」
+  * bahi-nikkhamana-vāto ＝「外へ出ていく風（息）」（bahi「外へ」＋nikkhamana「出ること」）→ 出息
+  * keci pana vipariyāyena vadanti ＝「しかし或る人々は逆に言う」（vipariyāya「反対・逆」）
+
+→「『āna』とは、内に入ってくる風（息）である。『apāna』とは、外へ出ていく風（息）である。しかし或る人々は逆に言う。」
+
+12. Apānañhi apetaṃ ānatoti apānanti vuccati, niddese (paṭi. ma. 1.160) pana nā-kārassa dīghattamajjhupekkhitvā āpānanti.
+
+  * apānaṃ hi ＝「なぜなら apāna は」
+  * apetaṃ ānato ＝「ānaから離れ去った（もの）」（apeta「apa＋ita、離れ去った」過去分詞＋ānato 奪格）
+  * ti apānaṃ vuccati ＝「というので『apāna』と言われる」（apa＋ana の語源解釈）
+  * niddese (paṭi. ma. 1.160) pana ＝「しかし『義釈（Niddesa）』（Paṭisambhidāmagga 1.160）では」
+  * nā-kārassa dīghattam ajjhupekkhitvā ＝「na 字の長音であること（ā）を度外視して」（dīghatta「長音性」、ajjhupekkhitvā「看過して」）（要確認：音韻上の正確な指示）
+  * ti āpānaṃ ＝「『āpāna』と（綴られる）」
+
+→「なぜなら apāna は、ānaから離れ去ったものであるから『apāna』と言われるのである。ただし『義釈』（Paṭisambhidāmagga 1.160）では、na 字の長音であること（ā）を度外視して『āpāna』と（綴られている）。（要確認）」
+
+13. Tasmiṃ ānāpāne sati ānāpānassati, assāsapassāsapariggāhikāya satiyā etaṃ adhivacanaṃ.
+
+  * tasmiṃ ānāpāne ＝「その出入息に対して」、処格
+  * sati ＝「念があるので」
+  * ānāpānassati ＝「（それが）出入息念である」
+  * assāsa-passāsa-pariggāhikāya satiyā ＝「出息・入息を把握する念の」、属格（pariggāhikā「把握する」女性形）
+  * etaṃ adhivacanaṃ ＝「これ（出入息念という語）はその呼称（別名・増上語）である」
+
+→「その出入息に対して念があるので出入息念であり、出息・入息を把握する念の、これ（出入息念という語）は呼称（別名）である。」
+
+14. Ānāpānassatiyā yutto samādhi, ānāpānassatiyaṃ vā samādhi ānāpānassatisamādhi.
+
+  * ānāpānassatiyā yutto samādhi ＝「出入息念と相応した三昧」（yutta「結びついた・相応した」、具格 ānāpānassatiyā）
+  * ānāpānassatiyaṃ vā samādhi ＝「あるいは出入息念における三昧」、処格
+  * ānāpānassatisamādhi ＝「（それが）出入息念三昧である」
+
+→「出入息念と相応した三昧、あるいは出入息念における三昧が、出入息念三昧である。」
+
+15. Bhāvayatoti nibbedhabhāgiyaṃ bhāventassa.
+
+  * 「bhāvayato」ti ＝「『修習する者に（bhāvayato）』とは」
+  * nibbedha-bhāgiyaṃ ＝「洞察に資する（決択分の）もの」（nibbedha「洞察・抉択」＋bhāgiya「〜に資する」）
+  * bhāventassa ＝「修習する者に」（bhāveti 現在分詞・属格単数）
+
+→「『修習する者に（bhāvayato）』とは、洞察に資する（決択分の）修習をなす者に、ということである。」
+
+16. Samadhikānīti saha adhikena vattantīti samadhikāni, sātirekānīti attho.
+
+  * 「samadhikānī」ti ＝「『samadhikāni（あまりある）』とは」
+  * saha adhikena ＝「余分（超過）を伴って」
+  * vattantī ＝「存在する・働く」（vattati 現在分詞複数）
+  * ti samadhikāni ＝「というので samadhikāni（である）」
+  * sātirekānī ＝「余りある、超過した」（sa＋atireka）
+  * ti attho ＝「という意味である」
+
+→「『samadhikāni（あまりある）』とは、余分を伴って存在する（働く）ので samadhikāni であり、『余りある（超過した）』という意味である。」
+
+17. Ma-kāro panettha padasandhikaro.
+
+  * ma-kāro pan' ettha ＝「ただしここでの ma 字（の m）は」
+  * pada-sandhi-karo ＝「語の連声（サンディ）をなすもの」（sa-m-adhika の m は連声のための挿入音）
+
+→「ただしここでの ma 字（の m）は、語の連声（つなぎ）をなすものである。」
+
+18. Keci pana ‘‘saṃadhikānī’’ti vadanti. Evaṃ sati dve ñāṇasatāniyeva adhikānīti āpajjati, taṃ na yujjati.
+
+  * keci pana 「saṃadhikānī」ti vadanti ＝「しかし或る人々は『saṃadhikāni』と言う」（saṃ＋adhika と分析する）
+  * evaṃ sati ＝「そう解すると」
+  * dve ñāṇa-satāni yeva adhikāni ＝「二百の智こそが余分（超過分）である」
+  * ti āpajjati ＝「ということになってしまう」
+  * taṃ na yujjati ＝「それは適切でない（理に合わない）」
+
+→「しかし或る人々は『saṃadhikāni』と言う（saṃ＋adhika と読む）。そう解すると、『二百の智こそが余分（超過分）である』ということになってしまうが、それは適切でない。」
+
+19. Imāni hi vīsatiadhikāni dve ñāṇasatāni hontīti.
+
+  * imāni hi ＝「なぜなら、これらは」
+  * vīsati-adhikāni ＝「二十を加えた、二十だけ余分の」（dve ñāṇasatāni を修飾）
+  * dve ñāṇa-satāni honti ＝「二百の智である」（合わせて二百二十）
+  * ti ＝「と（いうことである）」
+
+→「なぜなら、これらは二十を加えた二百の智（すなわち二百二十）であるからである。」
+
+# 2. Soḷasañāṇaniddesavaṇṇanā
+
+## 153
+
+153.Soḷasahiākārehīti ubhayapakkhavasena vuttehi soḷasahi ñāṇakoṭṭhāsehi. Uducitaṃ cittaṃ samuducitanti upacārabhūmiyaṃ cittaṃ uddhaṃ ucitaṃ, sammā uddhaṃ ucitaṃ, uparūpari kataparicayaṃ sammā uparūpari kataparicayanti attho. Udujitaṃ cittaṃ samudujitantipi pāṭho. Uparibhāvāya jitaṃ, uparibhāvakarehi vā ñāṇehi jitaṃ udujitaṃ. Samudujitanti samā uparibhāvāya, uparibhāvakarehi vā ñāṇehi jitaṃ. Samāti cettha visamabhāvapaṭikkhepo. Imasmiṃ pāṭhe u, du-iti dve dve upasaggā honti. Urūjitaṃ cittaṃ sammārūjitantipi pāṭho. Etthāpi jitatthoyeva. Urū arūti idaṃ pana nipātamattamevāti vadanti. Vīṇopamaṭṭhakathāya tajjitaṃ sutajjitanti ca attho vutto, so idha na yujjati. Ekatte santiṭṭhatīti upacārabhūmiyaṃ tāva nānārammaṇavikkhepābhāvena ekatte patiṭṭhāti. Niyyānāvaraṇaṭṭhena nīvaraṇāti ettha aratipi sabbepi akusalā āvaraṇaṭṭhena nīvaraṇāti vuttā. Niyyānāvaraṇaṭṭhenāti niyyānānaṃ āgamanamaggapidahanaṭṭhena. Niyyānavāraṇaṭṭhenātipi pāṭho, niyyānānaṃ paṭikkhepanaṭṭhenāti attho. Nekkhammaṃ ariyānaṃ niyyānanti maggaṭṭhānaṃ ariyānaṃ niyyānasaṅkhātassa ariyamaggassa hetuttā phalūpacārena ariyānaṃ niyyānaṃ. Tena ca hetubhūtena maggakkhaṇe ariyā niyyanti nigacchanti. Keci pana ‘‘niyyānanti maggo’’ti vadanti. Idha upacārassa adhippetattā maggakkhaṇe ca ālokasaññāya sabbakusaladhammānañca abhāvā taṃ na yujjati. Nivutattāti paṭicchannattā. Nappajānātīti puggalavasena vuttaṃ.
+
+Visuddhacittassāti upacārabhūmiyaṃyeva. Khaṇikasamodhānāti cittakkhaṇe cittakkhaṇe uppajjanato khaṇo etesaṃ atthīti khaṇikā, upakkilesā, khaṇikānaṃ samodhāno samāgamo pabandho khaṇikasamodhāno. Tasmā khaṇikasamodhānā, uppajjamānā upakkilesā khaṇikappabandhavasena khaṇikaparamparāvasena uppajjanti, na ekacittakkhaṇavasenāti vuttaṃ hoti.
+
+Soḷasañāṇaniddesavaṇṇanā niṭṭhitā.
+
+### Claude
+
+- 2026/06/29
+- Claude Opus 4.8 High
+
+### 対訳
+
+【見出し】Soḷasañāṇaniddesavaṇṇanā
+* vaṇṇanā = 「註釈、説明」
+  → 「十六智の解説の註釈」
+
+1. Soḷasahi ākārehīti ubhayapakkhavasena vuttehi soḷasahi ñāṇakoṭṭhāsehi.
+* soḷasahi ākārehi ti = 「『十六の行相によって』とは」（被釈語、具格・複数＋引用 ti）
+* ubhayapakkhavasena = 「両側（の側面）にもとづいて」（ubhaya 両 + pakkha 側 + vasa、依主釈、具格・単数）
+* vuttehi = 「説かれた」（√vac の過去分詞、具格・複数）
+* soḷasahi ñāṇakoṭṭhāsehi = 「十六の智の部分によって」（ñāṇa 智 + koṭṭhāsa 部分、依主釈、具格・複数）
+  → 「『十六の行相によって』とは、両側（一性の側と諸蓋の側）にもとづいて説かれた、十六の智の部分によって、ということである。」
+
+2. Uducitaṃ cittaṃ samuducitanti upacārabhūmiyaṃ cittaṃ uddhaṃ ucitaṃ, sammā uddhaṃ ucitaṃ, uparūpari kataparicayaṃ sammā uparūpari kataparicayanti attho.
+* uducitaṃ cittaṃ samuducitaṃ ti = 「『積み調えられた心、よく積み調えられた心』とは」（被釈語）
+* upacārabhūmiyaṃ = 「近行の段階において」（upacāra + bhūmi、依主釈、処格・単数）
+* cittaṃ = 「心が」
+* uddhaṃ ucitaṃ = 「上方へと積み上げられた（高められた）」（uddhaṃ 上へ + ucita〈ud-cita〉積まれた）
+* sammā uddhaṃ ucitaṃ = 「正しく上方へと積み上げられた」
+* uparūpari kataparicayaṃ = 「上へ上へと習熟が積まれた」（upari-upari 重畳して上へ + kata なされた + paricaya 習熟、有財釈、対格→主題）
+* sammā uparūpari kataparicayaṃ = 「正しく上へ上へと習熟が積まれた」
+* ti attho = 「という意味である」
+  → 「『積み調えられた心、よく積み調えられた心』とは、近行の段階において、心が上方へと積み上げられた、正しく上方へと積み上げられた、上へ上へと習熟が積まれた、正しく上へ上へと習熟が積まれた（心）、という意味である。」
+
+3. Udujitaṃ cittaṃ samudujitantipi pāṭho.
+* udujitaṃ cittaṃ samudujitaṃ ti pi = 「『udujitaṃ cittaṃ samudujitaṃ』という（読み）もまた」
+* pāṭho = 「読みである、異読である」（主格・単数・男性）
+  → 「『udujitaṃ cittaṃ samudujitaṃ（上へと勝ち得られた心、よく上へと勝ち得られた心）』という読みもある。」
+
+4. Uparibhāvāya jitaṃ, uparibhāvakarehi vā ñāṇehi jitaṃ udujitaṃ.
+* uparibhāvāya = 「上方の状態のために、より高い境地に向けて」（upari + bhāva、与格・単数）
+* jitaṃ = 「勝ち得られた、克服された」（√ji の過去分詞）
+* uparibhāvakarehi ... ñāṇehi = 「より高い境地をもたらす諸智によって」（upari + bhāva + kara なすもの、依主釈、具格・複数）
+* vā = 「あるいは」
+* udujitaṃ = 「（それが）udujita（である）」
+  → 「より高い境地に向けて勝ち得られた、あるいはより高い境地をもたらす諸智によって勝ち得られた――それが udujita である。」
+
+5. Samudujitanti samā uparibhāvāya, uparibhāvakarehi vā ñāṇehi jitaṃ.
+* samudujitaṃ ti = 「『samudujita』とは」（被釈語）
+* samā = 「等しく、ととのって（偏りなく）」（副詞的）
+* uparibhāvāya = 「より高い境地に向けて」（与格・単数）
+* uparibhāvakarehi vā ñāṇehi jitaṃ = 「あるいはより高い境地をもたらす諸智によって勝ち得られた（こと）」
+  → 「『samudujita』とは、ととのった仕方でより高い境地に向けて、あるいはより高い境地をもたらす諸智によって勝ち得られた（こと）である。」
+
+6. Samāti cettha visamabhāvapaṭikkhepo.
+* samā ti ca ettha = 「そしてここで『samā（ととのって）』とは」
+* visamabhāvapaṭikkhepo = 「不均等な状態の排除（である）」（visama 不均等な + bhāva 状態 + paṭikkhepa 排除、依主釈、主格・単数・男性）
+  → 「そしてここで『samā（ととのって）』とは、不均等な状態の排除である。」
+
+7. Imasmiṃ pāṭhe u, du-iti dve dve upasaggā honti.
+* imasmiṃ pāṭhe = 「この読みにおいて」（処格・単数）
+* u, du iti = 「u、du という」
+* dve dve upasaggā = 「二つずつの接頭辞が」（upasagga 接頭辞、主格・複数）
+* honti = 「ある」（√bhū、現在・三人称・複数）
+  → 「この読みにおいては、u、du という二つずつの接頭辞がある。」
+
+8. Urūjitaṃ cittaṃ sammārūjitantipi pāṭho.
+* urūjitaṃ cittaṃ sammārūjitaṃ ti pi pāṭho = 「『urūjitaṃ cittaṃ sammārūjitaṃ』という読みもまたある」
+  → 「『urūjitaṃ cittaṃ sammārūjitaṃ』という読みもある。」
+
+9. Etthāpi jitatthoyeva.
+* ettha pi = 「ここでもまた」
+* jitattho yeva = 「『jita（勝ち得られた）』の意味こそが（ある）」（jita + attha、有財釈、主格・単数・男性）
+  → 「ここでもまた、『jita（勝ち得られた）』という意味こそがある。」
+
+10. Urū arūti idaṃ pana nipātamattamevāti vadanti.
+* urū, arū ti = 「『urū』『arū』とは」
+* idaṃ pana = 「しかしこれは」（主格・単数・中性）
+* nipātamattam eva = 「単なる不変化詞（虚辞）にすぎない」（nipāta 不変化詞 + matta ～にすぎない、有財釈）
+* ti vadanti = 「と（人々は）言う」（√vad、現在・三人称・複数）
+  → 「しかし『urū』『arū』は単なる不変化詞（意味をもたない添え辞）にすぎない、と人々は言う。」
+
+11. Vīṇopamaṭṭhakathāya tajjitaṃ sutajjitanti ca attho vutto, so idha na yujjati.
+* vīṇopamaṭṭhakathāya = 「『琴の譬え』の註釈において」（vīṇā 琴 + upamā 譬え + aṭṭhakathā 註釈、依主釈、処格・単数）
+* tajjitaṃ sutajjitaṃ ti ca = 「『tajjita（叱責された／調えられた）、sutajjita（よく叱責された）』という（意味）もまた」
+* attho vutto = 「意味が説かれた」（主格・単数・男性＋過去分詞）
+* so = 「それは」（主格・単数・男性）
+* idha = 「ここでは」
+* na yujjati = 「適合しない」（na + √yuj、現在・三人称・単数）
+  → 「『琴の譬え』の註釈においては『tajjita、sutajjita』という意味も説かれているが、それはここでは適合しない。」
+
+12. Ekatte santiṭṭhatīti upacārabhūmiyaṃ tāva nānārammaṇavikkhepābhāvena ekatte patiṭṭhāti.
+* ekatte santiṭṭhati ti = 「『一性において安立する』とは」（被釈語）
+* upacārabhūmiyaṃ tāva = 「まず近行の段階においては」（処格・単数）
+* nānārammaṇavikkhepābhāvena = 「さまざまな所縁への散乱がないことによって」（nānā 種々の + ārammaṇa 所縁 + vikkhepa 散乱 + abhāva 無、依主釈、具格・単数）
+* ekatte patiṭṭhāti = 「一性において確立する」（処格・単数＋現在三単）
+  → 「『一性において安立する』とは、まず近行の段階においては、さまざまな所縁への散乱がないことによって、一性において確立する、ということである。」
+
+13. Niyyānāvaraṇaṭṭhena nīvaraṇāti ettha aratipi sabbepi akusalā āvaraṇaṭṭhena nīvaraṇāti vuttā.
+* niyyānāvaraṇaṭṭhena nīvaraṇā ti ettha = 「『出要をさえぎるという意味で諸蓋である』というここにおいて」（被釈句＋処格 ettha）
+* arati pi = 「不楽もまた」
+* sabbe pi akusalā = 「すべての不善法もまた」（主格・複数）
+* āvaraṇaṭṭhena = 「さえぎるという意味で」（具格・単数）
+* nīvaraṇā ti vuttā = 「『諸蓋である』と説かれた」（主格・複数＋過去分詞）
+  → 「『出要をさえぎるという意味で諸蓋である』というここにおいては、不楽もまた、すべての不善法もまた、さえぎるという意味で『諸蓋である』と説かれている。」
+
+14. Niyyānāvaraṇaṭṭhenāti niyyānānaṃ āgamanamaggapidahanaṭṭhena.
+* niyyānāvaraṇaṭṭhena ti = 「『出要をさえぎるという意味で』とは」（被釈語）
+* niyyānānaṃ = 「諸々の出要の」（属格・複数）
+* āgamanamaggapidahanaṭṭhena = 「（出要が）到来する道をふさぐという意味で」（āgamana 到来 + magga 道 + pidahana ふさぐこと + aṭṭha 意味、依主釈、具格・単数）
+  → 「『出要をさえぎるという意味で』とは、諸々の出要が到来する道をふさぐという意味で、ということである。」
+
+15. Niyyānavāraṇaṭṭhenātipi pāṭho, niyyānānaṃ paṭikkhepanaṭṭhenāti attho.
+* niyyānavāraṇaṭṭhena ti pi pāṭho = 「『niyyānavāraṇaṭṭhena（出要を防遮するという意味で）』という読みもまたある」
+* niyyānānaṃ = 「諸々の出要の」（属格・複数）
+* paṭikkhepanaṭṭhena = 「拒み退けるという意味で」（paṭikkhepana + aṭṭha、依主釈、具格・単数）
+* ti attho = 「という意味である」
+  → 「『niyyānavāraṇaṭṭhena（出要を防遮するという意味で）』という読みもあり、諸々の出要を拒み退けるという意味である。」
+
+16. Nekkhammaṃ ariyānaṃ niyyānanti maggaṭṭhānaṃ ariyānaṃ niyyānasaṅkhātassa ariyamaggassa hetuttā phalūpacārena ariyānaṃ niyyānaṃ.
+* nekkhammaṃ ariyānaṃ niyyānaṃ ti = 「『出離は聖者たちの出要である』とは」（被釈句）
+* maggaṭṭhānaṃ ariyānaṃ = 「道に住する聖者たちの」（magga + ṭha 住する者 + ariya、属格・複数）
+* niyyānasaṅkhātassa ariyamaggassa = 「出要と称される聖道の」（niyyāna + saṅkhāta 称される + ariyamagga、属格・単数）
+* hetuttā = 「原因であるがゆえに」（hetu + tta、奪格・単数）
+* phalūpacārena = 「果による比喩的表現（果を因に転用する用法）によって」（phala 果 + upacāra 比喩的転用、依主釈、具格・単数）
+* ariyānaṃ niyyānaṃ = 「聖者たちの出要（と言われる）」
+  → 「『出離は聖者たちの出要である』とは、（出離は）道に住する聖者たちの、出要と称される聖道の原因であるがゆえに、果を因に転用する比喩的用法によって『聖者たちの出要』と言われるのである。」
+
+17. Tena ca hetubhūtena maggakkhaṇe ariyā niyyanti nigacchanti.
+* tena ca hetubhūtena = 「そして原因となったその（出離）によって」（hetu + bhūta なった、具格・単数）
+* maggakkhaṇe = 「道の刹那において」（magga + khaṇa、処格・単数）
+* ariyā = 「聖者たちは」（主格・複数）
+* niyyanti nigacchanti = 「（解脱へと）出ていく、達し出る」（niyyanti と、その同義語 nigacchanti〈ni + √gam〉による言い換え）
+  → 「そして原因となったその（出離）によって、道の刹那において聖者たちは（解脱へと）出ていく、達し出るのである。」
+
+18. Keci pana ‘‘niyyānanti maggo’’ti vadanti.
+* keci pana = 「しかし或る人々は」（主格・複数）
+* niyyānaṃ ti maggo ti vadanti = 「『niyyāna（出要）とは（聖）道のことである』と言う」
+  → 「しかし或る人々は『出要とは（聖）道のことである』と言う。」
+
+19. Idha upacārassa adhippetattā maggakkhaṇe ca ālokasaññāya sabbakusaladhammānañca abhāvā taṃ na yujjati.
+* idha = 「ここでは」
+* upacārassa adhippetattā = 「比喩的用法（果を因に転用する用法）が意図されているがゆえに」（upacāra + adhippeta 意図された + tta、奪格・単数）
+* maggakkhaṇe ca = 「そして道の刹那においては」（処格・単数）
+* ālokasaññāya sabbakusaladhammānaṃ ca abhāvā = 「光明想と、すべての善法とが存在しないがゆえに」（abhāva 無、奪格・単数）
+* taṃ na yujjati = 「それ（その説）は適合しない」（taṃ 主格・単数・中性＋na yujjati）
+  → 「ここでは（果を因に転用する）比喩的用法が意図されているがゆえに、また道の刹那においては光明想やすべての善法が（そのままの形では）存在しないがゆえに、その（出要＝道とする）説は適合しない。」
+
+20. Nivutattāti paṭicchannattā.
+* nivutattā ti = 「『覆われているがゆえに』とは」（被釈語、奪格＋引用）
+* paṭicchannattā = 「おおい隠されているがゆえに」（paṭicchanna おおい隠された + tta、奪格・単数）
+  → 「『覆われているがゆえに』とは、おおい隠されているがゆえに、ということである。」
+
+21. Nappajānātīti puggalavasena vuttaṃ.
+* nappajānāti ti = 「『了知しない』とは」（被釈語）
+* puggalavasena = 「人（個人）にもとづいて」（puggala + vasa、依主釈、具格・単数）
+* vuttaṃ = 「説かれた（ものである）」（過去分詞、主格・単数・中性）
+  → 「『了知しない』とは、人（その個人）にもとづいて説かれたものである。」
+
+22. Visuddhacittassāti upacārabhūmiyaṃyeva.
+* visuddhacittassa ti = 「『清浄になった心をもつ者の』とは」（被釈語、属格＋引用）
+* upacārabhūmiyaṃ yeva = 「ほかならぬ近行の段階において（のこと）である」（処格・単数＋強意 yeva）
+  → 「『清浄になった心をもつ者の』とは、ほかならぬ近行の段階において（のこと）である。」
+
+23. Khaṇikasamodhānāti cittakkhaṇe cittakkhaṇe uppajjanato khaṇo etesaṃ atthīti khaṇikā, upakkilesā, khaṇikānaṃ samodhāno samāgamo pabandho khaṇikasamodhāno.
+* khaṇikasamodhānā ti = 「『刹那ごとの結びつき』とは」（被釈語）
+* cittakkhaṇe cittakkhaṇe = 「心刹那ごとに（一つ一つの心の瞬間において）」（処格の反復）
+* uppajjanato = 「生起するがゆえに」（uppajjana + to、奪格的）
+* khaṇo etesaṃ atthi ti khaṇikā = 「これらには刹那がある、それゆえ『刹那的なもの（khaṇikā）』である」（語義分析：khaṇa + ika 所有接尾辞）
+* upakkilesā = 「（それは）随煩悩である」（主格・複数）
+* khaṇikānaṃ samodhāno samāgamo pabandho = 「刹那的なものどもの結合・集合・連続（が）」（samodhāna 結合 = samāgama 集合 = pabandha 連続、と同義語で言い換え、主格・単数・男性）
+* khaṇikasamodhāno = 「（それが）刹那ごとの結びつきである」（主格・単数・男性）
+  → 「『刹那ごとの結びつき』とは――心刹那ごとに生起するがゆえに『これらには刹那がある』、それゆえ『刹那的なもの（khaṇikā）』であり、それは随煩悩である。その刹那的なものどもの結合・集合・連続が、刹那ごとの結びつき（khaṇikasamodhāna）である。」
+
+24. Tasmā khaṇikasamodhānā, uppajjamānā upakkilesā khaṇikappabandhavasena khaṇikaparamparāvasena uppajjanti, na ekacittakkhaṇavasenāti vuttaṃ hoti.
+* tasmā = 「それゆえ」
+* khaṇikasamodhānā = 「刹那ごとの結びつきがある（複数の随煩悩がまとまり起こる）」（主格・複数、あるいは原文の主題句を承ける）
+* uppajjamānā upakkilesā = 「生起しつつある諸々の随煩悩は」（uppajjamāna 現在分詞 + upakkilesa、主格・複数）
+* khaṇikappabandhavasena = 「刹那的な連続にもとづいて」（khaṇika + pabandha + vasa、具格・単数）
+* khaṇikaparamparāvasena = 「刹那的な相続にもとづいて」（khaṇika + paramparā 相続 + vasa、具格・単数）
+* uppajjanti = 「生起する」（現在・三人称・複数）
+* na ekacittakkhaṇavasena = 「ただ一つの心刹那にもとづいて（生じるの）ではない」（eka 一 + cittakkhaṇa + vasa、具格・単数）
+* ti vuttaṃ hoti = 「と説かれているのである」
+  → 「それゆえ刹那ごとの結びつきがあり――生起しつつある諸々の随煩悩は、刹那的な連続にもとづいて、刹那的な相続にもとづいて生起するのであって、ただ一つの心刹那（だけ）にもとづいて（生じるの）ではない、と説かれているのである。」
+
+【結尾】Soḷasañāṇaniddesavaṇṇanā niṭṭhitā.
+* niṭṭhitā = 「終わった、完結した」（過去分詞、主格・単数・女性、vaṇṇanā に一致）
+  → 「十六智の解説の註釈、おわり。」
+
+# 3. Upakkilesañāṇaniddesavaṇṇanā
+
+## Paṭhamacchakkaṃ
+
+## 154
+
+154. Paṭhamacchakke assāsādimajjhapariyosānanti abbhantarapavisanavātassa nāsikaggaṃ vā mukhanimittaṃ vā ādi, hadayaṃ majjhaṃ, nābhi pariyosānaṃ. Taṃ tassa ādimajjhapariyosānaṃ satiyā anugacchato yogissa ṭhānanānattānugamanena cittaṃ ajjhattaṃ vikkhepaṃ gacchati, taṃ ajjhattavikkhepagataṃ cittaṃ ekatte asaṇṭhahanato samādhissa paripantho. Passāsādimajjhapariyosānanti bahinikkhamanavātassa nābhi ādi, hadayaṃ majjhaṃ, nāsikaggaṃ vā mukhanimittaṃ vā bahiākāso vā pariyosānaṃ. Yojanā panettha vuttanayeneva veditabbā. Assāsapaṭikaṅkhanā nikantitaṇhācariyāti ‘‘nāsikāvātāyattamidaṃ kammaṭṭhāna’’nti sallakkhetvā oḷārikoḷārikassa assāsassa patthanāsaṅkhātā nikāmanā eva taṇhāpavatti. Taṇhāpavattiyā sati ekatte asaṇṭhahanato samādhissa paripantho. Passāsapaṭikaṅkhanā nikantīti puna assāsapubbakassa passāsassa patthanāsaṅkhātā nikanti. Sesaṃ vuttanayeneva yojetabbaṃ. Assāsenābhitunnassāti atidīghaṃ atirassaṃ vā assāsaṃ karontassa assāsamūlakassa kāyacittakilamathassa sabbhāvato tena assāsena viddhassa pīḷitassa. Passāsapaṭilābhe mucchanāti assāsena pīḷitattāyeva passāse assādasaññino passāsaṃ patthayato tasmiṃ passāsapaṭilābhe rajjanā. Passāsamūlakepi eseva nayo.
+
+Vuttasseva atthassa anuvaṇṇanatthaṃ vuttesu gāthābandhesu anugacchanāti anugacchamānā. Satīti ajjhattabahiddhāvikkhepahetubhūtā sati. Vikkhipati anena cittanti vikkhepo. Ko so? Assāso. Ajjhattaṃ vikkhepo ajjhattavikkhepo, tassa ākaṅkhanā ajjhattavikkhepākaṅkhanā, asammāmanasikāravasena ajjhattavikkhepakassa assāsassa ākaṅkhanāti vuttaṃ hoti. Eteneva nayena bahiddhāvikkhepapatthanā veditabbā. Yehīti yehi upakkilesehi. Vikkhippamānassāti vikkhipiyamānassa vikkhepaṃ āpādiyamānassa. No ca cittaṃ vimuccatīti cittaṃ assāsapassāsārammaṇe ca nādhimuccati, paccanīkadhammehi ca na vimuccati. Cittaṃ no ca vimuccati parapattiyā ca hontīti sambandho. Vimokkhaṃ appajānantāti so vā añño vā ārammaṇādhimuttivimokkhañca paccanīkavimuttivimokkhañca evaṃ appajānantā. Parapattiyāti parapaccayaṃ parasaddahanaṃ arahanti, na attapaccakkhaṃ ñāṇanti ‘‘parapaccayikā’’ti vattabbe ‘‘parapattiyā’’ti vuttaṃ. Attho pana soyeva.
+
+### Claude
+
+- 2026/06/29
+- Claude Opus 4.8 High
+
+### 対訳
+
+0. 3. Upakkilesañāṇaniddesavaṇṇanā / Paṭhamacchakkaṃ
+
+  * upakkilesa =「随煩悩（心を曇らせる微細な汚れ）」
+  * ñāṇa =「智」
+  * niddesa =「解説・釈」
+  * vaṇṇanā =「註釈・解説」
+    → upakkilesa-ñāṇa-niddesa-vaṇṇanā =「随煩悩智の解説に対する註釈」（依主釈）
+  * paṭhamacchakkaṃ =「第一の六法」（paṭhama 第一＋chakka 六つ一組）
+
+→「三 随煩悩智の解説の註釈／第一の六法」
+
+1. Paṭhamacchakke assāsādimajjhapariyosānanti abbhantarapavisanavātassa nāsikaggaṃ vā mukhanimittaṃ vā ādi, hadayaṃ majjhaṃ, nābhi pariyosānaṃ.
+
+  * paṭhamacchakke =「第一の六法において」（処格・単数）
+  * assāsādimajjhapariyosānan ti =「『入息の初め・中ほど・終わり』とは」（依主釈：assāsassa〔ādi-majjha-pariyosāna〕、内部は相違釈）
+  * abbhantarapavisanavātassa =「内へ入る息にとって（の）」（属格；abbhantara 内＋pavisana 入ること〔pa+√vis〕＋vāta 風・息、持業釈）
+  * nāsikaggaṃ vā =「鼻先か」（nāsikā 鼻＋agga 先端）
+  * mukhanimittaṃ vā =「口の相か（口元のしるし）」（mukha 口＋nimitta 相）
+  * ādi =「初め」
+  * hadayaṃ majjhaṃ =「心臓が中ほど」
+  * nābhi pariyosānaṃ =「臍が終わり」
+
+→「第一の六法において、『入息の初め・中ほど・終わり』とは、内へ入る息にとって、鼻先または口の相が初め、心臓が中ほど、臍が終わりである。」
+
+2. Taṃ tassa ādimajjhapariyosānaṃ satiyā anugacchato yogissa ṭhānanānattānugamanena cittaṃ ajjhattaṃ vikkhepaṃ gacchati, taṃ ajjhattavikkhepagataṃ cittaṃ ekatte asaṇṭhahanato samādhissa paripantho.
+
+  * taṃ tassa ādimajjhapariyosānaṃ =「その息の、その初め・中ほど・終わりを」（taṃ 対格／tassa 属格）
+  * satiyā anugacchato =「念によって追随する」（具格 satiyā、現在分詞・属格 anugacchato〔anugacchati 後を追う〕）
+  * yogissa =「瑜伽行者にとって」（属格・単数）
+  * ṭhānanānattānugamanena =「場所の多様さを追っていくことにより」（具格；ṭhāna 場所＋nānatta 多様性＋anugamana 随行、依主釈）
+  * cittaṃ ajjhattaṃ vikkhepaṃ gacchati =「心は内へ散乱に至る」（gacchati √gam）
+  * taṃ ajjhattavikkhepagataṃ cittaṃ =「その内への散乱に陥った心は」（有財釈）
+  * ekatte asaṇṭhahanato =「専一（一境性）に安住しないことにより」（処格 ekatte／奪格 asaṇṭhahana、saṇṭhahati saṃ+√ṭhā）
+  * samādhissa paripantho =「三昧の妨げ（である）」
+
+→「その息の、その初め・中ほど・終わりを念によって追随する瑜伽行者にとって、息の通る場所の多様さを追っていくことにより、心は内へ散乱に至る。その内への散乱に陥った心は、専一（一境性）に安住しないため、三昧の妨げである。」
+
+3. Passāsādimajjhapariyosānanti bahinikkhamanavātassa nābhi ādi, hadayaṃ majjhaṃ, nāsikaggaṃ vā mukhanimittaṃ vā bahiākāso vā pariyosānaṃ.
+
+  * passāsādimajjhapariyosānan ti =「『出息の初め・中ほど・終わり』とは」
+  * bahinikkhamanavātassa =「外へ出る息にとって（の）」（bahi 外＋nikkhamana 出ること〔ni(s)+√kam〕＋vāta、持業釈）
+  * nābhi ādi =「臍が初め」
+  * hadayaṃ majjhaṃ =「心臓が中ほど」
+  * nāsikaggaṃ vā mukhanimittaṃ vā bahiākāso vā pariyosānaṃ =「鼻先か、口の相か、外の空間が終わり」（bahiākāsa 外の空間）
+
+→「『出息の初め・中ほど・終わり』とは、外へ出る息にとって、臍が初め、心臓が中ほど、鼻先または口の相、あるいは外の空間が終わりである。」
+
+4. Yojanā panettha vuttanayeneva veditabbā.
+
+  * yojanā =「〔語句の〕適用・当てはめ」（主格・女性）
+  * pana ettha =「ところでここでは」
+  * vuttanayena eva =「まさに既に説いた仕方によって」（vutta 説かれた＋naya 仕方）
+  * veditabbā =「理解すべきである」
+
+→「ここでの語句の適用は、すでに説いた仕方どおりに理解すべきである。」
+
+5. Assāsapaṭikaṅkhanā nikantitaṇhācariyāti ‘‘nāsikāvātāyattamidaṃ kammaṭṭhāna’’nti sallakkhetvā oḷārikoḷārikassa assāsassa patthanāsaṅkhātā nikāmanā eva taṇhāpavatti.
+
+  * assāsapaṭikaṅkhanā nikantitaṇhācariyā ti =「『入息を待ち望むこと、すなわち欲求、渇愛の働き』とは」
+  * "nāsikāvātāyattam idaṃ kammaṭṭhānan" ti =「『この業処は鼻の息に依存している』と」（nāsikā 鼻＋vāta 息＋āyatta 依存する、idaṃ この、kammaṭṭhāna 業処）
+  * sallakkhetvā =「よく気づいたうえで」（連続体）
+  * oḷārikoḷārikassa assāsassa =「いっそう粗大な入息を（の）」（属格；oḷārika を重ねた強意、ますます粗い）
+  * patthanāsaṅkhātā =「望みと呼ばれる」（patthanā 望み＋saṅkhāta 〜と呼ばれる、持業釈）
+  * nikāmanā eva =「まさに欲すること」（nikāmanā 欲求）
+  * taṇhāpavatti =「渇愛の働き」（taṇhā 渇愛＋pavatti 働き・起こり、依主釈）
+
+→「『入息を待ち望むこと、すなわち欲求、渇愛の働き』とは、『この業処は鼻の息に依存している』とよく気づいたうえで、いっそう粗大な入息を望むこと——すなわち欲すること——という、渇愛の働きである。」
+
+6. Taṇhāpavattiyā sati ekatte asaṇṭhahanato samādhissa paripantho.
+
+  * taṇhāpavattiyā sati =「渇愛の働きがあるとき」（処格絶対）
+  * ekatte asaṇṭhahanato =「専一に安住しないことにより」
+  * samādhissa paripantho =「三昧の妨げ」
+
+→「渇愛の働きがあるとき、専一に安住しないため、三昧の妨げである。」
+
+7. Passāsapaṭikaṅkhanā nikantīti puna assāsapubbakassa passāsassa patthanāsaṅkhātā nikanti.
+
+  * passāsapaṭikaṅkhanā nikantī ti =「『出息を待ち望むこと、すなわち欲求』とは」
+  * puna =「さらに」
+  * assāsapubbakassa =「入息に先立たれる（入息を先とする）」（assāsa＋pubbaka 先行する、有財釈）
+  * passāsassa =「出息の」（属格）
+  * patthanāsaṅkhātā nikanti =「望みと呼ばれる欲求」
+
+→「『出息を待ち望むこと、すなわち欲求』とは、さらに、入息に先立たれる出息を望むこと——すなわち望みと呼ばれる欲求——である。」
+
+8. Sesaṃ vuttanayeneva yojetabbaṃ.
+
+  * sesaṃ =「残りは」
+  * vuttanayena eva =「既に説いた仕方どおりに」
+  * yojetabbaṃ =「当てはめるべきである」
+
+→「残りは、すでに説いた仕方どおりに当てはめるべきである。」
+
+9. Assāsenābhitunnassāti atidīghaṃ atirassaṃ vā assāsaṃ karontassa assāsamūlakassa kāyacittakilamathassa sabbhāvato tena assāsena viddhassa pīḷitassa.
+
+  * assāsenābhitunnassā ti =「『入息に圧倒された者にとって』とは」（abhitunna；abhi+√tud 突く・悩ます）
+  * atidīghaṃ atirassaṃ vā =「あまりに長い、またはあまりに短い」（ati 過度に＋dīgha 長い／rassa 短い）
+  * assāsaṃ karontassa =「入息を行う者にとって」（現在分詞・属格、√kar）
+  * assāsamūlakassa kāyacittakilamathassa =「入息を原因とする身と心の疲労の」（assāsamūlaka 入息を根とする〔有財釈〕；kāya-citta 相違釈＋kilamatha 疲労）
+  * sabbhāvato =「存在するために」（奪格；sabbhāva あること）
+  * tena assāsena viddhassa pīḷitassa =「その入息によって突かれ、苦しめられた者にとって」（viddha √vidh〔vijjhati〕／pīḷita 苦しめられた）
+
+→「『入息に圧倒された者にとって』とは、あまりに長い、あるいはあまりに短い入息を行う者には、入息を原因とする身と心の疲労が生じるので、その入息によって突かれ、苦しめられた者にとって、ということである。」
+
+10. Passāsapaṭilābhe mucchanāti assāsena pīḷitattāyeva passāse assādasaññino passāsaṃ patthayato tasmiṃ passāsapaṭilābhe rajjanā.
+
+  * passāsapaṭilābhe mucchanā ti =「『出息を得る際の昏迷』とは」（paṭilābha 獲得、mucchanā 昏迷）
+  * assāsena pīḷitattā yeva =「まさに入息によって苦しめられたゆえに」（pīḷitatta 苦しめられている状態）
+  * passāse assādasaññino =「出息に楽味（満足）の想いを抱く者にとって」（assāda 楽味＋saññī 想いを持つ者、有財釈）
+  * passāsaṃ patthayato =「出息を望む者にとって」（現在分詞・属格）
+  * tasmiṃ passāsapaṭilābhe rajjanā =「その出息を得る際の染着（貪り）」（rajjanā；rajjati √raj 染まる）
+
+→「『出息を得る際の昏迷』とは、まさに入息によって苦しめられたために、出息に楽味（満足）の想いを抱き、出息を望む者にとっての、その出息を得る際の染着（貪り）である。」
+
+11. Passāsamūlakepi eseva nayo.
+
+  * passāsamūlake pi =「出息を根とする〔場合〕においても」（有財釈）
+  * eso eva nayo =「まさに同じ仕方である」
+
+→「出息を根とする場合（出息に圧倒され、入息を得る際の昏迷）についても、まさに同じ仕方である。」
+
+12. Vuttasseva atthassa anuvaṇṇanatthaṃ vuttesu gāthābandhesu anugacchanāti anugacchamānā.
+
+  * vuttassa eva atthassa =「まさに既に説かれた意味を（の）」（属格）
+  * anuvaṇṇanatthaṃ =「繰り返し説明するために」（anuvaṇṇana 随説＋atthaṃ 〜のため）
+  * vuttesu gāthābandhesu =「説かれた偈頌において」（処格・複数；gāthā 偈＋bandha 結びつき）
+  * anugacchanā ti =「『追随すること（anugacchanā）』とは」
+  * anugacchamānā =「追随しつつあるもの」（女性・現在分詞）
+
+→「すでに説かれた意味を繰り返し説明するために述べられた偈頌において、『追随すること（anugacchanā）』とは、追随しつつあるもの、ということである。」
+
+13. Satīti ajjhattabahiddhāvikkhepahetubhūtā sati.
+
+  * satī ti =「『念（sati）』とは」
+  * ajjhattabahiddhāvikkhepahetubhūtā =「内と外への散乱の原因となった」（ajjhatta-bahiddhā 相違釈＋vikkhepa 散乱＋hetubhūta 原因となった、有財釈、sati を修飾）
+  * sati =「念（である）」
+
+→「『念（sati）』とは、内と外への散乱の原因となった念である。」
+
+14. Vikkhipati anena cittanti vikkhepo. Ko so? Assāso.
+
+  * vikkhipati anena cittan ti =「『これによって心が散乱させられる』というので」（vikkhipati vi+√khip 散らす）
+  * vikkhepo =「散乱（と呼ばれる）」（道具による語源的解釈）
+  * ko so? =「それは何か」
+  * assāso =「入息である」
+
+→「『これによって心が散乱させられる』というので、散乱（vikkhepa）と呼ばれる。それは何か。入息である。」
+
+15. Ajjhattaṃ vikkhepo ajjhattavikkhepo, tassa ākaṅkhanā ajjhattavikkhepākaṅkhanā, asammāmanasikāravasena ajjhattavikkhepakassa assāsassa ākaṅkhanāti vuttaṃ hoti.
+
+  * ajjhattaṃ vikkhepo ajjhattavikkhepo =「内における散乱が『内への散乱（ajjhattavikkhepa）』である」（依主釈）
+  * tassa ākaṅkhanā ajjhattavikkhepākaṅkhanā =「それを望むことが『内への散乱を望むこと』である」（ākaṅkhanā 望むこと）
+  * asammāmanasikāravasena =「正しくない作意により」（a＋sammā 正しく＋manasikāra 作意＋vasena 〜によって）
+  * ajjhattavikkhepakassa assāsassa ākaṅkhanā ti =「内へ散乱させる入息を望むこと、と」（vikkhepaka 散乱させるもの）
+  * vuttaṃ hoti =「という意味である」
+
+→「内における散乱が『内への散乱（ajjhattavikkhepa）』であり、それを望むことが『内への散乱を望むこと』である。正しくない作意により、内へ散乱させる入息を望むこと、という意味である。」
+
+16. Eteneva nayena bahiddhāvikkhepapatthanā veditabbā.
+
+  * eteneva nayena =「まさにこの仕方によって」
+  * bahiddhāvikkhepapatthanā =「『外への散乱を望むこと』」（bahiddhā 外＋vikkhepa 散乱＋patthanā 望み）
+  * veditabbā =「理解すべきである」
+
+→「まさにこの仕方によって、『外への散乱を望むこと（bahiddhāvikkhepapatthanā）』も理解すべきである。」
+
+17. Yehīti yehi upakkilesehi.
+
+  * yehī ti =「『それら（yehi）によって』とは」
+  * yehi upakkilesehi =「それらの随煩悩によって」（具格・複数）
+
+→「『それら（yehi）によって』とは、それらの随煩悩によって、ということである。」
+
+18. Vikkhippamānassāti vikkhipiyamānassa vikkhepaṃ āpādiyamānassa.
+
+  * vikkhippamānassā ti =「『散乱させられる者にとって（vikkhippamāna）』とは」（受動現在分詞・属格）
+  * vikkhipiyamānassa =「散乱させられている者にとって」（受動現在分詞・属格）
+  * vikkhepaṃ āpādiyamānassa =「散乱に至らされている者にとって」（āpādiyamāna 至らされている〔āpādeti の受動現在分詞〕）
+
+→「『散乱させられる者にとって（vikkhippamāna）』とは、散乱させられている者にとって、すなわち散乱に至らされている者にとって、ということである。」
+
+19. No ca cittaṃ vimuccatīti cittaṃ assāsapassāsārammaṇe ca nādhimuccati, paccanīkadhammehi ca na vimuccati.
+
+  * no ca cittaṃ vimuccatī ti =「『そして心が解脱しない』とは」（vimuccati vi+√muc）
+  * cittaṃ assāsapassāsārammaṇe ca na adhimuccati =「心が入息・出息という所縁に向け定まらず」（adhimuccati adhi+√muc；ārammaṇa 所縁）
+  * paccanīkadhammehi ca na vimuccati =「また敵対する諸法（妨げとなる法）からも解脱しない」（paccanīka 敵対する＋dhamma 法）
+
+→「『そして心が解脱しない（no ca cittaṃ vimuccati）』とは、心が入息・出息という所縁に向け定まらず、また敵対する諸法（妨げとなる法）からも解脱しない、ということである。」
+
+20. Cittaṃ no ca vimuccati parapattiyā ca hontīti sambandho.
+
+  * cittaṃ no ca vimuccati =「心は解脱せず」
+  * parapattiyā ca honti =「また他に依存する者となる」
+  * ti sambandho =「という連結（文のつながり）である」（sambandha 連結）
+
+→「『心は解脱せず、また他に依存する者となる』というのが、文のつながりである。」
+
+21. Vimokkhaṃ appajānantāti so vā añño vā ārammaṇādhimuttivimokkhañca paccanīkavimuttivimokkhañca evaṃ appajānantā.
+
+  * vimokkhaṃ appajānantā ti =「『解脱を了知しない者たち』とは」
+  * so vā añño vā =「彼であれ、他の者であれ」
+  * ārammaṇādhimuttivimokkhaṃ ca =「所縁へ向け定める〔信解の〕解脱と」（ārammaṇa 所縁＋adhimutti 向け定め＋vimokkha 解脱、依主釈）
+  * paccanīkavimuttivimokkhaṃ ca =「敵対する〔法〕から解放される解脱と」（paccanīka 敵対するもの＋vimutti 解放＋vimokkha 解脱、依主釈）
+  * evaṃ appajānantā =「このように了知しない者たち」
+
+→「『解脱を了知しない者たち（vimokkhaṃ appajānantā）』とは、彼であれ他の者であれ、所縁へ向け定める〔信解の〕解脱と、敵対する〔法〕から解放される解脱との、両者をこのように了知しない者たち、ということである。」
+
+22. Parapattiyāti parapaccayaṃ parasaddahanaṃ arahanti, na attapaccakkhaṃ ñāṇanti ‘‘parapaccayikā’’ti vattabbe ‘‘parapattiyā’’ti vuttaṃ. Attho pana soyeva.
+
+  * parapattiyā ti =「『他に依存する者（parapattiyā）』とは」
+  * parapaccayaṃ =「他を縁とすること」（para 他＋paccaya 縁）
+  * parasaddahanaṃ =「他を信じること」（para＋saddahana 信じること）
+  * arahanti =「〜にこそふさわしい・値する」（三人称複数）
+  * na attapaccakkhaṃ ñāṇan ti =「自らに直接の智ではない、と」（atta 自＋paccakkha 直接知覚＋ñāṇa 智）
+  * "parapaccayikā" ti vattabbe =「『他を縁とする者たち（parapaccayikā）』と言うべきところを」
+  * "parapattiyā" ti vuttaṃ =「『parapattiyā』と言われた」
+  * attho pana so yeva =「しかし意味はまさにそれと同じである」
+
+→「『他に依存する者（parapattiyā）』とは——彼らは他を縁とすること、他を信じることにこそふさわしく、自らに直接の智ではない——というので、『他を縁とする者たち（parapaccayikā）』と言うべきところを、『parapattiyā』と言ったのである。しかし意味はまさにそれと同じである。」
+
+## Dutiyacchakkaṃ
+
+## 155
+
+155. Dutiyacchakke nimittanti assāsapassāsānaṃ phusanaṭṭhānaṃ. Assāsapassāsā hi dīghanāsikassa nāsāpuṭaṃ ghaṭṭentā pavattanti, rassanāsikassa uttaroṭṭhaṃ. Yadi hi ayaṃ yogī taṃ nimittameva āvajjati, tassa nimittameva āvajjamānassa assāse cittaṃ vikampati, na patiṭṭhātīti attho. Tassa tasmiṃ citte appatiṭṭhite samādhissa abhāvato taṃ vikampanaṃ samādhissa paripantho. Yadi assāsameva āvajjati, tassa cittaṃ abbhantarapavesanavasena vikkhepaṃ āvahati, nimitte na patiṭṭhāti, tasmā nimitte vikampati. Iminā nayena sesesupi yojanā kātabbā. Gāthāsu vikkhippateti vikkhipīyati vikkhepaṃ āpādīyati.
+
+### Claude
+
+- 2026/06/29
+- Claude Opus 4.8 High
+
+### 対訳
+
+1. Dutiyacchakke nimittanti assāsapassāsānaṃ phusanaṭṭhānaṃ.
+
+* Dutiyacchakke = 「第二の六法において」（dutiya + chakka, 持業釈, 処・単）
+* nimittan ti = nimittaṃ + ti =「『相（nimitta）』とは」
+* assāsapassāsānaṃ = 「入息と出息の」（assāsa + passāsa, 相違釈／dvanda, 属・複）
+* phusanaṭṭhānaṃ = 「触れる場所」（phusana 触れること + ṭhāna 場所, 依主釈, 中・主・単）
+
+→「第二の六法における『相』とは、入息と出息が触れる場所のことである。」
+
+2. Assāsapassāsā hi dīghanāsikassa nāsāpuṭaṃ ghaṭṭentā pavattanti, rassanāsikassa uttaroṭṭhaṃ.
+
+* Assāsapassāsā = 「入息と出息は」（主・複）
+* hi = 「なぜなら、実に」
+* dīghanāsikassa = 「鼻の長い者の」（dīgha 長い + nāsika 鼻ある, 有財釈, 属・単）
+* nāsāpuṭaṃ = 「鼻孔（小鼻）を」（nāsā 鼻 + puṭa 小鼻・ふくらみ, 依主釈, 対・単）
+* ghaṭṭentā = 「打ちつつ、触れつつ」（ghaṭṭeti の現在分詞・主・複）
+* pavattanti = 「働く、進行する」（pa-√vatt, 現在・三・複）
+* rassanāsikassa = 「鼻の短い者の」（rassa 短い + nāsika, 有財釈, 属・単）
+* uttaroṭṭhaṃ = 「上唇を」（uttara 上の + oṭṭha 唇, 持業釈, 対・単）〔pavattanti / ghaṭṭentā を補う〕
+
+→「なぜなら、入息と出息は、鼻の長い者の場合は鼻孔（小鼻）に触れながら働き、鼻の短い者の場合は上唇に〔触れながら働く〕からである。」
+
+3. Yadi hi ayaṃ yogī taṃ nimittameva āvajjati, tassa nimittameva āvajjamānassa assāse cittaṃ vikampati, na patiṭṭhātīti attho.
+
+* Yadi hi = 「もし～ならば、実に」
+* ayaṃ yogī = 「この瑜伽行者が」（主・単）
+* taṃ nimittam eva = 「その相だけを」（taṃ + nimittaṃ + eva 限定, 対・単）
+* āvajjati = 「心を向ける」（ā-√vajj, 現在・三・単）
+* tassa … nimittam eva āvajjamānassa = 「相だけに心を向けつつあるその者には」（āvajjamāna 現在分詞・属・単）
+* assāse = 「入息において」（処・単）
+* cittaṃ vikampati = 「心が動揺する」
+* na patiṭṭhāti = 「安住しない、定立しない」（na + pa-√ṭhā, 現在・三・単）
+* ti attho = 「という意味である」
+
+→「すなわち、もしこの瑜伽行者がその相だけに心を向けるならば、相だけに心を向けるその者には、入息において心が動揺し、安住しない、という意味である。」
+
+4. Tassa tasmiṃ citte appatiṭṭhite samādhissa abhāvato taṃ vikampanaṃ samādhissa paripantho.
+
+* Tassa = 「その者にとって」（属・単）
+* tasmiṃ citte appatiṭṭhite = 「その心が安住していないとき」（処格絶対節）
+  * citte = 「心が」（処・単）
+  * appatiṭṭhite = 「安住していない」（a + patiṭṭhita 過分, 処・単）
+* samādhissa abhāvato = 「定が存在しないことによって」（abhāva 無 + 奪格的 -to；samādhissa 属・単）
+* taṃ vikampanaṃ = 「その動揺は」（vikampana, 中・主・単）
+* samādhissa paripantho = 「定の障碍である」
+
+→「その者にとって、その心が安住していないとき、定が存在しないため、その動揺は定の障碍である。」
+
+5. Yadi assāsameva āvajjati, tassa cittaṃ abbhantarapavesanavasena vikkhepaṃ āvahati, nimitte na patiṭṭhāti, tasmā nimitte vikampati.
+
+* Yadi assāsam eva āvajjati = 「もし入息だけに心を向けるならば」
+* tassa cittaṃ = 「その者の心は」（主・単）
+* abbhantarapavesanavasena = 「内へ入ること（内入）によって」（abbhantara 内 + pavesana 入ること + vasa 力, 依主釈, 具・単）
+* vikkhepaṃ āvahati = 「散乱をもたらす」（vikkhepa 散乱 + āvahati 運ぶ・もたらす）
+* nimitte na patiṭṭhāti = 「相に安住しない」（処・単）
+* tasmā = 「それゆえ」
+* nimitte vikampati = 「相において動揺する」
+
+→「もし入息だけに心を向けるならば、その者の心は、内へ入ること（内入）によって散乱をもたらし、相に安住せず、それゆえ相において動揺する。」
+
+6. Iminā nayena sesesupi yojanā kātabbā.
+
+* Iminā nayena = 「この方法によって」（具・単）
+* sesesu pi = 「残りの〔場合〕においても」（sesa, 処・複 + pi）
+* yojanā = 「適用、当てはめ」（主・単）
+* kātabbā = 「なされるべきである」（√kar の未来受動分詞・女・主・単）
+
+→「この方法によって、残りの〔場合〕についても適用がなされるべきである。」
+
+7. Gāthāsu vikkhippateti vikkhipīyati vikkhepaṃ āpādīyati.
+
+* Gāthāsu = 「偈頌においては」（処・複）
+* vikkhippate ti = vikkhippate + ti =「『vikkhippate（散乱する）』とは」
+* vikkhipīyati = 「散乱させられる」（vikkhipati の受動・現在・三・単）
+* vikkhepaṃ āpādīyati = 「散乱に至らされる、散乱状態にされる」（vikkhepa 散乱 + āpādīyati ＜ āpādeti の受動）
+
+→「偈頌における『vikkhippate（散乱する）』とは、散乱させられる、すなわち散乱状態にされる、という意味である。」
+
+## Tatiyacchakkaṃ
+
+## 156
+
+156. Tatiyacchakke atītānudhāvanaṃ cittanti phusanaṭṭhānaṃ atikkamitvā gataṃ assāsaṃ vā passāsaṃ vā anugacchamānaṃ cittaṃ. Vikkhepānupatitanti vikkhepena anugataṃ, vikkhepaṃ vā sayaṃ anupatitaṃ anugataṃ. Anāgatapaṭikaṅkhanaṃ cittanti phusanaṭṭhānaṃ appattaṃ assāsaṃ vā passāsaṃ vā paṭikaṅkhamānaṃ paccāsīsamānaṃ cittaṃ. Vikampitanti tasmiṃ appatiṭṭhāneneva vikkhepena vikampitaṃ. Līnanti atisithilavīriyatādīhi saṅkucitaṃ. Kosajjānupatitanti kusītabhāvānugataṃ. Atipaggahitanti accāraddhavīriyatādīhi atiussāhitaṃ. Uddhaccānupatitanti vikkhepānugataṃ. Abhinatanti assādavatthūsu bhusaṃ nataṃ allīnaṃ. Apanatanti nirassādavatthūsu patihataṃ, tato apagataṃ vā, apagatanataṃ vā, na tato apagatanti attho. Rāgānupatitanti ettha assāsapassāsanimittaṃ manasikaroto uppannapītisukhe vā pubbe hasitalapitakīḷitavatthūsu vā rāgo anupatati. Byāpādānupatitanti ettha manasikāre nirassādagatacittassa uppannadomanassavasena vā pubbe samudāciṇṇesu āghātavatthūsu vā byāpādo anupatati. Gāthāsu na samādhiyatīti na samāhitaṃ hoti. Adhicittanti cittasīsena niddiṭṭho adhiko samādhi.
+
+### Claude
+
+- 2026/06/29
+- Claude Opus 4.8 High
+
+### 対訳
+
+1. Tatiyacchakke atītānudhāvanaṃ cittanti phusanaṭṭhānaṃ atikkamitvā gataṃ assāsaṃ vā passāsaṃ vā anugacchamānaṃ cittaṃ.
+
+* tatiyacchakke =「第三の六法において」（処格）
+* atītānudhāvanaṃ cittan ti =「『過去を追走する心』とは」
+* phusanaṭṭhānaṃ =「触れる場所（息が接触する地点）を」（phusana-ṭhāna、対格）
+* atikkamitvā =「超えて、過ぎて」（atikkamati の連続体）
+* gataṃ =「去った〔息〕」（過去分詞、assāsaṃ/passāsaṃ にかかる）
+* assāsaṃ vā passāsaṃ vā =「出息あるいは入息を」（対格）
+* anugacchamānaṃ =「追いかけている」（anu-gacchati の現在分詞）
+* cittaṃ =「心」
+
+→「第三の六法において、『過去を追走する心』とは、触れる場所を過ぎて去った出息あるいは入息を追いかけている心である。」
+
+2. Vikkhepānupatitanti vikkhepena anugataṃ, vikkhepaṃ vā sayaṃ anupatitaṃ anugataṃ.
+
+* vikkhepānupatitan ti =「『散乱に陥った』とは」
+* vikkhepena anugataṃ =「散乱によって付き従われた〔心〕」（具格＋過去分詞）
+* vikkhepaṃ vā sayaṃ anupatitaṃ =「あるいは自ら散乱に陥った〔心〕」（対格＋ sayaṃ「自ら」＋過去分詞）
+* anugataṃ =「随った〔心〕」
+
+→「『散乱に陥った』とは、散乱によって付き従われた〔心〕、あるいは自ら散乱に陥り、それに随った〔心〕である。」
+
+3. Anāgatapaṭikaṅkhanaṃ cittanti phusanaṭṭhānaṃ appattaṃ assāsaṃ vā passāsaṃ vā paṭikaṅkhamānaṃ paccāsīsamānaṃ cittaṃ.
+
+* anāgatapaṭikaṅkhanaṃ cittan ti =「『未来を待ち望む心』とは」
+* phusanaṭṭhānaṃ appattaṃ =「触れる場所に未だ達していない〔息〕」（appatta「未到達の」）
+* assāsaṃ vā passāsaṃ vā =「出息あるいは入息を」
+* paṭikaṅkhamānaṃ =「待ち望んでいる」（paṭikaṅkhati の現在分詞）
+* paccāsīsamānaṃ =「期待している」（paccāsiṃsati の現在分詞、上と同義の重ね）
+* cittaṃ =「心」
+
+→「『未来を待ち望む心』とは、触れる場所に未だ達していない出息あるいは入息を待ち望み、期待している心である。」
+
+4. Vikampitanti tasmiṃ appatiṭṭhāneneva vikkhepena vikampitaṃ.
+
+* vikampitan ti =「『動揺した』とは」
+* tasmiṃ =「それ（未来の息）において」（処格）
+* appatiṭṭhānena eva =「立脚点がないこと（不安定さ）によってこそ」（a-patiṭṭhāna、具格＋ eva）
+* vikkhepena =「散乱によって」
+* vikampitaṃ =「揺れ動いた〔心〕」（vi-kampati の過去分詞）
+
+→「『動揺した』とは、その〔未来の息〕には立脚点がないことによる散乱によって、揺れ動いた〔心〕である。」
+
+5. Līnanti atisithilavīriyatādīhi saṅkucitaṃ.
+
+* līnan ti =「『沈み込んだ』とは」
+* atisithilavīriyatādīhi =「過度にゆるんだ精進などによって」（ati-sithila「過度にゆるい」＋vīriyatā「精進であること」＋ādi「など」、具格・複数）
+* saṅkucitaṃ =「縮こまった、萎縮した〔心〕」（saṅkucati の過去分詞）
+
+→「『沈み込んだ』とは、過度にゆるんだ精進などによって縮こまった〔心〕である。」
+
+6. Kosajjānupatitanti kusītabhāvānugataṃ.
+
+* kosajjānupatitan ti =「『懈怠に陥った』とは」
+* kusītabhāva =「怠惰の状態」（kusīta「ものぐさな」＋bhāva「状態」）
+* anugataṃ =「付き従われた〔心〕」
+
+→「『懈怠に陥った』とは、怠惰の状態に付き従われた〔心〕である。」
+
+7. Atipaggahitanti accāraddhavīriyatādīhi atiussāhitaṃ.
+
+* atipaggahitan ti =「『過度に張り詰めた』とは」
+* accāraddhavīriyatādīhi =「過度に励起された精進などによって」（ati-āraddha →accāraddha「過度に奮い起こされた」＋vīriyatā＋ādi、具格・複数）
+* atiussāhitaṃ =「過度に奮い立たされた〔心〕」（ati-ussāhita、ussāha「奮起」の使役過去分詞）
+
+→「『過度に張り詰めた』とは、過度に励起された精進などによって、奮い立たされすぎた〔心〕である。」
+
+8. Uddhaccānupatitanti vikkhepānugataṃ.
+
+* uddhaccānupatitan ti =「『掉挙に陥った』とは」
+* vikkhepānugataṃ =「散乱に付き従われた〔心〕」（vikkhepa-anugata）
+
+→「『掉挙に陥った』とは、散乱に付き従われた〔心〕である。」
+
+9. Abhinatanti assādavatthūsu bhusaṃ nataṃ allīnaṃ.
+
+* abhinatan ti =「『（対象へ）傾いた』とは」
+* assādavatthūsu =「快楽を生む対象に対して」（assāda「味わい・快楽」＋vatthu「対象」、処格・複数）
+* bhusaṃ =「強く、激しく」（副詞）
+* nataṃ =「傾いた」（namati の過去分詞）
+* allīnaṃ =「執着した、貼りついた〔心〕」（ā-līna、allīyati の過去分詞）
+
+→「『（対象へ）傾いた』とは、快楽を生む対象に対して強く傾き、執着した〔心〕である。」
+
+10. Apanatanti nirassādavatthūsu patihataṃ, tato apagataṃ vā, apagatanataṃ vā, na tato apagatanti attho.
+
+* apanatan ti =「『（対象から）そむき離れた』とは」
+* nirassādavatthūsu =「快楽のない（不快な）対象に対して」（nir-assāda＋vatthu、処格・複数）
+* patihataṃ =「反発した、撃ち退けられた〔心〕」（paṭi-hata、paṭihaññati の過去分詞）
+* tato apagataṃ vā =「あるいはそこから離れ去った〔心〕」（apa-gata）
+* apagatanataṃ vā =「あるいは離れ去る方へ傾いた〔心〕」（apagata-nata、「去ることに向かう傾き」）（要確認）
+* na tato apagatan ti attho =「〔ただし〕それ（対象）から〔現に〕去り離れたのではない、という意味である」
+
+→「『（対象から）そむき離れた』とは、快楽のない（不快な）対象に対して反発した〔心〕、あるいはそこから離れ去った〔心〕、あるいは離れ去る方へ傾いた〔心〕（をいう）。〔つまり〕それ（対象）から〔現に〕去り離れているのではない、という意味である。」
+
+11. Rāgānupatitanti ettha assāsapassāsanimittaṃ manasikaroto uppannapītisukhe vā pubbe hasitalapitakīḷitavatthūsu vā rāgo anupatati.
+
+* rāgānupatitan ti =「『貪に陥った』とは」
+* ettha =「ここでは（この場合）」
+* assāsapassāsanimittaṃ =「出息・入息の相（呼吸という対象）を」（assāsa-passāsa-nimitta、対格）
+* manasikaroto =「作意している者にとって」（manasikaroti の現在分詞・属格）
+* uppannapītisukhe vā =「あるいは〔そこに〕生じた喜と楽に対して」（uppanna-pīti-sukha、処格）
+* pubbe =「かつて、以前に」
+* hasitalapitakīḷitavatthūsu vā =「あるいは笑い・談笑し・戯れた事柄に対して」（hasita「笑った」＋lapita「しゃべった」＋kīḷita「戯れた」＋vatthu、処格・複数）
+* rāgo anupatati =「貪が随い起こる」
+
+→「『貪に陥った』とは、ここでは、出息・入息の相に作意している者にとって、〔そのとき〕生じた喜と楽に対して、あるいはかつて笑い・談笑し・戯れた事柄に対して、貪が随い起こる〔ことをいう〕。」
+
+12. Byāpādānupatitanti ettha manasikāre nirassādagatacittassa uppannadomanassavasena vā pubbe samudāciṇṇesu āghātavatthūsu vā byāpādo anupatati.
+
+* byāpādānupatitan ti =「『瞋恚に陥った』とは」
+* ettha =「ここでは」
+* manasikāre =「作意において」（処格）
+* nirassādagatacittassa =「楽しみのない状態に至った心の者にとって」（nir-assāda「楽しみのない」＋gata「至った」＋citta、属格）
+* uppannadomanassavasena vā =「あるいは〔そこに〕生じた憂の力によって」（uppanna-domanassa-vasa、具格）
+* pubbe =「かつて、以前に」
+* samudāciṇṇesu =「繰り返し馴染まれた、習い起こされた」（samudāciṇṇa、samudācarati の過去分詞、処格・複数）
+* āghātavatthūsu vā =「あるいは怨み（敵意）の対象に対して」（āghāta「怨み・敵意」＋vatthu、処格・複数）
+* byāpādo anupatati =「瞋恚が随い起こる」
+
+→「『瞋恚に陥った』とは、ここでは、作意において楽しみのない状態に陥った心の者にとって、〔そこに〕生じた憂の力により、あるいはかつて繰り返し馴染んできた怨みの対象（敵意のもと）に対して、瞋恚が随い起こる〔ことをいう〕。」
+
+13. Gāthāsu na samādhiyatīti na samāhitaṃ hoti.
+
+* gāthāsu =「諸偈において、偈文では」（処格・複数）
+* na samādhiyatī ti =「『定まらない（統一されない）』とは」
+* na samāhitaṃ hoti =「等持されていない（統一・安定していない）状態である」（samāhita「定まった」の否定）
+
+→「偈文における『定まらない』とは、〔心が〕等持されていない（統一されていない）状態である〔ということ〕。」
+
+14. Adhicittanti cittasīsena niddiṭṭho adhiko samādhi.
+
+* adhicittan ti =「『増上心』とは」
+* cittasīsena =「心という語を表題（中心語）として」（citta-sīsa、sīsa「頭・主題」、具格）
+* niddiṭṭho =「示された、説示された」（niddiṭṭha、niddisati の過去分詞）
+* adhiko =「すぐれた、増上の」（adhika）
+* samādhi =「定」
+
+→「『増上心』とは、心という語を表題（中心語）として示された、すぐれた（増上の）定〔のこと〕である。」
+
+## 157
+
+157. Ettāvatā tīhi chakkehi aṭṭhārasa upakkilese niddisitvā idāni tesaṃ upakkilesānaṃ samādhissa paripanthabhāvasādhanena ādīnavaṃ dassento puna assāsādimajjhapariyosānantiādimāha. Tattha kāyopi cittampi sāraddhā ca hontīti vikkhepasamuṭṭhānarūpānaṃ vasena rūpakāyopi, vikkhepasantativasena cittampi mahatā khobhena khubhitā sadarathā ca honti. Tato mandatarena iñjitā kampitā, tato mandatarena phanditā calitā honti. Balavāpi majjhimopi mandopi khobho hotiyeva, na sakkā khobhena na bhavitunti vuttaṃ hoti. Cittaṃ vikampitattāti cittassa vikampitattā. Gāthāsu paripuṇṇā abhāvitāti yathā paripuṇṇā hoti, tathā abhāvitā. Iñjitoti kampito. Phanditoti mandakampito. Heṭṭhā nīvaraṇānaṃ anantarattā ‘‘imehi ca pana nīvaraṇehī’’ti (paṭi. ma. 1.153) accantasamīpanidassanavacanaṃ kataṃ. Idha pana nigamane nīvaraṇānaṃ santarattā tehi ca pana nīvaraṇehīti parammukhanidassanavacanaṃ kataṃ.
+
+Upakkilesañāṇaniddesavaṇṇanā niṭṭhitā.
+
+### Claude
+
+- 2026/06/29
+- Claude Opus 4.8 High
+
+### 対訳
+
+1. Ettāvatā tīhi chakkehi aṭṭhārasa upakkilese niddisitvā idāni tesaṃ upakkilesānaṃ samādhissa paripanthabhāvasādhanena ādīnavaṃ dassento puna assāsādimajjhapariyosānantiādimāha.
+
+* ettāvatā＝これだけで、ここまでで（具格・副詞的）
+* tīhi chakkehi＝三つの六（組）によって（具格・複数）
+  * chakka＝六つ一組
+* aṭṭhārasa upakkilese＝十八の随煩悩を（対格・複数）
+* niddisitvā＝解説して（niddisati の連続体）
+* idāni＝今や
+* tesaṃ upakkilesānaṃ＝それらの随煩悩が（属格・複数、samādhissa paripanthabhāva に係る）
+* samādhissa paripantha-bhāva-sādhanena＝三昧の障碍であることを明示することによって（依主釈の具格・単数）
+  * paripantha＝障碍／bhāva＝であること／sādhana＝立証・明示
+* ādīnavaṃ＝過患を（対格・単数）
+* dassento＝示しつつ（dasseti の現在分詞・主格・単数）
+* puna＝ふたたび
+* assāsa-ādi-majjha-pariyosānaṃ-ti-ādiṃ＝「Assāsādimajjhapariyosānaṃ（入息の初め・中間・終わり…）」等を（対格・単数）
+* āha＝説いた（√ah・完了）
+→「ここまでで三つの六（組）によって十八の随煩悩を解説したうえで、今や、それらの随煩悩が三昧の障碍であることを明示することによって過患を示しつつ、ふたたび『Assāsādimajjhapariyosānaṃ（入息の初め・中間・終わり…）』等を説いた。」
+
+2. Tattha kāyopi cittampi sāraddhā ca hontīti vikkhepasamuṭṭhānarūpānaṃ vasena rūpakāyopi, vikkhepasantativasena cittampi mahatā khobhena khubhitā sadarathā ca honti.
+
+* tattha＝その（本文）のうち
+* kāyo pi cittam pi sāraddhā ca honti ti＝「身も心も緊張する（sāraddhā）」とは
+* vikkhepa-samuṭṭhāna-rūpānaṃ vasena＝散乱から生起した色法の力によって（具格・単数）
+  * samuṭṭhāna＝生起・等起／rūpa＝色法
+* rūpakāyo pi＝色身もまた
+* vikkhepa-santati-vasena＝散乱の相続の力によって（具格・単数）
+  * santati＝相続・連続
+* cittam pi＝心もまた
+* mahatā khobhena＝大きな撹乱によって（具格・単数）
+  * khobha＝撹乱・動揺
+* khubhitā＝かき乱され（khubhita＝かき乱された、khubhati の過去分詞／複数主格）
+* sadarathā ca honti＝苦悩を伴うものとなる
+  * sa-daratha＝悩み（daratha）を伴う
+→「その（本文）のうち『身も心も緊張する（sāraddhā）』とは、散乱から生起した色法の力によって色身もまた、また散乱の相続の力によって心もまた、大きな撹乱によってかき乱され、苦悩を伴うものとなる、ということである。」
+
+3. Tato mandatarena iñjitā kampitā, tato mandatarena phanditā calitā honti.
+
+* tato mandatarena＝それより弱い（撹乱）によって（具格・単数）
+  * manda＝弱い・わずか／mandatara＝その比較級
+* iñjitā kampitā＝「iñjitā（動揺した）」とは「kampitā（揺れた）」である
+* tato mandatarena＝さらにそれより弱い（撹乱）によって
+* phanditā calitā honti＝「phanditā（震えた）」とは「calitā（動いた）」ものとなる
+→「それより弱い（撹乱）によって『iñjitā（動揺した）』すなわち『kampitā（揺れた）』ものとなり、さらにそれより弱い（撹乱）によって『phanditā（震えた）』すなわち『calitā（動いた）』ものとなる。」（撹乱の強弱を khubhita＞iñjita／kampita＞phandita／calita の三段に配する）
+
+4. Balavāpi majjhimopi mandopi khobho hotiyeva, na sakkā khobhena na bhavitunti vuttaṃ hoti.
+
+* balavā pi＝強いものも（khobho に係る）
+* majjhimo pi＝中くらいのものも
+* mando pi＝弱いものも
+* khobho hoti yeva＝撹乱はやはり生じるのである
+* na sakkā＝できない
+* khobhena na bhavituṃ ti＝「撹乱を免れてあることはできない」と
+  * khobhena＝撹乱によって（具格）／na bhavituṃ＝あらずにいること（不定詞・否定）
+* vuttaṃ hoti＝と説かれている、という意味である
+→「強いものも、中くらいのものも、弱いものも、撹乱はやはり生じるのであって、撹乱を免れてあることはできない、と説かれているのである。」
+
+5. Cittaṃ vikampitattāti cittassa vikampitattā.
+
+* cittaṃ vikampitattā ti＝本文の「cittaṃ vikampitattā」とは
+* cittassa vikampitattā＝「心が揺れ動いたために」（cittaṃ を属格 cittassa に解する文法的注記）
+→「『cittaṃ vikampitattā』とは、『cittassa vikampitattā（心が揺れ動いたために）』（と属格に読む）。」
+
+6. Gāthāsu paripuṇṇā abhāvitāti yathā paripuṇṇā hoti, tathā abhāvitā.
+
+* gāthāsu＝偈頌において（処格・複数）
+* paripuṇṇā abhāvitā ti＝「paripuṇṇā abhāvitā（完備していても修められていない）」とは
+* yathā paripuṇṇā hoti＝それが（教説として）完備しているのと同じだけ
+* tathā abhāvitā＝それと同程度に修められていない
+→「偈頌における『paripuṇṇā abhāvitā』とは、それが（教説として）完備しているのと同じだけ、それと同程度に修められていない、ということである。」
+
+7. Iñjitoti kampito.
+
+* iñjito ti＝「iñjito」とは
+* kampito＝「kampito（揺れ動いた）」である
+→「『iñjito（動揺した）』とは『kampito（揺れ動いた）』である。」
+
+8. Phanditoti mandakampito.
+
+* phandito ti＝「phandito」とは
+* manda-kampito＝「わずかに揺れ動いたもの」である
+  * manda＝わずか・弱い／kampita＝揺れ動いた（過去分詞）
+→「『phandito（震えた）』とは『mandakampito（わずかに揺れ動いた）』ものである。」
+
+9. Heṭṭhā nīvaraṇānaṃ anantarattā ‘‘imehi ca pana nīvaraṇehī’’ti (paṭi. ma. 1.153) accantasamīpanidassanavacanaṃ kataṃ.
+
+* heṭṭhā＝先述の箇所では（副詞）
+* nīvaraṇānaṃ anantarattā＝蓋（の言及）が直後に（間を置かず）続いていたために（属格＋anantara-tta 奪格・単数）
+  * anantara＝間を置かない・直後の
+* "imehi ca pana nīvaraṇehī" ti（paṭi. ma. 1.153）＝「imehi ca pana nīvaraṇehi（これらの蓋から）」という（§153 を指示）
+* accanta-samīpa-nidassana-vacanaṃ＝この上なく近いことを示す語が（依主釈の主格・単数）
+  * accanta＝この上ない／samīpa＝近接／nidassana＝指示／vacana＝語
+* kataṃ＝なされた（kata 過去分詞・中性主格）
+→「先述の箇所では、蓋（の言及）が（本文の）直後に間を置かず続いていたため、『imehi ca pana nīvaraṇehi（これらの蓋から）』（paṭi. ma. 1.153）という、この上なく近いことを示す語（＝近称『これら』）が用いられた。」
+
+10. Idha pana nigamane nīvaraṇānaṃ santarattā tehi ca pana nīvaraṇehīti parammukhanidassanavacanaṃ kataṃ.
+
+* idha pana＝しかしここでは
+* nigamane＝結語において（処格・単数）
+  * nigamana＝結び・まとめ
+* nīvaraṇānaṃ santarattā＝蓋（の言及）が（本文と）隔たっていたために（属格＋santara-tta 奪格・単数）
+  * santara＝間隔のある（sa-antara）
+* "tehi ca pana nīvaraṇehī" ti＝「tehi ca pana nīvaraṇehi（それらの蓋から）」という
+  〔異読：先の§157本文は imehi…（近称）と読むが、註はここの結語を tehi…（遠称）と読むことを支持する〕
+* parammukha-nidassana-vacanaṃ＝離れたもの（向こう）を示す語が（依主釈の主格・単数）
+  * parammukha＝そむけた・離れた
+* kataṃ＝なされた
+→「しかしここ、結語においては、蓋（の言及）が（間に十八の随煩悩を挟んで本文と）隔たっていたため、『tehi ca pana nīvaraṇehi（それらの蓋から）』という、離れたものを示す語（＝遠称『それら』）が用いられた。」
+
+11. Upakkilesañāṇaniddesavaṇṇanā niṭṭhitā.
+
+* upakkilesa-ñāṇa-niddesa-vaṇṇanā＝随煩悩智の解説に対する註釈（依主釈の主格・単数）
+  * niddesa＝解説・詳説／vaṇṇanā＝註釈
+* niṭṭhitā＝終わった（niṭṭhita 過去分詞・女性主格）
+→「随煩悩智の解説の註釈、おわり。」
+
+# 4. Vodānañāṇaniddesavaṇṇanā
+
+## 158 (1)
+
+158.Vodāne ñāṇānīti visuddhañāṇāni. Taṃ vivajjayitvāti yaṃ pubbe vuttaṃ atītānudhāvanaṃ cittaṃ vikkhepānupatitaṃ, taṃ vivajjayitvāti sambandhitabbaṃ. Ekaṭṭhāne samādahatīti assāsapassāsānaṃ phusanaṭṭhāne samaṃ ādahati patiṭṭhāpeti. Tattheva adhimocetīti ekaṭṭhāneti vutte assāsapassāsānaṃ phusanaṭṭhāneyeva sanniṭṭhapeti sanniṭṭhānaṃ karoti. Paggaṇhitvāti dhammavicayapītisambojjhaṅgabhāvanāya paggahetvā. Viniggaṇhitvāti passaddhisamādhiupekkhāsambojjhaṅgabhāvanāya viniggaṇhitvā. ‘‘Satindriyavīriyindriyehi paggahetvā, satindriyasamādhindriyehi viniggahetvā’’tipi vadanti. Sampajāno hutvāti asubhabhāvanādīhi. Puna sampajāno hutvāti mettābhāvanādīhi. Yena rāgena anupatitaṃ, yena byāpādena anupatitaṃ, taṃ pajahatīti sambandho. Taṃ cittaṃ īdisanti sampajānanto tappaṭipakkhena rāgaṃ pajahati, byāpādaṃ pajahatīti vā attho. Parisuddhanti nirupakkilesaṃ. Pariyodātanti pabhassaraṃ. Ekattagataṃ hotīti taṃ taṃ visesaṃ pattassa taṃ taṃ ekattaṃ gataṃ hoti.
+
+### Claude
+
+- 2026/06/29
+- Claude Opus 4.8 High
+
+### 対訳
+
+1. Vodānañāṇaniddesavaṇṇanā
+
+* vodāna = 「浄化・清め」
+* ñāṇa = 「智」／ niddesa = 「解説」
+* vaṇṇanā = 「註釈・解説」（vodāna-ñāṇa-niddesa-vaṇṇanā：依主釈の重畳複合）
+→「浄化（清め）の智の解説の註釈」
+
+2. Vodāne ñāṇānīti visuddhañāṇāni.
+
+* vodāne ñāṇāni = 「浄化に関わる諸智」（本文の語）
+* ti = 「という（語句について言えば）」（引用標示）
+* visuddha = 「清浄」
+* visuddhañāṇāni = 「清浄なる諸智・浄化の諸智」
+→「『浄化にかかわる諸智』とは、清浄なる諸智（のことである）。」
+
+3. Taṃ vivajjayitvāti yaṃ pubbe vuttaṃ atītānudhāvanaṃ cittaṃ vikkhepānupatitaṃ, taṃ vivajjayitvāti sambandhitabbaṃ.
+
+* taṃ vivajjayitvā = 「それを避けて・捨て去って」（本文の語）
+* yaṃ pubbe vuttaṃ = 「先に説かれたところの」（yaṃ … 関係代名詞、vutta「説かれた」）
+* atīta-anudhāvana = 「過去を追走すること」
+* cittaṃ = 「心」
+* vikkhepa-anupatita = 「散乱に陥った」
+* sambandhitabbaṃ = 「関連づけられるべきである・結びつけて読むべきである」（sambandhati の未来受動分詞）
+→「『それを避けて』とは、先に説かれた『過去を追いかける心は散乱に陥っている』というその（心）を避けて、と結びつけて読むべきである。」
+
+4. Ekaṭṭhāne samādahatīti assāsapassāsānaṃ phusanaṭṭhāne samaṃ ādahati patiṭṭhāpeti.
+
+* ekaṭṭhāne samādahati = 「一つの対象に心を統一する」（本文の語）
+* assāsa-passāsānaṃ = 「出息と入息との」（属格複数）
+  ※律註の定義により assāsa＝出息（外へ出る息）、passāsa＝入息（内へ入る息）
+* phusana = 「触れること・接触」
+* ṭhāne = 「場所・点において」（処格）（assāsapassāsa-phusana-ṭhāne：出入息が触れる箇所において）
+* samaṃ = 「等しく・平らかに」
+* ādahati = 「置く・据える」
+* patiṭṭhāpeti = 「確立させる・据え定める」
+→「『一つの対象に心を統一する』とは、出息と入息とが触れる箇所において、（心を）等しく据え、確立させる（ということである）。」
+
+5. Tattheva adhimocetīti ekaṭṭhāneti vutte assāsapassāsānaṃ phusanaṭṭhāneyeva sanniṭṭhapeti sanniṭṭhānaṃ karoti.
+
+* tattheva adhimoceti = 「まさにその対象に心を向け定める」（本文の語）
+  ※従来の「勝解」を改め、現代語で「向け定める」と訳す
+* ekaṭṭhāne ti vutte = 「『一つの対象に』と言われたとき・言われたことについて」（vutte 処格絶対）
+* phusanaṭṭhāneyeva = 「まさにその触れる箇所において」
+* sanniṭṭhapeti = 「確立させる・落ち着け据える」
+* sanniṭṭhānaṃ karoti = 「確立を成す・落ち着き据わった状態をつくる」
+→「『まさにその対象に心を向け定める』とは、『一つの対象に』と言われたことについて、出息と入息とが触れるまさにその箇所において、（心を）落ち着け据え、確立を成す（ということである）。」
+
+6. Paggaṇhitvāti dhammavicayapītisambojjhaṅgabhāvanāya paggahetvā.
+
+* paggaṇhitvā = 「励まし引き立てて」（本文の語）
+* dhammavicaya = 「択法（諸法を見きわめること）」
+* pīti = 「喜」
+* sambojjhaṅga = 「覚支（さとりの支分）」
+* bhāvanāya = 「修習によって」（dhammavicaya-pīti-sambojjhaṅga-bhāvanāya：択法・喜の各覚支の修習によって、具格）
+* paggahetvā = 「励まし引き立てて」（paggaṇhāti の連続体）
+  ※沈み込んだ心を引き立てるには、択法覚支・喜覚支（ほか精進覚支）といった奮い立たせる覚支を修するとされる
+→「『励まし引き立てて』とは、択法覚支・喜覚支（など）の修習によって励まし引き立てて、（ということである）。」
+
+7. Viniggaṇhitvāti passaddhisamādhiupekkhāsambojjhaṅgabhāvanāya viniggaṇhitvā.
+
+* viniggaṇhitvā = 「抑え締めて・制して」（本文の語）
+* passaddhi = 「軽安（こころとからだの安らぎ）」
+* samādhi = 「定」
+* upekkhā = 「捨」
+* sambojjhaṅga = 「覚支」
+* bhāvanāya = 「修習によって」（passaddhi-samādhi-upekkhā-sambojjhaṅga-bhāvanāya：軽安・定・捨の各覚支の修習によって）
+* viniggaṇhitvā = 「抑え締めて」（viniggaṇhāti の連続体）
+  ※張りつめすぎた心を抑えるには、軽安覚支・定覚支・捨覚支といった鎮める覚支を修するとされる
+→「『抑え締めて』とは、軽安覚支・定覚支・捨覚支（など）の修習によって抑え締めて、（ということである）。」
+
+8. ‘‘Satindriyavīriyindriyehi paggahetvā, satindriyasamādhindriyehi viniggahetvā’’tipi vadanti.
+
+* sati-indriya = 「念根」
+* vīriya-indriya = 「精進根」
+* paggahetvā = 「励まし引き立てて」
+* samādhi-indriya = 「定根」
+* viniggahetvā = 「抑え締めて」
+* ti pi vadanti = 「とも（ある人々は）説く」（vadanti 三人称複数）
+→「『念根と精進根とによって励まし引き立て、念根と定根とによって抑え締めて』とも、（ある人々は）説く。」
+
+9. Sampajāno hutvāti asubhabhāvanādīhi. Puna sampajāno hutvāti mettābhāvanādīhi.
+
+* sampajāno hutvā = 「はっきりと自覚した者となって（正知して）」（本文の語）
+* asubha = 「不浄」
+* bhāvanādīhi = 「修習などによって」（asubha-bhāvana-ādi の具格複数）
+* puna = 「ふたたび・次の（同句）について」
+* mettā = 「慈（いつくしみ）」
+  ※貪りを断つ前者の「正知して」は不浄観など、怒りを断つ後者の「正知して」は慈の修習などによる、と区別する
+→「（前の）『はっきりと自覚した者となって』とは、不浄の修習などによって（である）。（次の）『はっきりと自覚した者となって』とは、慈の修習などによって（である）。」
+
+10. Yena rāgena anupatitaṃ, yena byāpādena anupatitaṃ, taṃ pajahatīti sambandho.
+
+* yena rāgena anupatitaṃ = 「いかなる貪りによって陥っているか、その（貪り）」（具格関係構文）
+* yena byāpādena anupatitaṃ = 「いかなる怒りによって陥っているか、その（怒り）」
+* taṃ pajahati = 「それを捨てる」
+* ti sambandho = 「という結びつき（連関）である」
+→「『いかなる貪りによって（心が）陥っているか、その貪りを、いかなる怒りによって陥っているか、その怒りを、それを捨てる』という結びつきである。」
+
+11. Taṃ cittaṃ īdisanti sampajānanto tappaṭipakkhena rāgaṃ pajahati, byāpādaṃ pajahatīti vā attho.
+
+* taṃ cittaṃ īdisaṃ = 「その心はこのようなものである（と）」
+* ti sampajānanto = 「とはっきり知りつつ・正知しつつ」（sampajānāti の現在分詞）
+* tad-paṭipakkhena = 「それの対治（反対のもの）によって」
+  * paṭipakkha = 「対治・反対のもの」
+* rāgaṃ pajahati = 「貪りを捨てる」
+* byāpādaṃ pajahati = 「怒りを捨てる」
+* ti vā attho = 「という意味でもある」
+→「『その心はこのようなものである』とはっきり知りつつ、それの対治によって貪りを捨て、怒りを捨てる、という意味でもある。」
+
+12. Parisuddhanti nirupakkilesaṃ.
+
+* parisuddhaṃ = 「あまねく清まった」（本文の語）
+* nir-upakkilesaṃ = 「随煩悩（こころのけがれ・付随する汚れ）のない」（nis＋upakkilesa）
+→「『あまねく清まった』とは、随煩悩のない（ということである）。」
+
+13. Pariyodātanti pabhassaraṃ.
+
+* pariyodātaṃ = 「澄み切った・明浄になった」（本文の語）
+* pabhassaraṃ = 「明るく輝く・光り輝く」
+→「『澄み切った』とは、明るく輝く（ということである）。」
+
+14. Ekattagataṃ hotīti taṃ taṃ visesaṃ pattassa taṃ taṃ ekattaṃ gataṃ hoti.
+
+* ekattagataṃ hoti = 「一つにまとまった（専一になった）ものとなる」（本文の語）
+* taṃ taṃ visesaṃ = 「それぞれの優れた境地（殊勝なる状態）を」
+* pattassa = 「到達した者にとって・到達したものについて」（pāpuṇāti の過去分詞、属格）
+* taṃ taṃ ekattaṃ = 「それぞれの専一が」
+* gataṃ hoti = 「到り得たものとなる・具わったものとなる」
+→「『一つにまとまったものとなる』とは、それぞれの優れた境地に到達した者にとって、それぞれの専一が到り得たものとなる（ということである）。」
+
+## 158 (2)
+
+Katame te ekattāti idha yujjamānāyujjamānepi ekatte ekato katvā pucchati. Dānūpasaggupaṭṭhānekattanti dānavatthusaṅkhātassa dānassa upasaggo vosajjanaṃ dānūpasaggo, dānavatthupariccāgacetanā. Tassa upaṭṭhānaṃ ārammaṇakaraṇavasena upagantvā ṭhānaṃ dānūpasaggupaṭṭhānaṃ, tadeva ekattaṃ, tena vā ekattaṃ ekaggabhāvo dānūpasaggupaṭṭhānekattaṃ. Dānavosaggupaṭṭhānekattanti pāṭho sundarataro, so evattho. Etena paduddhāravasena cāgānussatisamādhi vutto. Paduddhāravasena vuttopi cesa itaresaṃ tiṇṇampi ekattānaṃ upanissayapaccayo hoti, tasmā idha niddiṭṭhanti vadanti. Visākhāpi hi mahāupāsikā āha – ‘‘idha, bhante, disāsu vassaṃvuṭṭhā bhikkhū sāvatthiṃ āgacchissanti bhagavantaṃ dassanāya, te bhagavantaṃ upasaṅkamitvā pucchissanti ‘itthannāmo, bhante, bhikkhu kālaṅkato, tassa kā gati, ko abhisamparāyo’ti? Taṃ bhagavā byākarissati sotāpattiphale vā sakadāgāmiphale vā anāgāmiphale vā arahatte vā. Tyāhaṃ upasaṅkamitvā pucchissāmi ‘āgatapubbā nu kho, bhante, tena ayyena sāvatthī’ti? Sace me vakkhanti ‘āgatapubbā tena bhikkhunā sāvatthī’ti. Niṭṭhamettha gacchissāmi nissaṃsayaṃ paribhuttaṃ tena ayyena vassikasāṭikā vā āgantukabhattaṃ vā gamikabhattaṃ vā gilānabhattaṃ vā gilānupaṭṭhākabhattaṃ vā gilānabhesajjaṃ vā dhuvayāgu vāti. Tassā me tadanussarantiyā pāmojjaṃ jāyissati, pamuditāya pīti jāyissati, pītimanāya kāyo passambhissati, passaddhakāyā sukhaṃ vedayissāmi, sukhiniyā cittaṃ samādhiyissati, sā me bhavissati indriyabhāvanā balabhāvanā bojjhaṅgabhāvanā’’ti (mahāva. 351). Atha vā ekattesu paṭhamaṃ upacārasamādhivasena vuttaṃ, dutiyaṃ appanāsamādhivasena, tatiyaṃ vipassanāvasena, catutthaṃ maggaphalavasenāti veditabbaṃ. Samathassa nimittaṃ samathanimittaṃ. Vayo bhaṅgo eva lakkhaṇaṃ vayalakkhaṇaṃ. Nirodho nibbānaṃ. Sesametesu tīsu vuttanayeneva yojetabbaṃ.
+
+### Claude
+
+- 2026/06/29
+- Claude Opus 4.8 High
+
+### 対訳
+
+---
+
+1. Katame te ekattāti idha yujjamānāyujjamānepi ekatte ekato katvā pucchati.
+
+* katame te ekattā = 「それらの専一とは何か」（本文の語）
+* ti = 「という（語句について）」（引用標示）
+* idha = 「ここで」
+* yujjamāna = 「（文脈に）適合するもの」（yujjati の現在分詞）
+* ayujjamāna = 「適合しないもの」
+* api = 「～でさえも・～も」（yujjamāna-ayujjamāne：適合するものも適合しないものも）
+* ekatte = 「諸々の専一を」（処格・対象を示す）
+* ekato katvā = 「一つにまとめて・ひとまとめにして」
+* pucchati = 「問う」
+→「『それらの専一とは何か』とは、ここで（文脈に）適合するものも適合しないものも、諸々の専一を一つにまとめて問う（のである）。」
+
+2. Dānūpasaggupaṭṭhānekattanti dānavatthusaṅkhātassa dānassa upasaggo vosajjanaṃ dānūpasaggo, dānavatthupariccāgacetanā.
+
+* dānūpasaggupaṭṭhānekattaṃ = 「施しの捨て与えの現起における専一」（本文の異読形：dāna-upasagga-upaṭṭhāna-ekatta）
+* dāna-vatthu = 「施しの対象物・施物」
+* saṅkhātassa = 「～と呼ばれる」（saṅkhāta の属格）
+* dānassa = 「施しの」（属格）
+* upasaggo = 「放ち与えること・手放すこと」
+* vosajjanaṃ = 「捨て与えること・施与」
+* dānūpasaggo = 「施しの放ち与え」（dāna-upasagga）
+* dāna-vatthu-pariccāga = 「施物を手放すこと」
+* cetanā = 「思（意志のはたらき）」（dānavatthupariccāga-cetanā：施物を手放そうとする思）
+→「『施しの捨て与えの現起における専一』とは――施物と呼ばれる施しの放ち与え、すなわち捨て与えることが『施しの放ち与え（dānūpasagga）』であって、それは施物を手放そうとする思（意志）である。」
+
+3. Tassa upaṭṭhānaṃ ārammaṇakaraṇavasena upagantvā ṭhānaṃ dānūpasaggupaṭṭhānaṃ, tadeva ekattaṃ, tena vā ekattaṃ ekaggabhāvo dānūpasaggupaṭṭhānekattaṃ.
+
+* tassa upaṭṭhānaṃ = 「それ（施しの放ち与え）の現起」
+* ārammaṇa-karaṇa-vasena = 「所縁とすること（対象として取り上げること）によって」
+* upagantvā = 「近づき到って」（upagacchati の連続体）
+* ṭhānaṃ = 「立つこと・据わること」
+* dānūpasaggupaṭṭhānaṃ = 「施しの放ち与えの現起」
+* tadeva ekattaṃ = 「それこそが専一である」
+* tena vā ekattaṃ = 「あるいはそれによる専一」
+* ekagga-bhāvo = 「心が一つの対象に集中した状態（一境性）」
+→「それ（施しの放ち与え）を所縁とすることによって（心が）近づき到って据わること、それが『施しの放ち与えの現起』であり、それこそが専一であり、あるいはそれによる専一、すなわち心が一つの対象に集中した状態（一境性）が『施しの放ち与えの現起における専一』である。」
+
+4. Dānavosaggupaṭṭhānekattanti pāṭho sundarataro, so evattho.
+
+* dānavosaggupaṭṭhānekattaṃ = 「施しの捨て与えの現起における専一」（dāna-vosagga-…：もう一つの読み）
+* ti pāṭho = 「という読みは」
+* sundarataro = 「より好ましい・よりすぐれている」（sundara の比較級）
+* so eva attho = 「その意味も同じである」
+→「『施しの捨て与え（dāna-vosagga）の現起における専一』という読みのほうがより好ましく、その意味も（前述と）同じである。」
+
+5. Etena paduddhāravasena cāgānussatisamādhi vutto.
+
+* etena = 「これによって」
+* pada-uddhāra-vasena = 「語句を取り出すこと（語の摘出・釈出）によって」
+  * uddhāra = 「取り出すこと・引き出すこと」
+* cāga = 「施し・手放すこと」
+* anussati = 「随念」
+* samādhi = 「定」（cāga-anussati-samādhi：捨随念にもとづく定）
+* vutto = 「説かれた」
+→「これによって、語句を取り出すしかたで、捨随念にもとづく定が説かれている。」
+
+6. Paduddhāravasena vuttopi cesa itaresaṃ tiṇṇampi ekattānaṃ upanissayapaccayo hoti, tasmā idha niddiṭṭhanti vadanti.
+
+* paduddhāravasena vutto pi = 「語句を取り出すしかたで説かれたとはいえ」
+* ca esa = 「そしてこの（捨随念の定）は」
+* itaresaṃ tiṇṇaṃ pi = 「他の三つの（専一）にとっても」（属格複数）
+* ekattānaṃ = 「諸専一の」
+* upanissaya-paccayo = 「親依止縁（強い拠りどころとなる縁）」
+* hoti = 「～となる」
+* tasmā = 「それゆえ」
+* idha niddiṭṭhaṃ = 「ここに示された」
+* ti vadanti = 「と（人々は）説く」
+→「語句を取り出すしかたで説かれたとはいえ、この（捨随念の定）は他の三つの専一にとっても親依止縁（強い拠りどころとなる縁）となる。それゆえここに示されたのだ、と（人々は）説く。」
+
+7. Visākhāpi hi mahāupāsikā āha –
+
+* Visākhā pi hi = 「実に、（あの）ヴィサーカーも」
+* mahā-upāsikā = 「大優婆夷（すぐれた女性在家信者）」
+* āha = 「（次のように）言った」
+→「実に、大優婆夷ヴィサーカーも（次のように）言った――」
+
+8. ‘‘idha, bhante, disāsu vassaṃvuṭṭhā bhikkhū sāvatthiṃ āgacchissanti bhagavantaṃ dassanāya,
+
+* idha bhante = 「尊師よ、ここに（このような場合がございます）」
+* disāsu = 「諸方（各地）において」（処格複数）
+* vassaṃ-vuṭṭhā = 「雨安居を過ごし終えた」（vassaṃ「雨期」＋vuṭṭha「過ごし終えた」）
+* bhikkhū = 「比丘たちが」（複数主格）
+* sāvatthiṃ = 「サーヴァッティー（舎衛城）へ」
+* āgacchissanti = 「来るでしょう」（未来）
+* bhagavantaṃ dassanāya = 「世尊にお会いするために」（dassana 与格的不定詞）
+→「『尊師よ、ここに（このようなことがございます）。各地で雨安居を過ごし終えた比丘たちが、世尊にお会いするためにサーヴァッティーへ来るでしょう。』」
+
+9. te bhagavantaṃ upasaṅkamitvā pucchissanti ‘itthannāmo, bhante, bhikkhu kālaṅkato, tassa kā gati, ko abhisamparāyo’ti?
+
+* te = 「彼らは」
+* upasaṅkamitvā = 「近づいて・参じて」（upasaṅkamati の連続体）
+* pucchissanti = 「問うでしょう」
+* itthannāmo = 「これこれという名の・某という名の」
+* bhikkhu kālaṅkato = 「比丘が亡くなりました」（kālaṅkata「命終した・亡くなった」）
+* tassa kā gati = 「その者の趣（おもむき・転生先）はどのようなものか」
+* ko abhisamparāyo = 「来世（次の生）はどのようなものか」
+→「『彼らは世尊に参じて問うでしょう――「尊師よ、某という名の比丘が亡くなりました。その者の趣（転生先）はどのようなものでしょうか、来世はどのようなものでしょうか」と。』」
+
+10. Taṃ bhagavā byākarissati sotāpattiphale vā sakadāgāmiphale vā anāgāmiphale vā arahatte vā.
+
+* taṃ = 「それを・それについて」
+* bhagavā byākarissati = 「世尊は説き明かされるでしょう」（byākaroti の未来）
+* sotāpattiphale vā = 「預流果においてか」（処格）
+* sakadāgāmiphale vā = 「一来果においてか」
+* anāgāmiphale vā = 「不還果においてか」
+* arahatte vā = 「阿羅漢果においてか」
+→「『それについて世尊は、預流果か、一来果か、不還果か、阿羅漢果か（のいずれか）として説き明かされるでしょう。』」
+
+11. Tyāhaṃ upasaṅkamitvā pucchissāmi ‘āgatapubbā nu kho, bhante, tena ayyena sāvatthī’ti?
+
+* te ahaṃ（tyāhaṃ）= 「私は彼らに」
+* upasaṅkamitvā = 「近づいて」
+* pucchissāmi = 「問うでしょう」（一人称未来）
+* āgatapubbā nu kho = 「かつて来られたことがあるのでしょうか」（āgata-pubba「以前に来たことのある」＋疑問詞）
+* tena ayyena = 「その聖者（尊き方）によって」（具格、受動構文の動作主）
+* sāvatthī = 「サーヴァッティーは」
+→「『私は彼らに近づいて問うでしょう――「尊師よ、その聖者によって、かつてサーヴァッティーは来られたことがあるのでしょうか（その方はかつてサーヴァッティーにおいでになったことがあるでしょうか）」と。』」
+
+12. Sace me vakkhanti ‘āgatapubbā tena bhikkhunā sāvatthī’ti.
+
+* sace = 「もし」
+* me vakkhanti = 「私に（彼らが）言うならば」（vatti の未来）
+* āgatapubbā tena bhikkhunā sāvatthī = 「その比丘によってサーヴァッティーはかつて来られたことがある（その比丘はかつてサーヴァッティーに来たことがある）」
+→「『もし彼らが私に「その比丘はかつてサーヴァッティーに来たことがある」と言うならば、』」
+
+13. Niṭṭhamettha gacchissāmi nissaṃsayaṃ paribhuttaṃ tena ayyena vassikasāṭikā vā āgantukabhattaṃ vā gamikabhattaṃ vā gilānabhattaṃ vā gilānupaṭṭhākabhattaṃ vā gilānabhesajjaṃ vā dhuvayāgu vāti.
+
+* niṭṭhaṃ ettha gacchissāmi = 「これについて私は結論に到るでしょう・確信を得るでしょう」（niṭṭhaṃ gacchati「決定に達する」）
+* nissaṃsayaṃ = 「疑いなく・確かに」
+* paribhuttaṃ = 「受用された・用いられた」（paribhuñjati の過去分詞）
+* tena ayyena = 「その聖者によって」（具格）
+* vassikasāṭikā vā = 「雨期の衣（雨安居用の布）か」
+* āgantuka-bhattaṃ vā = 「来客（旅の客僧）への食か」
+* gamika-bhattaṃ vā = 「旅立つ者への食か」
+* gilāna-bhattaṃ vā = 「病者への食か」
+* gilānupaṭṭhāka-bhattaṃ vā = 「病者を看護する者への食か」
+* gilāna-bhesajjaṃ vā = 「病者の薬か」
+* dhuva-yāgu vā = 「常施の粥（いつも施される粥）か」
+→「『私はこれについて確信を得るでしょう――その聖者によって、雨期の衣か、来客への食か、旅立つ者への食か、病者への食か、看護者への食か、病者の薬か、常施の粥かが、疑いなく受用された（用いられた）のだ、と。』」
+
+14. Tassā me tadanussarantiyā pāmojjaṃ jāyissati, pamuditāya pīti jāyissati, pītimanāya kāyo passambhissati, passaddhakāyā sukhaṃ vedayissāmi, sukhiniyā cittaṃ samādhiyissati, sā me bhavissati indriyabhāvanā balabhāvanā bojjhaṅgabhāvanā’’ti (mahāva. 351).
+
+* tassā me = 「その私に・私が」（属格、絶対分詞の主語）
+* tad-anussarantiyā = 「それを随念しつつある（私に）」（anussarati の現在分詞・女性属格）
+* pāmojjaṃ jāyissati = 「喜悦が生じるでしょう」
+  ※従来の「極喜」を改め、現代語で「喜悦」と訳す
+* pamuditāya = 「喜び満ちた（私に）」（pamudita の女性属格）
+* pīti jāyissati = 「喜が生じるでしょう」
+* pīti-manāya = 「心に喜をいだく（私に）」（女性属格）
+* kāyo passambhissati = 「身が安らぐでしょう」（passambhati「静まる・軽安となる」の未来）
+* passaddha-kāyā = 「身が安らいだ（私に）」（女性属格）
+* sukhaṃ vedayissāmi = 「楽を感受するでしょう」（一人称未来）
+* sukhiniyā = 「楽ある（私に）」（女性属格）
+* cittaṃ samādhiyissati = 「心が定まるでしょう」（samādhiyati の未来）
+* sā me bhavissati = 「それは私にとって～となるでしょう」
+* indriya-bhāvanā = 「諸根の修習」
+* bala-bhāvanā = 「諸力の修習」
+* bojjhaṅga-bhāvanā = 「諸覚支の修習」
+* (mahāva. 351) = 「（マハーヴァッガ〔律蔵・大品〕351）」（出典参照番号）
+→「『それを随念する私には喜悦が生じるでしょう。喜び満ちた私には喜が生じるでしょう。心に喜をいだく私の身は安らぐでしょう。身の安らいだ私は楽を感受するでしょう。楽ある私の心は定まるでしょう。それは私にとって、諸根の修習、諸力の修習、諸覚支の修習となるでしょう』と（律蔵・大品 351）。」
+
+15. Atha vā ekattesu paṭhamaṃ upacārasamādhivasena vuttaṃ, dutiyaṃ appanāsamādhivasena, tatiyaṃ vipassanāvasena, catutthaṃ maggaphalavasenāti veditabbaṃ.
+
+* atha vā = 「あるいはまた」
+* ekattesu = 「諸専一のうち」（処格複数）
+* paṭhamaṃ = 「第一の（もの）は」
+* upacāra-samādhi-vasena = 「近行定によって・近行定の点から」
+* vuttaṃ = 「説かれた」
+* dutiyaṃ = 「第二の（もの）は」
+* appanā-samādhi-vasena = 「安止定によって」
+* tatiyaṃ = 「第三の（もの）は」
+* vipassanā-vasena = 「観（毘鉢舎那）によって」
+* catutthaṃ = 「第四の（もの）は」
+* magga-phala-vasena = 「道と果によって」
+* ti veditabbaṃ = 「と知られるべきである」
+→「あるいはまた、諸専一のうち、第一のものは近行定の点から、第二のものは安止定の点から、第三のものは観の点から、第四のものは道と果の点から説かれた、と知られるべきである。」
+
+16. Samathassa nimittaṃ samathanimittaṃ.
+
+* samathassa nimittaṃ = 「止の相」（属格＋名詞）
+* samathanimittaṃ = 「止の相（という複合語）」（samatha-nimitta）
+→「止の相とは、止の（ための／にもとづく）相である。」
+
+17. Vayo bhaṅgo eva lakkhaṇaṃ vayalakkhaṇaṃ.
+
+* vayo = 「衰滅（おとろえ滅びゆくこと）」
+* bhaṅgo eva = 「壊（こわれること）にほかならない」
+* lakkhaṇaṃ = 「特相」
+* vayalakkhaṇaṃ = 「衰滅の特相」（vaya-lakkhaṇa）
+→「衰滅とは壊（こわれること）にほかならず、その特相が『衰滅の特相』である。」
+
+18. Nirodho nibbānaṃ.
+
+* nirodho = 「滅」
+* nibbānaṃ = 「涅槃」
+→「滅とは涅槃である。」
+
+19. Sesametesu tīsu vuttanayeneva yojetabbaṃ.
+
+* sesaṃ = 「残りの（部分）は」
+* etesu tīsu = 「これら三つ（の専一）において」（処格複数）
+* vutta-nayena eva = 「説かれた方法どおりに・既述のしかたで」
+* yojetabbaṃ = 「結びつけて解されるべきである・適用されるべきである」
+→「残りの部分は、これら三つ（の専一）において、説かれた方法どおりに結びつけて解されるべきである。」
+
+## 158 (3)
+
+Cāgādhimuttānanti dāne adhimuttānaṃ. Adhicittanti vipassanāpādakasamādhi. Vipassakānanti bhaṅgānupassanato paṭṭhāya tīhi anupassanāhi saṅkhāre vipassantānaṃ. Ariyapuggalānanti aṭṭhannaṃ. Dutiyādīni tīṇi ekattāni ānāpānassativasena sesakammaṭṭhānavasena ca yujjanti. Catūhi ṭhānehīti catūhi kāraṇehi. Samādhivipassanāmaggaphalānaṃ vasena ‘‘ekattagataṃ cittaṃ paṭipadāvisuddhipakkhandañceva hoti upekkhānubrūhitañca ñāṇena ca sampahaṃsita’’nti uddesapadāni. ‘‘Paṭhamassa jhānassa ko ādī’’tiādīni tesaṃ uddesapadānaṃ vitthāretukamyatāpucchāpubbaṅgamāni niddesapadāni. Tattha paṭipadāvisuddhipakkhandanti paṭipadā eva nīvaraṇamalavisodhanato visuddhi, taṃ paṭipadāvisuddhiṃ pakkhandaṃ paviṭṭhaṃ. Upekkhānubrūhitanti tatramajjhattupekkhāya brūhitaṃ vaḍḍhitaṃ. Ñāṇena ca sampahaṃsitanti pariyodāpakena ñāṇena sampahaṃsitaṃ pariyodāpitaṃ visodhitaṃ. Paṭipadāvisuddhi nāma sasambhāriko upacāro, upekkhānubrūhanā nāma appanā, sampahaṃsanā nāma paccavekkhaṇāti evameke vaṇṇayanti. Yasmā pana ‘‘ekattagataṃ cittaṃ paṭipadāvisuddhipakkhandañceva hotī’’tiādi vuttaṃ, tasmā antoappanāyameva āgamanavasena paṭipadāvisuddhi, tatramajjhattupekkhāya kiccavasena upekkhānubrūhanā, dhammānaṃ anativattanādibhāvasādhanena pariyodāpakassa ñāṇassa kiccanipphattivasena sampahaṃsanā veditabbā. Kathaṃ? Yasmiñhi vāre appanā uppajjati, tasmiṃ yo nīvaraṇasaṅkhāto kilesagaṇo tassa jhānassa paripantho, tato cittaṃ visujjhati, visuddhattā āvaraṇavirahitaṃ hutvā majjhimaṃ samathanimittaṃ paṭipajjati. Majjhimaṃ samathanimittaṃ nāma samappavatto appanāsamādhiyeva. Tadanantaraṃ pana purimacittaṃ ekasantatipariṇāmanayena tathattaṃ upagacchamānaṃ majjhimaṃ samathanimittaṃ paṭipajjati nāma. Evaṃ paṭipannattā tathattupagamanena tattha pakkhandati nāma. Evaṃ tāva purimacitte vijjamānākāranipphādikā paṭhamassa jhānassa uppādakkhaṇeyeva āgamanavasena paṭipadāvisuddhi veditabbā. Evaṃ visuddhassa pana tassa puna visodhetabbābhāvato visodhane byāpāraṃ akaronto visuddhaṃ cittaṃ ajjhupekkhati nāma. Samathabhāvūpagamanena samathapaṭipannassa puna samādāne byāpāraṃ akaronto samathapaṭipannaṃ ajjhupekkhati nāma. Samathapaṭipannabhāvato eva cassa kilesasaṃsaggaṃ pahāya ekattena upaṭṭhitassa puna ekattupaṭṭhāne byāpāraṃ akaronto ekattupaṭṭhānaṃ ajjhupekkhati nāma. Evaṃ tatramajjhattupekkhāya kiccavasena upekkhānubrūhanā veditabbā.
+
+### Claude
+
+- 2026/06/29
+- Claude Opus 4.8 High
+
+### 対訳
+
+---
+
+1. Cāgādhimuttānanti dāne adhimuttānaṃ.
+
+* cāgādhimuttānaṃ = 「手放すことへ心を傾けた者たちの」（本文の語、cāga-adhimutta の属格複数）
+* ti = 「という（語句について）」（引用標示）
+* dāne = 「施しへ・布施に」（処格）
+* adhimuttānaṃ = 「心を傾けた者たちの」（adhimutta の属格複数）
+→「『手放すことへ心を傾けた者たちの』とは、施しへ心を傾けた者たちの（という意味である）。」
+
+2. Adhicittanti vipassanāpādakasamādhi.
+
+* adhicittaṃ = 「増上心」（本文の語）
+* vipassanā-pādaka = 「観の基礎となる・観の足場となる」（pādaka「基盤・足場」）
+* samādhi = 「定」
+→「『増上心』とは、観の基礎となる定（のことである）。」
+
+3. Vipassakānanti bhaṅgānupassanato paṭṭhāya tīhi anupassanāhi saṅkhāre vipassantānaṃ.
+
+* vipassakānaṃ = 「観察する者たちの」（本文の語、属格複数）
+* bhaṅga-anupassanato = 「壊随観（こわれゆくさまを観ずること）から」（奪格）
+  * bhaṅga = 「壊（こわれること）」
+* paṭṭhāya = 「～以降・～を起点として」（不変化詞）
+* tīhi anupassanāhi = 「三つの随観によって」（具格複数）
+  ※無常・苦・無我の三随観を指す
+* saṅkhāre = 「諸行を」（対格複数）
+* vipassantānaṃ = 「観察する者たちの」（vipassati の現在分詞・属格複数）
+→「『観察する者たちの』とは、壊随観から始めて、三つの随観によって諸行を観察する者たちの（という意味である）。」
+
+4. Ariyapuggalānanti aṭṭhannaṃ.
+
+* ariyapuggalānaṃ = 「聖者たちの」（本文の語、属格複数）
+* aṭṭhannaṃ = 「八（の聖者）の」（属格、八輩の聖者＝四向四果の人々）
+→「『聖者たちの』とは、八（輩の聖者）の（という意味である）。」
+
+5. Dutiyādīni tīṇi ekattāni ānāpānassativasena sesakammaṭṭhānavasena ca yujjanti.
+
+* dutiya-ādīni = 「第二以下の・第二を初めとする」（dutiya-ādi の中性複数）
+* tīṇi ekattāni = 「三つの専一」
+* ānāpānassati-vasena = 「出入息念によって・出入息念の点から」
+* sesa-kammaṭṭhāna-vasena = 「他の（残りの）業処によって」
+* ca = 「も・また」
+* yujjanti = 「適合する・当てはまる」（複数）
+→「第二以下の三つの専一は、出入息念の点からも、他の業処の点からも当てはまる。」
+
+6. Catūhi ṭhānehīti catūhi kāraṇehi.
+
+* catūhi ṭhānehi = 「四つの点によって」（本文の語、具格複数）
+* catūhi kāraṇehi = 「四つの理由・要因によって」
+→「『四つの点によって』とは、四つの理由（要因）によって（ということである）。」
+
+7. Samādhivipassanāmaggaphalānaṃ vasena ‘‘ekattagataṃ cittaṃ paṭipadāvisuddhipakkhandañceva hoti upekkhānubrūhitañca ñāṇena ca sampahaṃsita’’nti uddesapadāni.
+
+* samādhi-vipassanā-magga-phalānaṃ vasena = 「定・観・道・果によって・それらの点から」（属格複数＋vasena）
+* ekattagataṃ cittaṃ = 「一つにまとまった（専一になった）心」
+* paṭipadā-visuddhi-pakkhandaṃ = 「行道の清浄へ進み入ったもの」
+* ceva … ca … ca = 「～であり、また～であり、また～である」
+* upekkhā-anubrūhitaṃ = 「捨によって増し育てられた」
+* ñāṇena sampahaṃsitaṃ = 「智によって喜ばされた」
+* ti uddesapadāni = 「という（のが）標挙の句（概説の項目）である」
+  * uddesa = 「標挙・概説（要点を掲げること）」／ pada = 「句」
+→「定・観・道・果の点から、『一つにまとまった心は行道の清浄へ進み入ったものとなり、また捨によって増し育てられ、また智によって喜ばされている』というのが標挙の句（概説の項目）である。」
+
+8. ‘‘Paṭhamassa jhānassa ko ādī’’tiādīni tesaṃ uddesapadānaṃ vitthāretukamyatāpucchāpubbaṅgamāni niddesapadāni.
+
+* paṭhamassa jhānassa ko ādi = 「第一禅の始めは何か」（本文の語）
+* ti-ādīni = 「という（語句）を初めとするもの」（ti-ādi の中性複数）
+* tesaṃ uddesapadānaṃ = 「それらの標挙の句の」（属格複数）
+* vitthāretu-kamyatā = 「詳説しようとする欲求・くわしく述べたいという意向」
+  * vitthāretuṃ = 「詳説しようと」（不定詞）／ kamyatā = 「～したいという意欲」
+* pucchā = 「問い」
+* pubbaṅgama = 「先立つもの・先導とするもの」（vitthāretukamyatā-pucchā-pubbaṅgama：詳説したいという意向にもとづく問いを先立てた）
+* niddesa-padāni = 「解説の句（詳説の項目）」
+→「『第一禅の始めは何か』を初めとする語句は、それらの標挙の句を詳説しようとする意向にもとづく問いを先立てた、解説の句（詳説の項目）である。」
+
+9. Tattha paṭipadāvisuddhipakkhandanti paṭipadā eva nīvaraṇamalavisodhanato visuddhi, taṃ paṭipadāvisuddhiṃ pakkhandaṃ paviṭṭhaṃ.
+
+* tattha = 「そこで・それらのうち」
+* paṭipadāvisuddhipakkhandaṃ = 「行道の清浄へ進み入ったもの」（本文の語）
+* paṭipadā eva = 「行道こそが」
+* nīvaraṇa-mala-visodhanato = 「蓋（さまたげ）という汚れを清めるがゆえに」（奪格）
+  * nīvaraṇa = 「蓋（五蓋などの障り）」／ mala = 「汚れ」／ visodhana = 「清めること」
+* visuddhi = 「清浄」
+* taṃ paṭipadāvisuddhiṃ = 「その行道の清浄へ」（対格）
+* pakkhandaṃ paviṭṭhaṃ = 「進み入った、すなわち入り込んだ（もの）」
+  * paviṭṭha = 「入り込んだ」（pavisati の過去分詞）
+→「そこで『行道の清浄へ進み入ったもの』とは、行道こそが蓋という汚れを清めるがゆえに清浄であり、その行道の清浄へ進み入った、すなわち入り込んだ（もの、ということである）。」
+
+10. Upekkhānubrūhitanti tatramajjhattupekkhāya brūhitaṃ vaḍḍhitaṃ.
+
+* upekkhānubrūhitaṃ = 「捨によって増し育てられた」（本文の語）
+* tatra-majjhatta-upekkhāya = 「中捨（そこにおいて中正にとどまる捨）によって」（具格）
+  * tatramajjhattatā = 「中捨性（諸法に対し偏らず中正にとどまること）」
+* brūhitaṃ vaḍḍhitaṃ = 「増し育てられた、すなわち増大させられた（もの）」
+→「『捨によって増し育てられた』とは、中捨（中正にとどまる捨）によって増し育てられ、増大させられた（もの、ということである）。」
+
+11. Ñāṇena ca sampahaṃsitanti pariyodāpakena ñāṇena sampahaṃsitaṃ pariyodāpitaṃ visodhitaṃ.
+
+* ñāṇena ca sampahaṃsitaṃ = 「また智によって喜ばされた」（本文の語）
+* pariyodāpakena ñāṇena = 「澄み清めるはたらきの智によって・明浄ならしめる智によって」（具格）
+  * pariyodāpaka = 「澄み清めるもの・明浄にするもの」
+* sampahaṃsitaṃ = 「喜ばされた」
+* pariyodāpitaṃ visodhitaṃ = 「澄み清められた、すなわち浄められた（もの）」
+→「『また智によって喜ばされた』とは、澄み清めるはたらきの智によって喜ばされ、澄み清められ、浄められた（もの、ということである）。」
+
+12. Paṭipadāvisuddhi nāma sasambhāriko upacāro, upekkhānubrūhanā nāma appanā, sampahaṃsanā nāma paccavekkhaṇāti evameke vaṇṇayanti.
+
+* paṭipadāvisuddhi nāma = 「行道の清浄というのは」
+* sa-sambhāriko upacāro = 「諸々の資具(構成要素)を伴った近行（定）」
+  * sasambhārika = 「資具を備えた・付随要素を伴う」／ upacāra = 「近行」
+* upekkhānubrūhanā nāma = 「捨を増し育てることというのは」
+* appanā = 「安止（定）」
+* sampahaṃsanā nāma = 「喜ばせることというのは」
+* paccavekkhaṇā = 「観察（ふり返り見ること）」
+* ti evaṃ eke vaṇṇayanti = 「と、このようにある人々は説く」
+→「『行道の清浄とは、資具を伴った近行定であり、捨を増し育てることとは安止定であり、喜ばせることとは（後の）観察である』と、このようにある人々は説く。」
+
+13. Yasmā pana ‘‘ekattagataṃ cittaṃ paṭipadāvisuddhipakkhandañceva hotī’’tiādi vuttaṃ, tasmā antoappanāyameva āgamanavasena paṭipadāvisuddhi, tatramajjhattupekkhāya kiccavasena upekkhānubrūhanā, dhammānaṃ anativattanādibhāvasādhanena pariyodāpakassa ñāṇassa kiccanipphattivasena sampahaṃsanā veditabbā.
+
+* yasmā pana = 「しかし～であるから」
+* ekattagataṃ cittaṃ paṭipadāvisuddhipakkhandaṃ ceva hoti = 「一つにまとまった心は行道の清浄へ進み入ったものとなる」（本文の引用）
+* ti-ādi vuttaṃ = 「という（語句）を初めとして説かれている」
+* tasmā = 「それゆえ」
+* anto-appanāya eva = 「安止のただ内側において・安止のうちにおいてこそ」（処格）
+* āgamana-vasena = 「至り来ること（到達のはたらき）によって」
+  * āgamana = 「到達・至り来ること」
+* paṭipadāvisuddhi = 「行道の清浄（がある）」
+* tatramajjhattupekkhāya kicca-vasena = 「中捨のはたらき（作用）によって」
+  * kicca = 「はたらき・作用・なすべきこと」
+* upekkhānubrūhanā = 「捨を増し育てること（がある）」
+* dhammānaṃ anativattana-ādi-bhāva-sādhanena = 「諸法が超え過ぎないことなどの状態を成就させることによって」
+  * anativattana = 「超え過ぎないこと」／ sādhana = 「成就させること」
+* pariyodāpakassa ñāṇassa kicca-nipphatti-vasena = 「澄み清めるはたらきの智の、なすべきはたらきの完成によって」
+  * nipphatti = 「完成・成就」
+* sampahaṃsanā = 「喜ばせること（がある）」
+* veditabbā = 「と知られるべきである」
+→「しかし『一つにまとまった心は行道の清浄へ進み入ったものとなる』を初めとして説かれているのだから、それゆえ、安止のうちにおいてこそ、至り来ること（到達のはたらき）によって行道の清浄があり、中捨のはたらきによって捨を増し育てることがあり、諸法が超え過ぎないことなどの状態を成就させることによる、澄み清めるはたらきの智のなすべきはたらきの完成によって喜ばせることがある、と知られるべきである。」
+
+14. Kathaṃ?
+
+* kathaṃ = 「どのように（してか）」
+→「どのようにしてか。」
+
+15. Yasmiñhi vāre appanā uppajjati, tasmiṃ yo nīvaraṇasaṅkhāto kilesagaṇo tassa jhānassa paripantho, tato cittaṃ visujjhati, visuddhattā āvaraṇavirahitaṃ hutvā majjhimaṃ samathanimittaṃ paṭipajjati.
+
+* yasmiṃ hi vāre = 「いかなる機会（とき）において」（処格）
+  * vāra = 「機会・回・とき」
+* appanā uppajjati = 「安止が生じるか」
+* tasmiṃ = 「その（とき）において」
+* yo nīvaraṇa-saṅkhāto kilesa-gaṇo = 「蓋と呼ばれる煩悩の群れであるもの」
+  * saṅkhāta = 「～と呼ばれる」／ gaṇa = 「群れ・集まり」
+* tassa jhānassa paripantho = 「その禅にとっての障碍である」
+* tato cittaṃ visujjhati = 「それから心が清まる」
+* visuddhattā = 「清まったがゆえに」（奪格）
+* āvaraṇa-virahitaṃ hutvā = 「覆い（さまたげ）を離れたものとなって」
+  * āvaraṇa = 「覆い・障り」／ virahita = 「離れた・欠いた」
+* majjhimaṃ samathanimittaṃ paṭipajjati = 「中間の止の相へと進み行く」
+→「いかなる機会において安止が生じるか、その（とき）において、蓋と呼ばれる煩悩の群れであるもの、それがその禅にとっての障碍であり、それから心が清まる。清まったがゆえに、覆いを離れたものとなって、中間の止の相へと進み行く。」
+
+16. Majjhimaṃ samathanimittaṃ nāma samappavatto appanāsamādhiyeva.
+
+* majjhimaṃ samathanimittaṃ nāma = 「中間の止の相というのは」
+* sama-ppavatto = 「等しく(平らかに)はたらく・均等に生起した」
+  * pavatta = 「はたらく・転起した」
+* appanāsamādhi yeva = 「安止定にほかならない」
+→「中間の止の相というのは、平らかにはたらく安止定にほかならない。」
+
+17. Tadanantaraṃ pana purimacittaṃ ekasantatipariṇāmanayena tathattaṃ upagacchamānaṃ majjhimaṃ samathanimittaṃ paṭipajjati nāma.
+
+* tad-anantaraṃ = 「その直後に・それに引き続いて」
+* purima-cittaṃ = 「先行する心（前の心）」
+* eka-santati-pariṇāma-nayena = 「一つの相続（連続）が変化していくしかたによって」
+  * santati = 「相続・連続」／ pariṇāma = 「変化・変転」／ naya = 「しかた・方法」
+* tathattaṃ upagacchamānaṃ = 「その（中間の止の相の）状態へと近づき到りつつあるもの」
+  * tathatta = 「そのような状態・かくあること」／ upagacchamāna = 「近づき到りつつある」（現在分詞）
+* majjhimaṃ samathanimittaṃ paṭipajjati nāma = 「中間の止の相へと進み行く、といわれる」
+→「しかしそれに引き続いて、先行する心が、一つの相続が変化していくしかたによって、その状態へと近づき到りつつあるものとして、中間の止の相へと進み行く、といわれるのである。」
+
+18. Evaṃ paṭipannattā tathattupagamanena tattha pakkhandati nāma.
+
+* evaṃ paṭipannattā = 「このように進み行ったがゆえに」（奪格）
+* tathatta-upagamanena = 「その状態へ近づき到ることによって」
+  * upagamana = 「近づき到ること」
+* tattha pakkhandati nāma = 「そこへ進み入る、といわれる」
+→「このように進み行ったがゆえに、その状態へ近づき到ることによって、そこへ進み入る、といわれるのである。」
+
+19. Evaṃ tāva purimacitte vijjamānākāranipphādikā paṭhamassa jhānassa uppādakkhaṇeyeva āgamanavasena paṭipadāvisuddhi veditabbā.
+
+* evaṃ tāva = 「このようにまず」
+* purima-citte = 「先行する心において」（処格）
+* vijjamāna-ākāra-nipphādikā = 「（そこに）現に存する行相（あり方）を生み出すもの」
+  * vijjamāna = 「現に存する」／ ākāra = 「行相・あり方」／ nipphādikā = 「生み出すもの・成就させるもの」（女性形、paṭipadāvisuddhi に係る）
+* paṭhamassa jhānassa uppāda-kkhaṇe yeva = 「第一禅の生起の刹那においてこそ」
+  * uppāda = 「生起」／ khaṇa = 「刹那・瞬間」
+* āgamana-vasena = 「至り来ること（到達のはたらき）によって」
+* paṭipadāvisuddhi veditabbā = 「行道の清浄と知られるべきである」
+→「このようにまず、先行する心において現に存するあり方を生み出すものとして、第一禅の生起の刹那においてこそ、至り来ることによる行道の清浄と知られるべきである。」
+
+20. Evaṃ visuddhassa pana tassa puna visodhetabbābhāvato visodhane byāpāraṃ akaronto visuddhaṃ cittaṃ ajjhupekkhati nāma.
+
+* evaṃ visuddhassa pana tassa = 「しかしこのように清まったその（心）には」（属格）
+* puna visodhetabba-abhāvato = 「再び清められるべきものが存在しないがゆえに」（奪格）
+  * visodhetabba = 「清められるべきもの」（未来受動分詞）／ abhāva = 「無いこと」
+* visodhane byāpāraṃ akaronto = 「清めることにおいて関与（はたらきかけ）をなさない（者として）」
+  * byāpāra = 「関与・はたらきかけ・骨折り」／ akaronto = 「なさない」（現在分詞）
+* visuddhaṃ cittaṃ ajjhupekkhati nāma = 「清まった心を平等に見守る、といわれる」
+→「しかしこのように清まったその（心）には、再び清められるべきものが存在しないがゆえに、清めることにおいてはたらきかけをなさない者として、清まった心を平等に見守る、といわれるのである。」
+
+21. Samathabhāvūpagamanena samathapaṭipannassa puna samādāne byāpāraṃ akaronto samathapaṭipannaṃ ajjhupekkhati nāma.
+
+* samatha-bhāva-upagamanena = 「止の状態へ近づき到ることによって」
+  * bhāva = 「状態」／ upagamana = 「近づき到ること」
+* samatha-paṭipannassa = 「止へ進み行ったもの（の心）について」（属格）
+* puna samādāne byāpāraṃ akaronto = 「再び（心を）統一し据えることにおいてはたらきかけをなさない（者として）」
+  * samādāna = 「統一し据えること・落ち着け定めること」（saṃ-ā-dahana に通じる）
+* samathapaṭipannaṃ ajjhupekkhati nāma = 「止へ進み行ったものを平等に見守る、といわれる」
+→「止の状態へ近づき到ることによって、止へ進み行ったものについて、再び（心を）統一し据えることにおいてはたらきかけをなさない者として、止へ進み行ったものを平等に見守る、といわれるのである。」
+
+22. Samathapaṭipannabhāvato eva cassa kilesasaṃsaggaṃ pahāya ekattena upaṭṭhitassa puna ekattupaṭṭhāne byāpāraṃ akaronto ekattupaṭṭhānaṃ ajjhupekkhati nāma.
+
+* samatha-paṭipanna-bhāvato eva = 「止へ進み行った状態そのものによって」（奪格）
+* ca assa = 「そしてその（心）の」（属格）
+* kilesa-saṃsaggaṃ pahāya = 「煩悩との交わりを捨てて」
+  * saṃsagga = 「交わり・接触・まじわること」／ pahāya = 「捨てて」（連続体）
+* ekattena upaṭṭhitassa = 「専一によって現起した（もの）について」（属格）
+  * upaṭṭhita = 「現起した・現れ立った」
+* puna ekatta-upaṭṭhāne byāpāraṃ akaronto = 「再び専一の現起においてはたらきかけをなさない（者として）」
+* ekattupaṭṭhānaṃ ajjhupekkhati nāma = 「専一の現起を平等に見守る、といわれる」
+→「そして止へ進み行った状態そのものによって、その（心）が煩悩との交わりを捨てて専一によって現起したものについて、再び専一の現起においてはたらきかけをなさない者として、専一の現起を平等に見守る、といわれるのである。」
+
+23. Evaṃ tatramajjhattupekkhāya kiccavasena upekkhānubrūhanā veditabbā.
+
+* evaṃ = 「このように」
+* tatramajjhattupekkhāya kicca-vasena = 「中捨のはたらき（作用）によって」
+* upekkhānubrūhanā veditabbā = 「捨を増し育てることと知られるべきである」
+→「このように、中捨のはたらきによる捨を増し育てることと知られるべきである。」
+
+## 158 (4)
+
+Ye panete evaṃ upekkhānubrūhite tattha jātā samādhipaññāsaṅkhātā yuganaddhadhammā aññamaññaṃ anativattamānā hutvā pavattā, yāni ca saddhādīni indriyāni nānākilesehi vimuttattā vimuttirasena ekarasāni hutvā pavattāni, yaṃ cesa tadupagaṃ tesaṃ anativattanaekarasabhāvānaṃ anucchavikaṃ vīriyaṃ vāhayati, yā cassa tasmiṃ khaṇe pavattā āsevanā, sabbepi te ākārā yasmā ñāṇena saṃkilesavodānesu taṃ taṃ ādīnavañca ānisaṃsañca disvā tathā tathā sampahaṃsitattā visodhitattā pariyodāpitattā nipphannā, tasmā dhammānaṃ anativattanādibhāvasādhanena pariyodāpakassa ñāṇassa kiccanipphattivasena sampahaṃsanā veditabbāti vuttaṃ. Tattha yasmā upekkhāvasena ñāṇaṃ pākaṭaṃ hoti, yathāha – ‘‘tathāpaggahitaṃ cittaṃ sādhukaṃ ajjhupekkhati, upekkhāvasena paññāvasena paññindriyaṃ adhimattaṃ hoti. Upekkhāvasena nānattakilesehi cittaṃ vimuccati, vimokkhavasena paññāvasena paññindriyaṃ adhimattaṃ hoti. Vimuttattā te dhammā ekarasā honti, ekarasaṭṭhena bhāvanā’’ti (paṭi. ma. 1.201). Tasmā ñāṇakiccabhūtā sampahaṃsanā pariyosānanti vuttā.
+
+Evaṃ tivattagatantiādīni tasseva cittassa thomanavacanāni. Tattha evaṃ tivattagatanti evaṃ yathāvuttena vidhinā paṭipadāvisuddhipakkhandanaupekkhānubrūhanāñāṇasampahaṃsanāvasena tividhabhāvaṃ gataṃ. Vitakkasampannanti kilesakkhobhavirahitattā vitakkena sundarabhāvaṃ pannaṃ gataṃ. Cittassa adhiṭṭhānasampannanti tasmiṃyeva ārammaṇe cittassa nirantarappavattisaṅkhātena adhiṭṭhānena sampannaṃ anūnaṃ. Yathā adhiṭṭhānavasiyaṃ adhiṭṭhānanti jhānappavatti, tathā idhāpi cittassa adhiṭṭhānanti cittekaggatāpi yujjati. Tena hi ekasmiṃyeva ārammaṇe cittaṃ adhiṭṭhāti, na ettha vikkhipatīti. ‘‘Samādhisampanna’’nti visuṃ vuttattā pana vuttanayeneva gahetabbaṃ. Atha vā samādhisseva jhānasaṅgahitattā cittassa adhiṭṭhānasampannanti jhānaṅgapañcakavasena vuttaṃ. Samādhisampannanti indriyasaṅgahitattā indriyapañcakavasena, dutiyajjhānādīsu pana alabbhamānāni padāni pahāya labbhamānakavasena pītisampannantiādi vuttaṃ.
+
+### Claude
+
+- 2026/06/29
+- Claude Opus 4.8 High
+
+### 対訳
+
+---
+
+1. Ye panete evaṃ upekkhānubrūhite tattha jātā samādhipaññāsaṅkhātā yuganaddhadhammā aññamaññaṃ anativattamānā hutvā pavattā,
+
+* ye pana ete = 「しかし、これら～であるところのものは」（関係代名詞・男性複数）
+* evaṃ upekkhānubrūhite = 「このように捨が増し育てられたとき（その心において）」（処格絶対）
+* tattha jātā = 「そこに生じた（もの）」
+* samādhi-paññā-saṅkhātā = 「定と慧と呼ばれる」（saṅkhāta「～と呼ばれる」）
+* yuganaddha-dhammā = 「双び結ばれた諸法（一対となって結合した法）」
+  * yuganaddha = 「軛のように結ばれた・双運の」（yuga「軛・一対」＋naddha「結ばれた」）
+* aññamaññaṃ anativattamānā hutvā = 「互いに超え過ぎないものとなって」
+  * anativattamāna = 「超え過ぎない・逸脱しない」（現在分詞）
+* pavattā = 「はたらいている・転起している（もの）」
+→「しかし、このように捨が増し育てられたとき、そこに生じた、定と慧と呼ばれる双び結ばれた諸法が、互いに超え過ぎないものとなってはたらいているということ、」
+
+2. yāni ca saddhādīni indriyāni nānākilesehi vimuttattā vimuttirasena ekarasāni hutvā pavattāni,
+
+* yāni ca = 「また～であるところのものは」（中性複数）
+* saddhā-ādīni indriyāni = 「信などの諸根」（信・精進・念・定・慧の五根）
+* nānā-kilesehi = 「種々の煩悩から」（具格複数）
+* vimuttattā = 「解脱したがゆえに」（奪格）
+* vimutti-rasena = 「解脱という作用（はたらき）によって」
+  * rasa = 「作用・はたらき・味」
+* ekarasāni hutvā = 「一味のもの（同一のはたらきを共にするもの）となって」
+* pavattāni = 「はたらいている（もの）」
+→「また、信などの諸根が、種々の煩悩から解脱したがゆえに、解脱という作用によって一味のもの（同一のはたらきを共にするもの）となってはたらいているということ、」
+
+3. yaṃ cesa tadupagaṃ tesaṃ anativattanaekarasabhāvānaṃ anucchavikaṃ vīriyaṃ vāhayati,
+
+* yaṃ ca esa = 「またこれ（行者ないし心）が～であるところのものを」
+* tad-upagaṃ = 「それに適った・それにかなった」
+* tesaṃ anativattana-ekarasa-bhāvānaṃ = 「それら超え過ぎないことと一味であることとの状態に」（属格複数、anucchavika に係る）
+* anucchavikaṃ = 「ふさわしい・適合した」
+* vīriyaṃ = 「精進を」
+* vāhayati = 「運び進める・はこぶ」
+→「またこれ（行者）が、それに適った、それら超え過ぎないことと一味であることとの状態にふさわしい精進を運び進めるということ、」
+
+4. yā cassa tasmiṃ khaṇe pavattā āsevanā,
+
+* yā ca assa = 「またその（心）にとって～であるところのものは」（女性関係代名詞）
+* tasmiṃ khaṇe = 「その刹那において」（処格）
+* pavattā = 「はたらいた・生起した」
+* āsevanā = 「習修（くりかえし親しみ修すること）」
+→「またその（心）にとって、その刹那においてはたらいた習修ということ、」
+
+5. sabbepi te ākārā yasmā ñāṇena saṃkilesavodānesu taṃ taṃ ādīnavañca ānisaṃsañca disvā tathā tathā sampahaṃsitattā visodhitattā pariyodāpitattā nipphannā,
+
+* sabbe pi te ākārā = 「それらすべての行相（あり方）は」
+  * ākāra = 「行相・あり方・態様」
+* yasmā = 「～であるから」
+* ñāṇena = 「智によって」（具格）
+* saṃkilesa-vodānesu = 「雑染（けがれ）と浄化（清め）とにおいて」（処格複数）
+  * saṃkilesa = 「雑染・けがれ」／ vodāna = 「浄化・清め」
+* taṃ taṃ ādīnavaṃ ca ānisaṃsaṃ ca = 「それぞれの過患（わざわい）と利益（功徳）とを」
+  * ādīnava = 「過患・わざわい」／ ānisaṃsa = 「利益・功徳」
+* disvā = 「見て」（連続体）
+* tathā tathā = 「そのつどそれぞれに・かくかくのしかたで」
+* sampahaṃsitattā = 「喜ばされたがゆえに」（奪格）
+* visodhitattā = 「浄められたがゆえに」
+* pariyodāpitattā = 「澄み清められたがゆえに」
+* nipphannā = 「成就した（もの）」（nipphajjati の過去分詞）
+→「それらすべての行相は、智によって、雑染と浄化とにおいてそれぞれの過患と利益とを見て、そのつどそれぞれに喜ばされ、浄められ、澄み清められたがゆえに成就したものであるから、」
+
+6. tasmā dhammānaṃ anativattanādibhāvasādhanena pariyodāpakassa ñāṇassa kiccanipphattivasena sampahaṃsanā veditabbāti vuttaṃ.
+
+* tasmā = 「それゆえ」
+* dhammānaṃ anativattana-ādi-bhāva-sādhanena = 「諸法が超え過ぎないことなどの状態を成就させることによって」
+  * sādhana = 「成就させること」
+* pariyodāpakassa ñāṇassa = 「澄み清めるはたらきの智の」（属格）
+* kicca-nipphatti-vasena = 「なすべきはたらきの完成によって」
+  * nipphatti = 「完成・成就」
+* sampahaṃsanā veditabbā = 「喜ばせることと知られるべきである」
+* ti vuttaṃ = 「と説かれたのである」
+→「それゆえ、諸法が超え過ぎないことなどの状態を成就させることによる、澄み清めるはたらきの智のなすべきはたらきの完成によって、喜ばせることと知られるべきである、と説かれたのである。」
+
+7. Tattha yasmā upekkhāvasena ñāṇaṃ pākaṭaṃ hoti, yathāha –
+
+* tattha = 「そこで」
+* yasmā = 「～であるから」
+* upekkhā-vasena = 「捨によって・捨の点から」
+* ñāṇaṃ pākaṭaṃ hoti = 「智が明らかになる・顕著となる」
+  * pākaṭa = 「明らかな・顕著な」
+* yathāha = 「（次のように）説かれているとおりに」（yathā＋āha）
+→「そこで、捨によって智が明らかになるのであるから、（次のように）説かれているとおりである――」
+
+8. ‘‘tathāpaggahitaṃ cittaṃ sādhukaṃ ajjhupekkhati, upekkhāvasena paññāvasena paññindriyaṃ adhimattaṃ hoti.
+
+* tathā-paggahitaṃ cittaṃ = 「そのように励まし引き立てられた心を」
+* sādhukaṃ = 「よく・十分に」
+* ajjhupekkhati = 「平等に見守る」
+* upekkhā-vasena paññā-vasena = 「捨によって、慧によって」
+* paññindriyaṃ = 「慧根が」
+* adhimattaṃ hoti = 「勝れたものとなる・増強される」
+  * adhimatta = 「勝れた・卓越した・増大した」
+→「『そのように励まし引き立てられた心をよく平等に見守る。捨によって、慧によって、慧根が勝れたものとなる。』」
+
+9. Upekkhāvasena nānattakilesehi cittaṃ vimuccati, vimokkhavasena paññāvasena paññindriyaṃ adhimattaṃ hoti.
+
+* upekkhā-vasena = 「捨によって」
+* nānatta-kilesehi = 「種々の煩悩から」（具格複数）
+  * nānatta = 「種々・多様」
+* cittaṃ vimuccati = 「心が解脱する」
+* vimokkha-vasena paññā-vasena = 「解脱によって、慧によって」
+* paññindriyaṃ adhimattaṃ hoti = 「慧根が勝れたものとなる」
+→「『捨によって、種々の煩悩から心が解脱する。解脱によって、慧によって、慧根が勝れたものとなる。』」
+
+10. Vimuttattā te dhammā ekarasā honti, ekarasaṭṭhena bhāvanā’’ti (paṭi. ma. 1.201).
+
+* vimuttattā = 「解脱したがゆえに」（奪格）
+* te dhammā = 「それらの諸法は」
+* ekarasā honti = 「一味のもの（同一のはたらきを共にするもの）となる」
+* ekarasa-aṭṭhena = 「一味であるという意義によって・一味という点で」
+* bhāvanā = 「修習（がある）」
+* ti (paṭi. ma. 1.201) = 「と（無礙解道・大品 1.201）」（出典参照番号）
+→「『解脱したがゆえに、それらの諸法は一味のものとなる。一味であるという点で修習がある』と（無礙解道・大品 1.201）。」
+
+11. Tasmā ñāṇakiccabhūtā sampahaṃsanā pariyosānanti vuttā.
+
+* tasmā = 「それゆえ」
+* ñāṇa-kicca-bhūtā = 「智のはたらきであるところの」（kicca「はたらき」＋bhūta「～である」）
+* sampahaṃsanā = 「喜ばせること（は）」
+* pariyosānaṃ = 「終り（である）」
+* ti vuttā = 「と説かれた」
+→「それゆえ、智のはたらきであるところの喜ばせることは終りである、と説かれたのである。」
+
+12. Evaṃ tivattagatantiādīni tasseva cittassa thomanavacanāni.
+
+* evaṃ tivattagataṃ = 「このように三つの転回を経た（もの）」（本文の語）
+* ti-ādīni = 「という（語句）を初めとするものは」
+* tassa eva cittassa = 「まさにその心の」（属格）
+* thomana-vacanāni = 「称讃の語句（ほめたたえることば）」
+  * thomana = 「称讃・賞讃」／ vacana = 「語・ことば」
+→「『このように三つの転回を経た（もの）』を初めとする語句は、まさにその心の称讃の語句である。」
+
+13. Tattha evaṃ tivattagatanti evaṃ yathāvuttena vidhinā paṭipadāvisuddhipakkhandanaupekkhānubrūhanāñāṇasampahaṃsanāvasena tividhabhāvaṃ gataṃ.
+
+* tattha = 「そのうち・そこで」
+* evaṃ tivattagataṃ = 「このように三つの転回を経た（もの）」
+* evaṃ yathāvuttena vidhinā = 「このように既述のしかたで」
+  * yathāvutta = 「説かれたとおりの・既述の」／ vidhi = 「しかた・方法」
+* paṭipadāvisuddhi-pakkhandana-upekkhānubrūhanā-ñāṇasampahaṃsanā-vasena = 「行道の清浄へ進み入ること・捨を増し育てること・智による喜ばせることによって」
+* tividha-bhāvaṃ gataṃ = 「三種の状態に到った（もの）」
+→「そのうち『このように三つの転回を経た（もの）』とは、このように既述のしかたで、行道の清浄へ進み入ること・捨を増し育てること・智による喜ばせることによって、三種の状態に到った（もの、ということである）。」
+
+14. Vitakkasampannanti kilesakkhobhavirahitattā vitakkena sundarabhāvaṃ pannaṃ gataṃ.
+
+* vitakkasampannaṃ = 「尋を具えた（もの）」（本文の語）
+* kilesa-kkhobha-virahitattā = 「煩悩の動揺を離れているがゆえに」（奪格）
+  * khobha = 「動揺・かき乱れ」／ virahita = 「離れた」
+* vitakkena = 「尋によって」（具格）
+* sundara-bhāvaṃ pannaṃ gataṃ = 「うるわしい状態に到った、すなわち至った（もの）」
+  * sundara = 「うるわしい・善き」／ panna = 「到った」（pajjati の過去分詞）／ gata = 「至った」
+→「『尋を具えた（もの）』とは、煩悩の動揺を離れているがゆえに、尋によってうるわしい状態に至った（もの、ということである）。」
+
+15. Cittassa adhiṭṭhānasampannanti tasmiṃyeva ārammaṇe cittassa nirantarappavattisaṅkhātena adhiṭṭhānena sampannaṃ anūnaṃ.
+
+* cittassa adhiṭṭhānasampannaṃ = 「心の確立を具えた（もの）」（本文の語）
+* tasmiṃ yeva ārammaṇe = 「まさにその所縁において」（処格）
+* cittassa nirantara-ppavatti-saṅkhātena = 「心が間断なくはたらくことと呼ばれる」
+  * nirantara = 「間断なき・絶え間ない」／ pavatti = 「はたらき・転起」／ saṅkhāta = 「～と呼ばれる」
+* adhiṭṭhānena = 「確立によって」（具格）
+* sampannaṃ anūnaṃ = 「具えた、すなわち欠けるところのない（もの）」
+  * anūna = 「欠けるところのない・不足のない」
+→「『心の確立を具えた（もの）』とは、まさにその所縁において、心が間断なくはたらくことと呼ばれる確立を具えた、すなわち欠けるところのない（もの、ということである）。」
+
+16. Yathā adhiṭṭhānavasiyaṃ adhiṭṭhānanti jhānappavatti, tathā idhāpi cittassa adhiṭṭhānanti cittekaggatāpi yujjati.
+
+* yathā = 「～と同じように」
+* adhiṭṭhāna-vasiyaṃ = 「在定自在（定にとどまる自在）において」（処格）
+  * vasī = 「自在（思いのままになしうること）」／ adhiṭṭhānavasī = 「在定自在（思いどおりに定に住する自在）」
+* adhiṭṭhānaṃ ti = 「『確立』とは」
+* jhāna-ppavatti = 「禅のはたらき・禅の持続」
+* tathā idha pi = 「それと同じようにここでも」
+* cittassa adhiṭṭhānaṃ ti = 「『心の確立』とは」
+* citta-ekaggatā pi = 「心一境性も」
+  * ekaggatā = 「一境性（一つの対象への集中）」
+* yujjati = 「適合する・当てはまる」
+→「在定自在において『確立』とは禅のはたらき（持続）であるのと同じように、ここでも『心の確立』とは心一境性であるとも当てはまる。」
+
+17. Tena hi ekasmiṃyeva ārammaṇe cittaṃ adhiṭṭhāti, na ettha vikkhipatīti.
+
+* tena hi = 「なぜなら、それによって」
+* ekasmiṃ yeva ārammaṇe = 「まさに一つの所縁において」（処格）
+* cittaṃ adhiṭṭhāti = 「心が確立する・据わり定まる」
+* na ettha vikkhipati = 「ここで散乱しない」
+* ti = 「と（いうわけである）」（引用標示）
+→「なぜなら、それ（心一境性）によって、まさに一つの所縁において心が据わり定まり、ここで散乱しないからである。」
+
+18. ‘‘Samādhisampanna’’nti visuṃ vuttattā pana vuttanayeneva gahetabbaṃ.
+
+* samādhisampannaṃ = 「定を具えた（もの）」（本文の語）
+* ti = 「という（語句）が」
+* visuṃ vuttattā = 「別個に説かれているがゆえに」（奪格）
+  * visuṃ = 「別個に・別に」
+* pana = 「しかし」
+* vutta-nayena eva = 「説かれた方法どおりに・既述のしかたで」
+* gahetabbaṃ = 「とらえられるべきである・解されるべきである」
+→「しかし『定を具えた（もの）』という（語句）が別個に説かれているのだから、（その「心の確立」とは）既述のしかたで解されるべきである（＝心の確立を心一境性ととると定と重複するため、注意を要する、の意）。」
+
+19. Atha vā samādhisseva jhānasaṅgahitattā cittassa adhiṭṭhānasampannanti jhānaṅgapañcakavasena vuttaṃ.
+
+* atha vā = 「あるいはまた」
+* samādhissa eva = 「定こそが」（属格）
+* jhāna-saṅgahitattā = 「禅に摂められているがゆえに」（奪格）
+  * saṅgahita = 「摂められた・含まれた」
+* cittassa adhiṭṭhānasampannaṃ = 「心の確立を具えた（もの）」
+* ti = 「とは」
+* jhānaṅga-pañcaka-vasena = 「禅支の五つ（五禅支）によって・五禅支の点から」
+  * jhānaṅga = 「禅支（禅の構成要素）」／ pañcaka = 「五つ一組」
+* vuttaṃ = 「説かれた」
+→「あるいはまた、定こそが禅に摂められているがゆえに、『心の確立を具えた（もの）』とは、五禅支の点から説かれたのである。」
+
+20. Samādhisampannanti indriyasaṅgahitattā indriyapañcakavasena, dutiyajjhānādīsu pana alabbhamānāni padāni pahāya labbhamānakavasena pītisampannantiādi vuttaṃ.
+
+* samādhisampannaṃ ti = 「『定を具えた（もの）』とは」
+* indriya-saṅgahitattā = 「（定が）根に摂められているがゆえに」（奪格）
+* indriya-pañcaka-vasena = 「五根の点から」（信・精進・念・定・慧の五根）
+* dutiya-jjhāna-ādīsu = 「第二禅などにおいては」（処格複数）
+* pana = 「しかし」
+* alabbhamānāni padāni = 「得られない（当てはまらない）語句を」
+  * alabbhamāna = 「得られない・成り立たない」（labbhati の現在分詞の否定）
+* pahāya = 「捨てて・除いて」（連続体）
+* labbhamānaka-vasena = 「得られる（当てはまる）ものによって・成り立つものの点から」
+  * labbhamānaka = 「得られるもの・成り立つもの」
+* pītisampannaṃ ti-ādi = 「『喜を具えた（もの）』という（語句）を初めとして」
+* vuttaṃ = 「説かれた」
+→「『定を具えた（もの）』とは、（定が）根に摂められているがゆえに、五根の点から（説かれた）。しかし第二禅などにおいては、当てはまらない語句を除いて、当てはまるものの点から、『喜を具えた（もの）』を初めとして説かれたのである。」
+
+## 158 (5)
+
+Aniccānupassanādīsu aṭṭhārasasu mahāvipassanāsu vitakkādayo paripuṇṇāyeva tāsaṃ kāmāvacarattā. Etāsu ca appanāya abhāvato paṭipadāvisuddhiādayo khaṇikasamādhivasena yojetabbā. Catūsu maggesu paṭhamajjhānikavasena vitakkādīnaṃ labbhanato labbhamānakavaseneva vitakkādayo paripuṇṇā vuttā. Dutiyajjhānikādīsu hi maggesu vitakkādayo jhānesu viya parihāyantīti. Ettāvatā terasa vodānañāṇāni vitthārato niddiṭṭhāni honti. Kathaṃ? Ekaṭṭhāne samādahanena tattheva adhimuccanena kosajjappajahanena uddhaccappajahanena rāgappajahanena byāpādappajahanena sampayuttāni cha ñāṇāni, catūhi ekattehi sampayuttāni cattāri ñāṇāni, paṭipadāvisuddhiupekkhānubrūhanāsampahaṃsanāhi sampayuttāni tīṇi ñāṇānīti evaṃ terasa ñāṇāni niddiṭṭhāni.
+
+### Claude
+
+- 2026/06/29
+- Claude Opus 4.8 High
+
+### 対訳
+
+---
+
+1. Aniccānupassanādīsu aṭṭhārasasu mahāvipassanāsu vitakkādayo paripuṇṇāyeva tāsaṃ kāmāvacarattā.
+
+* anicca-anupassanā-ādīsu = 「無常随観などにおいて」（処格複数）
+* aṭṭhārasasu mahāvipassanāsu = 「十八の大観（だいかん）において」（処格複数）
+  * aṭṭhārasa = 「十八の」／ mahāvipassanā = 「大観（十八種のすぐれた観法）」
+* vitakka-ādayo = 「尋などは」（vitakka-ādi の複数主格）
+* paripuṇṇā eva = 「完全に具わっている・満ち足りている」
+  * paripuṇṇa = 「完全に具わった・円満した」
+* tāsaṃ kāma-avacarattā = 「それら（の観）が欲界に属するがゆえに」（奪格）
+  * kāmāvacara = 「欲界に属するもの・欲界繋」
+→「無常随観などの十八の大観においては、尋などは完全に具わっている。それら（の観）が欲界に属するからである。」
+
+2. Etāsu ca appanāya abhāvato paṭipadāvisuddhiādayo khaṇikasamādhivasena yojetabbā.
+
+* etāsu ca = 「またこれら（の観）においては」（処格複数）
+* appanāya abhāvato = 「安止が存在しないがゆえに」（奪格）
+  * appanā = 「安止（定）」／ abhāva = 「無いこと」
+* paṭipadāvisuddhi-ādayo = 「行道の清浄などは」
+* khaṇika-samādhi-vasena = 「刹那定によって・刹那定の点から」
+  * khaṇikasamādhi = 「刹那定（一瞬一瞬の集中）」
+* yojetabbā = 「結びつけて解されるべきである・適用されるべきである」
+→「またこれら（の観）においては、安止が存在しないのだから、行道の清浄などは刹那定の点から結びつけて解されるべきである。」
+
+3. Catūsu maggesu paṭhamajjhānikavasena vitakkādīnaṃ labbhanato labbhamānakavaseneva vitakkādayo paripuṇṇā vuttā.
+
+* catūsu maggesu = 「四つの道において」（処格複数、四聖道）
+* paṭhama-jjhānika-vasena = 「第一禅に属するものとして・初禅にもとづいて」
+  * paṭhamajjhānika = 「第一禅に属する・初禅をもつ」
+* vitakka-ādīnaṃ labbhanato = 「尋などが得られる（成り立つ）がゆえに」（奪格）
+  * labbhana = 「得られること・成り立つこと」
+* labbhamānaka-vasena eva = 「得られる（当てはまる）ものの点から（だけ）」
+* vitakka-ādayo paripuṇṇā vuttā = 「尋などは完全に具わっていると説かれた」
+→「四つの道においては、第一禅に属するものとして尋などが得られるのだから、当てはまるものの点からこそ、尋などは完全に具わっていると説かれたのである。」
+
+4. Dutiyajjhānikādīsu hi maggesu vitakkādayo jhānesu viya parihāyantīti.
+
+* dutiya-jjhānika-ādīsu = 「第二禅に属するものなどにおいて」（処格複数）
+  * dutiyajjhānika = 「第二禅に属する」
+* hi = 「なぜなら・実に」
+* maggesu = 「（それらの）道において」（処格複数）
+* vitakka-ādayo = 「尋などは」
+* jhānesu viya = 「（諸）禅における（の）と同じように」
+* parihāyanti = 「減じる・脱落する・損なわれる」（parihāyati の複数）
+* ti = 「と（いうわけである）」（引用標示）
+→「なぜなら、第二禅に属するものなどの道においては、尋などは（諸）禅における（の）と同じように減じる（脱落する）からである。」
+
+5. Ettāvatā terasa vodānañāṇāni vitthārato niddiṭṭhāni honti.
+
+* ettāvatā = 「これだけで・ここまでで・以上をもって」
+* terasa vodāna-ñāṇāni = 「十三の浄化（清め）の智」
+* vitthārato = 「詳しく・くわしく」（奪格的副詞）
+* niddiṭṭhāni honti = 「示された（解説された）ことになる」
+  * niddiṭṭha = 「示された・解説された」
+→「以上をもって、十三の浄化の智が詳しく示されたことになる。」
+
+6. Kathaṃ?
+
+* kathaṃ = 「どのように（してか）」
+→「どのようにしてか。」
+
+7. Ekaṭṭhāne samādahanena tattheva adhimuccanena kosajjappajahanena uddhaccappajahanena rāgappajahanena byāpādappajahanena sampayuttāni cha ñāṇāni,
+
+* ekaṭṭhāne samādahanena = 「一つの対象に（心を）統一することによって」
+  * samādahana = 「統一すること・落ち着け据えること」
+* tattheva adhimuccanena = 「まさにそこに（心を）向け定めることによって」
+  * adhimuccana = 「向け定めること」（従来の「勝解」を改めた語）
+* kosajja-ppajahanena = 「なまけ（懈怠）を捨てることによって」
+  * pajahana = 「捨てること・断つこと」
+* uddhacca-ppajahanena = 「落ち着きのなさ（掉挙）を捨てることによって」
+* rāga-ppajahanena = 「貪りを捨てることによって」
+* byāpāda-ppajahanena = 「怒り（瞋恚）を捨てることによって」
+* sampayuttāni cha ñāṇāni = 「（それらと）相応した六つの智」
+  * sampayutta = 「相応した・結びついた」
+→「一つの対象に心を統一することによって、まさにそこに心を向け定めることによって、なまけを捨てることによって、落ち着きのなさを捨てることによって、貪りを捨てることによって、怒りを捨てることによって、（それらと）相応した六つの智、」
+
+8. catūhi ekattehi sampayuttāni cattāri ñāṇāni,
+
+* catūhi ekattehi = 「四つの専一によって」（具格複数）
+* sampayuttāni cattāri ñāṇāni = 「（それらと）相応した四つの智」
+→「四つの専一によって（それらと）相応した四つの智、」
+
+9. paṭipadāvisuddhiupekkhānubrūhanāsampahaṃsanāhi sampayuttāni tīṇi ñāṇānīti evaṃ terasa ñāṇāni niddiṭṭhāni.
+
+* paṭipadāvisuddhi-upekkhānubrūhanā-sampahaṃsanāhi = 「行道の清浄・捨を増し育てること・喜ばせることによって」（具格複数）
+* sampayuttāni tīṇi ñāṇāni = 「（それらと）相応した三つの智」
+* ti evaṃ = 「と、このように」
+* terasa ñāṇāni niddiṭṭhāni = 「十三の智が示された（解説された）」
+→「行道の清浄・捨を増し育てること・喜ばせることによって（それらと）相応した三つの智――と、このように十三の智が示されたのである。」
+
+## 159 (1)
+
+159. Evaṃ santepi ānāpānassatisamādhibhāvanāvasena tesaṃ nipphattiṃ dassetukāmo tāni ñāṇāni anigametvāva nimittaṃ assāsapassāsātiādinā nayena codanāpubbaṅgamaṃ ānāpānassatisamādhibhāvanāvidhiṃ dassetvā ante tāni ñāṇāni nigametvā dassesi. Tattha nimittaṃ vuttameva. Anārammaṇāmekacittassāti anārammaṇā ekacittassa. Ma-kāro panettha padasandhikaro. Anārammaṇamekacittassātipi pāṭho, ekassa cittassa ārammaṇaṃ na bhavantīti attho. Tayo dhammeti nimittādayo tayo dhamme. Bhāvanāti ānāpānassatisamādhibhāvanā. Kathanti paṭhamaṃ vuttāya codanāgāthāya anantaraṃ vuttāya parihāragāthāya atthaṃ kathetukamyatāpucchā. Na cimeti na ca ime. Na cametipi pāṭho, soyeva padacchedo. Kathaṃ na ca aviditā honti, kathaṃ na ca cittaṃ vikkhepaṃ gacchatīti evaṃ kathaṃ saddo sesehi pañcahi yojetabbo. Padhānañca paññāyatīti ānāpānassatisamādhibhāvanārambhakaṃ vīriyaṃ sandissati. Vīriyañhi padahanti tenāti padhānanti vuccati. Payogañca sādhetīti nīvaraṇavikkhambhakaṃ jhānañca yogī nipphādeti. Jhānañhi nīvaraṇavikkhambhanāya payuñjīyatīti payogoti vuttaṃ. Visesamadhigacchatīti saṃyojanappahānakaraṃ maggañca paṭilabhati. Maggo hi samathavipassanānaṃ ānisaṃsattā visesoti vutto. Visesassa ca pamukhabhūtattā ca-kārena samuccayo na kato.
+
+### Claude
+
+- 2026/06/29
+- Claude Opus 4.8 High
+
+### 対訳
+
+──────────────────────────────
+〔註釈の構成についての説明〕
+1. Evaṃ santepi ānāpānassatisamādhibhāvanāvasena tesaṃ nipphattiṃ dassetukāmo tāni ñāṇāni anigametvāva nimittaṃ assāsapassāsātiādinā nayena codanāpubbaṅgamaṃ ānāpānassatisamādhibhāvanāvidhiṃ dassetvā ante tāni ñāṇāni nigametvā dassesi.
+
+* evaṃ sante pi = 「そうであるとしても」
+* ānāpānassati-samādhi-bhāvanā-vasena = 具格（依主釈／tappurisa）、「出入息念の三昧の修習という点から」
+* tesaṃ nipphattiṃ = 対格、「それら(の知)の完成(成就)を」（nipphatti＝成就・完成）
+* dassetukāmo = 「示そうと欲して」（dassetu-kāma）
+* tāni ñāṇāni anigametvā va = 「それらの知をまだ結びまとめ(結論づけ)ないままに」（nigameti＝まとめる・結論づける、an-igametvā＝まとめずに）
+* nimittaṃ assāsapassāsā ti ādinā nayena = 「『nimittaṃ assāsapassāsā』等という仕方で」
+* codanā-pubbaṅgamaṃ = 「問いかけ(詰問)を先導とする」（codanā＝問い詰め・喚起、pubbaṅgama＝先導とする）
+* ānāpānassati-samādhi-bhāvanā-vidhiṃ = 対格、「出入息念の三昧の修習の方法(やり方)を」（vidhi＝方法）
+* dassetvā = 「示してから」
+* ante = 処格、「最後に」
+* tāni ñāṇāni nigametvā dassesi = 「それらの知をまとめあげて示した」
+
+→「そうであるとしても、〔著者は〕出入息念の三昧の修習という点からそれら(の知)の完成を示そうと欲して、それらの知をまだ結論づけないままに、『nimittaṃ assāsapassāsā』等という仕方で、問いかけを先導とする出入息念の三昧の修習の方法を示してから、最後にそれらの知をまとめあげて示したのである。」
+
+──────────────────────────────
+〔語句の註釈〕
+2. Tattha nimittaṃ vuttameva.
+
+* tattha = 「そこにおいて(そのうち)」
+* nimittaṃ = 「『相』は」
+* vuttam eva = 「すでに説かれたとおりである」
+
+→「そのうち『相』はすでに説かれたとおりである。」
+
+3. Anārammaṇāmekacittassāti anārammaṇā ekacittassa.
+
+* anārammaṇāmekacittassā ti = 引用句「anārammaṇāmekacittassā とは」
+* anārammaṇā ekacittassa = 「『一つの心の所縁ではないもの』〔と分解される〕」
+
+→「『anārammaṇāmekacittassā』とは、〔分解すれば〕『anārammaṇā ekacittassa(一つの心の所縁ではない)』である。」
+
+4. Ma-kāro panettha padasandhikaro.
+
+* ma-kāro pana ettha = 「ところで、ここにおける ma の音(字)は」
+* pada-sandhi-karo = 「語の連声(つなぎ)をなすものである」（padasandhi＝連声、kara＝なすもの）
+
+→「ところで、ここにおける ma の音は、語の連声をなすもの〔挿入音〕である。」
+
+5. Anārammaṇamekacittassātipi pāṭho, ekassa cittassa ārammaṇaṃ na bhavantīti attho.
+
+* anārammaṇamekacittassā ti pi pāṭho = 「『anārammaṇamekacittassā』という読みもある」（pāṭha＝読み・異読）
+* ekassa cittassa ārammaṇaṃ na bhavanti = 「一つの心の所縁とはならない」
+* ti attho = 「という意味である」
+
+→「『anārammaṇamekacittassā』という読みもあり、『一つの心の所縁とはならない』という意味である。」
+
+6. Tayo dhammeti nimittādayo tayo dhamme.
+
+* tayo dhamme ti = 「『三つの法を』とは」
+* nimitt-ādayo tayo dhamme = 「相を初めとする三つの法を」（nimittādi＝相などの、有財釈／bahubbīhi）
+
+→「『三つの法を』とは、相を初めとする三つの法を〔指す〕。」
+
+7. Bhāvanāti ānāpānassatisamādhibhāvanā.
+
+* bhāvanā ti = 「『修習』とは」
+* ānāpānassati-samādhi-bhāvanā = 「出入息念の三昧の修習〔である〕」
+
+→「『修習』とは、出入息念の三昧の修習である。」
+
+──────────────────────────────
+〔問いの語の註釈〕
+8. Kathanti paṭhamaṃ vuttāya codanāgāthāya anantaraṃ vuttāya parihāragāthāya atthaṃ kathetukamyatāpucchā.
+
+* kathaṃ ti = 「『いかにして』とは」
+* paṭhamaṃ vuttāya codanā-gāthāya anantaraṃ = 「最初に説かれた問いの偈の直後に」（codanāgāthā＝喚起の偈・詰問の偈）
+* vuttāya parihāra-gāthāya = 属格、「説かれた解答(対処)の偈の」（parihāra＝解決・対処）
+* atthaṃ kathetu-kamyatā-pucchā = 「意味を説こうとする意欲からの問いである」（kathetukamyatā＝説こうとする欲求、pucchā＝問い）
+
+→「『いかにして』とは、最初に説かれた問いの偈の直後に説かれた解答の偈の意味を説こうとする意欲からの問いである。」
+
+9. Na cimeti na ca ime.
+
+* na cime ti = 「『na cime』とは」
+* na ca ime = 「『そして、これら～ない(na ca ime)』〔と分解される〕」
+
+→「『na cime』とは、〔分解すれば〕『na ca ime(しかもこれらは～ない)』である。」
+
+10. Na cametipi pāṭho, soyeva padacchedo.
+
+* na came ti pi pāṭho = 「『na came』という読みもある」
+* so yeva padacchedo = 「語の分解は同じである」（padaccheda＝語の切り分け）
+
+→「『na came』という読みもあるが、語の分解は〔上と〕同じである。」
+
+11. Kathaṃ na ca aviditā honti, kathaṃ na ca cittaṃ vikkhepaṃ gacchatīti evaṃ kathaṃ saddo sesehi pañcahi yojetabbo.
+
+* kathaṃ na ca aviditā honti = 「『いかにして〔それらは〕知られないのでもないのか』」
+* kathaṃ na ca cittaṃ vikkhepaṃ gacchati = 「『いかにして心も散乱に陥らないのか』」
+* ti evaṃ = 「と、このように」
+* kathaṃ saddo = 「『いかにして』という語は」（katha-sadda）
+* sesehi pañcahi yojetabbo = 「残りの五つ〔の句〕に結びつけられるべきである」（yojetabba＝結合されるべき）
+
+→「『いかにして〔それらは〕知られないのでもないのか』『いかにして心も散乱に陥らないのか』と、このように『いかにして』という語は残りの五つの句にも結びつけられるべきである。」
+
+──────────────────────────────
+〔padhāna の註釈〕
+12. Padhānañca paññāyatīti ānāpānassatisamādhibhāvanārambhakaṃ vīriyaṃ sandissati.
+
+* padhānañca paññāyati ti = 「『精勤が明らかとなり』とは」
+* ānāpānassati-samādhi-bhāvanā-ārambhakaṃ vīriyaṃ = 「出入息念の三昧の修習を開始させる精進が」（ārambhaka＝開始させるもの）
+* sandissati = 「現れる(認められる)」
+
+→「『精勤が明らかとなり』とは、出入息念の三昧の修習を開始させる精進が現れる〔ということである〕。」
+
+13. Vīriyañhi padahanti tenāti padhānanti vuccati.
+
+* vīriyaṃ hi = 「なぜなら精進は」
+* padahanti tena = 「それによって励む(努める)」（padahati＝励む・努力する）
+* ti padhānaṃ ti vuccati = 「ゆえに『精勤(padhāna)』と呼ばれる」
+  * 〔語釈〕「それによって励むもの」という有財釈的解釈で padhāna を説明
+
+→「なぜなら、精進は『それによって人々が励むもの』であるがゆえに『精勤(padhāna)』と呼ばれるのである。」
+
+──────────────────────────────
+〔payoga の註釈〕
+14. Payogañca sādhetīti nīvaraṇavikkhambhakaṃ jhānañca yogī nipphādeti.
+
+* payogañca sādheti ti = 「『実践を成し遂げる』とは」
+* nīvaraṇa-vikkhambhakaṃ jhānaṃ = 「諸蓋を抑え込む(鎮伏する)禅を」（vikkhambhaka＝抑え込むもの・鎮伏するもの、nīvaraṇa＝蓋)
+* yogī nipphādeti = 「瑜伽行者が成就させる」（nipphādeti＝完成させる・生じさせる）
+
+→「『実践を成し遂げる』とは、瑜伽行者が、諸蓋を抑え込む禅を成就させる〔ということである〕。」
+
+15. Jhānañhi nīvaraṇavikkhambhanāya payuñjīyatīti payogoti vuttaṃ.
+
+* jhānaṃ hi = 「なぜなら禅は」
+* nīvaraṇa-vikkhambhanāya = 与格、「諸蓋の鎮伏のために」（vikkhambhana＝抑え込み・鎮伏）
+* payuñjīyati = 受動（pa-√yuj）、「適用される(用いられる)」
+* ti payogo ti vuttaṃ = 「ゆえに『実践(payoga)』と言われた」
+
+→「なぜなら、禅は諸蓋の鎮伏のために用いられるがゆえに、『実践(payoga)』と言われたのである。」
+
+──────────────────────────────
+〔visesa の註釈〕
+16. Visesamadhigacchatīti saṃyojanappahānakaraṃ maggañca paṭilabhati.
+
+* visesamadhigacchati ti = 「『すぐれた境地に到達する』とは」
+* saṃyojana-ppahāna-karaṃ maggaṃ = 「結の断滅をなす道を」（saṃyojanappahānakara＝結の断を行うもの、依主釈)
+* paṭilabhati = 「獲得する」
+
+→「『すぐれた境地に到達する』とは、結の断滅をなす道を獲得する〔ということである〕。」
+
+17. Maggo hi samathavipassanānaṃ ānisaṃsattā visesoti vutto.
+
+* maggo hi = 「なぜなら道は」
+* samatha-vipassanānaṃ ānisaṃsattā = 「止と観の功徳(成果)であるがゆえに」（ānisaṃsa＝功徳・利益、-attā＝～であること)
+* viseso ti vutto = 「『すぐれた境地(viseso)』と言われた」
+
+→「なぜなら、道は止と観の功徳であるがゆえに、『すぐれた境地(viseso)』と言われたのである。」
+
+18. Visesassa ca pamukhabhūtattā ca-kārena samuccayo na kato.
+
+* visesassa ca = 「そして、すぐれた境地は」
+* pamukha-bhūtattā = 「主要なもの(筆頭)であるがゆえに」（pamukha＝主要な・先頭の、-bhūtattā＝～となっていること)
+* ca-kārena samuccayo na kato = 「ca の語による並列(連結)はなされなかった」（samuccaya＝並列・集合、ca-kāra＝ca の字)
+  * 〔解説〕padhāna・payoga には ca が付されるが、visesa には付されない。それは visesa が筆頭(最重要)であるため、列挙的に並べる ca を用いなかったという文法的説明
+
+→「そして、すぐれた境地は主要なものであるがゆえに、ca の語による並列はなされなかったのである。」
+
+## 159 (2)
+
+Idāni taṃ pucchitamatthaṃ upamāya sādhento seyyathāpi rukkhotiādimāha. Tassattho – yathā nāma kakacena phālanatthaṃ vāsiyā tacchitvā rukkho phālanakāle niccalabhāvatthaṃ same bhūmipadese payogakkhamaṃ katvā ṭhapito. Kakacenāti hatthakakacena. Āgateti rukkhaṃ phusitvā attano samīpabhāgaṃ āgate. Gateti rukkhaṃ phusitvā parabhāgaṃ gate. Vā-saddo samuccayattho. Na aviditā hontīti rukkhe kakacadantehi phuṭṭhaṃ purisena pekkhamānaṃ ṭhānaṃ appatvā tesaṃ āgamanagamanābhāvato sabbepi kakacadantā viditāva honti. Padhānanti rukkhacchedanavīriyaṃ. Payoganti rukkhacchedanakiriyaṃ. ‘‘Visesamadhigacchatī’’ti vacanaṃ upamāya natthi. Upanibandhanā nimittanti upanibandhanāya satiyā nimittabhūtaṃ kāraṇabhūtaṃ nāsikaggaṃ vā mukhanimittaṃ vā. Upanibandhati etāya ārammaṇe cittanti upanibandhanā nāma sati. Nāsikagge vāti dīghanāsiko nāsikagge. Mukhanimitte vāti rassanāsiko uttaroṭṭhe. Uttaroṭṭho hi mukhe satiyā nimittanti mukhanimittanti vutto. Āgateti phuṭṭhaṭṭhānato abbhantaraṃ āgate. Gateti phuṭṭhaṭṭhānato bahiddhā gate. Na aviditā hontīti phusanaṭṭhānaṃ appatvā assāsapassāsānaṃ āgamanagamanābhāvato sabbepi te viditā eva honti. Kammaniyaṃ hotīti yena vīriyena kāyopi cittampi kammaniyaṃ bhāvanākammakkhamaṃ bhāvanākammayoggaṃ hoti. Idaṃ vīriyaṃ padhānaṃ nāmāti phalena kāraṇaṃ vuttaṃ hoti. Upakkilesā pahīyantīti vikkhambhanavasena nīvaraṇāni pahīyanti. Vitakkā vūpasammantīti nānārammaṇacārino anavaṭṭhitā vitakkā upasamaṃ gacchanti. Yena jhānena upakkilesā pahīyanti, vitakkā vūpasammanti. Ayaṃ payogoti payogamapekkhitvā pulliṅganiddeso kato. Saññojanā pahīyantīti taṃtaṃmaggavajjhā saññojanā samucchedappahānena pahīyanti. Anusayā byantīhontīti pahīnānaṃ puna anuppattidhammakattā vigato uppādanto vā vayanto vā etesanti byantā, pubbe abyantā byantā hontīti byantīhonti, vinassantīti attho. Saññojanappahānaṃ anusayappahānena hoti, na aññathāti dassanatthaṃ anusayappahānamāha. Yena maggena saññojanā pahīyanti anusayā byantīhonti, ayaṃ visesoti attho. Catutthacatukke ariyamaggassāpi niddiṭṭhattā idha ariyamaggo vutto. Ekacittassa ārammaṇadvayābhāvassa avuttepi siddhattā taṃ avissajjetvāva evaṃ ime tayo dhammā ekacittassa ārammaṇā na hontīti nigamanaṃ kataṃ.
+
+### Claude
+
+- 2026/06/29
+- Claude Opus 4.8 High
+
+### 対訳
+
+──────────────────────────────
+〔譬喩による証示の導入〕
+1. Idāni taṃ pucchitamatthaṃ upamāya sādhento seyyathāpi rukkhotiādimāha.
+
+* idāni = 「いまや」
+* taṃ pucchitam atthaṃ = 対格、「その問われた意味を」（pucchita＝問われた）
+* upamāya sādhento = 「譬喩によって証示しつつ」（sādheti＝成立させる・証示する）
+* seyyathāpi rukkho ti ādim āha = 「『たとえば丸太が』等と説いた」
+
+→「いまや、その問われた意味を譬喩によって証示しつつ、『たとえば丸太が』等と説いた。」
+
+2. Tassattho – yathā nāma kakacena phālanatthaṃ vāsiyā tacchitvā rukkho phālanakāle niccalabhāvatthaṃ same bhūmipadese payogakkhamaṃ katvā ṭhapito.
+
+* tassa attho = 「その意味は〔次のとおり〕」
+* yathā nāma = 「たとえば～のように」
+* kakacena phālanatthaṃ = 「鋸で挽き割るために」（phālana＝割ること、phālanattha＝割る目的で）
+* vāsiyā tacchitvā = 「手斧(ちょうな)で削ってから」（vāsi＝手斧、tacchati＝削る）
+* rukkho = 主格、「丸太は」
+* phālanakāle niccala-bhāva-atthaṃ = 「挽き割る時に動かないようにするため」（niccala＝動かない、-bhāva-attha＝～である状態のため）
+* same bhūmipadese = 処格、「平らな地面の一画に」
+* payoga-kkhamaṃ katvā = 「作業に堪えうるようにして」（payogakkhama＝作業に堪える）
+* ṭhapito = 「置かれている」
+
+→「その意味は〔次のとおり〕。すなわち、たとえば鋸で挽き割るために手斧で削ってから、丸太が、挽き割る時に動かないように、平らな地面の一画に作業に堪えうるようにして置かれている〔ように〕。」
+
+──────────────────────────────
+〔語句の註釈：鋸・往く・去る〕
+3. Kakacenāti hatthakakacena.
+
+* kakacenā ti = 「『鋸で』とは」
+* hatthakakacena = 「手挽き鋸で」（hattha-kakaca）
+
+→「『鋸で』とは、手挽き鋸で〔の意〕。」
+
+4. Āgateti rukkhaṃ phusitvā attano samīpabhāgaṃ āgate.
+
+* āgate ti = 「『往き(来る)もの』とは」
+* rukkhaṃ phusitvā = 「丸太に触れてから」
+* attano samīpabhāgaṃ āgate = 「自分の手元(近い側)へ来た〔鋸の歯〕を」（samīpabhāga＝近い側の部分）
+
+→「『往き来するもの(āgate)』とは、丸太に触れてから自分の手元へ来た〔鋸の歯〕を〔指す〕。」
+
+5. Gateti rukkhaṃ phusitvā parabhāgaṃ gate.
+
+* gate ti = 「『去るもの』とは」
+* rukkhaṃ phusitvā parabhāgaṃ gate = 「丸太に触れてから向こう側へ去った〔鋸の歯〕を」（parabhāga＝向こう側の部分）
+
+→「『去るもの(gate)』とは、丸太に触れてから向こう側へ去った〔鋸の歯〕を〔指す〕。」
+
+6. Vā-saddo samuccayattho.
+
+* vā-saddo = 「『vā(～も)』という語は」
+* samuccayattho = 「並列(集合)の意である」（samuccaya＝並列）
+
+→「『vā』という語は並列の意である。」
+
+──────────────────────────────
+〔na aviditā honti の註釈（譬喩側）〕
+7. Na aviditā hontīti rukkhe kakacadantehi phuṭṭhaṃ purisena pekkhamānaṃ ṭhānaṃ appatvā tesaṃ āgamanagamanābhāvato sabbepi kakacadantā viditāva honti.
+
+* na aviditā honti ti = 「『知られないのではない』とは」
+* rukkhe kakacadantehi phuṭṭhaṃ = 「丸太において鋸の歯に触れられた」
+* purisena pekkhamānaṃ ṭhānaṃ = 「その人が見つめている箇所を」（pekkhamāna＝見つめている、ṭhāna＝箇所）
+* appatvā = 「達しないでは」（〔鋸の歯は〕注視点に届かないままでは～しない、の意）
+* tesaṃ āgamana-gamana-abhāvato = 「それら〔の歯〕の往き来は〔注視点では〕生じないことから」（āgamana＝来ること、gamana＝去ること、abhāva＝無いこと）
+* sabbe pi kakacadantā viditā va honti = 「すべての鋸の歯がまさに知られているのである」
+
+→「『知られないのではない』とは、丸太において鋸の歯に触れられ、その人が見つめている箇所〔に注意を限定し〕、〔個々の歯がその注視点で〕往き来することはないので、〔そこに触れる〕すべての鋸の歯がまさに知られているのである、という意味である。」
+
+──────────────────────────────
+〔padhāna・payoga の註釈（譬喩側）〕
+8. Padhānanti rukkhacchedanavīriyaṃ.
+
+* padhānaṃ ti = 「『精勤』とは」
+* rukkha-cchedana-vīriyaṃ = 「丸太を切る精進である」（rukkhacchedana＝丸太を切ること）
+
+→「『精勤』とは、丸太を切る精進である。」
+
+9. Payoganti rukkhacchedanakiriyaṃ.
+
+* payogaṃ ti = 「『実践』とは」
+* rukkha-cchedana-kiriyaṃ = 「丸太を切る行為である」（kiriyā＝行為）
+
+→「『実践』とは、丸太を切る行為である。」
+
+10. ‘‘Visesamadhigacchatī’’ti vacanaṃ upamāya natthi.
+
+* visesamadhigacchati ti vacanaṃ = 「『すぐれた境地に到達する』という語句は」
+* upamāya natthi = 「譬喩〔の側〕には無い」
+
+→「『すぐれた境地に到達する』という語句は、譬喩〔の側〕には無い。」
+
+──────────────────────────────
+〔upanibandhanā nimitta の註釈〕
+11. Upanibandhanā nimittanti upanibandhanāya satiyā nimittabhūtaṃ kāraṇabhūtaṃ nāsikaggaṃ vā mukhanimittaṃ vā.
+
+* upanibandhanā nimittaṃ ti = 「『つなぎとめ(よりどころ)としての相』とは」
+* upanibandhanāya satiyā = 「つなぎとめる念にとって」（upanibandhanā＝つなぎとめるもの、ここでは念の形容）
+* nimitta-bhūtaṃ kāraṇa-bhūtaṃ = 「相となり、因(根拠)となっている」（nimittabhūta＝相となったもの、kāraṇabhūta＝因となったもの）
+* nāsikaggaṃ vā mukhanimittaṃ vā = 「鼻の先端、あるいは口の相を〔指す〕」
+
+→「『つなぎとめ(よりどころ)としての相』とは、つなぎとめる念にとって相となり因となっている、鼻の先端、あるいは口の相を〔指す〕。」
+
+12. Upanibandhati etāya ārammaṇe cittanti upanibandhanā nāma sati.
+
+* upanibandhati etāya ārammaṇe cittaṃ = 「これによって、所縁に心をつなぎとめる」
+* ti upanibandhanā nāma sati = 「ゆえに『つなぎとめるもの(upanibandhanā)』とは念のことである」
+  * 〔語釈〕「これによって心を所縁につなぎとめるもの」という有財釈的解釈で、upanibandhanā＝sati と説明
+
+→「『これ〔念〕によって、所縁に心をつなぎとめる』がゆえに、『つなぎとめるもの(upanibandhanā)』とは念のことである。」
+
+──────────────────────────────
+〔鼻の先端・口の相の註釈〕
+13. Nāsikagge vāti dīghanāsiko nāsikagge.
+
+* nāsikagge vā ti = 「『鼻の先端に』とは」
+* dīgha-nāsiko = 「鼻の長い者は」（dīghanāsika＝長い鼻をもつ者、有財釈）
+* nāsikagge = 「鼻の先端に〔念を置く〕」
+
+→「『鼻の先端に』とは、鼻の長い者は鼻の先端に〔念を置く、ということ〕。」
+
+14. Mukhanimitte vāti rassanāsiko uttaroṭṭhe.
+
+* mukhanimitte vā ti = 「『口の相に』とは」
+* rassa-nāsiko = 「鼻の短い者は」（rassanāsika＝短い鼻をもつ者）
+* uttaroṭṭhe = 処格、「上唇に〔念を置く〕」（uttaroṭṭha＝上唇）
+
+→「『口の相に』とは、鼻の短い者は上唇に〔念を置く、ということ〕。」
+
+15. Uttaroṭṭho hi mukhe satiyā nimittanti mukhanimittanti vutto.
+
+* uttaroṭṭho hi = 「なぜなら上唇は」
+* mukhe satiyā nimittaṃ = 「口における念の相である」
+* ti mukhanimittaṃ ti vutto = 「ゆえに『口の相(mukhanimitta)』と言われた」
+
+→「なぜなら、上唇は口における念の相であるがゆえに、『口の相(mukhanimitta)』と言われたのである。」
+
+──────────────────────────────
+〔法への適用：往く・去る・知られる〕
+16. Āgateti phuṭṭhaṭṭhānato abbhantaraṃ āgate.
+
+* āgate ti = 「『往き来するもの』とは」
+* phuṭṭha-ṭṭhānato = 奪格、「触れる箇所から」（phuṭṭhaṭṭhāna＝触れる場所）
+* abbhantaraṃ āgate = 「内側へ来た〔息〕を」（abbhantara＝内側）
+
+→「『往き来するもの』とは、〔息が〕触れる箇所から内側へ来た〔息〕を〔指す〕。」
+
+17. Gateti phuṭṭhaṭṭhānato bahiddhā gate.
+
+* gate ti = 「『去るもの』とは」
+* phuṭṭhaṭṭhānato bahiddhā gate = 「触れる箇所から外側へ去った〔息〕を」（bahiddhā＝外側へ）
+
+→「『去るもの』とは、触れる箇所から外側へ去った〔息〕を〔指す〕。」
+
+18. Na aviditā hontīti phusanaṭṭhānaṃ appatvā assāsapassāsānaṃ āgamanagamanābhāvato sabbepi te viditā eva honti.
+
+* na aviditā honti ti = 「『知られないのではない』とは」
+* phusana-ṭṭhānaṃ appatvā = 「触れる箇所〔への注意〕に達しないでは」（phusanaṭṭhāna＝触れる場所）
+* assāsa-passāsānaṃ āgamana-gamana-abhāvato = 「入息・出息の往き来は〔注視点では捉えられず〕生じないことから」
+* sabbe pi te viditā eva honti = 「それらすべてがまさに知られているのである」
+
+→「『知られないのではない』とは、〔息が〕触れる箇所〔に注意を限定し〕、入息・出息の往き来〔そのものを追うこと〕はないので、それら〔の息〕すべてがまさに知られているのである、という意味である。」
+
+──────────────────────────────
+〔padhāna の定義の註釈（法側）〕
+19. Kammaniyaṃ hotīti yena vīriyena kāyopi cittampi kammaniyaṃ bhāvanākammakkhamaṃ bhāvanākammayoggaṃ hoti.
+
+* kammaniyaṃ hoti ti = 「『はたらきに堪えうるものとなる』とは」
+* yena vīriyena = 「いかなる精進によって」
+* kāyo pi cittam pi kammaniyaṃ = 「身も心もはたらきに堪えうるもの」
+* bhāvanā-kamma-kkhamaṃ = 「修習の務めに堪える」（bhāvanākamma＝修習の務め、khama＝堪える）
+* bhāvanā-kamma-yoggaṃ hoti = 「修習の務めに適したものとなる」（yogga＝適した）
+
+→「『はたらきに堪えうるものとなる』とは、いかなる精進によって、身も心もはたらきに堪えうるもの、修習の務めに堪え、修習の務めに適したものとなる〔のか〕、という〔含意である〕。」
+
+20. Idaṃ vīriyaṃ padhānaṃ nāmāti phalena kāraṇaṃ vuttaṃ hoti.
+
+* idaṃ vīriyaṃ padhānaṃ nāma ti = 「『この精進が精勤と名づけられる』とは」
+* phalena kāraṇaṃ vuttaṃ hoti = 「結果によって原因が説かれたことになる」（phala＝結果、kāraṇa＝原因）
+  * 〔解説〕身心の堪能性(結果)によって、それをもたらす精進(原因)を指し示している、の意
+
+→「『この精進が精勤と名づけられる』とは、結果によって原因が説かれたことになる〔ということである〕。」
+
+──────────────────────────────
+〔payoga の定義の註釈（法側）〕
+21. Upakkilesā pahīyantīti vikkhambhanavasena nīvaraṇāni pahīyanti.
+
+* upakkilesā pahīyanti ti = 「『随煩悩が断たれる』とは」
+* vikkhambhana-vasena = 「鎮伏(抑え込み)という仕方で」（vikkhambhana＝鎮伏）
+* nīvaraṇāni pahīyanti = 「諸蓋が断たれる」
+
+→「『随煩悩が断たれる』とは、鎮伏という仕方で諸蓋が断たれる〔ということである〕。」
+
+22. Vitakkā vūpasammantīti nānārammaṇacārino anavaṭṭhitā vitakkā upasamaṃ gacchanti.
+
+* vitakkā vūpasammanti ti = 「『尋が鎮まる』とは」
+* nānā-ārammaṇa-cārino = 「種々の所縁を巡る」（nānārammaṇacārī＝多様な対象に動き回るもの、有財釈）
+* anavaṭṭhitā vitakkā = 「定まらない尋が」（anavaṭṭhita＝定まらない）
+* upasamaṃ gacchanti = 「鎮まりに至る」（upasama＝寂静・鎮まり）
+
+→「『尋が鎮まる』とは、種々の所縁を巡る定まらない尋が鎮まりに至る〔ということである〕。」
+
+23. Yena jhānena upakkilesā pahīyanti, vitakkā vūpasammanti. Ayaṃ payogoti payogamapekkhitvā pulliṅganiddeso kato.
+
+* yena jhānena = 「いかなる禅によって」
+* upakkilesā pahīyanti, vitakkā vūpasammanti = 「随煩悩が断たれ、尋が鎮まる〔のか、その禅が実践である〕」
+* ayaṃ payogo ti = 「『これが実践である』〔という箇所では〕」
+* payogam apekkhitvā = 「『実践(payoga)』〔という男性名詞〕に即して」（apekkhitvā＝顧慮して）
+* pulliṅga-niddeso kato = 「男性形での指示がなされた」（pulliṅga＝男性、niddesa＝指示・説示）
+  * 〔解説〕指示対象は禅(jhāna,中性)だが、語句 payoga(男性)に文法上一致させて ayaṃ(男性)とした、という説明
+
+→「いかなる禅によって随煩悩が断たれ、尋が鎮まるのか〔その禅が実践である〕。『これが実践である(ayaṃ payogo)』〔という箇所〕では、『実践(payoga)』〔という男性名詞〕に即して、男性形での指示がなされたのである。」
+
+──────────────────────────────
+〔visesa の定義の註釈（法側）〕
+24. Saññojanā pahīyantīti taṃtaṃmaggavajjhā saññojanā samucchedappahānena pahīyanti.
+
+* saññojanā pahīyanti ti = 「『結が断たれる』とは」
+* taṃtaṃ-magga-vajjhā saññojanā = 「それぞれの道によって断たれるべき結が」（taṃtaṃmagga＝それぞれの道、vajjha＝断たれるべき）
+* samuccheda-ppahānena = 「正断(根絶的な断)によって」（samucchedappahāna＝断絶による断）
+* pahīyanti = 「断たれる」
+
+→「『結が断たれる』とは、それぞれの道によって断たれるべき結が、正断(根絶的な断)によって断たれる〔ということである〕。」
+
+25. Anusayā byantīhontīti pahīnānaṃ puna anuppattidhammakattā vigato uppādanto vā vayanto vā etesanti byantā, pubbe abyantā byantā hontīti byantīhonti, vinassantīti attho.
+
+* anusayā byantīhonti ti = 「『随眠が滅尽する』とは」
+* pahīnānaṃ puna anuppatti-dhammakattā = 「断たれたもの〔随眠〕は再び生じない性質をもつことから」（anuppatti＝不生、dhammaka＝～を性質とする、-attā＝～であること）
+* vigato uppādanto vā vayanto vā etesaṃ = 「これらにとって、生じる末端(始端)も滅する末端(終端)も去り去った」（uppādanta＝生起の極/末端、vayanta＝衰滅の極/末端、vigata＝去った）
+* ti byantā = 「ゆえに『両端を離れたもの(byanta)』〔と言う〕」
+  * 〔語釈〕byanta = vi(離)＋anta(端)。生・滅の両端が去ったもの、の有財釈的解釈
+* pubbe abyantā byantā honti = 「以前は両端を離れていなかったものが、両端を離れたものとなる」
+* ti byantīhonti = 「ゆえに『byantīhonti(両端を離れたものとなる)』〔と言う〕」
+* vinassanti ti attho = 「『滅び去る』という意味である」
+
+→「『随眠が滅尽する』とは、断たれたもの〔随眠〕は再び生じない性質をもつことから、これらにとって生起の端も衰滅の端も去り去ったがゆえに『両端を離れたもの(byanta)』〔と言い〕、以前は両端を離れていなかったものが両端を離れたものとなるがゆえに『両端を離れたものとなる(byantīhonti)』〔と言うのであり〕、『滅び去る』という意味である。」
+
+──────────────────────────────
+〔結の断と随眠の断の関係〕
+26. Saññojanappahānaṃ anusayappahānena hoti, na aññathāti dassanatthaṃ anusayappahānamāha.
+
+* saññojana-ppahānaṃ = 「結の断は」
+* anusaya-ppahānena hoti = 「随眠の断によって生じる」
+* na aññathā = 「他の仕方によってではない」
+* ti dassanatthaṃ = 「と示すために」（dassanattha＝示す目的で）
+* anusaya-ppahānam āha = 「随眠の断を説いた」
+
+→「結の断は随眠の断によって生じるのであって、他の仕方によってではない、と示すために、随眠の断を説いたのである。」
+
+27. Yena maggena saññojanā pahīyanti anusayā byantīhonti, ayaṃ visesoti attho.
+
+* yena maggena = 「いかなる道によって」
+* saññojanā pahīyanti anusayā byantīhonti = 「結が断たれ、随眠が滅尽する〔のか〕」
+* ayaṃ viseso ti attho = 「『これがすぐれた境地である』という意味である」
+
+→「いかなる道によって結が断たれ随眠が滅尽するのか、『それがすぐれた境地である』という意味である。」
+
+──────────────────────────────
+〔ariyamagga の指示についての註釈〕
+28. Catutthacatukke ariyamaggassāpi niddiṭṭhattā idha ariyamaggo vutto.
+
+* catuttha-catukke = 処格、「第四の四句(第四テトラッド)において」（catukka＝四つ組）
+* ariyamaggassa pi niddiṭṭhattā = 「聖道もまた示されていることから」（niddiṭṭha＝説き示された）
+* idha ariyamaggo vutto = 「ここでは聖道が説かれた」
+
+→「第四の四句(第四テトラッド)において聖道もまた示されていることから、ここでは聖道が〔visesa として〕説かれたのである。」
+
+──────────────────────────────
+〔結びの総括についての註釈〕
+29. Ekacittassa ārammaṇadvayābhāvassa avuttepi siddhattā taṃ avissajjetvāva evaṃ ime tayo dhammā ekacittassa ārammaṇā na hontīti nigamanaṃ kataṃ.
+
+* ekacittassa ārammaṇa-dvaya-abhāvassa = 「一つの心にとって所縁が二重に〔同時に〕ないこと(所縁が一対そろわないこと)が」（ārammaṇadvaya＝二つの所縁、abhāva＝無いこと）
+* avutte pi = 「〔明示的に〕説かれていなくても」
+* siddhattā = 「成立していることから」（siddha＝成立した、-attā＝～であること）
+* taṃ avissajjetvā va = 「それを〔別途〕解答せずに」（avissajjetvā＝答えを述べずに）
+* evaṃ ime tayo dhammā ekacittassa ārammaṇā na honti ti = 「『このように、これら三つの法は一つの心の所縁とならない』と」
+* nigamanaṃ kataṃ = 「結びがなされた」（nigamana＝結論・まとめ）
+  * 〔解説〕「一つの心に二つの所縁が同時に成立しない」点は明示せずとも自ずから成り立つので、改めて答えることなく、上記の結語でまとめた、という説明
+
+→「一つの心にとって所縁が二つ〔同時に〕ないこと〔＝一心に複数の所縁が並び立たないこと〕は、〔明示的に〕説かれていなくても自ずから成立しているので、それを〔別途〕解答することなく、『このように、これら三つの法は一つの心の所縁とならない』と結びがなされたのである。」
+
+## 160 (1)
+
+160. Idāni taṃ bhāvanāsiddhisādhakaṃ yogāvacaraṃ thunanto ānāpānassati yassāti gāthaṃ vatvā tassā niddesamāha. Tattha ānāpānassatiyo yathā buddhena desitā, tathā paripuṇṇā subhāvitā anupubbaṃ paricitā yassa atthi saṃvijjanti. So imaṃ lokaṃ pabhāseti. Kiṃ viya? Abbhā muttova candimā yathā abbhādīhi mutto candimā imaṃ okāsalokaṃ pabhāseti, tathā so yogāvacaro imaṃ khandhādilokaṃ pabhāsetīti gāthāya sambandho. ‘‘Abbhā muttova candimā’’ti ca padassa niddese mahikādīnampi vuttattā ettha ādisaddalopo katoti veditabbo. Gāthāniddese no passāso no assāsoti so soyeva attho paṭisedhena visesetvā vutto. Upaṭṭhānaṃ satīti asammussanatāya tameva assāsaṃ upagantvā ṭhānaṃ sati nāmāti attho. Tathā passāsaṃ. Ettāvatā ānāpānesu sati ānāpānassatīti attho vutto hoti.
+
+Idāni sativaseneva ‘‘yassā’’ti vuttaṃ puggalaṃ niddisitukāmo yo assasati, tassupaṭṭhāti. Yo passasati, tassupaṭṭhātīti vuttaṃ. Yo assasati, tassa sati assāsaṃ upagantvā tiṭṭhati. Yo passasati, tassa sati passāsaṃ upagantvā tiṭṭhatīti attho. Paripuṇṇāti jhānavipassanāmaggaparamparāya arahattamaggappattiyā paripuṇṇā. Teyeva hi jhānavipassanāmaggadhamme sandhāya pariggahaṭṭhenātiādimāha. Te hi dhammā iminā yoginā pariggayhamānattā pariggahā, tena pariggahaṭṭhena paripuṇṇā. Tattha sabbesaṃ cittacetasikānaṃ aññamaññaparivārattā parivāraṭṭhena paripuṇṇā. Bhāvanāpāripūrivasena paripūraṭṭhena paripuṇṇā. Catasso bhāvanātiādīni subhāvitāti vuttapadassa atthavasena vuttāni. Catasso bhāvanā heṭṭhā vuttāyeva. Yānīkatāti yuttayānasadisā katā. Vatthukatāti patiṭṭhaṭṭhena vatthusadisā katā. Anuṭṭhitāti paccupaṭṭhitā. Paricitāti samantato citā upacitā. Susamāraddhāti suṭṭhu samāraddhā sukatā. Yattha yattha ākaṅkhatīti yesu yesu jhānesu yāsu yāsu vipassanāsu sace icchati. Tattha tatthāti tesu tesu jhānesu tāsu tāsu vipassanāsu. Vasippattoti vasībhāvaṃ bahubhāvaṃ patto. Balappattoti samathavipassanābalappatto. Vesārajjappattoti visāradabhāvaṃ paṭubhāvaṃ patto. Te dhammāti samathavipassanā dhammā. Āvajjanapaṭibaddhāti āvajjanāyattā, āvajjitamatteyeva tassa santānena, ñāṇena vā sampayogaṃ gacchantīti attho. Ākaṅkhapaṭibaddhāti ruciāyattā, rocitamatteyeva vuttanayena sampayogaṃ gacchantīti attho. Manasikāro panettha āvajjanāya cittuppādo. Ākaṅkhanāya vevacanavasena atthavivaraṇatthaṃ vutto. Tena vuccati yānīkatāti evaṃ katattāyeva te yuttayānasadisā katā hontīti vuttaṃ hoti.
+
+### Claude
+
+- 2026/06/29
+- Claude Opus 4.8 High
+
+### 対訳
+
+────────────────────────
+■ 偈の連関の説明
+────────────────────────
+
+1. Idāni taṃ bhāvanāsiddhisādhakaṃ yogāvacaraṃ thunanto ānāpānassati yassā ti gāthaṃ vatvā tassā niddesamāha.
+
+  * idāni = 「いまや、ここで」
+  * taṃ bhāvanā-siddhi-sādhakaṃ = 対格「その、修習の成就を成し遂げた」（bhāvanā 修習＋siddhi 成就＋sādhaka 達成させる者、依主釈）
+  * yogāvacaraṃ = 対格・単数「瑜伽行者を」
+  * thunanto = 現在分詞・主格・単数「称えつつ」（√thu, thunāti 賛嘆する）
+  * ānāpānassati yassā ti gāthaṃ = 「『ānāpānassati yassa（出入息念がある者の…）』という偈を」
+  * vatvā = 連続体「説いて」（√vac）
+  * tassā niddesaṃ = 「その（偈の）解説（niddesa）を」（tassā 属格・女性）
+  * āha = 完了・三単「述べた」
+    → 「いまや、その修習の成就を成し遂げた瑜伽行者を称えつつ、『ānāpānassati yassa』という偈を説いて、その偈の解説を述べた。」
+
+2. Tattha ānāpānassatiyo yathā buddhena desitā, tathā paripuṇṇā subhāvitā anupubbaṃ paricitā yassa atthi saṃvijjanti.
+
+  * tattha = 「そこで」
+  * ānāpānassatiyo = 主格・複数「出入息念は」
+  * yathā buddhena desitā = 「ブッダによって説かれたとおりに」
+  * tathā = 「そのように」
+  * paripuṇṇā subhāvitā anupubbaṃ paricitā = 「完全に満たされ、よく修習され、順次に習熟された」
+  * yassa = 関係代名詞・属格「およそ～する者にとって」
+  * atthi saṃvijjanti = 「ある・存在する」（atthi 単数・saṃvijjanti 複数の語釈対）
+    → 「そこで、ブッダによって説かれたとおりに完全に満たされ、よく修習され、順次に習熟された出入息念が、およそ存在する者――。」
+
+3. So imaṃ lokaṃ pabhāseti.
+
+  * so = 「その者は」
+  * imaṃ lokaṃ = 「この世界を」
+  * pabhāseti = 「照らす」
+    → 「その者はこの世界を照らす。」
+
+4. Kiṃ viya?
+
+  * kiṃ viya = 「何のように（か）」
+    → 「何のように（照らすのか）。」
+
+5. Abbhā muttova candimā yathā abbhādīhi mutto candimā imaṃ okāsalokaṃ pabhāseti, tathā so yogāvacaro imaṃ khandhādilokaṃ pabhāsetī ti gāthāya sambandho.
+
+  * abbhā muttova candimā = 偈の引用句「雲から解き放たれた月のように」
+  * yathā = 「～のように」
+  * abbhādīhi = 奪格・複数「雲などから」（abbha 雲＋ādi など）
+  * mutto candimā = 「解き放たれた月が」
+  * imaṃ okāsalokaṃ = 「この器世間（空間の世界）を」
+  * pabhāseti = 「照らす」
+  * tathā so yogāvacaro = 「そのようにその瑜伽行者は」
+  * imaṃ khandhādilokaṃ = 「この蘊などの世界（五蘊の世間）を」
+  * ti gāthāya sambandho = 「という、この偈の文の連関である」
+    → 「『雲から解き放たれた月のように』とは、雲などから解き放たれた月がこの器世間を照らすように、そのようにその瑜伽行者はこの蘊などの世界（五蘊の世間）を照らす、という――これがこの偈の文の連関である。」
+
+6. ‘‘Abbhā muttova candimā’’ti ca padassa niddese mahikādīnampi vuttattā ettha ādisaddalopo katoti veditabbo.
+
+  * abbhā muttova candimā ti ca padassa niddese = 「また『abbhā muttova candimā』という句の解説において」
+  * mahikādīnampi = 属格・複数＋api「霧（もや）などのものも」（mahikā 霧＋ādi など）
+  * vuttattā = 奪格「言われていることのゆえに」（vutta＋tā 原因）
+  * ettha = 「ここでは（偈のこの句では）」
+  * ādi-sadda-lopo = 「『ādi（など）』という語の省略」
+  * kato = 「なされた」
+  * ti veditabbo = 「と知るべきである」
+    → 「また、『abbhā muttova candimā』という句の解説では霧などのものも言われているので、ここ（偈の句）では『ādi（など）』の語の省略がなされた、と知るべきである。」
+
+────────────────────────
+■ 否定による限定／upaṭṭhāna＝sati の説明
+────────────────────────
+
+7. Gāthāniddese no passāso no assāsoti so soyeva attho paṭisedhena visesetvā vutto.
+
+  * gāthā-niddese = 「偈の解説において」
+  * no passāso no assāso ti = 「『出息ではない・入息ではない』とは」
+  * so so yeva attho = 「まさにその同じ意味が」
+  * paṭisedhena = 具格「否定によって」（paṭisedha 否定）
+  * visesetvā = 連続体「限定して・特定して」（vi-√sis）
+  * vutto = 「言われた」
+    → 「偈の解説における『no passāso（出息ではない）』『no assāso（入息ではない）』とは、まさにその同じ意味（āna＝入息／apāna＝出息）を、否定によって限定して述べたものである。」
+
+8. Upaṭṭhānaṃ satīti asammussanatāya tameva assāsaṃ upagantvā ṭhānaṃ sati nāmāti attho.
+
+  * upaṭṭhānaṃ sati ti = 「『現起（upaṭṭhāna）は念（sati）である』とは」
+  * asammussanatāya = 具格「失念しないことによって」（a＋sammussana 失念＋tā）
+  * tam eva assāsaṃ = 「まさにその入息に」
+  * upagantvā = 連続体「近づいて・達して」（upa-√gam）
+  * ṭhānaṃ = 「立つこと・留まること」
+  * sati nāma = 「念と名づけられる」
+  * ti attho = 「という意味である」
+    → 「『現起は念である』とは、失念しないことによって、まさにその入息に近づいて立つ（留まる）ことが念と名づけられる、という意味である。」
+
+9. Tathā passāsaṃ.
+
+  * tathā passāsaṃ = 「出息についても同様に」
+    → 「出息についても同様である（出息に近づいて立つことが念である）。」
+
+10. Ettāvatā ānāpānesu sati ānāpānassatīti attho vutto hoti.
+
+  * ettāvatā = 「ここまでで・これだけのことで」
+  * ānāpānesu sati = 「出入息における念」
+  * ānāpānassati ti = 「『出入息念』である、という」
+  * attho vutto hoti = 「意味が説かれたことになる」
+    → 「ここまでで、出入息における念が『出入息念（ānāpānassati）』である、という意味が説かれたことになる。」
+
+────────────────────────
+■ 「yassa」と言われた人の指示
+────────────────────────
+
+11. Idāni sativaseneva ‘‘yassā’’ti vuttaṃ puggalaṃ niddisitukāmo yo assasati, tassupaṭṭhāti. Yo passasati, tassupaṭṭhātīti vuttaṃ.
+
+  * idāni = 「いまや」
+  * sati-vasena eva = 「まさに念の点から」（sati 念＋vasa）
+  * yassā ti vuttaṃ puggalaṃ = 「『yassa（～する者の）』と言われた人を」
+  * niddisitu-kāmo = 「示そうと欲して」（niddisitu＋kāma 願望）
+  * yo assasati, tassa upaṭṭhāti = 「入息する者にはそれ（念）が現起する」
+  * yo passasati, tassa upaṭṭhāti = 「出息する者には現起する」
+  * ti vuttaṃ = 「と言われた」
+    → 「いまや、まさに念の点から『yassa（～する者の）』と言われた人を示そうとして、『入息する者にはそれが現起する。出息する者には現起する』と言われた。」
+
+12. Yo assasati, tassa sati assāsaṃ upagantvā tiṭṭhati.
+
+  * yo assasati = 「入息する者は」
+  * tassa sati = 「その者の念は」
+  * assāsaṃ upagantvā = 「入息に近づいて」
+  * tiṭṭhati = 「立つ・留まる」
+    → 「入息する者の念は、入息に近づいて立つ（留まる）。」
+
+13. Yo passasati, tassa sati passāsaṃ upagantvā tiṭṭhatīti attho.
+
+  * （前文と並行）yo passasati ... passāsaṃ upagantvā tiṭṭhati ti attho
+    → 「出息する者の念は、出息に近づいて立つ、という意味である。」
+
+────────────────────────
+■ paripuṇṇā（完全に満たされた）の釈
+────────────────────────
+
+14. Paripuṇṇāti jhānavipassanāmaggaparamparāya arahattamaggappattiyā paripuṇṇā.
+
+  * paripuṇṇā ti = 「『完全に満たされた』とは」
+  * jhāna-vipassanā-magga-paramparāya = 具格「禅・観・道の相続（次第の連なり）によって」（jhāna 禅＋vipassanā 観＋magga 道＋paramparā 次第相続、相違釈を含む依主釈）
+  * arahatta-magga-ppattiyā = 具格「阿羅漢道の到達によって」（arahatta-magga＋patti 到達）
+  * paripuṇṇā = 「完全に満たされた」
+    → 「『完全に満たされた』とは、禅・観・道の相続による阿羅漢道の到達によって、完全に満たされた、ということである。」
+
+15. Teyeva hi jhānavipassanāmaggadhamme sandhāya pariggahaṭṭhenātiādimāha.
+
+  * te yeva hi = 「まさにそれらを」
+  * jhāna-vipassanā-magga-dhamme = 対格・複数「禅・観・道という諸法を」
+  * sandhāya = 連続体「指して・関連づけて」
+  * pariggahaṭṭhena ti ādiṃ = 「『pariggahaṭṭhena（あまねく把握するという意味で）』等を」
+  * āha = 「述べた」
+    → 「まさにそれら禅・観・道という諸法を指して、『あまねく把握するという意味で』等と述べたのである。」
+
+16. Te hi dhammā iminā yoginā pariggayhamānattā pariggahā, tena pariggahaṭṭhena paripuṇṇā.
+
+  * te hi dhammā = 「それらの諸法は」
+  * iminā yoginā = 具格「この瑜伽者によって」
+  * pariggayhamānattā = 奪格「あまねく把握されていることのゆえに」（pariggayhamāna 受動現在分詞＋tā 原因）
+  * pariggahā = 「『把握（されたもの）』（と呼ばれる）」
+  * tena pariggaha-ṭṭhena = 「その、あまねく把握するという意味によって」
+  * paripuṇṇā = 「完全に満たされた」
+    → 「それらの諸法は、この瑜伽者によってあまねく把握されているがゆえに『把握（pariggaha）』（と呼ばれ）、その『あまねく把握するという意味』によって完全に満たされている。」
+
+17. Tattha sabbesaṃ cittacetasikānaṃ aññamaññaparivārattā parivāraṭṭhena paripuṇṇā.
+
+  * tattha = 「そこにおいて（それら諸法のうちで）」
+  * sabbesaṃ citta-cetasikānaṃ = 属格・複数「すべての心・心所が」
+  * aññamañña-parivārattā = 奪格「相互に随伴し合うことのゆえに」（aññamañña 相互に＋parivāra 随伴＋tā）
+  * parivāra-ṭṭhena = 「あまねく取り巻く（付随する）という意味によって」
+  * paripuṇṇā = 「完全に満たされた」
+    → 「そこにおいて、すべての心・心所が相互に随伴し合っているがゆえに、『あまねく取り巻くという意味』によって完全に満たされている。」
+
+18. Bhāvanāpāripūrivasena paripūraṭṭhena paripuṇṇā.
+
+  * bhāvanā-pāripūri-vasena = 具格「修習の円満（完成）に即して」（bhāvanā 修習＋pāripūri 円満＋vasa）
+  * paripūra-ṭṭhena = 「あまねく満たすという意味によって」
+  * paripuṇṇā = 「完全に満たされた」
+    → 「修習の円満（完成）に即して、『あまねく満たすという意味』によって完全に満たされている。」
+
+────────────────────────
+■ subhāvitā／四修習・各語の釈
+────────────────────────
+
+19. Catasso bhāvanātiādīni subhāvitāti vuttapadassa atthavasena vuttāni.
+
+  * catasso bhāvanā ti ādīni = 主格・複数「『四つの修習』等は」
+  * subhāvitā ti vutta-padassa = 属格「『よく修習された』と言われた句の」
+  * attha-vasena = 「意味に即して」
+  * vuttāni = 「言われた」
+    → 「『四つの修習』等は、『よく修習された（subhāvitā）』と言われた句の意味に即して説かれたものである。」
+
+20. Catasso bhāvanā heṭṭhā vuttāyeva.
+
+  * catasso bhāvanā = 「四つの修習は」
+  * heṭṭhā = 「下で（すでに前に）」
+  * vuttā yeva = 「まさに説明済みである」
+    → 「四つの修習は、すでに前で説明済みである。」
+
+21. Yānīkatāti yuttayānasadisā katā.
+
+  * yānīkatā ti = 「『拠り所（乗り物）とされた』とは」
+  * yutta-yāna-sadisā = 「繋がれて用意の整った乗り物に似たもの」（yutta 繋がれた＋yāna 乗り物＋sadisa 似た）
+  * katā = 「された」
+    → 「『拠り所とされた』とは、繋がれて用意の整った乗り物に似たものとされた、ということである。」
+
+22. Vatthukatāti patiṭṭhaṭṭhena vatthusadisā katā.
+
+  * vatthukatā ti = 「『土台とされた』とは」
+  * patiṭṭha-ṭṭhena = 「依り立つ場所（基盤）という意味で」（patiṭṭhā 立脚＋aṭṭha 意味）
+  * vatthu-sadisā = 「土台（基盤）に似たもの」
+  * katā = 「された」
+    → 「『土台とされた』とは、依り立つ場所（基盤）という意味で、土台に似たものとされた、ということである。」
+
+23. Anuṭṭhitāti paccupaṭṭhitā.
+
+  * anuṭṭhitā ti = 「『確立された（実行された）』とは」
+  * paccupaṭṭhitā = 「現前した・現起した」（paṭi-upa-√ṭhā）
+    → 「『確立された』とは、現前した（現起した）ということである。」
+
+24. Paricitāti samantato citā upacitā.
+
+  * paricitā ti = 「『習熟された』とは」
+  * samantato = 「あまねく・四方から」
+  * citā = 「積まれた」（√ci）
+  * upacitā = 「積み重ねられた」（upa-√ci）
+    → 「『習熟された』とは、あまねく積まれ、積み重ねられた、ということである。」
+
+25. Susamāraddhāti suṭṭhu samāraddhā sukatā.
+
+  * susamāraddhā ti = 「『よく実践された』とは」
+  * suṭṭhu samāraddhā = 「よく実践された」（suṭṭhu よく＋samāraddha 実践された）
+  * sukatā = 「よくなされた」
+    → 「『よく実践された』とは、よく実践され、よくなされた、ということである。」
+
+────────────────────────
+■ yattha yattha ākaṅkhati 等の釈
+────────────────────────
+
+26. Yattha yattha ākaṅkhatīti yesu yesu jhānesu yāsu yāsu vipassanāsu sace icchati.
+
+  * yattha yattha ākaṅkhati ti = 「『望むところすべてにおいて』とは」
+  * yesu yesu jhānesu = 処格・畳語「どの禅々においても」
+  * yāsu yāsu vipassanāsu = 処格・畳語「どの観々においても」
+  * sace icchati = 「もし欲するならば」
+    → 「『望むところすべてにおいて』とは、もし欲するならば、どの禅々においても、どの観々においても、ということである。」
+
+27. Tattha tatthāti tesu tesu jhānesu tāsu tāsu vipassanāsu.
+
+  * tattha tattha ti = 「『そのそれぞれにおいて』とは」
+  * tesu tesu jhānesu = 「それらそれぞれの禅において」
+  * tāsu tāsu vipassanāsu = 「それらそれぞれの観において」
+    → 「『そのそれぞれにおいて』とは、それらそれぞれの禅において、それらそれぞれの観において、ということである。」
+
+28. Vasippattoti vasībhāvaṃ bahubhāvaṃ patto.
+
+  * vasippatto ti = 「『自在を得た』とは」
+  * vasī-bhāvaṃ = 対格「自在の状態を」
+  * bahu-bhāvaṃ = 対格「多く修めた（熟達した）状態を」（bahu 多＋bhāva 状態）
+  * patto = 「得た」
+    → 「『自在を得た』とは、自在の状態、多く修めた（熟達した）状態を得た、ということである。」
+
+29. Balappattoti samathavipassanābalappatto.
+
+  * balappatto ti = 「『力を得た』とは」
+  * samatha-vipassanā-bala-ppatto = 「止と観の力を得た」（samatha 止＋vipassanā 観＋bala 力＋patta）
+    → 「『力を得た』とは、止と観の力を得た、ということである。」
+
+30. Vesārajjappattoti visāradabhāvaṃ paṭubhāvaṃ patto.
+
+  * vesārajjappatto ti = 「『無畏（確信）を得た』とは」
+  * visārada-bhāvaṃ = 対格「自信ある（明達した）状態を」（visārada 自信ある）
+  * paṭu-bhāvaṃ = 対格「巧みな（鋭敏な）状態を」（paṭu 巧み・鋭い）
+  * patto = 「得た」
+    → 「『無畏（確信）を得た』とは、自信ある状態、巧みな（鋭敏な）状態を得た、ということである。」
+
+────────────────────────
+■ te dhammā 等の釈（諸法が引転・意欲に結びつく仕方）
+────────────────────────
+
+31. Te dhammāti samathavipassanā dhammā.
+
+  * te dhammā ti = 「『それらの諸法』とは」
+  * samathavipassanā dhammā = 「止観の諸法（止と観という諸法）」
+    → 「『それらの諸法』とは、止と観という諸法である。」
+
+32. Āvajjanapaṭibaddhāti āvajjanāyattā, āvajjitamatteyeva tassa santānena, ñāṇena vā sampayogaṃ gacchantīti attho.
+
+  * āvajjana-paṭibaddhā ti = 「『（心を）向けること（引転）に結びついた』とは」
+  * āvajjana-āyattā = 「引転に依存した」（āvajjana 引転＋āyatta 依存した）
+  * āvajjita-matte yeva = 「まさに向けた（引転した）だけで」（āvajjita 向けられた＋matta だけ）
+  * tassa santānena = 具格「その（瑜伽者の）心相続によって」
+  * ñāṇena vā = 「あるいは智によって」
+  * sampayogaṃ gacchanti = 「相応に至る・結びつく」（sampayoga 相応＋√gam）
+  * ti attho = 「という意味である」
+    → 「『引転に結びついた』とは、引転に依存している、すなわち、向けた（引転した）だけで、その心相続によって、あるいは智によって、相応に至る（結びつく）、という意味である。」
+
+33. Ākaṅkhapaṭibaddhāti ruciāyattā, rocitamatteyeva vuttanayena sampayogaṃ gacchantīti attho.
+
+  * ākaṅkha-paṭibaddhā ti = 「『望み（欲すること）に結びついた』とは」
+  * ruci-āyattā = 「好み（意欲）に依存した」（ruci 好み・意欲＋āyatta）
+  * rocita-matte yeva = 「まさに好んだ（意欲した）だけで」（rocita 好まれた＋matta）
+  * vutta-nayena = 「前述の仕方で」
+  * sampayogaṃ gacchanti = 「相応に至る」
+  * ti attho = 「という意味である」
+    → 「『望みに結びついた』とは、好み（意欲）に依存している、すなわち、好んだ（意欲した）だけで、前述の仕方で相応に至る、という意味である。」
+
+34. Manasikāro panettha āvajjanāya cittuppādo.
+
+  * manasikāro pana ettha = 「ところで、ここでの『作意（manasikāra）』は」
+  * āvajjanāya cittuppādo = 「引転（心を向けること）の際の心の生起である」（āvajjana 引転＋cittuppāda 心の生起）
+    → 「ところで、ここでの『作意』とは、引転（心を向けること）の際の心の生起である（すなわち引転と同義）。」
+
+35. Ākaṅkhanāya vevacanavasena atthavivaraṇatthaṃ vutto.
+
+  * （実質上の主語は cittuppāda）
+  * ākaṅkhanāya = 属格「望むこと（意欲）の」
+  * vevacana-vasena = 「同義語として」（vevacana 異名・同義語＋vasa）
+  * attha-vivaraṇa-atthaṃ = 「意味を明らかにするために」（attha 意味＋vivaraṇa 開示＋attha 目的）
+  * vutto = 「言われた」
+    → 「（『心の生起 cittuppāda』という語は）望むこと（ākaṅkhanā）の同義語として、意味を明らかにするために述べられたのである。」
+
+36. Tena vuccati yānīkatāti evaṃ katattāyeva te yuttayānasadisā katā hontīti vuttaṃ hoti.
+
+  * tena vuccati yānīkatā ti = 「『それゆえに〈拠り所（乗り物）とされた〉と言われる』というのは」
+  * evaṃ katattā yeva = 奪格「このようになされたことによってこそ」（evaṃ＋kata＋tā）
+  * te = 「それら（の諸法）は」
+  * yutta-yāna-sadisā = 「繋がれて用意の整った乗り物に似たもの」
+  * katā honti = 「とされている」
+  * ti vuttaṃ hoti = 「と言われたことになる」
+    → 「『それゆえに〈拠り所とされた〉と言われる』とは、このようになされたことによってこそ、それら（の諸法）は繋がれて用意の整った乗り物に似たものとされている、と言われたことになる。」
+
+## 160 (2)
+
+Yasmiṃ yasmiṃ vatthusminti soḷasasu vatthūsu ekekasmiṃ. Svādhiṭṭhitanti suppatiṭṭhitaṃ. Sūpaṭṭhitāti suṭṭhu upaṭṭhitā. Sampayuttacittasatīnaṃ saheva sakasakakiccakaraṇato anulomapaṭilomavasena yojetvā te dve dhammā dassitā. Tena vuccati vatthukatāti evaṃ bhūtattāyeva katapatiṭṭhā hontīti vuttaṃ hoti. Yena yena cittaṃ abhinīharatīti pubbappavattito apanetvā yattha yattha bhāvanāvisese cittaṃ upaneti. Tena tena sati anuparivattatīti tasmiṃ tasmiṃyeva bhāvanāvisese sati anukūlā hutvā pubbappavattito nivattitvā pavattati. ‘‘Yena, tenā’’ti cettha ‘‘yena bhagavā tenupasaṅkamī’’tiādīsu (khu. pā. 5.1; su. ni. maṅgalasutta) viya bhummattho veditabbo. Tena vuccati anuṭṭhitāti evaṃ karaṇatoyeva taṃ taṃ bhāvanaṃ anugantvā ṭhitā hontīti vuttaṃ hoti. Ānāpānassatiyā satipadhānattā vatthukatānuṭṭhitapadesu satiyā saha yojanā katāti veditabbā.
+
+Yasmā pana paripuṇṇāyeva paricitā honti vaḍḍhitā laddhāsevanā, tasmā ‘‘paripuṇṇā’’tipade vuttā tayo atthā ‘‘paricitā’’tipadepi vuttā, catuttho visesatthopi vutto. Tattha satiyā pariggaṇhantoti sampayuttāya, pubbabhāgāya vā satiyā pariggahetabbe pariggaṇhanto yogī. Jināti pāpake akusale dhammeti samucchedavasena lāmake kilese jināti abhibhavati. Ayañca puggalādhiṭṭhānā dhammadesanā. Dhammesu hi jinantesu taṃdhammasamaṅgīpuggalopi jināti nāma. Te ca dhammā satiṃ avihāya attano pavattikkhaṇe jinitumāraddhā jitāti vuccanti yathā ‘‘bhuñjitumāraddho bhutto’’ti vuccati. Lakkhaṇaṃ panettha saddasatthato veditabbaṃ. Evaṃ santepi ‘‘parijitā’’ti vattabbe ja-kārassa ca-kāraṃ katvā ‘‘paricitā’’ti vuttaṃ, yathā sammā gado assāti sugatoti atthavikappe da-kārassa ta-kāro niruttilakkhaṇena kato, evamidhāpi veditabbo. Imasmiṃ atthavikappe paricitāti padaṃ kattusādhanaṃ, purimāni tīṇi kammasādhanāni.
+
+Cattāro susamāraddhāti cattāro susamāraddhatthāti vuttaṃ hoti, atthasaddassa lopo daṭṭhabbo. Susamāraddhāti padassa atthāpi hi idha susamāraddhāti vuttāti veditabbā, susamāraddhadhammā vā. Caturatthabhedato cattāroti vuttāti veditabbā, na dhammabhedato. Yasmā pana subhāvitāyeva susamāraddhā honti, na aññe, tasmā tayo bhāvanatthā idhāpi vuttā. Āsevanatthopi tīsu vuttesu vuttoyeva hoti, tasmā taṃ avatvā tappaccanīkānaṃ susamūhatattho vutto. Paccanīkasamugghātena hi āraddhapariyosānaṃ paññāyati, tena susamāraddhassa sikhāppatto attho vutto hoti. Tattha tappaccanīkānanti tesaṃ jhānavipassanāmaggānaṃ paṭipakkhabhūtānaṃ. Kilesānanti kāmacchandādīnaṃ niccasaññādisampayuttānaṃ sakkāyadiṭṭhādīnañca. Susamūhatattāti vikkhambhanatadaṅgasamucchedavasena suṭṭhu samūhatattā nāsitattā. Potthakesu pana ‘‘susamugghātattā’’ti likhanti, taṃ na sundaraṃ.
+
+### Claude
+
+- 2026/06/29
+- Claude Opus 4.8 High
+
+### 対訳
+
+────────────────────────
+■ vatthukatā の釈（続き）
+────────────────────────
+
+1. Yasmiṃ yasmiṃ vatthusminti soḷasasu vatthūsu ekekasmiṃ.
+
+  * yasmiṃ yasmiṃ vatthusmiṃ ti = 「『いかなる対象（事柄）においても』とは」
+  * soḷasasu vatthūsu = 処格・複数「十六の事柄（対象）のうち」（soḷasa 十六＝十六事の出入息念）
+  * ekekasmiṃ = 処格・単数「その一つ一つにおいて」（eka-eka）
+    → 「『いかなる対象においても』とは、（出入息念の）十六の事柄の、その一つ一つにおいて、ということである。」
+
+2. Svādhiṭṭhitanti suppatiṭṭhitaṃ.
+
+  * svādhiṭṭhitaṃ ti = 「『よく確立された（svādhiṭṭhita）』とは」
+  * suppatiṭṭhitaṃ = 「よく安立した・しっかり据えられた」（su＋patiṭṭhita）
+    → 「『よく確立された』とは、よく安立した（しっかり据えられた）ということである。」
+
+3. Sūpaṭṭhitāti suṭṭhu upaṭṭhitā.
+
+  * sūpaṭṭhitā ti = 「『よく確立された（sūpaṭṭhitā）』とは」
+  * suṭṭhu upaṭṭhitā = 「よく現起した・よく立ち現れた」（suṭṭhu よく＋upaṭṭhita）
+    → 「『よく確立された（念）』とは、よく現起した（よく立ち現れた）ということである。」
+
+4. Sampayuttacittasatīnaṃ saheva sakasakakiccakaraṇato anulomapaṭilomavasena yojetvā te dve dhammā dassitā.
+
+  * sampayutta-citta-satīnaṃ = 属格・複数「相応した心と念の」（sampayutta 相応した＋citta 心＋sati 念）
+  * saha eva = 「まさに共に・同時に」
+  * saka-saka-kicca-karaṇato = 奪格「それぞれ自らの務めを果たすことのゆえに」（saka 自らの＋kicca 務め＋karaṇa 為すこと）
+  * anuloma-paṭiloma-vasena = 「順と逆との形で（順逆両様に）」（anuloma 順＋paṭiloma 逆）
+  * yojetvā = 連続体「結びつけて・関連づけて」（√yuj）
+  * te dve dhammā = 「それら二つの法（心と念）が」
+  * dassitā = 「示された」
+    → 「相応した心と念とが、まさに同時に、それぞれ自らの務めを果たすので、（『心がよく確立されていれば念も…、念がよく確立されていれば心も…』と）順逆両様に結びつけて、その二つの法（心と念）が示されたのである。」
+
+5. Tena vuccati vatthukatāti evaṃ bhūtattāyeva katapatiṭṭhā hontīti vuttaṃ hoti.
+
+  * tena vuccati vatthukatā ti = 「『それゆえに〈土台とされた〉と言われる』というのは」
+  * evaṃ bhūta-ttā yeva = 奪格「このようになっていることによってこそ」（bhūta なった＋tā）
+  * kata-patiṭṭhā = 「依り立つ場所（基盤）とされたもの」（kata なされた＋patiṭṭhā 立脚地）
+  * honti = 「である」
+  * ti vuttaṃ hoti = 「と言われたことになる」
+    → 「『それゆえに〈土台とされた〉と言われる』とは、このようになっていることによってこそ、（それらの法は）依り立つ場所（基盤）とされている、と言われたことになる。」
+
+────────────────────────
+■ anuṭṭhitā の釈
+────────────────────────
+
+6. Yena yena cittaṃ abhinīharatīti pubbappavattito apanetvā yattha yattha bhāvanāvisese cittaṃ upaneti.
+
+  * yena yena cittaṃ abhinīharati ti = 「『どのような仕方で心を差し向けても』とは」
+  * pubba-ppavattito = 奪格「先に働いていた（対象・状態）から」（pubba 先の＋pavatti 働き）
+  * apanetvā = 連続体「引き離して・取り除いて」（apa-√nī）
+  * yattha yattha bhāvanā-visese = 処格・畳語「いかなる特定の修習においても」（bhāvanā 修習＋visesa 特殊・特定）
+  * cittaṃ upaneti = 「心を導き入れる・向ける」（upa-√nī）
+    → 「『どのような仕方で心を差し向けても』とは、先に働いていた（対象）から（心を）引き離して、いかなる特定の修習においても心を導き入れる、ということである。」
+
+7. Tena tena sati anuparivattatīti tasmiṃ tasmiṃyeva bhāvanāvisese sati anukūlā hutvā pubbappavattito nivattitvā pavattati.
+
+  * tena tena sati anuparivattati ti = 「『そのそれぞれの仕方に念が随って働く』とは」
+  * tasmiṃ tasmiṃ yeva bhāvanā-visese = 「まさにそのそれぞれの特定の修習において」
+  * sati anukūlā hutvā = 「念が（それに）順応するものとなって」（anukūla 順応した）
+  * pubba-ppavattito nivattitvā = 「先の働きから引き返して」（√vatt）
+  * pavattati = 「働く・起こる」
+    → 「『そのそれぞれの仕方に念が随って働く』とは、まさにそのそれぞれの特定の修習において、念が（それに）順応するものとなり、先の働きから引き返して働く、ということである。」
+
+8. ‘‘Yena, tenā’’ti cettha ‘‘yena bhagavā tenupasaṅkamī’’tiādīsu (khu. pā. 5.1; su. ni. maṅgalasutta) viya bhummattho veditabbo.
+
+  * yena, tenā ti ca ettha = 「また、ここでの『yena（～によって）』『tena（それによって）』は」
+  * yena bhagavā tena upasaṅkami ti ādīsu = 「『yena bhagavā tenupasaṅkami（世尊のおられる所へ近づいた）』等における（用法）」（引用：小誦経・吉祥経）
+  * viya = 「のように」
+  * bhumma-attho = 「処格の意味」（bhumma 処格＋attha 意味）
+  * veditabbo = 「と知るべきである」
+    → 「また、ここでの『yena…tena…』は、『yena bhagavā tenupasaṅkami（世尊のおられる所へ近づいた）』等の用例におけるように、処格の意味（で用いられている）と知るべきである。」
+
+9. Tena vuccati anuṭṭhitāti evaṃ karaṇatoyeva taṃ taṃ bhāvanaṃ anugantvā ṭhitā hontīti vuttaṃ hoti.
+
+  * tena vuccati anuṭṭhitā ti = 「『それゆえに〈確立された〉と言われる』というのは」
+  * evaṃ karaṇato yeva = 奪格「このようになすことによってこそ」（karaṇa 為すこと）
+  * taṃ taṃ bhāvanaṃ = 「そのそれぞれの修習に」
+  * anugantvā = 連続体「随って・付き従って」（anu-√gam）
+  * ṭhitā honti = 「立っている・確立している」
+  * ti vuttaṃ hoti = 「と言われたことになる」
+    → 「『それゆえに〈確立された〉と言われる』とは、このようになすことによってこそ、（念は）そのそれぞれの修習に付き従って立っている、と言われたことになる。」
+
+10. Ānāpānassatiyā satipadhānattā vatthukatānuṭṭhitapadesu satiyā saha yojanā katāti veditabbā.
+
+  * ānāpānassatiyā = 属格「出入息念の」
+  * sati-padhānattā = 奪格「念が主であることのゆえに」（sati 念＋padhāna 主要＋tā）
+  * vatthukata-anuṭṭhita-padesu = 処格・複数「『土台とされた』『確立された』という語において」
+  * satiyā saha yojanā = 「念と共にする結びつけ（関連づけ）」（yojanā 結合）
+  * katā = 「なされた」
+  * ti veditabbā = 「と知るべきである」
+    → 「出入息念においては念が主であるから、『土台とされた』『確立された』の語において、念と結びつけて（解釈が）なされた、と知るべきである。」
+
+────────────────────────
+■ paricitā の釈
+────────────────────────
+
+11. Yasmā pana paripuṇṇāyeva paricitā honti vaḍḍhitā laddhāsevanā, tasmā ‘‘paripuṇṇā’’tipade vuttā tayo atthā ‘‘paricitā’’tipadepi vuttā, catuttho visesatthopi vutto.
+
+  * yasmā pana = 「ところで、～であるから」
+  * paripuṇṇā yeva paricitā honti = 「完全に満たされたものこそが習熟されたものである」
+  * vaḍḍhitā = 「増大された」（√vaḍḍh）
+  * laddha-āsevanā = 「習修を得た」（laddha 得た＋āsevana 習修）
+  * tasmā = 「それゆえ」
+  * paripuṇṇā ti pade vuttā tayo atthā = 「『完全に満たされた』の語で説かれた三つの意味（pariggaha・parivāra・paripūra）」
+  * paricitā ti pade pi vuttā = 「『習熟された』の語においても説かれた」
+  * catuttho visesa-attho pi vutto = 「第四の特別な意味（satiyā pariggaṇhanto…）も説かれた」（visesa 特別＋attha）
+    → 「ところで、完全に満たされたものこそが、習熟され、増大され、習修を得たものであるから、『完全に満たされた』の語で説かれた三つの意味（あまねく把握・あまねく取り巻く・あまねく満たす）が『習熟された』の語でも説かれ、（さらに）第四の特別な意味も説かれた。」
+
+12. Tattha satiyā pariggaṇhantoti sampayuttāya, pubbabhāgāya vā satiyā pariggahetabbe pariggaṇhanto yogī.
+
+  * tattha = 「そこで（その第四の意味において）」
+  * satiyā pariggaṇhanto ti = 「『念によってあまねく把握しつつ』とは」
+  * sampayuttāya = 具格「相応した（念によって）」
+  * pubbabhāgāya vā satiyā = 「あるいは前段階の念によって」（pubbabhāga 前段階）
+  * pariggahetabbe = 「把握されるべきもの（諸法）を」（未来受動分詞・対格複数）
+  * pariggaṇhanto yogī = 「あまねく把握する瑜伽者（が）」
+    → 「そこで『念によってあまねく把握しつつ』とは、相応した念によって、あるいは前段階の念によって、把握されるべき諸法をあまねく把握する瑜伽者（が）、ということである。」
+
+13. Jināti pāpake akusale dhammeti samucchedavasena lāmake kilese jināti abhibhavati.
+
+  * jināti pāpake akusale dhamme ti = 「『悪しき不善の諸法に打ち勝つ』とは」
+  * samuccheda-vasena = 「断（断滅）の形で」（samuccheda 正断＋vasa）
+  * lāmake kilese = 対格・複数「下劣な諸煩悩に」（lāmaka 下劣な）
+  * jināti abhibhavati = 「打ち勝つ・征服する」
+    → 「『悪しき不善の諸法に打ち勝つ』とは、断（断滅）の形で、下劣な諸煩悩に打ち勝つ・征服する、ということである。」
+
+14. Ayañca puggalādhiṭṭhānā dhammadesanā.
+
+  * ayaṃ ca = 「そしてこれは」
+  * puggala-adhiṭṭhānā = 「人を主題（拠りどころ）とした」（puggala 人＋adhiṭṭhāna 基盤・主題）
+  * dhamma-desanā = 「法の説示」
+    → 「そしてこれは、人を主題とした法の説示である。」
+
+15. Dhammesu hi jinantesu taṃdhammasamaṅgīpuggalopi jināti nāma.
+
+  * dhammesu hi jinantesu = 絶対処格「諸法が打ち勝つとき」（jinanta 現在分詞・処格）
+  * taṃ-dhamma-samaṅgī-puggalo pi = 「その法を具えた人もまた」（samaṅgī 具えた）
+  * jināti nāma = 「打ち勝つと名づけられる」
+    → 「諸法が打ち勝つとき、その法を具えた人もまた『打ち勝つ』と名づけられるからである。」
+
+16. Te ca dhammā satiṃ avihāya attano pavattikkhaṇe jinitumāraddhā jitāti vuccanti yathā ‘‘bhuñjitumāraddho bhutto’’ti vuccati.
+
+  * te ca dhammā = 「そしてそれらの諸法は」
+  * satiṃ avihāya = 「念を捨てずに」（a＋vihāya, vi-√hā）
+  * attano pavatti-kkhaṇe = 「自らの働きの瞬間に」（pavatti 働き＋khaṇa 刹那）
+  * jinitum āraddhā = 「打ち勝とうと始められた（もの）」（jinitum 不定詞＋āraddha 始められた）
+  * jitā ti vuccanti = 「『打ち勝った』と言われる」
+  * yathā bhuñjitum āraddho bhutto ti vuccati = 「『食べ始めた者が〈食べた〉と言われる』ように」（bhuñjitum 不定詞＋āraddha＋bhutta 食べられた）
+    → 「そしてそれらの諸法は、念を捨てずに、自らの働きの瞬間に、打ち勝とうと始められたものであるがゆえに『打ち勝った（jita）』と言われる。ちょうど『食べ始めた者が〈食べた〉と言われる』ようにである。」
+
+────────────────────────
+■ paricitā の語形成（nirutti）に関する文法的解説
+────────────────────────
+
+17. Lakkhaṇaṃ panettha saddasatthato veditabbaṃ.
+
+  * lakkhaṇaṃ pana ettha = 「ところで、ここでの（文法的）規則は」
+  * sadda-satthato = 奪格「声明（文法学）から」（sadda 語・声＋sattha 学・論）
+  * veditabbaṃ = 「知られるべきである」
+    → 「ところで、ここでの（語形成の）規則は、声明（文法学）から知るべきである。」
+
+18. Evaṃ santepi ‘‘parijitā’’ti vattabbe ja-kārassa ca-kāraṃ katvā ‘‘paricitā’’ti vuttaṃ,
+
+  * evaṃ sante pi = 「そうであっても」
+  * parijitā ti vattabbe = 「『parijitā（あまねく打ち勝たれた）』と言われるべきところを」（vattabba 言われるべき）
+  * ja-kārassa ca-kāraṃ katvā = 「ja の字を ca の字にして」（ja-kāra ジャ音＋ca-kāra チャ音）
+  * paricitā ti vuttaṃ = 「『paricitā』と言われた」
+    → 「そうであっても、（語義からは）『parijitā（あまねく打ち勝たれた）』と言われるべきところを、ja の字を ca の字に換えて『paricitā』と言われたのである。」
+
+19. yathā sammā gado assāti sugatoti atthavikappe da-kārassa ta-kāro niruttilakkhaṇena kato, evamidhāpi veditabbo.
+
+  * yathā = 「ちょうど～のように」
+  * sammā gado assa ti = 「『正しい言葉（gada）が彼にある』という（語源解釈）」（gada 言葉・語）
+  * sugato ti attha-vikappe = 「『善逝（sugata）』という意味の解釈において」（attha-vikappa 意味の取り方・解釈）
+  * da-kārassa ta-kāro = 「da の字が ta の字に（なる）」（da-kāra ダ音＋ta-kāra タ音）
+  * nirutti-lakkhaṇena = 「語源解釈（語形成）の規則によって」（nirutti 語源・語法＋lakkhaṇa 規則）
+  * kato = 「なされた」
+  * evam idha pi veditabbo = 「このようにここでも知られるべきである」
+    → 「ちょうど、『正しい言葉（gada）が彼にある』ゆえに『善逝（sugata）』という意味の解釈において、語形成の規則によって da の字が ta の字に換えられたように、ここ（paricitā）でも同様（に ja→ca の交替がある）と知るべきである。」
+
+20. Imasmiṃ atthavikappe paricitāti padaṃ kattusādhanaṃ, purimāni tīṇi kammasādhanāni.
+
+  * imasmiṃ attha-vikappe = 「この意味の解釈においては」
+  * paricitā ti padaṃ = 「『paricitā』という語は」
+  * kattu-sādhanaṃ = 「作者(能動主)を表す語形成」（kattu 作者＋sādhana 成立・派生）
+  * purimāni tīṇi = 「先の三つ（の意味）は」
+  * kamma-sādhanāni = 「対象(目的語)を表す語形成」（kamma 業・対象＋sādhana）
+    → 「この意味の解釈においては、『paricitā』の語は能動主を表す語形成（＝打ち勝つ者の側）であり、先の三つ（あまねく把握・取り巻く・満たすの意味）は対象を表す語形成（＝把握される諸法の側）である。」
+
+────────────────────────
+■ susamāraddhā の釈
+────────────────────────
+
+21. Cattāro susamāraddhāti cattāro susamāraddhatthāti vuttaṃ hoti, atthasaddassa lopo daṭṭhabbo.
+
+  * cattāro susamāraddhā ti = 「『四つの〈よく実践された〉』とは」
+  * cattāro susamāraddha-atthā ti = 「『四つの〈よく実践されたという意味〉』という（こと）」（attha 意味）
+  * vuttaṃ hoti = 「と言われたことになる」
+  * attha-saddassa lopo = 「『attha（意味）』の語の省略」
+  * daṭṭhabbo = 「と見るべきである」
+    → 「『四つの〈よく実践された〉』とは、『四つの〈よく実践されたという意味〉』と言われたことになる。『attha（意味）』の語の省略があると見るべきである。」
+
+22. Susamāraddhāti padassa atthāpi hi idha susamāraddhāti vuttāti veditabbā, susamāraddhadhammā vā.
+
+  * susamāraddhā ti padassa atthā pi hi = 「『よく実践された』という語の諸々の意味もまた」
+  * idha susamāraddhā ti vuttā = 「ここでは『susamāraddhā』と言われた」
+  * ti veditabbā = 「と知るべきである」
+  * susamāraddha-dhammā vā = 「あるいは『よく実践された諸法』（と）」
+    → 「『よく実践された』という語の諸々の意味もまた、ここでは『susamāraddhā』と言われた、と知るべきである。あるいは『よく実践された諸法』（の意とも解しうる）。」
+
+23. Caturatthabhedato cattāroti vuttāti veditabbā, na dhammabhedato.
+
+  * catur-attha-bhedato = 奪格「四つの意味の区別によって」（catu 四＋attha 意味＋bheda 区別）
+  * cattāro ti vuttā = 「『四つ』と言われた」
+  * ti veditabbā = 「と知るべきである」
+  * na dhamma-bhedato = 「法の区別によってではない」
+    → 「（これらは）四つの意味の区別によって『四つ』と言われたと知るべきであって、法（実体）の区別によるのではない。」
+
+24. Yasmā pana subhāvitāyeva susamāraddhā honti, na aññe, tasmā tayo bhāvanatthā idhāpi vuttā.
+
+  * yasmā pana = 「ところで、～であるから」
+  * subhāvitā yeva susamāraddhā honti = 「よく修習されたものこそが、よく実践されたものである」
+  * na aññe = 「他のものではない」
+  * tasmā = 「それゆえ」
+  * tayo bhāvana-atthā = 「三つの修習の意味（anativattana・ekarasa・tadupagavīriyavāhana）」
+  * idha pi vuttā = 「ここでも説かれた」
+    → 「ところで、よく修習されたものこそがよく実践されたものであって他のものではないから、（先の）三つの修習の意味が、ここ（susamāraddhā）でも説かれた。」
+
+25. Āsevanatthopi tīsu vuttesu vuttoyeva hoti, tasmā taṃ avatvā tappaccanīkānaṃ susamūhatattho vutto.
+
+  * āsevana-attho pi = 「『習修』という意味もまた」（āsevana 習修）
+  * tīsu vuttesu = 絶対処格「（先の）三つが説かれたとき」
+  * vutto yeva hoti = 「すでに説かれたことになる」
+  * tasmā taṃ avatvā = 「それゆえそれ（習修の意味）を述べずに」
+  * tappaccanīkānaṃ susamūhata-attho = 「それに敵対するものが根絶されたという意味」（susamūhata よく根絶された）
+  * vutto = 「説かれた」
+    → 「『習修』という意味もまた、（先の）三つが説かれたときにすでに説かれたことになる。それゆえそれ（習修の意味）を改めて述べずに、（第四として）『それに敵対するものが根絶された』という意味が説かれた。」
+
+26. Paccanīkasamugghātena hi āraddhapariyosānaṃ paññāyati, tena susamāraddhassa sikhāppatto attho vutto hoti.
+
+  * paccanīka-samugghātena = 具格「敵対するもの（対治すべきもの）の根絶によって」（paccanīka 対敵＋samugghāta 根絶）
+  * āraddha-pariyosānaṃ = 「実践の完結（終局）」（āraddha 着手・実践＋pariyosāna 完結）
+  * paññāyati = 「知られる・明らかになる」
+  * tena = 「それによって」
+  * susamāraddhassa sikhā-ppatto attho = 「『よく実践された』ことの頂点に達した意味」（sikhā 頂＋patta 達した）
+  * vutto hoti = 「説かれたことになる」
+    → 「敵対するもの（煩悩）の根絶によってこそ、実践の完結（終局）が明らかになる。それによって、『よく実践された』ことの頂点に達した意味が説かれたことになる。」
+
+27. Tattha tappaccanīkānanti tesaṃ jhānavipassanāmaggānaṃ paṭipakkhabhūtānaṃ.
+
+  * tattha = 「そこで」
+  * tappaccanīkānaṃ ti = 「『それに敵対するもの（の）』とは」
+  * tesaṃ jhāna-vipassanā-maggānaṃ = 属格「それら禅・観・道の」
+  * paṭipakkha-bhūtānaṃ = 属格「対立するものとなっている（もの）の」（paṭipakkha 対立＋bhūta なった）
+    → 「そこで『それに敵対するもの（の）』とは、それら禅・観・道に対立するものとなっているもの（の）、ということである。」
+
+28. Kilesānanti kāmacchandādīnaṃ niccasaññādisampayuttānaṃ sakkāyadiṭṭhādīnañca.
+
+  * kilesānaṃ ti = 「『諸煩悩の』とは」
+  * kāmacchanda-ādīnaṃ = 属格・複数「欲貪などの」（kāmacchanda 欲貪＋ādi など）
+  * nicca-saññā-ādi-sampayuttānaṃ = 属格「常想などと相応するものの」（niccasaññā 常想＋sampayutta 相応した）
+  * sakkāya-diṭṭhi-ādīnaṃ ca = 「有身見などの（も）」（sakkāyadiṭṭhi 有身見）
+    → 「『諸煩悩の』とは、欲貪など（の蓋）、常想などと相応するもの、および有身見など（の見）の、ということである。」
+
+29. Susamūhatattāti vikkhambhanatadaṅgasamucchedavasena suṭṭhu samūhatattā nāsitattā.
+
+  * susamūhatattā ti = 「『よく根絶されているがゆえに』とは」
+  * vikkhambhana-tadaṅga-samuccheda-vasena = 「鎮伏（伏断）・彼分（部分的断）・正断（断滅）の形で」（vikkhambhana 鎮伏＋tadaṅga 彼分＋samuccheda 正断）
+  * suṭṭhu samūhatattā = 「よく根絶されていることのゆえに」（samūhata 根絶された＋tā）
+  * nāsitattā = 「滅ぼされていることのゆえに」（nāsita 滅ぼされた＋tā）
+    → 「『よく根絶されているがゆえに』とは、鎮伏（伏断）・彼分断・正断という形で、よく根絶され、滅ぼされていることのゆえに、ということである。」
+
+30. Potthakesu pana ‘‘susamugghātattā’’ti likhanti, taṃ na sundaraṃ.
+
+  * potthakesu pana = 「ところで諸写本（諸本）においては」（potthaka 書物・写本）
+  * susamugghāta-ttā ti likhanti = 「『susamugghātattā（よく根絶されたことのゆえに）』と書かれている」（likhanti 三複・書く）〔異読：susamugghātattā（写本)〕
+  * taṃ na sundaraṃ = 「それは適切でない（よくない）」（sundara 良い・美しい）
+    → 「ところで諸写本では『susamugghātattā』と書かれているが、それは適切でない。」
+
+## 161 (1)
+
+161. Puna tasseva padassa aññampi atthavikappaṃ dassento susamantiādimāha. Tattha tattha jātāti tasmiṃ sikhāppattabhāvanāvisese jātā. Anavajjāti kilesānaṃ ārammaṇabhāvānupagamanena kilesadosavirahitā. Kusalāti jātivasena kusalā. Bodhipakkhiyāti bujjhanaṭṭhena bodhīti laddhanāmassa ariyassa pakkhe bhavattā bodhipakkhiyā. Pakkhe bhavattāti hi upakārabhāve ṭhitattā. Te ca ‘‘cattāro satipaṭṭhānā, cattāro sammappadhānā, cattāro iddhipādā, pañcindriyāni, pañca balāni, satta bojjhaṅgā, ariyo aṭṭhaṅgiko maggo’’ti (ma. ni. 3.35; cūḷani. mettagūmāṇavapucchāniddesa 22; mi. pa. 5.4.1) sattatiṃsa dhammā. Idaṃ samanti idaṃ maggakkhaṇe dhammajātaṃ samucchedavasena kilese sameti vināsetīti samaṃ nāma. Nirodhonibbānanti dukkhanirodhattā nirodho, vānasaṅkhātāya taṇhāya abhāvā nibbānaṃ. Idaṃ susamanti idaṃ nibbānaṃ sabbasaṅkhatavisamāpagatattā suṭṭhu samanti susamaṃ nāma. Ñātanti bodhipakkhiyasaṅkhātaṃ samaṃ asammohato ñāṇena ñātaṃ, nibbānasaṅkhātaṃ susamaṃ ārammaṇato ñāṇena ñātaṃ. Tadeva dvayaṃ teneva cakkhunā viya diṭṭhaṃ. Viditanti tadeva dvayaṃ santāne uppādanena ārammaṇakaraṇena ca paṭiladdhaṃ. Ñātaṃ viya paññāya sacchikataṃ phassitañca. ‘‘Asallīnaṃ asammuṭṭhā asāraddho ekagga’’nti purimassa purimassa padassa atthappakāsanaṃ. Tattha āraddhanti paṭṭhapitaṃ. Asallīnanti asaṅkucitaṃ. Upaṭṭhitāti upagantvā ṭhitā. Asammuṭṭhāti avinaṭṭhā. Passaddhoti nibbuto. Asāraddhoti niddaratho. Samāhitanti samaṃ ṭhapitaṃ. Ekagganti avikkhittaṃ.
+
+‘‘Cattāro susamāraddhā’’tiādi sakalassa susamāraddhavacanassa mūlattho. ‘‘Atthi sama’’ntiādi pana susamavacanassa, ‘‘ñāta’’ntiādi āraddhavacanassa vikappatthā. Tatthāyaṃ padatthasaṃsandanā – ‘‘samā ca susamā ca samasusamā’’ti vattabbe ekadesasarūpekasesaṃ katvā ‘‘susamā’’ icceva vuttā yathā nāmañca rūpañca nāmarūpañca nāmarūpanti. ‘‘Idaṃ samaṃ, idaṃ susama’’nti pana anaññāpekkhaṃ katvā napuṃsakavacanaṃ kataṃ. Yasmā pana ñātampi diṭṭhanti vuccati, diṭṭhañca āraddhañca atthato ekaṃ. Viditasacchikataphassitāni pana ñātavevacanāni, tasmā ñātanti āraddhatthoyeva vutto hoti.
+
+### Claude
+
+- 2026/06/29
+- Claude Opus 4.8 High
+
+### 対訳
+
+────────────────────────────
+■ 註釈導入
+────────────────────────────
+
+1. Puna tasseva padassa aññampi atthavikappaṃ dassento susamantiādimāha.
+
+  * puna ＝「さらに・また」
+  * tasseva padassa ＝「まさにその語（＝susamāraddhā）の」（tassa eva padassa）
+  * aññampi atthavikappaṃ ＝「別の意味の区分をも」（añña＋api＋atthavikappa＝義の区分）
+  * dassento ＝「示しつつ」（dasseti 現在分詞）
+  * susamantiādimāha ＝「『susama』等と言った」（susamaṃ iti ādiṃ āha）
+
+→「さらに〔註釈者は〕、まさにその語の別の意味の区分をも示しつつ、『susama……』等と言った。」
+
+────────────────────────────
+■ 個別語の註釈
+────────────────────────────
+
+2. Tattha tattha jātāti tasmiṃ sikhāppattabhāvanāvisese jātā.
+
+  * tattha ＝「そこ（先の本文）において」
+  * "tattha jātā"ti ＝「『そこに生じた』とは」（被釈語）
+  * tasmiṃ sikhāppattabhāvanāvisese ＝「その、頂点に達した修習の特別な状態において」
+    * sikhā＝頂・頂点／patta＝達した／bhāvanā＝修習／visesa＝特別な状態（すぐれた境地）
+  * jātā ＝「生じた」
+
+→「『そこに生じた』とは、その、頂点に達した修習の特別な状態において生じた〔という意味である〕。」
+
+3. Anavajjāti kilesānaṃ ārammaṇabhāvānupagamanena kilesadosavirahitā.
+
+  * anavajjā ti ＝「『無罪の（咎なき）』とは」
+  * kilesānaṃ ārammaṇabhāvānupagamanena ＝「諸煩悩の所縁となること（対象であること）に至らないことによって」
+    * kilesa＝煩悩／ārammaṇabhāva＝所縁性／anupagamana＝至らないこと（an＋upagamana）
+  * kilesadosavirahitā ＝「煩悩という過失を離れたもの」（kilesadosa＝煩悩の過失／virahita＝離れた）
+
+→「『無罪の』とは、諸煩悩の所縁となることに至らないことによって、煩悩という過失を離れたものである。」
+
+4. Kusalāti jātivasena kusalā.
+
+  * kusalā ti ＝「『善の』とは」
+  * jātivasena ＝「種類（生）の点で・性質上」
+  * kusalā ＝「善である」
+
+→「『善の』とは、性質（生）の点で善であるもの〔という意味である〕。」
+
+5. Bodhipakkhiyāti bujjhanaṭṭhena bodhīti laddhanāmassa ariyassa pakkhe bhavattā bodhipakkhiyā.
+
+  * bodhipakkhiyā ti ＝「『菩提分の』とは」
+  * bujjhanaṭṭhena ＝「覚るという意味で」（bujjhana＝覚ること／aṭṭha＝義）
+  * bodhī ti laddhanāmassa ＝「『bodhi（菩提）』という名を得た」（laddha＝得た／nāma＝名）
+  * ariyassa ＝「聖なるもの（聖者・聖道）の」
+  * pakkhe bhavattā ＝「側（味方）にあることから」（pakkha＝側／bhavattā＝あること）
+  * bodhipakkhiyā ＝「菩提分（菩提の側にあるもの）」
+
+→「『菩提分の』とは、覚るという意味で『bodhi（菩提）』という名を得た聖なるもの（聖者）の側にあることから、『bodhipakkhiya（菩提分）』である。」
+
+6. Pakkhe bhavattāti hi upakārabhāve ṭhitattā.
+
+  * pakkhe bhavattā ti hi ＝「『側にあること』とは、すなわち」
+  * upakārabhāve ṭhitattā ＝「助力する状態にあることから」（upakāra＝助益／bhāva＝状態／ṭhita＝ある／ṭhitattā＝あることから）
+
+→「『側にあること』とは、すなわち〔菩提に対して〕助力する状態にあることから〔そう言われる〕。」
+
+7. Te ca "cattāro satipaṭṭhānā, cattāro sammappadhānā, cattāro iddhipādā, pañcindriyāni, pañca balāni, satta bojjhaṅgā, ariyo aṭṭhaṅgiko maggo"ti sattatiṃsa dhammā.
+
+  * te ca ＝「そしてそれらは」
+  * cattāro satipaṭṭhānā ＝「四念処」
+  * cattāro sammappadhānā ＝「四正勤」
+  * cattāro iddhipādā ＝「四神足」
+  * pañcindriyāni ＝「五根」
+  * pañca balāni ＝「五力」
+  * satta bojjhaṅgā ＝「七覚支」
+  * ariyo aṭṭhaṅgiko maggo ＝「八支聖道（八正道）」
+  * sattatiṃsa dhammā ＝「三十七法」
+
+→「そしてそれらは『四念処・四正勤・四神足・五根・五力・七覚支・八支聖道』という三十七法である。」
+
+8. Idaṃ samanti idaṃ maggakkhaṇe dhammajātaṃ samucchedavasena kilese sameti vināsetīti samaṃ nāma.
+
+  * idaṃ samaṃ ti ＝「『これが等（sama）である』とは」
+  * idaṃ maggakkhaṇe dhammajātaṃ ＝「この、道の刹那における法の類い（生じた諸法）」（maggakkhaṇa＝道刹那／dhammajāta＝生じた諸法）
+  * samucchedavasena ＝「正断（断ち切り）の力によって」（samuccheda＝正断）
+  * kilese sameti vināseti ti ＝「煩悩を静め（sameti）、滅ぼす、というので」
+    * 〔語源的説明：sama は sameti（静める・等しくする）に由来〕
+  * samaṃ nāma ＝「『sama（等）』と名づけられる」
+
+→「『これが等（sama）である』とは、この、道の刹那における諸法が、正断の力によって煩悩を静め（sameti）・滅ぼすので、『sama（等）』と名づけられる〔という意味である〕。」
+
+9. Nirodhonibbānanti dukkhanirodhattā nirodho, vānasaṅkhātāya taṇhāya abhāvā nibbānaṃ.
+
+  * nirodho nibbānaṃ ti ＝「『滅・涅槃』とは」
+  * dukkhanirodhattā nirodho ＝「苦を滅することから『滅（nirodha）』」（dukkhanirodha＝苦の滅）
+  * vānasaṅkhātāya taṇhāya abhāvā nibbānaṃ ＝「『vāna（縫合・織り＝再生を結びつけるもの）』と呼ばれる渇愛が無いことから『涅槃（nibbāna）』」
+    * vāna＝縫い合わせ・縺れ／saṅkhāta＝～と呼ばれる／taṇhā＝渇愛／abhāva＝無いこと（nir＋vāna＝nibbāna）
+
+→「『滅・涅槃』とは、苦を滅することから『滅（nirodha）』〔であり〕、『vāna（縺れ＝渇愛）』と呼ばれる渇愛が無いことから『涅槃（nibbāna）』〔である〕。」
+
+10. Idaṃ susamanti idaṃ nibbānaṃ sabbasaṅkhatavisamāpagatattā suṭṭhu samanti susamaṃ nāma.
+
+  * idaṃ susamaṃ ti ＝「『これが善等（susama）である』とは」
+  * idaṃ nibbānaṃ ＝「この涅槃は」
+  * sabbasaṅkhatavisamāpagatattā ＝「一切の有為という不等（不均衡・険しさ）を離れていることから」
+    * sabbasaṅkhata＝一切の有為／visama＝不等・険しさ／apagata＝離れた／apagatattā＝離れていることから
+  * suṭṭhu samaṃ ti ＝「善く等しい、というので」（suṭṭhu＝善く／sama＝等）
+  * susamaṃ nāma ＝「『susama（善等）』と名づけられる」
+
+→「『これが善等（susama）である』とは、この涅槃は、一切の有為という不等を離れているがゆえに善く等しいので、『susama（善等）』と名づけられる〔という意味である〕。」
+
+11. Ñātanti bodhipakkhiyasaṅkhātaṃ samaṃ asammohato ñāṇena ñātaṃ, nibbānasaṅkhātaṃ susamaṃ ārammaṇato ñāṇena ñātaṃ.
+
+  * ñātaṃ ti ＝「『知られた』とは」
+  * bodhipakkhiyasaṅkhātaṃ samaṃ ＝「菩提分と呼ばれる『sama（等）』は」
+  * asammohato ＝「無痴の点で（迷わないことによって）」（a＋sammoha＝無痴）
+  * ñāṇena ñātaṃ ＝「智によって知られた」
+  * nibbānasaṅkhātaṃ susamaṃ ＝「涅槃と呼ばれる『susama（善等）』は」
+  * ārammaṇato ＝「所縁の点で（対象として）」
+  * ñāṇena ñātaṃ ＝「智によって知られた」
+
+→「『知られた』とは、菩提分と呼ばれる『sama（等）』は無痴の点で智によって知られ、涅槃と呼ばれる『susama（善等）』は所縁として智によって知られた〔という意味である〕。」
+
+12. Tadeva dvayaṃ teneva cakkhunā viya diṭṭhaṃ.
+
+  * tadeva dvayaṃ ＝「まさにその二つ（sama と susama の二者）が」
+  * teneva cakkhunā viya ＝「まさにその眼（智の眼）によってのように」（teneva＝それによって／cakkhu＝眼／viya＝～のように）
+  * diṭṭhaṃ ＝「見られた」
+
+→「まさにその二つが、まさにその〔智の〕眼によって見るかのように、見られた〔のが『見られた』である〕。」
+
+13. Viditanti tadeva dvayaṃ santāne uppādanena ārammaṇakaraṇena ca paṭiladdhaṃ.
+
+  * viditaṃ ti ＝「『了知された』とは」
+  * tadeva dvayaṃ ＝「まさにその二つが」
+  * santāne uppādanena ＝「相続において生起させることによって」（santāna＝相続／uppādana＝生起させること）
+  * ārammaṇakaraṇena ca ＝「また所縁とすること（対象とすること）によって」
+  * paṭiladdhaṃ ＝「獲得された」
+
+→「『了知された』とは、まさにその二つが、相続において〔sama を〕生起させることによって、また〔susama を〕所縁とすることによって獲得された〔という意味である〕。」
+
+14. Ñātaṃ viya paññāya sacchikataṃ phassitañca.
+
+  * ñātaṃ viya ＝「『知られた』と同様に」
+  * paññāya ＝「慧によって」
+  * sacchikataṃ ＝「作証された」
+  * phassitañca ＝「また触れられた（接触された）」
+
+→「『知られた』と同様に、慧によって作証され、また触れられた〔という意味である〕。」
+
+15. "Asallīnaṃ asammuṭṭhā asāraddho ekagga"nti purimassa purimassa padassa atthappakāsanaṃ.
+
+  * "asallīnaṃ asammuṭṭhā asāraddho ekaggaṃ" ti ＝「『退縮なき・忘失なき・焦燥なき・一境の』というのは」
+  * purimassa purimassa padassa ＝「それぞれの先行する語の（個々の先の語の）」
+  * atthappakāsanaṃ ＝「意味の明示（説明）」（attha＝義／pakāsana＝明示）
+
+→「『退縮なき・忘失なき・焦燥なき・一境の』というのは、それぞれ直前の語の意味の明示である。」
+
+16. Tattha āraddhanti paṭṭhapitaṃ. Asallīnanti asaṅkucitaṃ. Upaṭṭhitāti upagantvā ṭhitā. Asammuṭṭhāti avinaṭṭhā. Passaddhoti nibbuto. Asāraddhoti niddaratho. Samāhitanti samaṃ ṭhapitaṃ. Ekagganti avikkhittaṃ.
+
+  * tattha ＝「そのうち」
+  * āraddhaṃ ti paṭṭhapitaṃ ＝「『発動された』とは、確立された（起こされた）」
+  * asallīnaṃ ti asaṅkucitaṃ ＝「『退縮なき』とは、萎縮していない」
+  * upaṭṭhitā ti upagantvā ṭhitā ＝「『確立した』とは、近づいて立った（現前して立っている）」
+  * asammuṭṭhā ti avinaṭṭhā ＝「『忘失なき』とは、失われていない」
+  * passaddho ti nibbuto ＝「『軽安となった』とは、静まった（寂静となった）」
+  * asāraddho ti niddaratho ＝「『焦燥なき』とは、苦悩なき（nis＋daratha＝焦慮なき）」
+  * samāhitaṃ ti samaṃ ṭhapitaṃ ＝「『等持された』とは、平等に（適切に）置かれた」
+  * ekaggaṃ ti avikkhittaṃ ＝「『一境の』とは、散乱していない」
+
+→「そのうち、『発動された』とは確立されたこと、『退縮なき』とは萎縮していないこと、『確立した』とは近づいて立っていること（現前していること）、『忘失なき』とは失われていないこと、『軽安となった』とは静まったこと、『焦燥なき』とは苦悩なきこと、『等持された』とは平等に置かれたこと、『一境の』とは散乱していないことである。」
+
+────────────────────────────
+■ 語の構成と相互関係の解説
+────────────────────────────
+
+17. "Cattāro susamāraddhā"tiādi sakalassa susamāraddhavacanassa mūlattho.
+
+  * "cattāro susamāraddhā" ti ādi ＝「『四つの善く発動された〔精勤〕』等は」
+  * sakalassa susamāraddhavacanassa ＝「susamāraddha という語全体の」（sakala＝全体の／vacana＝語）
+  * mūlattho ＝「根本義（本来の意味）」（mūla＝根本／attha＝義）
+
+→「『四つの善く発動された〔精勤〕』等は、susamāraddha という語全体の根本義である。」
+
+18. "Atthi sama"ntiādi pana susamavacanassa, "ñāta"ntiādi āraddhavacanassa vikappatthā.
+
+  * "atthi samaṃ" ti ādi pana ＝「しかし『等がある』等は」
+  * susamavacanassa ＝「susama という語の」
+  * "ñātaṃ" ti ādi ＝「『知られた』等は」
+  * āraddhavacanassa ＝「āraddha（発動された）という語の」
+  * vikappatthā ＝「別解の義（別の解釈としての意味）」（vikappa＝区分・別解／attha＝義）
+
+→「しかし『等がある〔善等がある〕』等は susama という語の、『知られた』等は āraddha という語の、別解としての意味である。」
+
+19. Tatthāyaṃ padatthasaṃsandanā – "samā ca susamā ca samasusamā"ti vattabbe ekadesasarūpekasesaṃ katvā "susamā" icceva vuttā yathā nāmañca rūpañca nāmarūpañca nāmarūpanti.
+
+  * tatthāyaṃ padatthasaṃsandanā ＝「そこで、これが語義の照合（突き合わせ）である」（padattha＝語義／saṃsandanā＝照合）
+  * "samā ca susamā ca samasusamā" ti vattabbe ＝「『sama（等）と susama（善等）とで sama-susama』と言うべきところを」（vattabbe＝言われるべきとき）
+  * ekadesasarūpekasesaṃ katvā ＝「一部が同形であるものについての一者残し（ekasesa：同形語を一語に約める文法操作）を行って」
+    * ekadesa＝一部分／sarūpa＝同形／ekasesa＝一者残し
+  * "susamā" icceva vuttā ＝「『susamā』とだけ言われた」
+  * yathā ＝「～のように」
+  * "nāmañca rūpañca nāmarūpañca nāmarūpaṃ" ti ＝「『nāma（名）と rūpa（色）と nāmarūpa（名色）とで nāmarūpa（名色）』というように」
+
+→「そこで、これが語義の照合である——『sama と susama とで sama-susama』と言うべきところを、一部同形における一者残し（ekasesa）を行って『susamā』とだけ言ったのである。ちょうど『nāma と rūpa と nāmarūpa とで nāmarūpa』〔と約める〕ように。」
+
+20. "Idaṃ samaṃ, idaṃ susama"nti pana anaññāpekkhaṃ katvā napuṃsakavacanaṃ kataṃ.
+
+  * "idaṃ samaṃ, idaṃ susamaṃ" ti pana ＝「しかし『これが等、これが善等』というのは」
+  * anaññāpekkhaṃ katvā ＝「他を顧みないもの（他に依存させないもの）として」（an＋añña＋apekkha＝他を期待しない）
+  * napuṃsakavacanaṃ kataṃ ＝「中性形（中性単数）としてなされた」（napuṃsaka＝中性／vacana＝語形）
+
+→「しかし『これが等、これが善等』というのは、他〔の語（複数・男性の諸法）〕に依存させずに、中性形としてなされたのである。」
+
+21. Yasmā pana ñātampi diṭṭhanti vuccati, diṭṭhañca āraddhañca atthato ekaṃ.
+
+  * yasmā pana ＝「しかるに～であるから」
+  * ñātampi diṭṭhaṃ ti vuccati ＝「知られたものもまた『見られた』と言われる」
+  * diṭṭhañca āraddhañca atthato ekaṃ ＝「そして『見られた』と『発動された』とは意味の上で一つである」（atthato＝義の点で／ekaṃ＝一つ）
+
+→「しかるに、知られたものもまた『見られた』と言われ、そして『見られた』と『発動された』とは意味の上で一つであるから、」
+
+22. Viditasacchikataphassitāni pana ñātavevacanāni, tasmā ñātanti āraddhatthoyeva vutto hoti.
+
+  * viditasacchikataphassitāni pana ＝「しかし『了知された・作証された・触れられた』は」（vidita＋sacchikata＋phassita）
+  * ñātavevacanāni ＝「『知られた（ñāta）』の同義語である」（vevacana＝同義語）
+  * tasmā ＝「それゆえ」
+  * ñātaṃ ti ＝「『知られた』というのは」
+  * āraddhatthoyeva vutto hoti ＝「まさに『発動された（āraddha）』の義として言われたことになる」（āraddhattha＝āraddha の義／eva＝まさに）
+
+→「そして『了知された・作証された・触れられた』は『知られた』の同義語であるから、それゆえ『知られた』というのは、まさに『発動された』の義として言われたことになる〔のである〕。」
+
+## 161 (2)
+
+Āraddhaṃ hoti vīriyaṃ asallīnanti ayaṃ pana āraddhavacanassa ujukatthoyeva. Upaṭṭhitā satītiādīni pana sampayuttavīriyassa upakārakadhammadassanatthaṃ vuttāni, na āraddhavacanassa atthadassanatthaṃ. Purimena atthena suṭṭhu samāraddhāti susamāraddhā ca, iminā atthena susamā āraddhāti susamāraddhā ca ekasese kate ‘‘susamāraddhā’’ti vuccanti. Imamatthaṃ pariggahetvā ‘‘tena vuccati susamāraddhā’’ti vuttaṃ.
+
+Anupubbanti yathānukkamenāti attho, pubbaṃ pubbaṃ anūti vuttaṃ hoti. Dīghaṃ assāsavasenāti dīghanti vuttaassāsavasena. Purimā purimāti purimā purimā sati. Etena pubbantipadassa attho vutto hoti. Pacchimā pacchimāti satiyeva. Etena anūtipadassa attho vutto hoti. Ubhayena pubbañca anu ca paricitāti attho vutto hoti. Upari soḷasa vatthūni vitthāretvā vacanato idha saṅkhipitvā ‘‘paṭinissaggānupassī’’ti antimameva dassitaṃ. Yasmā sikhāppattabhāvanassa sabbāpi ānāpānassatiyo punappunaṃ yathāruci pavattanato anuparicitāpi honti. Tena vuttaṃ – ‘‘aññamaññaṃ paricitā ceva honti anuparicitā cā’’ti.
+
+Yathatthāti yathāsabhāvatthā. Attadamathatthoti arahattamaggakkhaṇe attano nibbisevanattho. Samathatthoti sītibhāvattho. Parinibbāpanatthoti kilesaparinibbānena. Abhiññatthoti sabbadhammavasena. Pariññatthādayo maggañāṇakiccavasena. Saccābhisamayattho catunnaṃ saccānaṃ ekapaṭivedhadassanavasena. Nirodhe patiṭṭhāpakattho ārammaṇakaraṇavasena.
+
+Buddhotipadassa abhāvepi buddhenātipade yo so buddho, taṃ niddisitukāmena buddhoti vuttaṃ. Sayambhūti upadesaṃ vinā sayameva bhūto. Anācariyakoti sayambhūpadassa atthavivaraṇaṃ. Yo hi ācariyaṃ vinā saccāni paṭivijjhati, so sayambhū nāma hoti. Pubbe ananussutesūtiādi anācariyakabhāvassa atthappakāsanaṃ. Ananussutesūti ācariyaṃ ananussutesu. Sāmanti sayameva. Abhisambujjhīti bhusaṃ sammā paṭivijjhi. Tattha ca sabbaññutaṃ pāpuṇīti tesu ca saccesu sabbaññubhāvaṃ pāpuṇi. Yathā saccāni paṭivijjhantā sabbaññuno honti, tathā saccānaṃ paṭividdhattā evaṃ vuttaṃ. Sabbaññutaṃ pattotipi pāṭho. Balesu ca vasībhāvanti dasasu ca tathāgatabalesu issarabhāvaṃ pāpuṇi. Yo so evaṃ bhūto, so buddhoti vuttaṃ hoti. Tattha sabbesu dhammesu appaṭihatañāṇanimittānuttaravimokkhādhigamaparibhāvitaṃ khandhasantānaṃ upādāya paṇṇattiko, sabbaññutapadaṭṭhānaṃ vā saccābhisambodhimupādāya paṇṇattiko sattaviseso buddho. Ettāvatā atthato buddhavibhāvanā katā hoti.
+
+### Claude
+
+- 2026/06/29
+- Claude Opus 4.8 High
+
+### 対訳
+
+■ susamāraddhā の語義解説（承前）
+
+1. Āraddhaṃ hoti vīriyaṃ asallīnanti ayaṃ pana āraddhavacanassa ujukatthoyeva.
+
+  * "āraddhaṃ hoti vīriyaṃ asallīnan"ti ＝「『精進が発動されて退縮なき』とは」（被釈語）
+  * ayaṃ pana ＝「しかしこれは」
+  * āraddhavacanassa ＝「āraddha（発動された）という語の」
+  * ujukatthoyeva ＝「まさに直接の意味（直義）である」（ujuka＝まっすぐな・直の／attha＝義／eva＝まさに）
+
+→「『精進が発動されて退縮なき』とは、しかしこれは āraddha（発動された）という語のまさに直接の意味（直義）である。」
+
+2. Upaṭṭhitā satītiādīni pana sampayuttavīriyassa upakārakadhammadassanatthaṃ vuttāni, na āraddhavacanassa atthadassanatthaṃ.
+
+  * "upaṭṭhitā satī"ti ādīni pana ＝「しかし『念が確立して』等は」
+  * sampayuttavīriyassa ＝「相応する精進にとって」（sampayutta＝相応の／vīriya＝精進）
+  * upakārakadhammadassanatthaṃ ＝「助益する法を示すために」（upakāraka＝助益する／dhamma＝法／dassana＝示すこと／attha＝目的）
+  * vuttāni ＝「言われた」
+  * na āraddhavacanassa atthadassanatthaṃ ＝「āraddha という語の意味を示すためではない」
+
+→「しかし『念が確立して』等は、相応する精進に助益する法を示すために言われたのであって、āraddha（発動された）という語の意味を示すためではない。」
+
+3. Purimena atthena suṭṭhu samāraddhāti susamāraddhā ca, iminā atthena susamā āraddhāti susamāraddhā ca ekasese kate "susamāraddhā"ti vuccanti.
+
+  * purimena atthena ＝「先の意味によれば」
+  * suṭṭhu samāraddhā ti ＝「『善く（suṭṭhu）発動された（samāraddhā）』というので」
+  * susamāraddhā ca ＝「susamāraddhā ともなり」
+  * iminā atthena ＝「この意味によれば」
+  * susamā āraddhā ti ＝「『善等（susamā）が発動された（āraddhā）』というので」
+  * susamāraddhā ca ＝「susamāraddhā ともなる」
+  * ekasese kate ＝「〔同形の〕一者残し（ekasesa）がなされて」
+  * "susamāraddhā"ti vuccanti ＝「『susamāraddhā』と言われる」
+
+→「先の意味によれば『善く（suṭṭhu）発動された（samāraddhā）』というので susamāraddhā となり、この意味によれば『善等（susamā）が発動された（āraddhā）』というので susamāraddhā となり、〔両者の〕一者残しがなされて『susamāraddhā』と言われる。」
+
+4. Imamatthaṃ pariggahetvā "tena vuccati susamāraddhā"ti vuttaṃ.
+
+  * imamatthaṃ pariggahetvā ＝「この意味を把握して」（pariggahetvā＝把握して）
+  * "tena vuccati susamāraddhā"ti vuttaṃ ＝「『それゆえに susamāraddhā と言われる』と言われた」
+
+→「この意味を把握して、『それゆえに susamāraddhā と言われる』と言われたのである。」
+
+■ anupubba（順次）の語義解説
+
+5. Anupubbanti yathānukkamenāti attho, pubbaṃ pubbaṃ anūti vuttaṃ hoti.
+
+  * anupubbaṃ ti ＝「『順次に（anupubba）』とは」（複合：anu＝～に従って＋pubba＝先）
+  * yathānukkamena ti attho ＝「『順序のとおりに』という意味である」（yathānukkama＝順序のとおり）
+  * pubbaṃ pubbaṃ anū ti vuttaṃ hoti ＝「『先のもの先のものに従って（anu）』と言われたことになる」
+
+→「『順次に（anupubba）』とは、『順序のとおりに』という意味である。『先のもの先のものに従って（anu）』と言われたことになる。」
+
+6. Dīghaṃ assāsavasenāti dīghanti vuttaassāsavasena.
+
+  * "dīghaṃ assāsavasenā"ti ＝「『長い出息によって』とは」（assāsa＝出息）
+  * dīghaṃ ti vutta-assāsavasena ＝「『長い』と言われた出息によって」（vutta＝言われた／vasena＝～によって）
+
+→「『長い出息によって』とは、『長い』と言われた出息によって〔という意味である〕。」
+
+7. Purimā purimāti purimā purimā sati. Etena pubbantipadassa attho vutto hoti.
+
+  * "purimā purimā"ti ＝「『先のもの先のもの』とは」
+  * purimā purimā sati ＝「先の先の念（個々の先行する念）」
+  * etena ＝「これによって」
+  * pubbaṃ ti padassa ＝「『pubba（先）』という語の」
+  * attho vutto hoti ＝「意味が言われたことになる」
+
+→「『先のもの先のもの』とは、先の先の念〔のことである〕。これによって『pubba（先）』という語の意味が言われたことになる。」
+
+8. Pacchimā pacchimāti satiyeva. Etena anūtipadassa attho vutto hoti.
+
+  * "pacchimā pacchimā"ti ＝「『後のもの後のもの』とは」
+  * satiyeva ＝「まさに〔後続する〕念」
+  * etena ＝「これによって」
+  * anū ti padassa ＝「『anu（～に従って）』という語の」
+  * attho vutto hoti ＝「意味が言われたことになる」
+
+→「『後のもの後のもの』とは、まさに〔後続する〕念〔のことである〕。これによって『anu（～に従って）』という語の意味が言われたことになる。」
+
+9. Ubhayena pubbañca anu ca paricitāti attho vutto hoti.
+
+  * ubhayena ＝「両者によって」
+  * pubbañca anu ca paricitā ti ＝「『先行する点（pubba）でも、それに従う点（anu）でも修習された（paricitā）』という」
+  * attho vutto hoti ＝「意味が言われたことになる」
+
+→「両者によって、『先行する点（pubba）でも、それに従う点（anu）でも修習された』という意味が言われたことになる。」
+
+10. Upari soḷasa vatthūni vitthāretvā vacanato idha saṅkhipitvā "paṭinissaggānupassī"ti antimameva dassitaṃ.
+
+  * upari ＝「上で（先に）」
+  * soḷasa vatthūni ＝「十六事を」
+  * vitthāretvā vacanato ＝「詳説して述べたことから」（vitthāretvā＝詳説して）
+  * idha saṅkhipitvā ＝「ここでは略して」（saṅkhipitvā＝略して）
+  * "paṭinissaggānupassī"ti antimameva dassitaṃ ＝「『捨遣を随観する〔行相〕』という最後のものだけが示された」（antima＝最後の／eva＝だけ）
+
+→「上で十六事を詳説して述べたことから、ここでは略して、『捨遣を随観する〔行相〕』という最後のものだけが示されたのである。」
+
+11. Yasmā sikhāppattabhāvanassa sabbāpi ānāpānassatiyo punappunaṃ yathāruci pavattanato anuparicitāpi honti.
+
+  * yasmā ＝「～であるから」
+  * sikhāppattabhāvanassa ＝「頂点に達した修習をもつ者にとって」（sikhā＝頂／patta＝達した／bhāvana＝修習）
+  * sabbāpi ānāpānassatiyo ＝「すべての出入息念が」
+  * punappunaṃ ＝「繰り返し」
+  * yathāruci ＝「意のままに」（yathā＋ruci＝好みのとおりに）
+  * pavattanato ＝「働くことから」（pavattana＝働き）
+  * anuparicitāpi honti ＝「順次修習されたもの（anuparicitā）ともなる」
+
+→「頂点に達した修習をもつ者にとっては、すべての出入息念が繰り返し意のままに働くことから、順次修習されたもの（anuparicitā）ともなるのである。」
+
+12. Tena vuttaṃ – "aññamaññaṃ paricitā ceva honti anuparicitā cā"ti.
+
+  * tena vuttaṃ ＝「それゆえに言われた」
+  * "aññamaññaṃ paricitā ceva honti anuparicitā cā"ti ＝「『相互に、まさに修習されており、かつ順次修習されている』と」
+
+→「それゆえに『相互に、まさに修習されており、かつ順次修習されている』と言われたのである。」
+
+■ yathattha（如実義）の語義解説
+
+13. Yathatthāti yathāsabhāvatthā.
+
+  * yathatthā ti ＝「『如実義（yathattha）』とは」
+  * yathāsabhāvatthā ＝「ありのままの自性（本性）の義」（yathāsabhāva＝ありのままの自性／attha＝義）
+
+→「『如実義（yathattha）』とは、ありのままの自性（本性）の義である。」
+
+14. Attadamathatthoti arahattamaggakkhaṇe attano nibbisevanattho.
+
+  * attadamathattho ti ＝「『自己調御の義』とは」
+  * arahattamaggakkhaṇe ＝「阿羅漢道の刹那において」（arahattamagga＝阿羅漢道／khaṇa＝刹那）
+  * attano nibbisevanattho ＝「自己が荒々しさを離れること（わがままがなくなること）の義」（nibbisevana＝荒々しさのないこと）
+
+→「『自己調御の義』とは、阿羅漢道の刹那において自己が荒々しさを離れること（わがままがなくなること）の義である。」
+
+15. Samathatthoti sītibhāvattho.
+
+  * samathattho ti ＝「『〔自己〕寂止の義』とは」
+  * sītibhāvattho ＝「清涼となること（涼やかさ）の義」（sītibhāva＝冷涼の状態）
+
+→「『〔自己〕寂止の義』とは、清涼となること（冷涼の境地）の義である。」
+
+16. Parinibbāpanatthoti kilesaparinibbānena.
+
+  * parinibbāpanattho ti ＝「『般涅槃せしめる義』とは」
+  * kilesaparinibbānena ＝「煩悩の般涅槃（煩悩の完全な消滅）によって」（kilesa＝煩悩／parinibbāna＝般涅槃）
+
+→「『般涅槃せしめる義』とは、煩悩の般涅槃（煩悩の完全な消滅）によって〔自己を般涅槃せしめることの義である〕。」
+
+17. Abhiññatthoti sabbadhammavasena. Pariññatthādayo maggañāṇakiccavasena.
+
+  * abhiññattho ti ＝「『証知の義』とは」
+  * sabbadhammavasena ＝「一切法に関して」（sabbadhamma＝一切法）
+  * pariññatthādayo ＝「『遍知の義』等〔遍知・断・修習・作証の四〕は」（pariññattha＋ādayo）
+  * maggañāṇakiccavasena ＝「道智の作用に関して」（maggañāṇa＝道智／kicca＝作用）
+
+→「『証知の義』とは一切法に関して〔のものであり〕、『遍知の義』等〔遍知・断・修習・作証〕は道智の作用に関して〔のものである〕。」
+
+18. Saccābhisamayattho catunnaṃ saccānaṃ ekapaṭivedhadassanavasena.
+
+  * saccābhisamayattho ＝「『諦現観の義』は」（依主釈：sacca＝諦／abhisamaya＝現観）
+  * catunnaṃ saccānaṃ ＝「四つの諦の」
+  * ekapaṭivedhadassanavasena ＝「一なる通達（一時の洞察）を示す点に関して」（ekapaṭivedha＝一つの通達／dassana＝示すこと）
+
+→「『諦現観の義』は、四つの諦を一なる通達によって〔同時に〕洞察すること、それを示す点に関して〔のものである〕。」
+
+19. Nirodhe patiṭṭhāpakattho ārammaṇakaraṇavasena.
+
+  * nirodhe patiṭṭhāpakattho ＝「『滅において住立せしめる義』は」
+  * ārammaṇakaraṇavasena ＝「〔滅を〕所縁とすることに関して」（ārammaṇakaraṇa＝所縁とすること）
+
+→「『滅において住立せしめる義』は、〔滅を〕所縁とすることに関して〔のものである〕。」
+
+■ buddha の語義解説
+
+20. Buddhotipadassa abhāvepi buddhenātipade yo so buddho, taṃ niddisitukāmena buddhoti vuttaṃ.
+
+  * "buddho"ti padassa abhāvepi ＝「『buddha』という語が〔本文に〕無くても」（abhāva＝無いこと）
+  * "buddhenā"ti pade ＝「『buddhena（仏によって）』という語のうちに」
+  * yo so buddho ＝「およそかの buddha〔がある、その者〕」
+  * taṃ niddisitukāmena ＝「それを指示しようと欲して」（niddisitukāma＝指示しようと欲する）
+  * "buddho"ti vuttaṃ ＝「『buddha』と言われた」
+
+→「『buddha』という語が〔本文に〕無くても、『buddhena（仏によって）』という語のうちにある、かの buddha——それを指示しようと欲して、〔註釈者は被釈語として〕『buddha』と言ったのである。」
+
+21. Sayambhūti upadesaṃ vinā sayameva bhūto.
+
+  * sayambhū ti ＝「『自存者（sayambhū）』とは」（sayaṃ＝自ら＋bhū＝在る・成る）
+  * upadesaṃ vinā ＝「教示なしに」（upadesa＝教示／vinā＝～なしに）
+  * sayameva bhūto ＝「自らだけで成った者」
+
+→「『自存者（sayambhū）』とは、〔他者の〕教示なしに、自らだけで〔覚りに〕成った者〔である〕。」
+
+22. Anācariyakoti sayambhūpadassa atthavivaraṇaṃ. Yo hi ācariyaṃ vinā saccāni paṭivijjhati, so sayambhū nāma hoti.
+
+  * anācariyako ti ＝「『師なき者（anācariyaka）』とは」（an＝無＋ācariya＝師＋ka）
+  * sayambhūpadassa atthavivaraṇaṃ ＝「『sayambhū（自存者）』という語の意味の解説」（atthavivaraṇa＝義の解説）
+  * yo hi ＝「およそ～である者は」
+  * ācariyaṃ vinā ＝「師なしに」
+  * saccāni paṭivijjhati ＝「諸諦を洞察する」（paṭivijjhati＝洞察する・通達する）
+  * so sayambhū nāma hoti ＝「その者は sayambhū と名づけられる」
+
+→「『師なき者（anācariyaka）』とは、『sayambhū（自存者）』という語の意味の解説である。およそ師なしに諸諦を洞察する者、その者が sayambhū と名づけられるのである。」
+
+23. Pubbe ananussutesūtiādi anācariyakabhāvassa atthappakāsanaṃ. Ananussutesūti ācariyaṃ ananussutesu.
+
+  * "pubbe ananussutesū"ti ādi ＝「『過去に未だ聞かれざる〔諸法において〕』等は」
+  * anācariyakabhāvassa ＝「師なきこと（無師性）の」（anācariyakabhāva＝師なき状態）
+  * atthappakāsanaṃ ＝「意味の明示」
+  * ananussutesū ti ＝「『未だ聞かれざる〔諸法において〕』とは」
+  * ācariyaṃ ananussutesu ＝「師から〔まだ〕聞かれていない〔諸法において〕」
+
+→「『過去に未だ聞かれざる〔諸法において〕』等は、師なきこと（無師性）の意味の明示である。『未だ聞かれざる〔諸法において〕』とは、師から〔まだ〕聞かれていない〔諸法において〕〔という意味である〕。」
+
+24. Sāmanti sayameva. Abhisambujjhīti bhusaṃ sammā paṭivijjhi.
+
+  * sāmaṃ ti ＝「『自ら（sāmaṃ）』とは」
+  * sayameva ＝「自らだけで」
+  * abhisambujjhī ti ＝「『現等覚した（abhisambujjhi）』とは」
+  * bhusaṃ ＝「強く」（接頭辞 abhi- の釈）
+  * sammā ＝「正しく」（接頭辞 saṃ- の釈）
+  * paṭivijjhi ＝「洞察した・通達した」（語幹 -bujjhi の釈）
+
+→「『自ら（sāmaṃ）』とは、自らだけで〔という意味である〕。『現等覚した（abhisambujjhi）』とは、強く（abhi＝bhusaṃ）・正しく（saṃ＝sammā）洞察した〔という意味である〕。」
+
+25. Tattha ca sabbaññutaṃ pāpuṇīti tesu ca saccesu sabbaññubhāvaṃ pāpuṇi.
+
+  * "tattha ca sabbaññutaṃ pāpuṇī"ti ＝「『そこにおいて一切知性に到達した』とは」
+  * tesu ca saccesu ＝「それら諸諦において」
+  * sabbaññubhāvaṃ pāpuṇi ＝「一切知者性に到達した」（sabbaññubhāva＝一切知者であること）
+
+→「『そこにおいて一切知性に到達した』とは、それら諸諦において一切知者性に到達した〔という意味である〕。」
+
+26. Yathā saccāni paṭivijjhantā sabbaññuno honti, tathā saccānaṃ paṭividdhattā evaṃ vuttaṃ. Sabbaññutaṃ pattotipi pāṭho.
+
+  * yathā ＝「～のように」
+  * saccāni paṭivijjhantā ＝「諸諦を洞察する者たちは」（paṭivijjhanta＝洞察する者、現在分詞・複）
+  * sabbaññuno honti ＝「一切知者となる」
+  * tathā ＝「そのように」
+  * saccānaṃ paṭividdhattā ＝「諸諦が洞察されたことから」（paṭividdha＝洞察された）
+  * evaṃ vuttaṃ ＝「このように言われた」
+  * sabbaññutaṃ patto ti pi pāṭho ＝「『一切知性に到達した（sabbaññutaṃ patto）』という異読もある」（pāṭha＝異読）
+
+→「諸諦を洞察する者たちが一切知者となるように、そのように〔ここでも〕諸諦が洞察されたことから、このように言われたのである。『一切知性に到達した（sabbaññutaṃ patto）』という異読もある。」
+
+27. Balesu ca vasībhāvanti dasasu ca tathāgatabalesu issarabhāvaṃ pāpuṇi.
+
+  * "balesu ca vasībhāvan"ti ＝「『諸力において自在性〔に到達した〕』とは」
+  * dasasu ca tathāgatabalesu ＝「十の如来力において」（tathāgatabala＝如来力）
+  * issarabhāvaṃ pāpuṇi ＝「自在の状態（主宰性）に到達した」（issarabhāva＝主宰者性）
+
+→「『諸力において自在性〔に到達した〕』とは、十の如来力において自在の状態（主宰性）に到達した〔という意味である〕。」
+
+28. Yo so evaṃ bhūto, so buddhoti vuttaṃ hoti.
+
+  * yo so evaṃ bhūto ＝「およそこのように成った者は」
+  * so buddho ti vuttaṃ hoti ＝「その者が buddha である、と言われたことになる」
+
+→「およそこのように成った者、その者が buddha である、と言われたことになる。」
+
+29. Tattha sabbesu dhammesu appaṭihatañāṇanimittānuttaravimokkhādhigamaparibhāvitaṃ khandhasantānaṃ upādāya paṇṇattiko, sabbaññutapadaṭṭhānaṃ vā saccābhisambodhimupādāya paṇṇattiko sattaviseso buddho.
+
+  * tattha ＝「そのうち（ここで）」
+  * sabbesu dhammesu ＝「一切法において」
+  * appaṭihatañāṇanimittānuttaravimokkhādhigamaparibhāvitaṃ ＝「無礙智を因相（しるし）とする無上の解脱の証得によって遍く薫習された」（依主釈の連鎖）
+    * appaṭihatañāṇa ＝「無礙の智」（appaṭihata＝妨げられない／ñāṇa＝智）
+    * nimitta ＝「因相・しるし」
+    * anuttaravimokkha ＝「無上の解脱」
+    * adhigama ＝「証得」
+    * paribhāvita ＝「遍く薫習された（修められた）」
+  * khandhasantānaṃ upādāya ＝「蘊の相続に縁って」（khandhasantāna＝蘊の相続／upādāya＝～に縁って）
+  * paṇṇattiko ＝「施設された（仮設された）もの」（paṇṇatti＝施設）
+  * sabbaññutapadaṭṭhānaṃ vā ＝「あるいは一切知性の近因である」（sabbaññuta＝一切知性／padaṭṭhāna＝近因。saccābhisambodhiṃ を修飾）
+  * saccābhisambodhiṃ upādāya ＝「諦の現等覚に縁って」（saccābhisambodhi＝諸諦の現等覚）
+  * paṇṇattiko ＝「施設されたもの」
+  * sattaviseso ＝「特別な有情」（satta＝有情／visesa＝殊別）
+  * buddho ＝「buddha〔である〕」
+
+→「そのうち、一切法において無礙智を因相（しるし）とする無上の解脱の証得によって遍く薫習された蘊の相続に縁って施設され、あるいは一切知性の近因である諸諦の現等覚に縁って施設された特別な有情——これが buddha である。」
+
+30. Ettāvatā atthato buddhavibhāvanā katā hoti.
+
+  * ettāvatā ＝「これだけで（ここまでで）」
+  * atthato ＝「意味の上で」
+  * buddhavibhāvanā ＝「buddha の解明」（vibhāvanā＝解明・明らかにすること）
+  * katā hoti ＝「なされたことになる」
+
+→「これだけで、意味の上で buddha の解明がなされたことになる。」
+
+## 162 (1)
+
+162. Idāni byañjanato vibhāvento buddhoti kenaṭṭhena buddhotiādimāha. Tattha yathā loke avagantā avagatoti vuccati, evaṃ bujjhitā saccānīti buddho. Yathā paṇṇasosā vātā paṇṇasusāti vuccanti, evaṃ bodhetā pajāyāti buddho. Sabbaññutāya buddhoti sabbadhammabujjhanasamatthāya buddhiyā buddhoti vuttaṃ hoti. Sabbadassāvitāya buddhoti sabbadhammānaṃ ñāṇacakkhunā diṭṭhattā buddhoti vuttaṃ hoti. Anaññaneyyatāyabuddhoti aññena abodhanīyato sayameva buddhattā buddhoti vuttaṃ hoti. Visavitāya buddhoti nānāguṇavisavanato padumamiva vikasanaṭṭhena buddhoti vuttaṃ hoti. Khīṇāsavasaṅkhātena buddhotiādīhi chahi pariyāyehi cittasaṅkocakaradhammappahānena niddakkhayavibuddho puriso viya sabbakilesaniddakkhayavibuddhattā buddhoti vuttaṃ hoti. Saṅkhā saṅkhātanti atthato ekattā saṅkhātenāti vacanassa koṭṭhāsenāti attho. Taṇhālepadiṭṭhilepābhāvena nirupalepasaṅkhātena. Savāsanānaṃ sabbakilesānaṃ pahīnattā ekantavacanena visesetvā ekantavītarāgotiādi vuttaṃ. Ekantanikkilesoti rāgadosamohāvasesehi sabbakilesehi nikkileso. Ekāyanamaggaṃ gatoti buddhoti gamanatthānaṃ dhātūnaṃ bujjhanatthattā bujjhanatthāpi dhātuyo gamanatthā honti, tasmā ekāyanamaggaṃ gatattā buddhoti vuttaṃ hoti. Ekāyanamaggoti cettha –
+
+‘‘Maggo pantho patho pajjo, añjasaṃ vaṭumāyanaṃ;
+
+Nāvā uttarasetu ca, kullo ca bhisi saṅkamo’’ti . (cūḷani. pārāyanatthutigāthāniddesa 101) –
+
+Maggassa bahūsu nāmesu ayananāmena vutto. Tasmā ekamaggabhūto maggo, na dvedhāpathabhūtoti attho. Atha vā ekena ayitabbo maggoti ekāyanamaggo. Ekenāti gaṇasaṅgaṇikaṃ pahāya pavivekena cittena. Ayitabboti paṭipajjitabbo. Ayanti vā etenāti ayano, saṃsārato nibbānaṃ gacchantīti attho. Ekesaṃ ayano ekāyano. Eketi seṭṭhā, sabbasattaseṭṭhā ca sammāsambuddhā, tasmā ekāyanamaggoti sammāsambuddhānaṃ ayanabhūto maggoti vuttaṃ hoti. Ayatīti vā ayano, gacchati pavattatīti attho. Ekasmiṃ ayano maggoti ekāyanamaggo, ekasmiṃyeva buddhasāsane pavattamāno maggo, na aññatthāti vuttaṃ hoti. Api ca ekaṃ ayatīti ekāyano, pubbabhāge nānāmukhabhāvanānayappavattopi aparabhāge ekaṃ nibbānameva gacchatīti vuttaṃ hoti, tasmā ekāyanamaggoti ekanibbānagamanamaggoti attho. Eko anuttaraṃ sammāsambodhiṃ abhisambuddhoti buddhoti na parehi buddhattā buddho, kiṃ pana sayameva anuttaraṃ sammāsambodhiṃ abhisambuddhattā buddhoti vuttaṃ hoti. Abuddhivihatattā buddhipaṭilābhā buddhoti buddhi buddhaṃ bodhoti pariyāyavacanametaṃ. Tattha yathā nīlarattaguṇayogā nīlo paṭo ratto paṭoti vuccati, evaṃ buddhaguṇayogā buddhoti ñāpetuṃ vuttaṃ.
+
+### Claude
+
+- 2026/06/29
+- Claude Opus 4.8 High
+
+### 対訳
+
+1. 162. Idāni byañjanato vibhāvento buddhoti kenaṭṭhena buddhotiādimāha.
+
+* idāni =「いまや・次に」
+* byañjanato =「文（語句）の面から」（byañjana「文・字句」、奪格）
+* vibhāventā =「明らかにしながら・闡明しつつ」（vi-√bhū 使役の現在分詞・主格）
+* buddho ti kena aṭṭhena buddho ti ādiṃ āha =「『仏とは、いかなる意味において仏なのか』等を述べた」（ādiṃ「～以下を」対格、āha「述べた」）
+→「次に、語句の面から明らかにしつつ、『仏とは、いかなる意味において仏なのか』等を（聖典は）述べた。」
+
+2. Tattha yathā loke avagantā avagatoti vuccati, evaṃ bujjhitā saccānīti buddho.
+
+* tattha =「そのうち（そこにおいて）」
+* yathā loke =「ちょうど世間で～のように」
+* avagantā avagato ti vuccati =「『理解する者(avagantā)』が『理解された者(avagato)』と（行為者名詞で）言われるように」（avagantā: ava-√gam 行為者名詞 / avagato: 過去分詞）
+* evaṃ =「そのように」
+* bujjhitā saccāni ti buddho =「『諸真理を覚知する者(bujjhitā)』が『覚った者(buddho)』と（言われる）」
+→「そのうち、ちょうど世間で『理解する者』が『理解した者』と言われるように、そのように『諸真理を覚知する者』が『仏（覚った者）』と（言われる）。」
+
+3. Yathā paṇṇasosā vātā paṇṇasusāti vuccanti, evaṃ bodhetā pajāyāti buddho.
+
+* yathā =「ちょうど～のように」
+* paṇṇa-sosā vātā =「葉を乾かす風が」（paṇṇa「葉」＋sosa「乾かすもの」、行為者的）
+* paṇṇa-susā ti vuccanti =「『葉乾かし(paṇṇasusa)』と言われるように」（susa＝√sus に基づく短縮形、行為者を表す）
+* evaṃ bodhetā pajāya ti buddho =「そのように『人々を覚らせる者(bodhetā)』が『仏(buddho)』と（言われる）」
+→「ちょうど『葉を乾かす風』が『葉乾かし』と言われるように、そのように『人々を覚らせる者』が『仏』と（言われる）。」
+〔註意：いずれも行為者名詞 -tar が短形 buddha に対応する語形成の例として挙げる。〕
+
+4. Sabbaññutāya buddhoti sabbadhammabujjhanasamatthāya buddhiyā buddhoti vuttaṃ hoti.
+
+* sabbaññutāya buddho ti =「『一切知者性によって仏』とは」
+* sabba-dhamma-bujjhana-samatthāya buddhiyā =「一切の法を覚知しうる覚智によって」（bujjhana「覚知すること」＋samattha「能力ある・たりうる」、buddhi「覚智」具格）
+* buddho ti vuttaṃ hoti =「『仏』と言われているのである」
+→「『一切知者性によって仏』とは――一切の法を覚知しうる覚智によって仏である、と言われているのである。」
+
+5. Sabbadassāvitāya buddhoti sabbadhammānaṃ ñāṇacakkhunā diṭṭhattā buddhoti vuttaṃ hoti.
+
+* sabba-dhammānaṃ =「一切の法を」（属格＝対象）
+* ñāṇa-cakkhunā =「智の眼によって」（具格）
+* diṭṭhattā =「見たことによって」（diṭṭha 過去分詞＋tta、奪格的）
+→「『一切見者性によって仏』とは――一切の法を智の眼によって見たがゆえに仏である、と言われているのである。」
+
+6. Anaññaneyyatāyabuddhoti aññena abodhanīyato sayameva buddhattā buddhoti vuttaṃ hoti.
+
+* aññena a-bodhanīyato =「他者によって覚らされるべきでないことから」（bodhanīya「覚らされるべき」未来受動分詞＋否定、奪格）
+* sayameva buddhattā =「自ら覚ったことによって」（sayaṃ「自ら」＋eva＋buddhatta、奪格）
+→「『他者に導かれぬ在り方によって仏』とは――他者によって覚らされるのではなく、自ら覚ったがゆえに仏である、と言われているのである。」
+
+7. Visavitāya buddhoti nānāguṇavisavanato padumamiva vikasanaṭṭhena buddhoti vuttaṃ hoti.
+
+* visavitāya buddho ti =「『visavitā によって仏』とは」
+* nānā-guṇa-visavanato =「さまざまな徳が開き広がることから」（nānāguṇa「種々の徳」＋visavana「開き広がること・展開」、奪格）
+* padumam iva =「蓮華のように」
+* vikasana-ṭṭhena =「開花するという意味によって」（vikasana「開くこと・開花」＋aṭṭha「意味」、具格）
+→「『visavitā によって仏』とは――種々の徳が開き広がることから、蓮華のように開花するという意味によって仏である、と言われているのである。」
+〔visavitā を「（徳の）開展」と解す。前出の毒(visa)説とは別系統の語源理解。〕
+
+8. Khīṇāsavasaṅkhātena buddhotiādīhi chahi pariyāyehi cittasaṅkocakaradhammappahānena niddakkhayavibuddho puriso viya sabbakilesaniddakkhayavibuddhattā buddhoti vuttaṃ hoti.
+
+* khīṇāsava-saṅkhātena buddho ti ādīhi chahi pariyāyehi =「『漏尽者と称されることによって仏』等の六つの説き方によって」（pariyāya「説相・言い回し」具格複数）
+* citta-saṅkoca-kara-dhamma-ppahānena =「心を萎縮させる法（蓋など）を捨断したことによって」（saṅkoca「縮こまり」＋kara「作るもの」＋dhamma＋pahāna「捨断」、具格）
+* nidda-kkhaya-vibuddho puriso viya =「眠りが尽きて目覚めた人のように」（nidda「睡眠」＋khaya「尽きること」＋vibuddha「よく目覚めた」）
+* sabba-kilesa-nidda-kkhaya-vibuddhattā =「一切の煩悩という眠りが尽きて目覚めたことによって」（奪格的）
+→「『漏尽者と称されることによって仏』等の六つの説き方によって（説かれるのは）――心を萎縮させる法を捨断したことにより、眠りが尽きて目覚めた人のように、一切の煩悩という眠りが尽きて目覚めたがゆえに仏である、と言われているのである。」
+
+9. Saṅkhā saṅkhātanti atthato ekattā saṅkhātenāti vacanassa koṭṭhāsenāti attho.
+
+* saṅkhā saṅkhātaṃ ti =「『saṅkhā（称・数）』と『saṅkhāta（称されたもの）』とは」
+* atthato ekattā =「意味の上で同一であることから」（attha 奪格＋ekatta「同一性」奪格）
+* saṅkhātena ti vacanassa =「『saṅkhātena（称されることによって）』という語の」（属格）
+* koṭṭhāsena ti attho =「『部分・区分（koṭṭhāsa）によって』という意味である」
+→「『saṅkhā（称）』と『saṅkhāta（称されたもの）』とは意味の上で同一であるから、『saṅkhātena（称されることによって）』という語は『（その）部分・区分によって』という意味である。」
+
+10. Taṇhālepadiṭṭhilepābhāvena nirupalepasaṅkhātena.
+
+* taṇhā-lepa-diṭṭhi-lepa-abhāvena =「渇愛の汚染と見の汚染とがないことによって」（taṇhālepa「渇愛による染汚」＋diṭṭhilepa「見による染汚」＋abhāva「無いこと」、具格）
+* nirupalepa-saṅkhātena =「汚れなき者と称されることによって」（nirupalepa「染汚なき」＋saṅkhāta）
+→「渇愛の汚染と見の汚染とがないことによって、『汚れなき者と称されることによって（仏）』（と説かれる）。」
+
+11. Savāsanānaṃ sabbakilesānaṃ pahīnattā ekantavacanena visesetvā ekantavītarāgotiādi vuttaṃ.
+
+* sa-vāsanānaṃ sabba-kilesānaṃ =「習気を伴う一切の煩悩を」（vāsanā「習気・余薫」を伴う、属格）
+* pahīnattā =「捨断したことによって」（pahīna 過去分詞＋tta、奪格的）
+* ekanta-vacanena visesetvā =「『ekanta（まったく・一向に）』という語によって限定して」（visesetvā「特定して・限定して」連続体）
+* ekanta-vītarāgo ti ādi vuttaṃ =「『まったく貪りを離れた者』等が説かれた」
+→「習気を伴う一切の煩悩を捨断したがゆえに、『ekanta（まったく）』という語で限定して、『まったく貪りを離れた者』等が説かれたのである。」
+
+12. Ekantanikkilesoti rāgadosamohāvasesehi sabbakilesehi nikkileso.
+
+* ekanta-nikkileso ti =「『まったく煩悩なき者』とは」
+* rāga-dosa-moha-avasesehi sabba-kilesehi =「貪・瞋・癡をはじめ残りのすべての煩悩から」（avasesa「残余の」、具格・奪格的複数）
+* nikkileso =「煩悩のない者（である）」
+→「『まったく煩悩なき者』とは――貪・瞋・癡およびその他残りのすべての煩悩から離れて、煩悩のない者（である）。」
+
+13. Ekāyanamaggaṃ gatoti buddhoti gamanatthānaṃ dhātūnaṃ bujjhanatthattā bujjhanatthāpi dhātuyo gamanatthā honti, tasmā ekāyanamaggaṃ gatattā buddhoti vuttaṃ hoti.
+
+* ekāyana-maggaṃ gato ti buddho ti =「『一行道を歩んだ者であるゆえに仏』とは」
+* gamana-atthānaṃ dhātūnaṃ bujjhana-atthattā =「『行く』という意味の語根が『覚る』という意味をも持つことから」（gamanattha「行く義」＋dhātu「語根」属格／bujjhanattha「覚る義」＋tta、奪格）
+* bujjhana-atthā pi dhātuyo gamana-atthā honti =「『覚る』という意味の語根もまた『行く』という意味を持つ」
+* tasmā =「それゆえに」
+* ekāyana-maggaṃ gatattā =「一行道を歩んだことによって」（gata＋tta、奪格的）
+→「『一行道を歩んだゆえに仏』とは――『行く』義の語根が『覚る』義をも持つことから、『覚る』義の語根もまた『行く』義を持つ。それゆえ、一行道を歩んだがゆえに仏である、と言われているのである。」
+
+14. Ekāyanamaggoti cettha –
+
+* ekāyana-maggo ti ca ettha =「そして、ここで『一行道(ekāyanamagga)』とは（次のごとくである）」
+→「そして、ここで『一行道』とは――」
+
+15. ‘‘Maggo pantho patho pajjo, añjasaṃ vaṭumāyanaṃ; Nāvā uttarasetu ca, kullo ca bhisi saṅkamo’’ti.
+
+* maggo, pantho, patho, pajjo =「道(magga)、路(pantha)、径(patha)、通路(pajja)」
+* añjasaṃ =「直路(añjasa)」（まっすぐな道）
+* vaṭuṃ =「車道・わだち道(vaṭuma)」
+* ayanaṃ =「行路(ayana)」
+* nāvā =「舟」
+* uttara-setu ca =「渡り橋(uttarasetu)」（渡河の橋）
+* kullo ca =「筏(kulla)」
+* bhisi =「（葦などの）浮き筏・いかだ(bhisi)」
+* saṅkamo ti =「橋・渡し板(saṅkama)、と」
+→「『道、路、径、通路、直路、車道、行路、舟、渡り橋、筏、浮き筏、渡し板（これらはみな道の異名である）』と。」
+〔Cūḷaniddesa, Pārāyanatthutigāthāniddesa 101 の引用。〕
+
+16. Maggassa bahūsu nāmesu ayananāmena vutto.
+
+* maggassa bahūsu nāmesu =「道の多くの名のうち」（属格＋処格複数）
+* ayana-nāmena vutto =「『ayana（行路）』という名によって説かれた」（具格）
+→「道の多くの異名のうち、『ayana（行路）』という名によって（ここでは）説かれている。」
+
+17. Tasmā ekamaggabhūto maggo, na dvedhāpathabhūtoti attho.
+
+* tasmā =「それゆえ」
+* eka-magga-bhūto maggo =「ただ一つの道である道（であって）」（ekamagga「一つの道」＋bhūta「～である」）
+* na dvedhā-patha-bhūto ti attho =「二岐に分かれた道ではない、という意味である」（dvedhāpatha「二つに分かれた道・分岐路」＋bhūta）
+→「それゆえ、ただ一つの道である道であって、二岐に分かれた道ではない、という意味である。」
+
+18. Atha vā ekena ayitabbo maggoti ekāyanamaggo.
+
+* atha vā =「あるいはまた」
+* ekena ayitabbo maggo ti =「『独りで歩まれるべき道』というのが」（ekena「一人によって」具格／ayitabba「歩まれるべき・行かれるべき」未来受動分詞）
+* ekāyana-maggo =「一行道（である）」
+→「あるいはまた、『独りで歩まれるべき道』というのが『一行道』である。」
+
+19. Ekenāti gaṇasaṅgaṇikaṃ pahāya pavivekena cittena.
+
+* ekena ti =「『独りで(ekena)』とは」
+* gaṇa-saṅgaṇikaṃ pahāya =「群れ・交際を捨てて」（gaṇasaṅgaṇikā「群れとの交わり」対格、pahāya「捨てて」連続体）
+* pavivekena cittena =「遠離した心によって（独居の心で）」（paviveka「遠離・独居」＋citta、具格）
+→「『独りで』とは――群れとの交わりを捨てて、遠離した心によって（の意である）。」
+
+20. Ayitabboti paṭipajjitabbo.
+
+* ayitabbo ti =「『歩まれるべき(ayitabba)』とは」
+* paṭipajjitabbo =「実践されるべき(paṭipajjitabba)（の意である）」
+→「『歩まれるべき』とは――『実践されるべき』（の意である）。」
+
+21. Ayanti vā etenāti ayano, saṃsārato nibbānaṃ gacchantīti attho.
+
+* ayanti vā etena ti ayano =「あるいは『これによって行く』ゆえに『行路(ayana)』」（ayanti「行く」三複／etena「これによって」具格＝手段としての道）
+* saṃsārato nibbānaṃ gacchanti ti attho =「輪廻から涅槃へと（人々が）行く、という意味である」（saṃsārato 奪格／nibbānaṃ 対格／gacchanti 三複）
+→「あるいは『これ（道）によって行く』がゆえに『行路』であり、（人々は）輪廻から涅槃へと行く、という意味である。」
+
+22. Ekesaṃ ayano ekāyano.
+
+* ekesaṃ ayano =「『一なる者たちの行路』が」（eka 属格複数＋ayana）
+* ekāyano =「『ekāyana（一行）』（である）」
+→「『一なる者たちの行路』が『ekāyana（一行）』である。」
+
+23. Eketi seṭṭhā, sabbasattaseṭṭhā ca sammāsambuddhā, tasmā ekāyanamaggoti sammāsambuddhānaṃ ayanabhūto maggoti vuttaṃ hoti.
+
+* eke ti seṭṭhā =「『一なる者たち(eke)』とは、最もすぐれた者たち（の意）」（seṭṭha「最勝の」複数）
+* sabba-satta-seṭṭhā ca sammāsambuddhā =「そして一切の有情のうち最もすぐれた者が正等覚者である」
+* tasmā ekāyana-maggo ti =「それゆえ『一行道』とは」
+* sammāsambuddhānaṃ ayana-bhūto maggo ti vuttaṃ hoti =「正等覚者がたの行路である道、と言われているのである」（ayanabhūta「行路である」）
+→「『一なる者たち』とは最もすぐれた者たちであり、一切の有情のうち最もすぐれた者が正等覚者である。それゆえ『一行道』とは、正等覚者がたの行路である道、と言われているのである。」
+
+24. Ayatīti vā ayano, gacchati pavattatīti attho.
+
+* ayati ti vā ayano =「あるいは『行く・進む(ayati)』ゆえに『行路(ayana)』」
+* gacchati pavattati ti attho =「『行く、働く（生起する）』という意味である」（gacchati / pavattati 三単）
+→「あるいは『行く（進む）』がゆえに『行路』であり、『行く、働く（生起する）』という意味である。」
+
+25. Ekasmiṃ ayano maggoti ekāyanamaggo, ekasmiṃyeva buddhasāsane pavattamāno maggo, na aññatthāti vuttaṃ hoti.
+
+* ekasmiṃ ayano maggo ti =「『一なる（場）において働く道』というのが」（ekasmiṃ 処格）
+* ekāyana-maggo =「『一行道』（である）」
+* ekasmiṃ yeva buddha-sāsane pavattamāno maggo =「ただ一つの仏の教えにおいてのみ働く道（であって）」（pavattamāna 現在分詞「働きつつある」）
+* na aññattha ti vuttaṃ hoti =「他のどこにもない、と言われているのである」（aññattha「他処に」）
+→「『一なる（場）において働く道』というのが『一行道』であり、ただ仏の教えにおいてのみ働く道であって、他のどこにもない、と言われているのである。」
+
+26. Api ca ekaṃ ayatīti ekāyano, pubbabhāge nānāmukhabhāvanānayappavattopi aparabhāge ekaṃ nibbānameva gacchatīti vuttaṃ hoti, tasmā ekāyanamaggoti ekanibbānagamanamaggoti attho.
+
+* api ca =「さらにまた」
+* ekaṃ ayati ti ekāyano =「『一なるもの（唯一処）へ行く』がゆえに『ekāyana（一行）』」（ekaṃ「一つのものを・へ」対格）
+* pubba-bhāge nānā-mukha-bhāvanā-naya-ppavatto pi =「初め（前分）には種々の門の修習の仕方として働くものであっても」（nānāmukha「種々の門・面」＋bhāvanā「修習」＋naya「方法・仕方」＋pavatta「働く」）
+* apara-bhāge ekaṃ nibbānam eva gacchati ti =「後分には、ただ一つの涅槃へとのみ行く、と」
+* tasmā ekāyana-maggo ti ekanibbāna-gamana-maggo ti attho =「それゆえ『一行道』とは『唯一の涅槃へ向かう道』という意味である」（ekanibbāna「一なる涅槃」＋gamana「行くこと」＋magga）
+→「さらにまた、『一なるもの（唯一処）へ行く』がゆえに『一行(ekāyana)』であり、初めには種々の門の修習法として働くものであっても、後には、ただ一つの涅槃へとのみ行く、と言われているのである。それゆえ『一行道』とは『唯一の涅槃へ向かう道』という意味である。」
+
+27. Eko anuttaraṃ sammāsambodhiṃ abhisambuddhoti buddhoti na parehi buddhattā buddho, kiṃ pana sayameva anuttaraṃ sammāsambodhiṃ abhisambuddhattā buddhoti vuttaṃ hoti.
+
+* eko anuttaraṃ sammāsambodhiṃ abhisambuddho ti buddho ti =「『独り無上の正等覚を現等覚したゆえに仏』とは」
+* na parehi buddhattā buddho =「他者たちによって覚らされたがゆえに仏なのではない」（parehi「他者によって」具格複数）
+* kiṃ pana =「そうではなく（では何かといえば）」
+* sayameva anuttaraṃ sammāsambodhiṃ abhisambuddhattā =「自ら無上の正等覚を現等覚したことによって」（奪格的）
+→「『独り無上の正等覚を現等覚したゆえに仏』とは――他者たちによって覚らされたがゆえに仏なのではなく、そうではなく、自ら無上の正等覚を現等覚したがゆえに仏である、と言われているのである。」
+
+28. Abuddhivihatattā buddhipaṭilābhā buddhoti buddhi buddhaṃ bodhoti pariyāyavacanametaṃ.
+
+* abuddhi-vihatattā buddhi-paṭilābhā buddho ti =「『無智が打ち砕かれ覚智を獲得したゆえに仏』とは」
+* buddhi, buddhaṃ, bodho ti =「『buddhi（覚智）』『buddha（覚）』『bodha（覚知）』とは」
+* pariyāya-vacanam etaṃ =「これらは同義の異称である」（pariyāyavacana「同義語・別の言い回し」）
+→「『無智が打ち砕かれ覚智を獲得したゆえに仏』とは――『buddhi（覚智）』『buddha（覚）』『bodha（覚知）』、これらは同義の異称である。」
+
+29. Tattha yathā nīlarattaguṇayogā nīlo paṭo ratto paṭoti vuccati, evaṃ buddhaguṇayogā buddhoti ñāpetuṃ vuttaṃ.
+
+* tattha =「そのうち」
+* yathā nīla-ratta-guṇa-yogā =「ちょうど青・赤という性質との結びつきによって」（nīla「青」＋ratta「赤」＋guṇa「性質」＋yoga「結合」、奪格）
+* nīlo paṭo ratto paṭo ti vuccati =「『青い布』『赤い布』と言われるように」
+* evaṃ buddha-guṇa-yogā =「そのように『覚った』という徳・性質との結びつきによって」（buddhaguṇa「覚という徳性」＋yoga、奪格）
+* buddho ti ñāpetuṃ vuttaṃ =「『仏』と（言われるのだと）知らせるために説かれた」（ñāpetuṃ「知らせるために」不定詞）
+→「そのうち、ちょうど青・赤という性質との結びつきによって『青い布』『赤い布』と言われるように、そのように『覚』という性質との結びつきによって『仏』と（言われるのである）、と知らせるために説かれたのである。」
+
+## 162 (2)
+
+Tato paraṃ buddhoti netaṃ nāmantiādi ‘‘atthamanugatā ayaṃ paññattī’’ti ñāpanatthaṃ vuttaṃ. Tattha mittā sahāyā. Amaccā bhaccā. Ñātī pitupakkhikā. Sālohitā mātupakkhikā. Samaṇā pabbajjūpagatā. Brāhmaṇā bhovādino, samitapāpabāhitapāpā vā. Devatā sakkādayo brahmāno ca. Vimokkhantikanti vimokkho arahattamaggo, vimokkhassa anto arahattaphalaṃ, tasmiṃ vimokkhante bhavaṃ vimokkhantikaṃ nāma. Sabbaññubhāvo hi arahattamaggena sijjhati, arahattaphalodaye siddho hoti, tasmā sabbaññubhāvo vimokkhante bhavo hoti. Taṃ nemittikampi nāmaṃ vimokkhante bhavaṃ nāma hoti. Tena vuttaṃ – ‘‘vimokkhantikametaṃ buddhānaṃ bhagavantāna’’nti. Bodhiyā mūle saha sabbaññutaññāṇassa paṭilābhāti mahābodhirukkhamūle yathāvuttakkhaṇe sabbaññutaññāṇassa paṭilābhena saha. Sacchikā paññattīti arahattaphalasacchikiriyāya, sabbadhammasacchikiriyāya vā jātā paññatti. Yadidaṃ buddhoti yā ayaṃ buddhoti paññatti, ayaṃ byañjanato buddhavibhāvanā.
+
+‘‘Yathā buddhena desitā’’tigāthāpādassa pana iminā padabhājanīye vuttatthena ayaṃ saṃsandanā – ānāpānassatiyo ca yathā buddhena desitā, yena pakārena desitā. Yathāsaddena saṅgahitā dasa yathatthā ca yathā buddhena desitā, yena pakārena desitāti pakāratthassa ca yathāsaddassa, sabhāvatthassa ca yathāsaddassa sarūpekasesavasena ekasesaṃ katvā ‘‘yathā’’ti vuttanti veditabbaṃ. Padabhājanīye panassa yathatthesu ekekassa yojanāvasena ‘‘desito’’ti ekavacanaṃ kataṃ.
+
+‘‘Soti gahaṭṭho vā hoti pabbajito vā’’ti vuttattā ādipadepi yassa gahaṭṭhassa vā pabbajitassa vāti vuttameva hoti. Lokattho vuttoyeva. Pabhāsetīti attano ñāṇassa pākaṭaṃ karotīti attho . Abhisambuddhattāti sāvakapāramiñāṇenapi paṭividdhabhāvena. Obhāsetīti kāmāvacarabhūtaṃ lokaṃ. Bhāsetīti rūpāvacarabhūtaṃ lokaṃ. Pabhāsetīti arūpāvacarabhūtaṃ lokaṃ.
+
+Ariyañāṇanti arahattamaggañāṇaṃ. Mahikā muttoti mahikāya mutto. Mahikāti nīhāro vuccati. Mahiyā muttotipi pāṭho. Dhūmarajā muttoti dhūmato ca rajato ca mutto. Rāhugahaṇā vippamuttoti rāhuno candassa āsannupakkilesattā dvīhi upasaggehi visesetvā vuttaṃ. Bhāsate iti saobhāsaṭṭhena. Tapate iti satejaṭṭhena. Virocate iti ruciraṭṭhena. Evamevanti evaṃ evaṃ. Yasmā pana candopi sayaṃ bhāsanto tapanto virocanto imaṃ okāsalokaṃ obhāseti, bhikkhu ca paññāya bhāsanto tapanto virocanto imaṃ khandhādilokaṃ paññāya obhāseti, tasmā ubhayatrāpi ‘‘bhāsetī’’ti avatvā ‘‘bhāsate’’ icceva vuttaṃ. Evañhi vutte hetuatthopi vutto hoti. Ativisadatarābhasūriyopamaṃ aggahetvā kasmā candopamā gahitāti ce? Sabbakilesapariḷāhavūpasamena santassa bhikkhuno santaguṇayuttacandopamā anucchavikāti gahitāti veditabbaṃ. Evaṃ ānāpānassatibhāvanāsiddhisādhakaṃ yogāvacaraṃ thunitvā imāni terasa vodāne ñāṇānīti tāni ñāṇāni nigametvā dassetīti.
+
+Vodānañāṇaniddesavaṇṇanā niṭṭhitā.
+
+### Claude
+
+- 2026/06/29
+- Claude Opus 4.8 High
+
+### 対訳
+
+1. Tato paraṃ buddhoti netaṃ nāmantiādi ‘‘atthamanugatā ayaṃ paññattī’’ti ñāpanatthaṃ vuttaṃ.
+
+* tato paraṃ =「それより後（次に）」
+* buddho ti na etaṃ nāmaṃ ti ādi =「『仏という――この名は～でない』等は」（前掲 Niddesa の文を指す）
+* atthaṃ anugatā ayaṃ paññatti ti =「『この施設（呼称）は意味に即している』ということを」（attha 対格＋anugata「即した・付随した」／paññatti「施設・呼称」）
+* ñāpana-tthaṃ vuttaṃ =「知らせるために説かれた」（ñāpana「知らせること」＋attha 対格的、vuttaṃ「説かれた」）
+→「それより後、『仏という――この名は～でない』等は、『この呼称は意味に即している』ということを知らせるために説かれた。」
+
+2. Tattha mittā sahāyā.
+
+* tattha =「そのうち」
+* mittā sahāyā =「『友人(mitta)』とは仲間(sahāya)（のこと）」
+→「そのうち、『友人』とは仲間（のことである）。」
+
+3. Amaccā bhaccā.
+
+* amaccā bhaccā =「『朋輩(amacca)』とは従者・身内の者(bhacca)（のこと）」（bhacca「養われる者・扶養される者」）
+→「『朋輩』とは従者・身内の者（のことである）。」
+
+4. Ñātī pitupakkhikā.
+
+* ñātī pitu-pakkhikā =「『親族(ñāti)』とは父方の者(pitupakkhika)（のこと）」（pitu「父の」＋pakkhika「側の者」）
+→「『親族』とは父方の者（のことである）。」
+
+5. Sālohitā mātupakkhikā.
+
+* sālohitā mātu-pakkhikā =「『血縁の者(sālohita)』とは母方の者(mātupakkhika)（のこと）」
+→「『血縁の者』とは母方の者（のことである）。」
+
+6. Samaṇā pabbajjūpagatā.
+
+* samaṇā pabbajja-upagatā =「『沙門(samaṇa)』とは出家を遂げた者(pabbajjūpagata)（のこと）」（pabbajjā「出家」＋upagata「至った・遂げた」）
+→「『沙門』とは出家を遂げた者（のことである）。」
+
+7. Brāhmaṇā bhovādino, samitapāpabāhitapāpā vā.
+
+* brāhmaṇā bho-vādino =「『婆羅門(brāhmaṇa)』とは『bho（おい、君）』と呼びかける者(bhovādin)」（bho「やあ・君よ」＋vādin「言う者」）
+* samita-pāpa-bāhita-pāpā vā =「あるいは、悪を静めた者(samitapāpa)・悪を除き去った者(bāhitapāpa)（のこと）」（samita「静められた」＋pāpa／bāhita「除かれた」＋pāpa）
+→「『婆羅門』とは『bho（君よ）』と呼びかける者、あるいは悪を静めた者・悪を除き去った者（のことである）。」
+
+8. Devatā sakkādayo brahmāno ca.
+
+* devatā sakka-ādayo brahmāno ca =「『神々(devatā)』とは、帝釈天(sakka)をはじめとする（神々）と、梵天たち(brahmā)（のこと）」（sakkādayo「サッカ等の」／brahmāno「梵天たち」主格複数）
+→「『神々』とは、帝釈天をはじめとする神々と、梵天たち（のことである）。」
+
+9. Vimokkhantikanti vimokkho arahattamaggo, vimokkhassa anto arahattaphalaṃ, tasmiṃ vimokkhante bhavaṃ vimokkhantikaṃ nāma.
+
+* vimokkhantikaṃ ti =「『解脱を究極とするもの(vimokkhantika)』とは」
+* vimokkho arahatta-maggo =「『解脱(vimokkha)』とは阿羅漢道（のこと）」
+* vimokkhassa anto arahatta-phalaṃ =「『解脱の終極(anta)』とは阿羅漢果（のこと）」
+* tasmiṃ vimokkhante bhavaṃ =「その『解脱の終極(vimokkhanta)』において存するもの」（bhava「～にあるもの・存するもの」、処格 tasmiṃ）
+* vimokkhantikaṃ nāma =「『解脱の終極におけるもの(vimokkhantika)』と呼ばれる」
+→「『解脱を究極とするもの』とは――『解脱』とは阿羅漢道であり、『解脱の終極』とは阿羅漢果であって、その『解脱の終極』において存するものが『解脱の終極におけるもの(vimokkhantika)』と呼ばれる。」
+
+10. Sabbaññubhāvo hi arahattamaggena sijjhati, arahattaphalodaye siddho hoti, tasmā sabbaññubhāvo vimokkhante bhavo hoti.
+
+* sabbaññu-bhāvo hi =「実に一切知者性(sabbaññubhāva)は」
+* arahatta-maggena sijjhati =「阿羅漢道によって成就する(sijjhati)」（具格＋sijjhati「成る・成就する」）
+* arahatta-phala-udaye siddho hoti =「阿羅漢果の生起(udaya)において成就したものとなる」（phalodaya 処格／siddha「成就した」）
+* tasmā =「それゆえ」
+* sabbaññu-bhāvo vimokkhante bhavo hoti =「一切知者性は解脱の終極において存するもの(bhava)となる」
+→「実に一切知者性は阿羅漢道によって成就し、阿羅漢果の生起において成就したものとなる。それゆえ、一切知者性は解脱の終極において存するものとなる。」
+
+11. Taṃ nemittikampi nāmaṃ vimokkhante bhavaṃ nāma hoti.
+
+* taṃ nemittikampi nāmaṃ =「その因相に基づく名(nemittika nāma)もまた」（nemittika「因縁・特徴に基づく」／nāma「名」）
+* vimokkhante bhavaṃ nāma hoti =「『解脱の終極において存する名』となる」
+→「その因相に基づく名（＝一切知性にちなんで付けられる名）もまた、『解脱の終極において存する名』となる。」
+
+12. Tena vuttaṃ – ‘‘vimokkhantikametaṃ buddhānaṃ bhagavantāna’’nti.
+
+* tena vuttaṃ =「それゆえに説かれた」
+* vimokkhantikam etaṃ buddhānaṃ bhagavantānaṃ ti =「『これは仏・世尊がたの、解脱を究極とする（呼称）である』と」
+→「それゆえに『これは仏・世尊がたの、解脱を究極とする呼称である』と説かれた。」
+
+13. Bodhiyā mūle saha sabbaññutaññāṇassa paṭilābhāti mahābodhirukkhamūle yathāvuttakkhaṇe sabbaññutaññāṇassa paṭilābhena saha.
+
+* bodhiyā mūle saha sabbaññutaññāṇassa paṭilābhā ti =「『菩提樹の根元において一切知智の獲得と同時に』とは」
+* mahā-bodhi-rukkha-mūle =「大菩提樹の根元において」（処格）
+* yathā-vutta-kkhaṇe =「先に説かれたとおりのその刹那に」（yathāvutta「既述の」＋khaṇa「刹那」処格）
+* sabbaññutaññāṇassa paṭilābhena saha =「一切知智の獲得とともに」（paṭilābha 具格＋saha「～と共に」）
+→「『菩提樹の根元において一切知智の獲得と同時に』とは――大菩提樹の根元において、先に説かれたとおりのその刹那に、一切知智の獲得とともに（の意である）。」
+
+14. Sacchikā paññattīti arahattaphalasacchikiriyāya, sabbadhammasacchikiriyāya vā jātā paññatti.
+
+* sacchikā paññatti ti =「『現証に基づく施設(sacchikā paññatti)』とは」
+* arahatta-phala-sacchikiriyāya =「阿羅漢果の現証(sacchikiriyā)によって」（具格）
+* sabba-dhamma-sacchikiriyāya vā =「あるいは一切法の現証によって」
+* jātā paññatti =「生じた施設（呼称）（である）」（jāta「生じた」）
+→「『現証に基づく施設』とは――阿羅漢果の現証によって、あるいは一切法の現証によって生じた呼称（である）。」
+
+15. Yadidaṃ buddhoti yā ayaṃ buddhoti paññatti, ayaṃ byañjanato buddhavibhāvanā.
+
+* yadidaṃ buddho ti =「『すなわち仏という』とは」
+* yā ayaṃ buddho ti paññatti =「『仏』というこの呼称、その（呼称）が（それである）」
+* ayaṃ byañjanato buddha-vibhāvanā =「これが、語句の面からの『仏』の闡明(buddhavibhāvanā)である」（byañjana「語句」奪格／vibhāvanā「明らかにすること・闡明」）
+→「『すなわち仏という』とは――『仏』というこの呼称（がそれである）。これが、語句の面からの『仏』の闡明である。」
+
+16. ‘‘Yathā buddhena desitā’’tigāthāpādassa pana iminā padabhājanīye vuttatthena ayaṃ saṃsandanā – ānāpānassatiyo ca yathā buddhena desitā, yena pakārena desitā.
+
+* yathā buddhena desitā ti gāthā-pādassa pana =「ところで『仏によって説かれたとおりに』という偈の句(gāthāpāda)については」（属格）
+* iminā pada-bhājanīye vutta-tthena =「この句の分析(padabhājanīya)において説かれた意味によって」（具格）
+* ayaṃ saṃsandanā =「次のような照合(saṃsandanā)（がある）」（saṃsandanā「結びつけ・整合づけ」）
+* ānāpānassatiyo ca yathā buddhena desitā =「すなわち、出入息念(ānāpānassati)もまた、仏によって説かれたとおりに（あり）」（複数）
+* yena pakārena desitā =「いかなる仕方で説かれたか（その仕方どおりに）」（pakāra「仕方・様態」具格）
+→「ところで『仏によって説かれたとおりに』という偈の句については、この句の分析において説かれた意味によって、次のような照合がある――すなわち、出入息念もまた、仏によって説かれたとおりに、いかなる仕方で説かれたか（その仕方どおりにある）。」
+
+17. Yathāsaddena saṅgahitā dasa yathatthā ca yathā buddhena desitā, yena pakārena desitāti pakāratthassa ca yathāsaddassa, sabhāvatthassa ca yathāsaddassa sarūpekasesavasena ekasesaṃ katvā ‘‘yathā’’ti vuttanti veditabbaṃ.
+
+* yathā-saddena saṅgahitā dasa yathatthā ca =「そして『yathā』という語によって含摂される十の如実義(yathattha)もまた」（saṅgahita「含摂された」／dasa yathatthā「十の如実義」）
+* yathā buddhena desitā =「仏によって説かれたとおりに（あり）」
+* yena pakārena desitā ti =「いかなる仕方で説かれたか（その仕方どおりに）、という」
+* pakāra-tthassa ca yathā-saddassa =「『仕方』を意味する『yathā』の語と」（pakārattha「仕方の義」の yathā）
+* sabhāva-tthassa ca yathā-saddassa =「『本性（あるがまま）』を意味する『yathā』の語との」（sabhāvattha「本性・あるがままの義」の yathā）
+* sarūpa-ekasesa-vasena ekasesaṃ katvā =「同形の単一残置(ekasesa)の仕方によって一つに残し合わせて」（sarūpa「同形の」＋ekasesa「単一残置〔文法：同形語の一語化〕」）
+* yathā ti vuttaṃ ti veditabbaṃ =「『yathā』と説かれたのだ、と知るべきである」
+→「そして『yathā』という語によって含摂される十の如実義もまた、仏によって説かれたとおりに、いかなる仕方で説かれたか（その仕方どおりにある）――『仕方』を意味する『yathā』の語と、『本性（あるがまま）』を意味する『yathā』の語とを、同形の単一残置(ekasesa)の仕方によって一つにまとめて、『yathā』と説かれたのだ、と知るべきである。」
+〔ekasesa＝同形・同義の二語を一語で代表させるパーリ文法の語法。〕
+
+18. Padabhājanīye panassa yathatthesu ekekassa yojanāvasena ‘‘desito’’ti ekavacanaṃ kataṃ.
+
+* pada-bhājanīye pana assa =「ところで、この（句の）分析においては」（assa「これの」属格）
+* yathatthesu ekekassa yojanā-vasena =「諸々の如実義のうち、一つ一つを結びつける(yojanā)仕方によって」（yathattha 処格複数／ekeka「各々」／yojanā「連結・適用」）
+* desito ti ekavacanaṃ kataṃ =「『desito（説かれた・単数形）』という単数が用いられた」（ekavacana「単数」）
+→「ところで、この句の分析においては、諸々の如実義のうち一つ一つを（個別に）結びつける仕方によって、『desito（説かれた）』という単数形が用いられたのである。」
+
+19. ‘‘Soti gahaṭṭho vā hoti pabbajito vā’’ti vuttattā ādipadepi yassa gahaṭṭhassa vā pabbajitassa vāti vuttameva hoti.
+
+* so ti gahaṭṭho vā hoti pabbajito vā ti vuttattā =「『彼とは、在家者であるか、あるいは出家者である』と説かれたことによって」（vuttatta 奪格的）
+* ādi-pade pi =「（偈の）最初の句においても」（ādipada 処格）
+* yassa gahaṭṭhassa vā pabbajitassa vā ti vuttam eva hoti =「『いかなる在家者または出家者であれ、その者にとって（の意である）』と説かれたことになる」（yassa「その者にとって」属格）
+→「『彼とは、在家者であるか、あるいは出家者である』と説かれたことによって、（偈の）最初の句においても、『いかなる在家者または出家者であれ、その者にとって（の意である）』と説かれたことになる。」
+
+20. Lokattho vuttoyeva.
+
+* loka-ttho vutto yeva =「『世間』の意味は、すでに説かれたとおりである」（lokattha「世間の義」）
+→「『世間』の意味は、すでに説かれたとおりである。」
+
+21. Pabhāsetīti attano ñāṇassa pākaṭaṃ karotīti attho.
+
+* pabhāseti ti =「『照らす(pabhāseti)』とは」
+* attano ñāṇassa pākaṭaṃ karoti ti attho =「自らの智を顕わにする(pākaṭaṃ karoti)、という意味である」（attano ñāṇassa「自らの智の」属格／pākaṭa「明らかな・顕わな」＋karoti）
+→「『照らす』とは――自らの智を顕わにする、という意味である。」
+
+22. Abhisambuddhattāti sāvakapāramiñāṇenapi paṭividdhabhāvena.
+
+* abhisambuddhattā ti =「『現等覚したことによって(abhisambuddhattā)』とは」
+* sāvaka-pārami-ñāṇena pi paṭividdha-bhāvena =「声聞の波羅蜜の智によってもまた洞察された在り方によって（の意）」（sāvakapāramiñāṇa「声聞波羅蜜智」具格／paṭividdha「洞察された・通達された」＋bhāva）
+→「『現等覚したことによって』とは――声聞の波羅蜜の智によってもまた洞察された在り方によって（の意である）。」
+
+23. Obhāsetīti kāmāvacarabhūtaṃ lokaṃ.
+
+* obhāseti ti =「『照らす(obhāseti)』とは」
+* kāmāvacara-bhūtaṃ lokaṃ =「欲界に属する世間を（照らす、の意）」（kāmāvacara「欲界の」＋bhūta「～である」／loka 対格）
+→「『照らす(obhāseti)』とは――欲界に属する世間を（照らす、の意である）。」
+
+24. Bhāsetīti rūpāvacarabhūtaṃ lokaṃ.
+
+* bhāseti ti =「『輝かせる(bhāseti)』とは」
+* rūpāvacara-bhūtaṃ lokaṃ =「色界に属する世間を（の意）」
+→「『輝かせる』とは――色界に属する世間を（の意である）。」
+
+25. Pabhāsetīti arūpāvacarabhūtaṃ lokaṃ.
+
+* pabhāseti ti =「『明るく照らす(pabhāseti)』とは」
+* arūpāvacara-bhūtaṃ lokaṃ =「無色界に属する世間を（の意）」
+→「『明るく照らす』とは――無色界に属する世間を（の意である）。」
+
+26. Ariyañāṇanti arahattamaggañāṇaṃ.
+
+* ariya-ñāṇaṃ ti =「『聖なる智(ariyañāṇa)』とは」
+* arahatta-magga-ñāṇaṃ =「阿羅漢道の智(arahattamaggañāṇa)（のこと）」
+→「『聖なる智』とは――阿羅漢道の智（のことである）。」
+
+27. Mahikā muttoti mahikāya mutto.
+
+* mahikā mutto ti =「『霧から解き放たれた(mahikā mutto)』とは」
+* mahikāya mutto =「『霧によって（霧から）解き放たれた(mahikāya mutto)』（の意）」（mahikāya 具格・奪格的）
+→「『霧から解き放たれた(mahikā mutto)』とは――『霧から解き放たれた(mahikāya mutto)』（の意である）。」
+〔mahikā の語末 -ā を奪格・具格 mahikāya として読む註。〕
+
+28. Mahikāti nīhāro vuccati.
+
+* mahikā ti nīhāro vuccati =「『mahikā』とは、霧・もや(nīhāra)が（そう）言われる」（nīhāra「霧・もや」）
+→「『mahikā』とは、霧（もや）のことを言う。」
+
+29. Mahiyā muttotipi pāṭho.
+
+* mahiyā mutto ti pi pāṭho =「『大地から解き放たれた(mahiyā mutto)』という異読もある」（mahiyā: mahī「大地」奪格／pāṭha「読み・異本」）
+→「『mahiyā mutto（大地から解き放たれた）』という異読もある。」
+〔mahī「大地（から立ち上る靄）」と読む別系統の読み。〕
+
+30. Dhūmarajā muttoti dhūmato ca rajato ca mutto.
+
+* dhūma-rajā mutto ti =「『煙塵から解き放たれた(dhūmarajā mutto)』とは」
+* dhūmato ca rajato ca mutto =「煙(dhūma)からも塵(raja)からも解き放たれた（の意）」（dhūmato／rajato 奪格）
+→「『煙塵から解き放たれた』とは――煙からも塵からも解き放たれた（の意である）。」
+
+31. Rāhugahaṇā vippamuttoti rāhuno candassa āsannupakkilesattā dvīhi upasaggehi visesetvā vuttaṃ.
+
+* rāhu-gahaṇā vippamutto ti =「『ラーフの捕捉から完全に解き放たれた(rāhugahaṇā vippamutto)』とは」
+* rāhuno candassa āsanna-upakkilesattā =「ラーフが月にとって最も近い随煩悩（汚染要因）であることによって」（rāhuno「ラーフの」属格／candassa「月の」属格／āsanna「近い」＋upakkilesa「随煩悩・汚染」＋tta、奪格的）
+* dvīhi upasaggehi visesetvā vuttaṃ =「二つの接頭辞(vi-, pa-)によって限定して説かれた」（upasagga「接頭辞」具格複数／visesetvā「限定して」連続体。＝vi＋pa＋mutta）
+→「『ラーフの捕捉から完全に解き放たれた』とは――ラーフが月にとって最も近い汚染要因であることから、二つの接頭辞（vi-, pa-）によって（vippamutta と）強めて説かれたのである。」
+
+32. Bhāsate iti saobhāsaṭṭhena.
+
+* bhāsate iti =「『輝く(bhāsate)』とは」
+* sa-obhāsa-ṭṭhena =「光を伴うという意味によって(saobhāsaṭṭhena)」（sa「～を伴う」＋obhāsa「光・光輝」＋aṭṭha「意味」、具格）
+→「『輝く』とは――光を伴うという意味によって（の意である）。」
+
+33. Tapate iti satejaṭṭhena.
+
+* tapate iti =「『熱を放つ(tapate)』とは」
+* sa-teja-ṭṭhena =「威光（熱）を伴うという意味によって(satejaṭṭhena)」（teja「火・威光・熱」）
+→「『熱を放つ』とは――威光（熱）を伴うという意味によって（の意である）。」
+
+34. Virocate iti ruciraṭṭhena.
+
+* virocate iti =「『光り渡る(virocate)』とは」
+* rucira-ṭṭhena =「美しく輝かしいという意味によって(ruciraṭṭhena)」（rucira「美しい・麗しい」＋aṭṭha）
+→「『光り渡る』とは――美しく輝かしいという意味によって（の意である）。」
+
+35. Evamevanti evaṃ evaṃ.
+
+* evameva ti evaṃ evaṃ =「『まさにそのように(evameva)』とは、『そのように、そのように(evaṃ evaṃ)』（の意）」
+→「『まさにそのように』とは、『そのように、そのように』（の意である）。」
+
+36. Yasmā pana candopi sayaṃ bhāsanto tapanto virocanto imaṃ okāsalokaṃ obhāseti, bhikkhu ca paññāya bhāsanto tapanto virocanto imaṃ khandhādilokaṃ paññāya obhāseti, tasmā ubhayatrāpi ‘‘bhāsetī’’ti avatvā ‘‘bhāsate’’ icceva vuttaṃ.
+
+* yasmā pana =「ところで、～であるから」
+* cando pi sayaṃ bhāsanto tapanto virocanto =「月もまた、自ら輝き、熱を放ち、光り渡りつつ」（現在分詞）
+* imaṃ okāsa-lokaṃ obhāseti =「この器世間(okāsaloka)を照らす」（okāsaloka「空間としての世間・器世間」）
+* bhikkhu ca paññāya bhāsanto tapanto virocanto =「比丘もまた、智慧によって輝き、熱を放ち、光り渡りつつ」
+* imaṃ khandhādi-lokaṃ paññāya obhāseti =「この蘊などの世間(khandhādiloka)を智慧によって照らす」（khandhādi「蘊などの」）
+* tasmā ubhayatra pi =「それゆえ、両者（月・比丘）においても」（ubhayatra「両方において」）
+* bhāseti ti avatvā bhāsate icceva vuttaṃ =「『bhāseti（他動・使役形）』とは言わず、『bhāsate（中動・自動形）』とのみ説かれた」（avatvā「言わずに」連続体）
+→「ところで、月もまた自ら輝き、熱を放ち、光り渡りつつ、この器世間を照らし、比丘もまた智慧によって輝き、熱を放ち、光り渡りつつ、この蘊などの世間を智慧によって照らす。それゆえ、両者においても『bhāseti（照らす〔他動〕）』とは言わず、『bhāsate（輝く〔自動〕）』とのみ説かれたのである。」
+
+37. Evañhi vutte hetuatthopi vutto hoti.
+
+* evaṃ hi vutte =「実に、このように説かれたとき」（vutte 処格・絶対句）
+* hetu-attho pi vutto hoti =「原因の意味(hetuattha)もまた説かれたことになる」（hetuattha「因の義」）
+→「実に、このように（自動形 bhāsate で）説かれたとき、（同時に他を照らす）原因の意味もまた説かれたことになる。」
+
+38. Ativisadatarābhasūriyopamaṃ aggahetvā kasmā candopamā gahitāti ce?
+
+* ati-visada-tara-ābha-sūriya-upamaṃ aggahetvā =「より一層あざやかな光を持つ太陽の喩え(sūriyopamā)を取らずに」（ativisadatara「いっそう明瞭・鮮明な」＋ābha「光輝」＋sūriya「太陽」＋upamā「喩え」、対格／aggahetvā「取らずに」連続体）
+* kasmā candopamā gahitā ti ce =「なぜ月の喩え(candopamā)が取られたのか、と（問うならば）」（ce「もし～ならば」）
+→「より一層あざやかな光を持つ太陽の喩えを取らずに、なぜ月の喩えが取られたのか――と（問うならば）。」
+
+39. Sabbakilesapariḷāhavūpasamena santassa bhikkhuno santaguṇayuttacandopamā anucchavikāti gahitāti veditabbaṃ.
+
+* sabba-kilesa-pariḷāha-vūpasamena =「一切の煩悩という熱悩(pariḷāha)が静まったことによって」（pariḷāha「焼け付く苦・熱悩」＋vūpasama「寂静・静まること」、具格）
+* santassa bhikkhuno =「寂静となった比丘にとっては」（santa「寂静の・静まった」、属格）
+* santa-guṇa-yutta-candopamā =「寂静の徳を備えた月の喩え(candopamā)が」（santaguṇa「寂静の徳」＋yutta「具えた」＋candopamā）
+* anucchavikā ti =「ふさわしい、として」（anucchavika「適切な・ふさわしい」）
+* gahitā ti veditabbaṃ =「取られたのだ、と知るべきである」
+→「一切の煩悩という熱悩が静まったことによって寂静となった比丘にとっては、寂静の徳を備えた月の喩えがふさわしいとして取られたのだ、と知るべきである。」
+〔太陽は炎熱を連想させるが、月は清涼・寂静を表すゆえに寂静者たる比丘に適合する、という趣旨。〕
+
+40. Evaṃ ānāpānassatibhāvanāsiddhisādhakaṃ yogāvacaraṃ thunitvā imāni terasa vodāne ñāṇānīti tāni ñāṇāni nigametvā dassetīti.
+
+* evaṃ =「このように」
+* ānāpānassati-bhāvanā-siddhi-sādhakaṃ yogāvacaraṃ =「出入息念の修習の成就を成し遂げる瑜伽行者を」（ānāpānassatibhāvanā「出入息念の修習」＋siddhi「成就」＋sādhaka「成し遂げる者・もの」／yogāvacara「瑜伽行者」対格）
+* thunitvā =「讃えて」（√thu「讃える」連続体）
+* imāni terasa vodāne ñāṇāni ti =「『これらが浄化に関する十三の智である』と（言って）」
+* tāni ñāṇāni nigametvā dasseti ti =「それらの諸智を結びまとめて(nigametvā)示すのである」（nigameti「結論づける・帰結させる」連続体／dasseti「示す」）
+→「このように、出入息念の修習の成就を成し遂げる瑜伽行者を讃えて、『これらが浄化に関する十三の智である』と、それらの諸智を結びまとめて示すのである。」
+
+41. Vodānañāṇaniddesavaṇṇanā niṭṭhitā.
+
+* vodāna-ñāṇa-niddesa-vaṇṇanā =「浄智の義釈の註釈(vodānañāṇaniddesavaṇṇanā)」（vodānañāṇaniddesa＋vaṇṇanā「註釈・解説」、依主釈）
+* niṭṭhitā =「終わった・完結した」（niṭṭhita「終了した」）
+→「浄智の義釈の註釈、終わる。」
+
 # 5. Satokāriñāṇaniddesavaṇṇanā
 
 ## 163 (1)
