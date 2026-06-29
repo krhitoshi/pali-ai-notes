@@ -544,25 +544,25 @@ Araññagato vā…pe… suññāgāragato vāti idamassa ānāpānassatisamādh
 * anuvisaṭaṃ cittaṃ = 「拡散した（流れ広がった）心は」（anu-vi-√sar 過分・中・主 ＋ citta）
 * ānāpānassati-samādhi-ārammaṇaṃ = 「出入息念三昧の所縁へ」（対・単、tappurisa）
 * abhiruhituṃ na icchati = 「攀じ登ることを欲しない」（abhi-√ruh 不定詞 ＋ na icchati）
-* kūṭa-goṇa-yutta-ratho viya = 「曲(くせ)ある牛（強情な牡牛）に繋がれた車のように」（viya「～の如く」）
-  * kūṭa = 「曲がった・狡猾な・強情な・偽りの」
+* kūṭa-goṇa-yutta-ratho viya = 「気の荒い牡牛に繋がれた車のように」（viya「～の如く」）
+  * kūṭa = 「(牛馬について) 気が荒い・あばれる・性悪な」（DoP kūṭa2: wild, vicious. 本義は「よこしまな・偽りの」）
   * goṇa = 「牡牛」
   * yutta = 「繋がれた・軛(くびき)された」（√yuj 過分）
   * ratha = 「車」（kūṭagoṇa-yutta-ratha：tappurisa／kammadhāraya 複合）
 * uppatham eva dhāvati = 「まさに邪道（非道・横道）を走る」（uppatha「無道・横道」対 ＋ eva ＋ dhāvati）
 
-→「なぜなら、この比丘の、長きにわたって色などの諸所縁の中へ拡散してきた心は、出入息念三昧の所縁へ攀じ登ることを欲せず、強情な牡牛に繋がれた車のように、まさに横道へと走り去るからである。」
+→「なぜなら、この比丘の、長きにわたって色などの諸所縁の中へ拡散してきた心は、出入息念三昧の所縁へ攀じ登ることを欲せず、気の荒い牡牛に繋がれた車のように、まさに横道へと走り去るからである。」
 
 3. Tasmā seyyathāpi nāma gopo kūṭadhenuyā sabbaṃ khīraṃ pivitvā vaḍḍhitaṃ kūṭavacchaṃ dametukāmo dhenuto apanetvā ekamante mahantaṃ thambhaṃ nikhaṇitvā tattha yottena bandheyya, athassa so vaccho ito cito ca vipphanditvā palāyituṃ asakkonto tameva thambhaṃ upanisīdeyya vā upanipajjeyya vā,
 
 * tasmā = 「それゆえに」（具格的、理由表示）
 * seyyathāpi nāma = 「あたかも、たとえば（次のごとし）」（譬喩導入の定型句）
 * gopo = 「牛飼いが」（主・単）
-* kūṭadhenuyā sabbaṃ khīraṃ pivitvā vaḍḍhitaṃ kūṭavacchaṃ = 「曲(くせ)ある牝牛の乳をことごとく飲んで肥育した強情な仔牛を」（対・単）
-  * kūṭa-dhenuyā = 「強情な牝牛の」（属・単）
+* kūṭadhenuyā sabbaṃ khīraṃ pivitvā vaḍḍhitaṃ kūṭavacchaṃ = 「気の荒い牝牛の乳をことごとく飲んで肥育した気の荒い仔牛を」（対・単）
+  * kūṭa-dhenuyā = 「気の荒い牝牛の」（属・単）
   * sabbaṃ khīraṃ pivitvā = 「すべての乳を飲んで」（pivitvā 連続体）
   * vaḍḍhita = 「育った・肥えた」（√vaḍḍh 使役過分）
-  * kūṭa-vaccha = 「強情な仔牛」（kammadhāraya）
+  * kūṭa-vaccha = 「気の荒い仔牛」（kammadhāraya）
 * dametukāmo = 「調御しようと欲する者が」（dametuṃ ＋ kāma、「dam の不定詞＋欲求」bahubbīhi 的形容、主・単）
 * dhenuto apanetvā = 「牝牛から引き離して」（dhenu 奪格 ＋ apanetvā 連続体）
 * ekamante = 「一隅に・片隅に」（処・単）
