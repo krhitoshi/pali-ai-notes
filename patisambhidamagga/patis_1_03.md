@@ -979,8 +979,6 @@ Upakkilesañāṇaniddeso tatiyo.
 
 ### 対訳
 
----
-
 1. Vodānañāṇaniddeso
 
 * vodāna = 「浄化・清め（汚れを除き清らかにすること）」
@@ -1074,8 +1072,6 @@ Paṭhamassa jhānassa ko ādi, kiṃ majjhe, kiṃ pariyosānaṃ? Paṭhamassa
 - Claude Opus 4.8 High
 
 ### 対訳
-
----
 
 1. Katame te ekattā?
 
@@ -1198,8 +1194,6 @@ Paṭhamassa jhānassa sampahaṃsanā pariyosānaṃ. Pariyosānassa kati lakkh
 
 ### 対訳
 
----
-
 1. Paṭhamassa jhānassa upekkhānubrūhanā majjhe.
 
 * paṭhamassa jhānassa = 「第一禅の」（属格）
@@ -1315,8 +1309,6 @@ Catutthassa jhānassa ko ādi, kiṃ majjhe, kiṃ pariyosānaṃ…pe… evaṃ
 
 ### 対訳
 
----
-
 1. Dutiyassa jhānassa ko ādi, kiṃ majjhe, kiṃ pariyosānaṃ?
 
 * dutiyassa jhānassa = 「第二禅の」（属格）
@@ -1401,8 +1393,6 @@ Sotāpattimaggassa…pe… sakadāgāmimaggassa… anāgāmimaggassa… arahatta
 - Claude Opus 4.8 High
 
 ### 対訳
-
----
 
 1. Aniccānupassanāya ko ādi, kiṃ majjhe, kiṃ pariyosānaṃ…pe…
 
@@ -1507,8 +1497,6 @@ Arahattamaggassa sampahaṃsanā pariyosānaṃ. Pariyosānassa kati lakkhaṇā
 - Claude Opus 4.8 High
 
 ### 対訳
-
----
 
 1. Arahattamaggassa upekkhānubrūhanā majjhe.
 
