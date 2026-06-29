@@ -2333,7 +2333,7 @@ Paṭisambhidāyaṃ (paṭi. ma. 1.171) panassa saddhiṃ codanāsodhanāhi eva
 ### 対訳
 
 1. ‘‘Iti kira passambhayaṃ kāyasaṅkhāraṃ assasissāmīti sikkhati.
-* iti kira = 「（そうすると）かくのごとくであれば／いったい」（iti「かく」＋kira「伝聞・疑念の語気, ～とか」）
+* iti kira = 「（そうすると）このようであれば／いったい」（iti「かく」＋kira「伝聞・疑念の語気, ～とか」）
 * passambhayaṃ kāya-saṅkhāraṃ = 「身行を静めつつ」（使役現在分詞＋対格）
 * assasissāmi ti sikkhati = 「〈私は出息しよう〉と学ぶ（という）」
 →「『そうすると, いったい〈身行を静めつつ, 私は出息しよう〉と学ぶ（という）。』」
@@ -2373,10 +2373,10 @@ Paṭisambhidāyaṃ (paṭi. ma. 1.171) panassa saddhiṃ codanāsodhanāhi eva
 →「『また賢者たちは, かのその等至に入定することも, 出定することもない。』」
 
 8. ‘‘Iti kira passambhayaṃ kāyasaṅkhāraṃ assasissāmi passasissāmīti sikkhati.
-* iti kira = 「（しかして）かくのごとくであれば／いったい」
+* iti kira = 「（しかして）このようであれば／いったい」
 * passambhayaṃ kāya-saṅkhāraṃ = 「身行を静めつつ」
 * assasissāmi passasissāmi ti sikkhati = 「〈私は出息しよう, 入息しよう〉と学ぶ（という）」
-→「『（しかるに）かくのごとく〈身行を静めつつ, 私は出息しよう, 入息しよう〉と学ぶ（という）。』」
+→「『（しかるに）このように〈身行を静めつつ, 私は出息しよう, 入息しよう〉と学ぶ（という）。』」
 
 9. Evaṃ sante vātūpaladdhiyā ca pabhāvanā hoti,
 * evaṃ sante = 「そのようであるならば」（処格絶対節）
@@ -6065,7 +6065,7 @@ Visuddhimagga Ānāpānassatikathā §238（続き・兄弟長老の逸話と結
   * sadā = 「常に」（副詞）
   * ti = 偈の引用終止
 
-→「それゆえに、不放逸な賢者は、まことに、かくのごとく数多くの功徳ある出入息念に、常に専念すべきである、と。」
+→「それゆえに、不放逸な賢者は、まことに、このように数多くの功徳ある出入息念に、常に専念すべきである、と。」
 
 7. Idaṃ ānāpānassatiyaṃ vitthārakathāmukhaṃ.
 
