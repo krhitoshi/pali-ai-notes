@@ -136,3 +136,18 @@ vism_08.md (Visuddhimagga 第8章 安般念) の校訂記録.
   難読. 本書はパーリ語典籍のため原語 samatha / vipassanā のカナ音写が直接的
 - 保持: 主訳の「止」「観」は確立した技術用語のため不変. 括弧内のみ置換
 - 校訂: Claude Opus 4.8
+
+### 2026/06/29 asecanaka の語釈「灌ぎ混ぜ/灌ぎ加え」を平易語に
+
+- 内容: §319-332 の asecanaka 語釈の難解な逐語訳を平易化（4 行）
+  - 灌ぎ混ぜ (secana) -> 注ぎ足し, 灌ぎ加え/混和 (anāsitta) -> 注ぎ足し
+  - §322 asecanaka 語釈, §325/§326 secana, §327 anāsittaka, §332 訳文
+- 根拠: DoP asecanaka = "never causing surfeit; (註: not requiring anything
+  added)". 註釈 Mp III 315「甘くするため別の味を注ぎ足していない (anāsittaka)」,
+  Sp 403,28 (本箇所)「nāssa secanan ti asecanako anāsittako」. secana は
+  √sic「注ぐ」の動作名詞で「(味の) 注ぎ足し・混ぜ込み」の意
+- 整合: §39/§5769 が既に「混ぜ物を要しない/混じり気のない」と平易訳しており
+  揃えた. plain_terms.md の「滲入->混ぜ物 (asecanaka 文脈)」とも整合
+- 技術ラベル「不雑」も平易化: 不雑 -> 混ぜ物を要しない／要せず（§321, §325,
+  §332, §367, §374）. §39 の既訳と統一
+- 校訂: Claude Opus 4.8 + MCP (DoP)

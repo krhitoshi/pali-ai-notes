@@ -318,18 +318,18 @@ Ayaṃ panettha saṅkhepattho. Bhikkhave, kena pakārena kenākārena kena vidh
 
 1. Asecanako ca sukho ca vihāro ti ettha pana nāssa secanan ti asecanako, anāsittako abbokiṇṇo pāṭiyekko āveṇiko.
 
-* Asecanako ca sukho ca vihāro ti =〔被註句〕「『不雑にして、かつ安楽なる住なる』とは」
-  * asecanaka = 「灌ぎ混ぜることのない、混ぜ物なき」（a-secana-ka）
+* Asecanako ca sukho ca vihāro ti =〔被註句〕「『混ぜ物を要せず、かつ安楽なる住なる』とは」
+  * asecanaka = 「混ぜ物を要しない、注ぎ足しのいらない」（a-secana-ka）
   * sukho vihāro = 「安楽なる住」
 * ettha pana = 「しかしここでは」
-* na assa secanan ti asecanako = 「これには『灌ぎ混ぜ（secana）』がない、ゆえに『asecanaka（不雑）』（である）」（bahubbīhi として語釈）
-  * na assa secanaṃ = 「これ（この三昧）には混入がない」
-* anāsittako = 「（他を）灌ぎ加えられていない者、混和されていないもの」（an-āsitta-ka, ā-√sic の過分由来）
+* na assa secanan ti asecanako = 「これには『注ぎ足し（secana）』がない、ゆえに『asecanaka（混ぜ物を要しない）』（である）」（bahubbīhi として語釈）
+  * na assa secanaṃ = 「これ（この三昧）には注ぎ足し（混ぜ込み）がない」
+* anāsittako = 「（別の味を）注ぎ足されていない、混ぜ物のないもの」（an-āsitta-ka, ā-√sic の過分由来）
 * abbokiṇṇo = 「（他で）覆い乱されていない、間雑なき」（a-vyavakiṇṇa）
 * pāṭiyekko = 「個別の、それ自体独立した」
 * āveṇiko = 「不共の、独自の（他と共通しない）」
 
-→「『不雑にして、かつ安楽なる住なる』とは、ここでは、これ（この三昧）には『灌ぎ混ぜ』がない、ゆえに『asecanaka（不雑）』であり、（他を）混和されていない、間雑なき、個別独立の、不共独自の（ものである）。」
+→「『混ぜ物を要せず、かつ安楽なる住なる』とは、ここでは、これ（この三昧）には『注ぎ足し』がない、ゆえに『asecanaka（混ぜ物を要しない）』であり、（別の味を）注ぎ足されておらず、間雑なき、個別独立の、不共独自の（ものである）。」
 
 2. Natthi ettha parikammena vā upacārena vā santatā.
 
@@ -364,14 +364,14 @@ Ayaṃ panettha saṅkhepattho. Bhikkhave, kena pakārena kenākārena kena vidh
 5. Evaṃ ayaṃ asecanako ca, appitappitakkhaṇe kāyikacetasikasukhapaṭilābhāya saṃvattanato sukho ca vihāro ti veditabbo.
 
 * Evaṃ ayaṃ = 「このように、この（三昧）は」
-* asecanako ca = 「不雑であり」
+* asecanako ca = 「混ぜ物を要しないものであり」
 * appitappita-kkhaṇe = 「安止（に入った）その都度の刹那において」（appita の畳語＝「安止する毎に」, appeti 安止する の過分）
 * kāyika-cetasika-sukha-paṭilābhāya = 「身の・心の楽の獲得のために」（dat.；kāyika＝身に属する, cetasika＝心に属する）
 * saṃvattanato = 「資する（導く）がゆえに」（abl.）
 * sukho ca vihāro ti = 「かつ安楽なる住である、と」
 * veditabbo = 「知られるべきである」（義務分詞）
 
-→「このように、この（三昧）は不雑であり、また安止に入る都度の刹那において身心の楽の獲得に資するがゆえに、安楽なる住でもある、と知られるべきである。」
+→「このように、この（三昧）は混ぜ物を要しないものであり、また安止に入る都度の刹那において身心の楽の獲得に資するがゆえに、安楽なる住でもある、と知られるべきである。」
 
 6. Uppannuppanne ti avikkhambhite avikkhambhite.
 

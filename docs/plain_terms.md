@@ -16,6 +16,7 @@
 | 顕示 | 明示 | paridīpana | |
 | 遮遣 | 排除 | paṭisedha | |
 | 滲入 | 混ぜ物 | (asecanaka 文脈) | 「混ぜ物を要しない」 |
+| 不雑 | 混ぜ物を要しない | asecanaka | 語釈の灌ぎ混ぜ/灌ぎ加え (secana/anāsitta) も「注ぎ足し」に |
 | 所作 | 務め | kicca | |
 | 厭逆 | 厭わしい | paṭikūla | |
 | 懊悩 | 苦しみ | daratha | |
