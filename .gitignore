@@ -1,3 +1,5 @@
 /_tmp/
-/docs/
+# docs/ は既定で ignore. 内容が確定したファイルのみ下に !  で追跡解除する
+/docs/*
+!/docs/plain_terms.md
 .obsidian/workspace.json
