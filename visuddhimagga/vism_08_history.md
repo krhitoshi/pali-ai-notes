@@ -191,3 +191,16 @@ vism_08.md (Visuddhimagga 第8章 安般念) の校訂記録.
   - しかして -> そして（継続。§155, §162, §2376）／さて（話題提示。§427, §431）
   - しかるに -> ところで（話題転換。§1301, §1308, §2379）
 - 校訂: Claude Opus 4.8
+
+### 2026/06/29 善巧 / 不善巧 の循環的な語釈を平易に
+
+- 内容: akosalla (不善巧) の語釈が「善巧ならざること」と循環し, 善巧 自体が
+  不明だと意味が取れない問題を修正
+  - §393/§395: 不善巧（無智）-> 巧みでないこと（無智）.
+    語釈「akosalla＝善巧ならざること」-> 「akosalla＝熟達のなさ・無智」
+  - §4839: 善巧（手だて）の注記を補強し kosalla＝熟達・習熟 と明示.
+    語源対応は romanized akosalla / appanā-kosalla で保持
+- 保持: 定型用語「（十種）安止善巧」(appanā-kosalla, §4843) は技術用語として維持
+- 根拠: DoP kosalla = competence, proficiency, skill, knowledge;
+  akosalla = lack of skill or knowledge
+- 校訂: Claude Opus 4.8 + MCP (DoP)

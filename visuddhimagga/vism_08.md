@@ -390,9 +390,9 @@ Ayaṃ panettha saṅkhepattho. Bhikkhave, kena pakārena kenākārena kena vidh
 8. Akusale dhamme ti akosallasambhūte dhamme.
 
 * Akusale dhamme ti = 「『不善の諸法（akusalā dhammā）』とは」
-* akosalla-sambhūte dhamme = 「不善巧（無智）より生じた諸法（の意）」（akosalla＝善巧ならざること, sambhūta＝より生じた；tappurisa）
+* akosalla-sambhūte dhamme = 「巧みでないこと（無智）より生じた諸法（の意）」（akosalla＝熟達のなさ・無智, sambhūta＝より生じた；tappurisa）
 
-→「『不善の諸法』とは、不善巧（無智）より生じた諸法（の意）である。」
+→「『不善の諸法』とは、巧みでないこと（無智）より生じた諸法（の意）である。」
 
 9. Ṭhānaso antaradhāpetī ti khaṇeneva antaradhāpeti vikkhambheti.
 
@@ -4836,7 +4836,7 @@ Dhīro assāsapassāse, sakaṃ cittaṃ nibandhatī’’ti. (pārā. aṭṭha
 * evaṃ rakkhitvā = 「このように護って」
 * punappunaṃ manasikāravasena = 「繰り返しの作意によって」（manasikāra-vasa、依主釈、具格）
 * vuddhiṃ virūḷhiṃ gamayitvā = 「増大と成長とに至らせて」（vuddhi = 増大、virūḷhi = 成長・繁茂）
-* dasavidhaṃ appanākosallaṃ = 「十種の安止に対する善巧（手だて）を」（dasa-vidha；appanā-kosalla、依主釈）
+* dasavidhaṃ appanākosallaṃ = 「十種の安止に対する善巧を」（dasa-vidha；appanā-kosalla、依主釈。kosalla＝熟達・習熟。安止に習熟するための十種の手だて）
 * sampādetabbaṃ = 「成就されるべきである」
 * vīriyasamatā yojetabbā = 「精進の均衡（平等）が調えられるべきである」（vīriya-samatā、依主釈）
 
