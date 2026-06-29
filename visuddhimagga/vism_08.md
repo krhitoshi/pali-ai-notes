@@ -147,19 +147,19 @@ Evaṃ soḷasavatthukaṃ ānāpānassatikammaṭṭhānaṃ niddiṭṭhaṃ. 
 
 2. Tassa bhāvanānayo anuppatto.
 * tassa = 「その〔業処の〕」（指示代名詞、属格）
-* bhāvanānayo = 「修習の方軌（修習の方法・理趣）」（bhāvanā-naya、依主釈。bhāvanā＝修習／naya＝方法・道理）
+* bhāvanānayo = 「修習の方法」（bhāvanā-naya、依主釈。bhāvanā＝修習／naya＝方法）
 * anuppatto = 「到来した、（説くべき順番が）至った」（anu-√pad、anuppatta の過去分詞、男性単数主格）
-→「その〔業処の〕修習の方軌〔を説くべき順番〕が到来した。」
+→「その〔業処の〕修習の方法〔を説くべき順番〕が到来した。」
 
 3. So pana yasmā pāḷivaṇṇanānusāreneva vuccamāno sabbākāraparipūro hoti.
-* so pana = 「しかしてそれ〔修習の方軌〕は」（so＝それは／pana 接続不変化詞）
+* so pana = 「しかしてそれ〔修習の方法〕は」（so＝それは／pana 接続不変化詞）
 * yasmā = 「～であるがゆえに」（理由を導く関係副詞、下の tasmā と相関）
 * pāḷivaṇṇanānusārena = 「聖典〔本文〕の註釈に随順して」（pāḷi-vaṇṇanā-anusāra、依主釈、具格。pāḷi＝根本聖典・本文／vaṇṇanā＝註釈・解説／anusāra＝随順）
 * eva = 「まさに、こそ、のみ」（限定の強調不変化詞）
 * vuccamāno = 「説かれるならば、説かれつつあるとき」（vuccati の現在受動分詞、男性単数主格）
 * sabbākāraparipūro = 「一切の行相において円満な〔ものと〕」（sabba-ākāra-paripūra、有財釈。sabba＝一切／ākāra＝行相・様態／paripūra＝円満・完備）
 * hoti = 「～となる、～である」
-→「しかしてそれ〔修習の方軌〕は、まさに聖典〔本文〕の註釈に随順して説かれるならば、一切の行相において円満なものとなるがゆえに、」
+→「しかしてそれ〔修習の方法〕は、まさに聖典〔本文〕の註釈に随順して説かれるならば、一切の行相において円満なものとなるがゆえに、」
 
 4. Tasmā ayamettha pāḷivaṇṇanāpubbaṅgamo niddeso.
 * tasmā = 「それゆえに」（§3 の yasmā と相関する結論辞）
@@ -207,9 +207,9 @@ Evaṃ soḷasavatthukaṃ ānāpānassatikammaṭṭhānaṃ niddiṭṭhaṃ. 
 * …pe… = （中略）〔peyyāla：根本句中 “santo ceva paṇīto ca asecanako ca sukho ca vihāro uppannuppanne ca pāpake akusale dhamme ṭhānaso antaradhāpeti” までを省略し、末尾 vūpasameti に接続〕
 * vūpasameti ti = 「『（それを）寂止させる』とは」
 * etthāpi = 「ここでも」
-* eso eva nayo = 「まさにこの理趣（道理）が（適用される）」
+* eso eva nayo = 「まさにこの方法が（適用される）」
 
-→「『いかにして多修され（た）か…（中略）…（悪不善法を）寂止させる』とは、ここでもまさに同じ理趣（が適用される）。」
+→「『いかにして多修され（た）か…（中略）…（悪不善法を）寂止させる』とは、ここでもまさに同じ方法（が適用される）。」
 
 4. Tattha bhāvito ti uppādito vaḍḍhito vā.
 
@@ -1594,7 +1594,7 @@ Nāsikaggeva bhikkhunoti. (pārā. aṭṭha. 2.165);
 
 1. Esa nayo rassapadepi.
 
-* Esa nayo = 「この方法(理趣)が(同様に)」
+* Esa nayo = 「この方法が(同様に)」
 * rassa-pade pi = 「短(の語句)においても」（rassa「短」＋ pada「語句」処格）
 
 → 「この(解釈の)方法は、『短』の(を説く)句においても(同様である)。」
@@ -2153,8 +2153,8 @@ Majjhimabhāṇakā pana paṭhamajjhāne oḷāriko, dutiyajjhānupacāre sukh
 10. Ayaṃ tāva samathe nayo.
 * ayaṃ tāva = 「まずこれが」（指示代名詞 主格）
 * samathe = 「止（奢摩他）における」（処格）
-* nayo = 「理趣・方法である」（主格・m.）
-→「まずこれが止（奢摩他）における理趣である。」
+* nayo = 「方法である」（主格・m.）
+→「まずこれが止（奢摩他）における方法である。」
 
 ## 221 (2)
 
@@ -2224,12 +2224,12 @@ Vipassanāyaṃ pana apariggahe pavatto kāyasaṅkhāro oḷāriko, mahābhūt
 
 10. Tattha pubbe vuttanayeneva purimassa purimassa pacchimena pacchimena paṭippassaddhi veditabbā.
 * tattha = 「そこにおいて, この件に関して」
-* pubbe vutta-nayena eva = 「先に説かれた理趣によって」（pubbe 処格・副, vutta：vac 過分, naya 具格＋eva）
+* pubbe vutta-nayena eva = 「先に説かれた方法によって」（pubbe 処格・副, vutta：vac 過分, naya 具格＋eva）
 * purimassa purimassa = 「それぞれ前のもの（段階）の」（purima を畳語化, 属格）
 * pacchimena pacchimena = 「それぞれ後のもの（段階）によって」（pacchima を畳語化, 具格）
 * paṭippassaddhi = 「静まり（が）」（paṭippassaddhi 主格・f.）
 * veditabbā = 「知られるべきである」（√vid 未来受分・f.）
-→「この件に関しては, 先に説かれた理趣のとおり, それぞれ前の（段階）の静まりが, それぞれ後の（段階）によって（生ずると）知られるべきである。」
+→「この件に関しては, 先に説かれた方法のとおり, それぞれ前の（段階）の静まりが, それぞれ後の（段階）によって（生ずると）知られるべきである。」
 
 11. Evamettha oḷārikasukhumatā ca passaddhi ca veditabbā.
 * evaṃ ettha = 「このように, ここにおいて」
