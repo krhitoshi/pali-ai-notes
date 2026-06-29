@@ -4469,14 +4469,14 @@ Visuddhimagga（清浄道論）Ānāpānassatikathā §231
 
 * apica kho = 「しかしながら、それどころか」
 * kassaci = 「或る者にとっては」（属格）
-* sukhasamphassaṃ uppādayamāno = 「楽な触を生じさせつつ」（sukha-samphassa、現在分詞）
+* sukhasamphassaṃ uppādayamāno = 「心地よい感触を生じさせつつ」（sukha-samphassa、現在分詞）
 * tūlapicu viya = 「綿の繊維（兜羅綿）のように」（tūla-picu）
 * kappāsapicu viya = 「木綿（綿花）の綿のように」（kappāsa-picu）
 * vātadhārā viya ca = 「風の流れのように」（vāta-dhārā、依主釈）
 * upaṭṭhāti = 「現れる」
 * iti ekacce āhu = 「と或る人々は言う」
 
-→「しかも、或る者にとっては楽な触を生じさせながら、兜羅綿のように、木綿の綿のように、また風の流れのように現れる、と或る人々は言う。」
+→「しかも、或る者にとっては心地よい感触を生じさせながら、兜羅綿のように、木綿の綿のように、また風の流れのように現れる、と或る人々は言う。」
 
 4. Ayaṃ pana aṭṭhakathāsu vinicchayo,
 

@@ -168,3 +168,12 @@ vism_08.md (Visuddhimagga 第8章 安般念) の校訂記録.
 - 範囲外 (現代でも生きる慣用のため保持): いかなる (15), 聖なる (2),
   大いなる (12)
 - 校訂: Claude Opus 4.8
+
+### 2026/06/29 sukha-samphassa の訳「楽な触」を平易に
+
+- 内容: 楽な触 -> 心地よい感触（§4472, §4479）
+- 理由: ここの samphassa は相 (nimitta) の触れ心地の描写 (兜羅綿のよう等)
+  で, 技術用語の「触 (phassa)」でなく「感触」の意. 「楽な触」は触を単独名詞に
+  使い不自然だった
+- 根拠: PED sukha-samphassa = pleasant to touch. (DoP は s- が未刊行で未収録)
+- 校訂: Claude Opus 4.8
