@@ -152,14 +152,14 @@ Evaṃ soḷasavatthukaṃ ānāpānassatikammaṭṭhānaṃ niddiṭṭhaṃ. 
 →「その〔業処の〕修習の方法〔を説くべき順番〕が到来した。」
 
 3. So pana yasmā pāḷivaṇṇanānusāreneva vuccamāno sabbākāraparipūro hoti.
-* so pana = 「しかしてそれ〔修習の方法〕は」（so＝それは／pana 接続不変化詞）
+* so pana = 「そして、それ〔修習の方法〕は」（so＝それは／pana 接続不変化詞）
 * yasmā = 「～であるがゆえに」（理由を導く関係副詞、下の tasmā と相関）
 * pāḷivaṇṇanānusārena = 「聖典〔本文〕の註釈に随順して」（pāḷi-vaṇṇanā-anusāra、依主釈、具格。pāḷi＝根本聖典・本文／vaṇṇanā＝註釈・解説／anusāra＝随順）
 * eva = 「まさに、こそ、のみ」（限定の強調不変化詞）
 * vuccamāno = 「説かれるならば、説かれつつあるとき」（vuccati の現在受動分詞、男性単数主格）
 * sabbākāraparipūro = 「一切の行相において円満な〔ものと〕」（sabba-ākāra-paripūra、有財釈。sabba＝一切／ākāra＝行相・様態／paripūra＝円満・完備）
 * hoti = 「～となる、～である」
-→「しかしてそれ〔修習の方法〕は、まさに聖典〔本文〕の註釈に随順して説かれるならば、一切の行相において円満なものとなるがゆえに、」
+→「そして、それ〔修習の方法〕は、まさに聖典〔本文〕の註釈に随順して説かれるならば、一切の行相において円満なものとなるがゆえに、」
 
 4. Tasmā ayamettha pāḷivaṇṇanāpubbaṅgamo niddeso.
 * tasmā = 「それゆえに」（§3 の yasmā と相関する結論辞）
@@ -424,11 +424,11 @@ Ayaṃ panettha saṅkhepattho. Bhikkhave, kena pakārena kenākārena kena vidh
 
 12. Ayaṃ pan' ettha saṅkhepattho.
 
-* Ayaṃ pana = 「しかして、これが」
+* Ayaṃ pana = 「さて、これが」
 * ettha = 「ここにおける」
 * saṅkhepattho = 「要略の意義（である）」（saṅkhepa＋attha, tappurisa）
 
-→「しかして、これがここにおける要略の意義である。」
+→「さて、これがここにおける要略の意義である。」
 
 13. Bhikkhave, kena pakārena kenākārena kena vidhinā bhāvito ānāpānassatisamādhi kena pakārena bahulīkato santo ceva …pe… vūpasametī ti.
 
@@ -1298,14 +1298,14 @@ Yā pana tesaṃ dīgharassatā, sā addhānavasena veditabbā. Yathā hi okāsa
 
 8. Yā pana tesaṃ dīgharassatā, sā addhānavasena veditabbā.
 
-* Yā pana = 「しかるに、～であるところのもの（は）」（関係代名詞・女性主格）
+* Yā pana = 「ところで、～であるところのもの（は）」（関係代名詞・女性主格）
 * tesaṃ = 「それら(出息・入息)の」（属格）
 * dīgha-rassatā = 「長短性（長いか短いかということ）」（dīgha「長」＋ rassa「短」＋ -tā 抽象名詞）
 * sā = 「それは」
 * addhāna-vasena = 「距離(行程・道のり)のはたらきによって、距離の点から」（addhāna「道程・距離・時間」＋ vasena）
 * veditabbā = 「知られるべきである」
 
-→ 「しかるに、それら(出息・入息)の長短は、距離(の長短)によって理解されるべきである。」
+→ 「ところで、それら(出息・入息)の長短は、距離(の長短)によって理解されるべきである。」
 
 9. Yathā hi okāsaddhānaṃ pharitvā ṭhitaṃ udakaṃ vā vālikā vā ‘dīghamudakaṃ dīghā vālikā, rassamudakaṃ rassā vālikā’ ti vuccati,
 
@@ -2373,10 +2373,10 @@ Paṭisambhidāyaṃ (paṭi. ma. 1.171) panassa saddhiṃ codanāsodhanāhi eva
 →「『また賢者たちは, かのその等至に入定することも, 出定することもない。』」
 
 8. ‘‘Iti kira passambhayaṃ kāyasaṅkhāraṃ assasissāmi passasissāmīti sikkhati.
-* iti kira = 「（しかして）このようであれば／いったい」
+* iti kira = 「（そして）このようであれば／いったい」
 * passambhayaṃ kāya-saṅkhāraṃ = 「身行を静めつつ」
 * assasissāmi passasissāmi ti sikkhati = 「〈私は出息しよう, 入息しよう〉と学ぶ（という）」
-→「『（しかるに）このように〈身行を静めつつ, 私は出息しよう, 入息しよう〉と学ぶ（という）。』」
+→「『（ところで）このように〈身行を静めつつ, 私は出息しよう, 入息しよう〉と学ぶ（という）。』」
 
 9. Evaṃ sante vātūpaladdhiyā ca pabhāvanā hoti,
 * evaṃ sante = 「そのようであるならば」（処格絶対節）
