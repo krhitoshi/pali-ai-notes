@@ -273,7 +273,7 @@ Evaṃ soḷasavatthukaṃ ānāpānassatikammaṭṭhānaṃ niddiṭṭhaṃ. 
 
 * Ayaṃ hi = 「なぜなら、この（出入息念三昧）は」
 * yathā asubhakammaṭṭhānaṃ = 「あたかも不浄業処が」
-* kevalaṃ paṭivedhavasena = 「ただ洞察（証得）の力（観点）からのみ」
+* kevalaṃ paṭivedhavasena = 「ただ洞察の力（観点）からのみ」
 * santañ ca paṇītañ ca = 「寂静であり、かつすぐれている（が）」
 * oḷārika-ārammaṇattā pana = 「しかし所縁が粗大であること（粗大所縁性）のゆえに」（abl., bhāva-taddhita；oḷārikārammaṇa は kammadhāraya）
 * paṭikkūla-ārammaṇattā ca = 「また所縁が厭わしいもの（嫌悪）すべきものであることのゆえに」（abl.）
@@ -531,7 +531,7 @@ Araññagato vā…pe… suññāgāragato vāti idamassa ānāpānassatisamādh
   * bhāvanā = 「修習」
   * anurūpa = 「随順する・ふさわしい」（kammadhāraya：bhāvanā-anurūpa「修習に随順する」）
   * senāsana = 「坐臥処・住処」（sena＜sayana「臥処」＋ āsana「坐処」dvanda）
-  * pariggaha = 「会得・把持・取得」（pari-√gah）
+  * pariggaha = 「会得・把握・取得」（pari-√gah）
   * paridīpana = 「遍く明示するもの」（pari-√dīp の行為者）
 
 →「『阿蘭若に行き、あるいは……（中略）……空閑処に行き』とは、これは、その〔比丘〕にとっての、出入息念三昧の修習にふさわしい坐臥処の会得を明示するものである。」
@@ -684,8 +684,8 @@ Atha vā yasmā idaṃ kammaṭṭhānappabhede muddhabhūtaṃ sabbaññubuddha
   * sabbaññu-buddha = 「一切知の仏」
   * paccekabuddha = 「独覚（辟支仏）」
   * buddha-sāvaka = 「仏の声聞（弟子）」
-* visesa-adhigama-diṭṭhadhamma-sukhavihāra-padaṭṭhānaṃ = 「すぐれたものの証得と現法楽住との近因（足処）であって」（主・中・単、長大 tappurisa）
-  * visesa-adhigama = 「すぐれたもの〔の境地〕の証得」
+* visesa-adhigama-diṭṭhadhamma-sukhavihāra-padaṭṭhānaṃ = 「すぐれたものの到達と現法楽住との近因（足処）であって」（主・中・単、長大 tappurisa）
+  * visesa-adhigama = 「すぐれたもの〔の境地〕の到達」
   * diṭṭhadhamma-sukhavihāra = 「現法楽住（現世における安楽な住）」
   * padaṭṭhāna = 「近因・足処（直接のよりどころ）」
 * itthi-purisa-hatthi-assa-ādi-sadda-samākulaṃ gāmantaṃ = 「女・男・象・馬などの〔発する〕音声に満ち騒がしい村の界隈を」（対・単）
@@ -696,7 +696,7 @@ Atha vā yasmā idaṃ kammaṭṭhānappabhede muddhabhūtaṃ sabbaññubuddha
 * na sukaraṃ bhāvetuṃ = 「修習することは容易でない」（na ＋ sukara「為し易き」＋ bhāvetuṃ 不定詞）
 * sadda-kaṇṭakattā jhānassa = 「禅定にとって音声は棘(とげ)であるがゆえに」（sadda「音声」＋ kaṇṭaka「棘」＋ -ttā 抽象名詞・奪格的「～であることのゆえに」、jhānassa 属・単「禅定の〔棘〕」）
 
-→「あるいは〔別解として〕、この出入息念という業処は、諸業処の分類のうちで頂点となるものであり、一切知者である仏・独覚・仏弟子たちにとっての、すぐれたものの証得と現法楽住との近因であって、〔しかも〕女・男・象・馬などの音声に満ち騒がしい村の界隈を捨て去ることなくしては修習することが容易でない――禅定にとって音声は棘であるがゆえに――。」
+→「あるいは〔別解として〕、この出入息念という業処は、諸業処の分類のうちで頂点となるものであり、一切知者である仏・独覚・仏弟子たちにとっての、すぐれたものの到達と現法楽住との近因であって、〔しかも〕女・男・象・馬などの音声に満ち騒がしい村の界隈を捨て去ることなくしては修習することが容易でない――禅定にとって音声は棘であるがゆえに――。」
 
 7. Agāmake pana araññe sukaraṃ yogāvacarena idaṃ kammaṭṭhānaṃ pariggahetvā ānāpānacatutthajjhānaṃ nibbattetvā tadeva pādakaṃ katvā saṅkhāre sammasitvā aggaphalaṃ arahattaṃ sampāpuṇituṃ.
 
@@ -1250,7 +1250,7 @@ Yā pana tesaṃ dīgharassatā, sā addhānavasena veditabbā. Yathā hi okāsa
 * vuttaṃ = 「説かれている」
 
 → 「『passāsa（パッサーサ）』とは、内へ入っていく風(息)である、と律の註釈書には説かれている。」
-（※ここでは assāsa＝呼気・出る息、passāsa＝吸気・入る息とされる点に注意）
+（※ここでは assāsa＝出息〔出る息〕、passāsa＝入息〔入る息〕とされる点に注意）
 
 4. Suttantaṭṭhakathāsu pana uppaṭipāṭiyā āgataṃ.
 
@@ -2274,9 +2274,9 @@ Paṭisambhidāyaṃ (paṭi. ma. 1.171) panassa saddhiṃ codanāsodhanāhi eva
 * assāsa-passāsā = 「出息・入息は」（dvanda, 主格・複）
 * kāyikā = 「身に属する（もの）」（kāyika 主格・複）
 * ete dhammā = 「これらの法は」（主格・複）
-* kāya-paṭibaddhā = 「身に繋属したもの」（paṭibaddha「結びついた」, tappurisa, 主格・複）
+* kāya-paṭibaddhā = 「身に結びついたもの」（paṭibaddha「結びついた」, tappurisa, 主格・複）
 * kāya-saṅkhārā = 「身行（である）」（主格・複）
-→「長き出息・入息は身に属するものであり, これらの法は身に繋属したものであって, 身行である。」
+→「長き出息・入息は身に属するものであり, これらの法は身に結びついたものであって, 身行である。」
 
 5. Te kāyasaṅkhāre passambhento nirodhento vūpasamento sikkhati…pe…
 * te kāya-saṅkhāre = 「それら身行を」（対格・複）
@@ -2429,7 +2429,7 @@ Paṭisambhidāyaṃ (paṭi. ma. 1.171) panassa saddhiṃ codanāsodhanāhi eva
 * nimittaṃ = 「相を」（対格, 以下三つの ablative 的奪格・具格の対象）
 * su-gahita-ttā = 「よく把握されたことのゆえに」（su「善く」＋gahita：√gah 過分＋tā 抽象名詞, 奪格）
 * su-manasikata-ttā = 「よく作意されたことのゆえに」（manasikata「作意された」＋tā, 奪格）
-* sū-padhārita-ttā = 「よく憶持されたことのゆえに」（upadhārita「憶持・把持された」＋tā, 奪格）
+* sū-padhārita-ttā = 「よく憶持されたことのゆえに」（upadhārita「憶持・把握された」＋tā, 奪格）
 * niruddhe pi oḷārike sadde = 「粗い音が滅したときにも」（処格絶対節：niruddha：ni√rudh 過分＋oḷārika sadda 処格＋pi）
 * atha pacchā = 「その後に」
 * sukhumakā saddā = 「微細な音が（複数）」（主格・複, -ka は指小・親愛接辞）
@@ -5174,11 +5174,11 @@ Visuddhimagga Ānāpānassatikathā §234（第二の四句・pītipaṭisaṃve
   * pariññeyyaṃ = 「遍知（あまねく理解する）すべきものを」（pari+√jñā 未来受動分詞）
   * pahātabbaṃ = 「断ずべきものを」（pa+√hā 未来受動分詞）
   * bhāvetabbaṃ = 「修習すべきものを」（√bhū 使役 未来受動分詞）
-  * sacchikātabbaṃ = 「現証すべきものを」（sacchikaroti の未来受動分詞）
-  * sacchikaroto = 「現証する者にとって」（sacchi〔現前に〕+ karoti）
+  * sacchikātabbaṃ = 「体得すべきものを」（sacchikaroti の未来受動分詞）
+  * sacchikaroto = 「体得する者にとって」（sacchi〔現前に〕+ karoti）
   * sā pīti paṭisaṃviditā hoti = 「その喜びは経験される」
 
-→「知り、見、振り返り見、心を確立し、信によって確信し、精進を奮い起こし、念を確立し、心を統一し、慧によって知り、証知すべき・遍知すべき・断ずべき・修習すべき・現証すべきものを（おのおの実践して）現証する者にとって、その喜びは経験される。」
+→「知り、見、振り返り見、心を確立し、信によって確信し、精進を奮い起こし、念を確立し、心を統一し、慧によって知り、証知すべき・遍知すべき・断ずべき・修習すべき・体得すべきものを（おのおの実践して）体得する者にとって、その喜びは経験される。」
 
 18. Evaṃ sā pīti paṭisaṃviditā hotī ti.
 
@@ -5278,11 +5278,11 @@ Visuddhimagga Ānāpānassatikathā §234（続き・第二の四句の補説）
 9. Dvīsu cittasaṅkhārapadesu ‘‘saññā ca vedanā ca cetasikā ete dhammā cittapaṭibaddhā cittasaṅkhārā’’ti (paṭi. ma. 1.174; ma. ni. 1.463) vacanato saññāsampayuttā vedanāti evaṃ vedanānupassanānayena idaṃ catukkaṃ bhāsitanti veditabbaṃ.
 
   * dvīsu cittasaṅkhāra-padesu = 「二つの『心行』の句においては」（処格・複数）
-  * ‘‘saññā ca vedanā ca cetasikā ete dhammā cittapaṭibaddhā cittasaṅkhārā’’ ti = 「『想と受とは心所であり、これらの法は心に繋属し、心行である』と」
+  * ‘‘saññā ca vedanā ca cetasikā ete dhammā cittapaṭibaddhā cittasaṅkhārā’’ ti = 「『想と受とは心所であり、これらの法は心に結びつき、心行である』と」
     * saññā ca vedanā ca = 「想と受と」
     * cetasikā = 「心所（心に属するもの）」（複数・主格）
     * ete dhammā = 「これらの法は」
-    * citta-paṭibaddhā = 「心に繋属した、心に結びついた」（paṭibaddha = paṭi+√bandh の過去分詞）
+    * citta-paṭibaddhā = 「心に結びついた」（paṭibaddha = paṭi+√bandh の過去分詞）
     * cittasaṅkhārā = 「心行（である）」（複数・主格）
   * (paṭi. ma. 1.174; ma. ni. 1.463) = 「『無礙解道』1.174・『中部』1.463」
   * vacanato = 「（という）言（説）があることから」（奪格・理由）
@@ -5293,7 +5293,7 @@ Visuddhimagga Ānāpānassatikathā §234（続き・第二の四句の補説）
   * bhāsitaṃ = 「説かれた」（bhāsati の過去分詞）
   * ti veditabbaṃ = 「と理解されるべきである」
 
-→「二つの『心行』の句においては、『想と受とは心所であり、これらの法は心に繋属し、心行である』（Paṭi-ma 1.174; M 1.463）という言があることから、（心行とは）想と相応する受である、と──このように、受随観（受の観察）の方法によって、この四句は説かれた、と理解されるべきである。」
+→「二つの『心行』の句においては、『想と受とは心所であり、これらの法は心に結びつき、心行である』（Paṭi-ma 1.174; M 1.463）という言があることから、（心行とは）想と相応する受である、と──このように、受随観（受の観察）の方法によって、この四句は説かれた、と理解されるべきである。」
 
 ## 235
 

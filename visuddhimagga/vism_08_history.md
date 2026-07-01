@@ -218,3 +218,19 @@ vism_08.md (Visuddhimagga 第8章 安般念) の校訂記録.
   語釈は「依存」に分けた. 同語根 sannissaya は既に 所依->依りどころ に平易化済み
 - 範囲: まず vism_08 のみ. patis_a_1_03 等 他ファイルの「依拠」(nissāya/nissita) は未着手
 - 校訂: Claude Opus 4.8 + MCP (pali-dict)
+
+### 2026/07/01 translation_terms.md の残存置換語を統一
+
+- 内容: docs/translation_terms.md との照合で残っていた未置換語を統一 (本文・語釈)
+  - §687, §688, §699 adhigama の 証得 -> 到達 (「すぐれたものの証得」-> 到達)
+  - §534 pariggaha 語義, §2432 upadhārita 語義: 把持 -> 把握
+  - §2277, §2279 kāyapaṭibaddha, §5281, §5285, §5296 cittapaṭibaddha:
+    繋属 -> 結びつく/結びついた (§5285 は「繋属した, 結びついた」の重複を
+    「結びついた」に一本化)
+  - §5177, §5178, §5181 sacchikaroti の 現証 -> 体得
+  - §276 paṭivedha 語釈の割注「洞察（証得）」: 証得 は別語の訳のため括弧ごと削除
+  - §1253 訳注: assāsa＝呼気/passāsa＝吸気 -> 出息〔出る息〕/入息〔入る息〕
+    (出る息/入る息 との重複を避け括弧併記)
+- 保留: §1040 ekagga 語義併記の「専一」は ekatta (専一->単一性) と別語のため
+  訳語を別途検討 (今回は未変更)
+- 校訂: Claude Opus 4.8
