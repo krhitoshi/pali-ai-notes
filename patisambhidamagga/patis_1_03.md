@@ -2406,9 +2406,9 @@ Buddhoti yo so bhagavā sayambhū anācariyako pubbe ananussutesu dhammesu sām
 * buddhānaṃ bhagavantānaṃ =「仏・世尊がたの」（属格複数）
 * bodhiyā mūle =「菩提樹の根元において」（bodhi 属格＋mūla 処格）
 * saha sabbaññutañāṇassa paṭilābhā =「一切知智の獲得と同時に」（saha＋属格／paṭilābha 奪格「獲得とともに」）
-* sacchikā paññatti =「体得に基づく施設（呼称）」（sacchika「体得された」女性＋paññatti「施設・呼称」）
+* sacchikā paññatti =「体得に基づく呼称」（sacchika「体得された」女性＋paññatti「呼称」）
 * yadidaṃ buddho ti =「すなわち『仏』という（名）がそれである」
-→「これは解脱を究極とする呼称であり、仏・世尊がたが菩提樹の根元において一切知智を獲得するのと同時に、体得された施設（呼称）である――すなわち『仏』という名がそれである。」
+→「これは解脱を究極とする呼称であり、仏・世尊がたが菩提樹の根元において一切知智を獲得するのと同時に、体得された呼称である――すなわち『仏』という名がそれである。」
 
 19. Desitāti attadamathattho yathattho yathā buddhena desito,
 

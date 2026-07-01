@@ -3689,14 +3689,14 @@ Buddhotipadassa abhāvepi buddhenātipade yo so buddho, taṃ niddisitukāmena 
     * adhigama ＝「到達」
     * paribhāvita ＝「遍（あまね）く修習された」（pari＝遍・あまねく／bhāvita＝修習された）
   * khandhasantānaṃ upādāya ＝「蘊の相続に縁って」（khandhasantāna＝蘊の相続／upādāya＝～に縁って）
-  * paṇṇattiko ＝「施設された（仮設された）もの」（paṇṇatti＝施設）
+  * paṇṇattiko ＝「呼称された（仮設された）もの」（paṇṇatti＝呼称）
   * sabbaññutapadaṭṭhānaṃ vā ＝「あるいは一切知性の近因である」（sabbaññuta＝一切知性／padaṭṭhāna＝近因。saccābhisambodhiṃ を修飾）
   * saccābhisambodhiṃ upādāya ＝「諦の現等覚に縁って」（saccābhisambodhi＝諸諦の現等覚）
-  * paṇṇattiko ＝「施設されたもの」
+  * paṇṇattiko ＝「呼称されたもの」
   * sattaviseso ＝「特別な有情」（satta＝有情／visesa＝殊別）
   * buddho ＝「buddha〔である〕」
 
-→「そのうち、一切法において無礙智を因相（しるし）とする無上の解脱への到達によって遍（あまね）く修習された蘊の相続に縁って施設され、あるいは一切知性の近因である諸諦の現等覚に縁って施設された特別な有情——これが buddha である。」
+→「そのうち、一切法において無礙智を因相（しるし）とする無上の解脱への到達によって遍（あまね）く修習された蘊の相続に縁って呼称され、あるいは一切知性の近因である諸諦の現等覚に縁って呼称された特別な有情——これが buddha である。」
 
 30. Ettāvatā atthato buddhavibhāvanā katā hoti.
 
@@ -3957,7 +3957,7 @@ Vodānañāṇaniddesavaṇṇanā niṭṭhitā.
 
 * tato paraṃ =「それより後（次に）」
 * buddho ti na etaṃ nāmaṃ ti ādi =「『仏という――この名は～でない』等は」（前掲 Niddesa の文を指す）
-* atthaṃ anugatā ayaṃ paññatti ti =「『この施設（呼称）は意味に即している』ということを」（attha 対格＋anugata「即した・付随した」／paññatti「施設・呼称」）
+* atthaṃ anugatā ayaṃ paññatti ti =「『この呼称は意味に即している』ということを」（attha 対格＋anugata「即した・付随した」／paññatti「呼称」）
 * ñāpana-tthaṃ vuttaṃ =「知らせるために説かれた」（ñāpana「知らせること」＋attha 対格的、vuttaṃ「説かれた」）
 →「それより後、『仏という――この名は～でない』等は、『この呼称は意味に即している』ということを知らせるために説かれた。」
 
@@ -4038,11 +4038,11 @@ Vodānañāṇaniddesavaṇṇanā niṭṭhitā.
 
 14. Sacchikā paññattīti arahattaphalasacchikiriyāya, sabbadhammasacchikiriyāya vā jātā paññatti.
 
-* sacchikā paññatti ti =「『体得に基づく施設(sacchikā paññatti)』とは」
+* sacchikā paññatti ti =「『体得に基づく呼称(sacchikā paññatti)』とは」
 * arahatta-phala-sacchikiriyāya =「阿羅漢果の体得(sacchikiriyā)によって」（具格）
 * sabba-dhamma-sacchikiriyāya vā =「あるいは一切法の体得によって」
-* jātā paññatti =「生じた施設（呼称）（である）」（jāta「生じた」）
-→「『体得に基づく施設』とは――阿羅漢果の体得によって、あるいは一切法の体得によって生じた呼称（である）。」
+* jātā paññatti =「生じた呼称（である）」（jāta「生じた」）
+→「『体得に基づく呼称』とは――阿羅漢果の体得によって、あるいは一切法の体得によって生じた呼称（である）。」
 
 15. Yadidaṃ buddhoti yā ayaṃ buddhoti paññatti, ayaṃ byañjanato buddhavibhāvanā.
 
