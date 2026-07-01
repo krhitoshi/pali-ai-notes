@@ -13014,11 +13014,11 @@ Dīghaṃassāsapassāsaniddesavaṇṇanā niṭṭhitā.
 
   * evaṃ = 「かくのごとく」
   * tīsu khandhesu vuttesu = 「三蘊が説かれたとき」（処格絶対節。tīsu khandhesu＝三蘊が／vuttesu 過去分詞・処格）
-  * taṃ-nissayo = 「それ（三蘊）を所依とする〔ところの〕」（nissaya＝所依・依りどころ、男性主格、viññāṇakkhandho に一致）
+  * taṃ-nissayo = 「それ（三蘊）を依りどころとする〔ところの〕」（nissaya＝依りどころ、男性主格、viññāṇakkhandho に一致）
   * viññāṇa-kkhandho = 「識蘊が」
   * vutto va hoti = 「説かれたものとなる（説かれたも同然である）」（vutto＋eva＋hoti）
 
-→「かくのごとく三蘊（受・想・行）が説かれたとき、それ〔ら〕を所依とする識蘊もまた、〔おのずから〕説かれたものとなる。」
+→「かくのごとく三蘊（受・想・行）が説かれたとき、それ〔ら〕を依りどころとする識蘊もまた、〔おのずから〕説かれたものとなる。」
 
 7. Nāmañcāti vuttappakāraṃ nāmañca.
 
@@ -13104,7 +13104,7 @@ Mahābhūtāti mahantapātubhāvato mahābhūtasāmaññato mahāparihārato mah
   * cakkhu = 「眼」／ sotaṃ = 「耳」／ ghānaṃ = 「鼻」／ jivhā = 「舌」／ kāyo = 「身」
   * rūpaṃ = 「色（境）」／ saddo = 「声」／ gandho = 「香」／ raso = 「味」
   * itthi-indriyaṃ = 「女根」／ purisa-indriyaṃ = 「男根」／ jīvita-indriyaṃ = 「命根」
-  * hadaya-vatthu = 「心基（所依）」
+  * hadaya-vatthu = 「心基（依りどころ）」
   * ojā = 「食素（栄養素）」
   * kāya-viññatti = 「身表」／ vacī-viññatti = 「語表」
   * ākāsa-dhātu = 「虚空界」
