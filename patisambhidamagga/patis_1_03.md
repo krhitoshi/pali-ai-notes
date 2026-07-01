@@ -4257,9 +4257,9 @@ Dhamme samodhānetīti kathaṃ dhamme samodhāneti? Ādhipateyyaṭṭhena indr
 * tatha-ṭṭhena = 「如実（真如・あるがまま）という意味において」
   * saccaṃ = 「諦を」（四諦）
 * avikkhepa-ṭṭhena = 「不散乱という意味において」
-  * samathaṃ = 「止（奢摩他）を」
+  * samathaṃ = 「止（サマタ）を」
 * anupassana-ṭṭhena = 「随観（観察）という意味において」
-  * vipassanaṃ = 「観（毘鉢舎那）を」
+  * vipassanaṃ = 「観（ヴィパッサナー）を」
 * ekarasa-ṭṭhena = 「一味（同一の味・等味）という意味において」
   * samathavipassanaṃ = 「止観を」
 * anativattana-ṭṭhena = 「不超越（相互に超え越えないこと＝均衡）という意味において」
@@ -6686,7 +6686,7 @@ Anupassatīti kathaṃ taṃ cittaṃ anupassati…pe… evaṃ taṃ cittaṃ a
 
   * avisāhaṭamānasatā = 「心が散乱せざる状態（意の不散乱性）」〔異読 avisāhatamānasatā〕
 
-  * samatho = 「止（奢摩他）」
+  * samatho = 「止（サマタ）」
 
   * samādhindriyaṃ = 「定根」
 
@@ -8182,7 +8182,7 @@ Katamāni dvesattati vipassanāvasena ñāṇāni? Dīghaṃ assāsaṃ aniccat
 
 * katamāni = 「いかなるものが～か（中性複数主格）」
 * dvesattati = 「七十二（dve 二 + sattati 七十）」数詞
-* vipassanā-vasena = 「観（毘鉢舎那）によって・観の観点から」
+* vipassanā-vasena = 「観（ヴィパッサナー）によって・観の観点から」
   * vipassanā = 「観（vi + √pass）」
   * vasena = 「～によって（具格）」
   * 依主釈（tappurisa）
