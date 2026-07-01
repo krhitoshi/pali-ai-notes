@@ -478,11 +478,11 @@ Soḷasañāṇaniddesavaṇṇanā niṭṭhitā.
 
 13. Niyyānāvaraṇaṭṭhena nīvaraṇāti ettha aratipi sabbepi akusalā āvaraṇaṭṭhena nīvaraṇāti vuttā.
 * niyyānāvaraṇaṭṭhena nīvaraṇā ti ettha = 「『出要をさえぎるという意味で諸蓋である』というここにおいて」（被釈句＋処格 ettha）
-* arati pi = 「不楽もまた」
+* arati pi = 「嫌気もまた」
 * sabbe pi akusalā = 「すべての不善法もまた」（主格・複数）
 * āvaraṇaṭṭhena = 「さえぎるという意味で」（具格・単数）
 * nīvaraṇā ti vuttā = 「『諸蓋である』と説かれた」（主格・複数＋過去分詞）
-  → 「『出要をさえぎるという意味で諸蓋である』というここにおいては、不楽もまた、すべての不善法もまた、さえぎるという意味で『諸蓋である』と説かれている。」
+  → 「『出要をさえぎるという意味で諸蓋である』というここにおいては、嫌気もまた、すべての不善法もまた、さえぎるという意味で『諸蓋である』と説かれている。」
 
 14. Niyyānāvaraṇaṭṭhenāti niyyānānaṃ āgamanamaggapidahanaṭṭhena.
 * niyyānāvaraṇaṭṭhena ti = 「『出要をさえぎるという意味で』とは」（被釈語）
@@ -4283,7 +4283,7 @@ Araññagato vā rukkhamūlagato vā suññāgāragato vāti idamassa ānāpāna
 
   * sannissaya-bhūta = 「依り所となった、拠り所たる」
 
-  * paridīpana = 「明示するもの、顕示するもの」
+  * paridīpana = 「明示するもの」
 
 * aññasāsanassa = 「他の教え（外道の教説）の」（属格単数）
 
@@ -6437,9 +6437,9 @@ Vivaṭṭanā pārisuddhi, tesañca paṭipassanā’’ti.
 
 * arahattaṃ pāpuṇitukāmena = 「阿羅漢果に到達しようと欲する（者）によって」（対格 + 願望的複合・具格単数）
 
-* ādikammikena kulaputtena = 「初学の善男子によって」（具格単数）
+* ādikammikena kulaputtena = 「初学の良家の子によって」（具格単数）
 
-  * kulaputta = 「善男子、良家の子息」
+  * kulaputta = 「良家の子」
 
 * visuddhimagge vutta-nayena = 「『清浄道論』に説かれた方法によって」（処格 + 具格単数）
 
@@ -6463,7 +6463,7 @@ Vivaṭṭanā pārisuddhi, tesañca paṭipassanā’’ti.
 
   * uggahetabbaṃ = 「習得されるべき」（義務分詞）
 
-→「しかし、ここでは、この（第一の）四種法こそが初学者にとって業処として説かれたのであり、他の三つの四種法は、ここで禅を得た者にとって受随観・心随観・法随観として（説かれた）のであるから、それゆえ、この業処を修習し、出入息の四種禅を近因とする観とともに、（四）無礙解をそなえて阿羅漢果に到達しようと欲する初学の善男子によって、『清浄道論』に説かれた方法によって戒の浄化などの一切の務めをなし、七支をそなえた師のもとで、五つの結節をもつ業処が習得されるべきである。」
+→「しかし、ここでは、この（第一の）四種法こそが初学者にとって業処として説かれたのであり、他の三つの四種法は、ここで禅を得た者にとって受随観・心随観・法随観として（説かれた）のであるから、それゆえ、この業処を修習し、出入息の四種禅を近因とする観とともに、（四）無礙解をそなえて阿羅漢果に到達しようと欲する初学の良家の子によって、『清浄道論』に説かれた方法によって戒の浄化などの一切の務めをなし、七支をそなえた師のもとで、五つの結節をもつ業処が習得されるべきである。」
 
 2. Tatrime pañca sandhayo uggaho paripucchā upaṭṭhānaṃ appanā lakkhaṇanti.
 
@@ -6780,7 +6780,7 @@ Gaṇentena ca paṭhamaṃ dandhagaṇanāya dhaññamāpakagaṇanāya gaṇ
 
 * tattha = 「そこで」
 
-* iminā ādikammikena kulaputtena = 「この初学の善男子によって」（具格単数）
+* iminā ādikammikena kulaputtena = 「この初学の良家の子によって」（具格単数）
 
 * paṭhamaṃ = 「まず最初に」（副詞）
 
@@ -6788,7 +6788,7 @@ Gaṇentena ca paṭhamaṃ dandhagaṇanāya dhaññamāpakagaṇanāya gaṇ
 
 * idaṃ kammaṭṭhānaṃ manasi kātabbaṃ = 「この業処が作意されるべきである」（対格 + 義務分詞・主格中性）
 
-→「そこで、この初学の善男子によって、まず最初に、数（数息）によってこの業処が作意されるべきである。」
+→「そこで、この初学の良家の子によって、まず最初に、数（数息）によってこの業処が作意されるべきである。」
 
 10. Gaṇentena pana pañcannaṃ heṭṭhā na ṭhapetabbaṃ, dasannaṃ upari na netabbaṃ, antarā khaṇḍaṃ na dassetabbaṃ.
 
@@ -14308,13 +14308,13 @@ Vijānātīti viññāṇaṃ. Viññāṇameva khandho viññāṇakkhandho. 
 * idha pana = 「しかしここ〔本箇所〕では」
 * mano-gahaṇaṃ = 「『意（mano）』という語の把捉・採用（mano＋gahaṇa）」（tappurisa）
 * manassa eva = 「意こそが（属格単数＋限定辞）」
-* āyatana-bhāva-dīpana-atthaṃ = 「処であることを顕示するため（āyatanabhāva＝処であること、dīpana＝顕示、attha＝目的、対格・副詞的）」（tappurisa）
-→「『意・意処（mano manāyatanaṃ）』とは、ここでは、『意（mano）』という語の採用は、意こそが処（āyatana）であることを顕示するためである。」
+* āyatana-bhāva-dīpana-atthaṃ = 「処であることを明示するため（āyatanabhāva＝処であること、dīpana＝明示、attha＝目的、対格・副詞的）」（tappurisa）
+→「『意・意処（mano manāyatanaṃ）』とは、ここでは、『意（mano）』という語の採用は、意こそが処（āyatana）であることを明示するためである。」
 
 2. Tenetaṃ dīpeti – ‘‘nayidaṃ devāyatanaṃ viya manassa āyatanattā manāyatanaṃ, atha kho mano eva āyatanaṃ manāyatana’’nti.
 
 * tena = 「それによって、そのことによって」
-* etaṃ dīpeti = 「このことを顕示する（dīpeti、現在・三人称単数）」
+* etaṃ dīpeti = 「このことを明示する（dīpeti、現在・三人称単数）」
 * na idaṃ = 「これは～ではない」
 * deva-āyatanaṃ viya = 「神の処（神殿・神域）のように（devāyatana＝神の住処）」
 * manassa āyatanattā = 「意の〔所属する〕処であることのゆえに（属格＋āyatana＋tta 抽象名詞、奪格）」
@@ -14322,7 +14322,7 @@ Vijānātīti viññāṇaṃ. Viññāṇameva khandho viññāṇakkhandho. 
 * atha kho = 「そうではなく、むしろ」
 * mano eva āyatanaṃ = 「意そのものが処〔である〕」
 * manāyatanan ti = 「〔ゆえに〕『意処』と〔いう〕」
-→「それによってこのことを顕示する――『これは、神域（devāyatana）のように〔意がそこに所属するという〕意の処であるがゆえに「意処」と〔呼ばれるの〕ではない。そうではなく、意そのものが処であるがゆえに「意処（manāyatana）」と〔呼ばれるのである〕』と。」
+→「それによってこのことを明示する――『これは、神域（devāyatana）のように〔意がそこに所属するという〕意の処であるがゆえに「意処」と〔呼ばれるの〕ではない。そうではなく、意そのものが処であるがゆえに「意処（manāyatana）」と〔呼ばれるのである〕』と。」
 
 3. Āyatanaṭṭho heṭṭhā vuttoyeva.
 
