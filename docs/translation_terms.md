@@ -23,6 +23,7 @@
 - 止息 → 静める / 静まる / 静まり (passambhana / paṭippassaddhi)
 - 通達 / 洞知 → 洞察 (paṭivedha / paṭividita)
 - 総摂 → 統合 / 集約 (samodhāna / samodhāneti)
+- 薫習 → 修習 (paribhāvita = pari + bhāvita。bhāvanā=修習 に統一)
 - 繋属 → 結びつく / 結びついた (paṭibaddha)
 - 受感 → 感受 (paṭisaṃvedī)
 - 倦厭 / 不楽 → 嫌気（不快 を併記）(arati。CPD: disgust)
