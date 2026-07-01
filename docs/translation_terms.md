@@ -30,6 +30,8 @@
 - 依止 → 依りどころ / 身を寄せる (nissaya / bhajati。合成語 親依止縁 は保持)
 - 奢摩他 → サマタ (samatha)
 - 毘鉢舎那 → ヴィパッサナー (vipassanā)
+- 禅那 → 禅定 (jhāna。samādhi は 三昧 で別語)
+- 専一 → 単一性 (ekatta。CPD oneness/unity。ekaggatā=一境性 は別語で保持)
 - 安般 / 安那般那 → 出入息 (ānāpāna)
 - 安般念 / 安那般那念 / 入出息念 → 出入息念 (ānāpānassati)
 - 入出息 → 出入息 (assāsapassāsa)

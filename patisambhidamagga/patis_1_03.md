@@ -1011,9 +1011,9 @@ Upakkilesañāṇaniddeso tatiyo.
 * ṭhānehi = 「点・場合によって」（具格複数）
 * parisuddha = 「あまねく清まった・清浄になった」
 * pariyodāta = 「（さらに）澄み切った・明浄になった」
-* ekattagata = 「一つにまとまった・専一になった」（ekatta「一なる状態・専一」＋gata「至った」）
+* ekattagata = 「一つにまとまった・単一性になった」（ekatta「一なる状態・単一性」＋gata「至った」）
 * hoti = 「～となる」
-→「これら六つの点によって、心はあまねく清まり、澄み切り、一つにまとまった（専一の）ものとなる。」
+→「これら六つの点によって、心はあまねく清まり、澄み切り、一つにまとまった（単一性の）ものとなる。」
 
 ## 158 (2)
 
@@ -1027,21 +1027,21 @@ Paṭhamassa jhānassa ko ādi, kiṃ majjhe, kiṃ pariyosānaṃ? Paṭhamassa
 
 * katame = 「どれらが」（疑問代名詞・男性複数）
 * te = 「それらの」
-* ekattā = 「専一（一なる状態）」（ekatta の複数主格）
-→「それらの専一（一なる状態）とは何か。」
+* ekattā = 「単一性（一なる状態）」（ekatta の複数主格）
+→「それらの単一性（一なる状態）とは何か。」
 
 2. Dānavosaggupaṭṭhānekattaṃ, samathanimittupaṭṭhānekattaṃ, vayalakkhaṇupaṭṭhānekattaṃ, nirodhupaṭṭhānekattaṃ.
 
 * dāna = 「布施」
 * vosagga = 「捨て与えること・施与」
 * upaṭṭhāna = 「現前」
-* ekattaṃ = 「専一」（dāna-vosagga-upaṭṭhāna-ekatta：依主釈の重畳複合）
+* ekattaṃ = 「単一性」（dāna-vosagga-upaṭṭhāna-ekatta：依主釈の重畳複合）
 * samatha = 「止（こころの静まり）」
 * nimitta = 「相」
 * vaya = 「衰滅・滅びゆくこと」
 * lakkhaṇa = 「特相（特徴）」
 * nirodha = 「滅」
-→「施し捨て与えることの現前における専一、止の相の現前における専一、滅びゆくことの特相の現前における専一、滅の現前における専一（の四つである）。」
+→「施し捨て与えることの現前における単一性、止の相の現前における単一性、滅びゆくことの特相の現前における単一性、滅の現前における単一性（の四つである）。」
 
 3. Dānavosaggupaṭṭhānekattaṃ cāgādhimuttānaṃ, samathanimittupaṭṭhānekattañca adhicittamanuyuttānaṃ, vayalakkhaṇupaṭṭhānekattañca vipassakānaṃ, nirodhupaṭṭhānekattañca ariyapuggalānaṃ –
 
@@ -1051,12 +1051,12 @@ Paṭhamassa jhānassa ko ādi, kiṃ majjhe, kiṃ pariyosānaṃ? Paṭhamassa
 * anuyutta = 「専念した・励む者」（anuyuñjati の過去分詞、属格複数）
 * vipassaka = 「観察する者（観行者）」（属格複数）
 * ariyapuggala = 「聖者（聖なる人）」（属格複数）
-→「施し捨て与えることの現前における専一は、手放すことへ心を傾けた者たちの（もの）であり、止の相の現前における専一は、増上心に専念する者たちの（もの）であり、滅びゆくことの特相の現前における専一は、観察する者たちの（もの）であり、滅の現前における専一は、聖者たちの（もの）である――」
+→「施し捨て与えることの現前における単一性は、手放すことへ心を傾けた者たちの（もの）であり、止の相の現前における単一性は、増上心に専念する者たちの（もの）であり、滅びゆくことの特相の現前における単一性は、観察する者たちの（もの）であり、滅の現前における単一性は、聖者たちの（もの）である――」
 
 4. imehi catūhi ṭhānehi ekattagataṃ cittaṃ paṭipadāvisuddhipakkhandañceva hoti, upekkhānubrūhitañca, ñāṇena ca sampahaṃsitaṃ.
 
 * imehi catūhi ṭhānehi = 「これら四つの点によって」（具格複数）
-* ekattagataṃ cittaṃ = 「一つにまとまった（専一になった）心」
+* ekattagataṃ cittaṃ = 「一つにまとまった（単一性になった）心」
 * paṭipadā = 「行道（実践の道）」
 * visuddhi = 「清浄」
 * pakkhanda = 「進み入った・入り込んだ」（pakkhandati の過去分詞）
@@ -1164,13 +1164,13 @@ Paṭhamassa jhānassa sampahaṃsanā pariyosānaṃ. Pariyosānassa kati lakkh
 * visuddhaṃ cittaṃ = 「清まった心を」
 * ajjhupekkhati = 「平等に見守る・無関心に静観する（捨をもって看る）」（adhi-upa-ikkhati）
 * samatha-paṭipanna = 「止へと進み行ったもの・止に到ったもの」
-* ekatta-upaṭṭhāna = 「専一の現前」
-→「清まった心を平等に見守り、止へ進み行ったものを平等に見守り、専一の現前を平等に見守る。」
+* ekatta-upaṭṭhāna = 「単一性の現前」
+→「清まった心を平等に見守り、止へ進み行ったものを平等に見守り、単一性の現前を平等に見守る。」
 
 5. Yañca visuddhaṃ cittaṃ ajjhupekkhati, yañca samathapaṭipannaṃ ajjhupekkhati, yañca ekattupaṭṭhānaṃ ajjhupekkhati – paṭhamassa jhānassa upekkhānubrūhanā majjhe.
 
 * yañca … yañca … yañca = 「～ということと、～ということと、～ということ（の三つ）」
-→「清まった心を平等に見守るということと、止へ進み行ったものを平等に見守るということと、専一の現前を平等に見守るということ――（これが）第一禅の捨を増し育てることであり、中間である。」
+→「清まった心を平等に見守るということと、止へ進み行ったものを平等に見守るということと、単一性の現前を平等に見守るということ――（これが）第一禅の捨を増し育てることであり、中間である。」
 
 6. Majjhassa imāni tīṇi lakkhaṇāni. Tena vuccati – ‘‘paṭhamaṃ jhānaṃ majjhekalyāṇañceva hoti lakkhaṇasampannañca’’.
 
@@ -1448,13 +1448,13 @@ Arahattamaggassa sampahaṃsanā pariyosānaṃ. Pariyosānassa kati lakkhaṇā
 * visuddhaṃ cittaṃ = 「清まった心を」
 * ajjhupekkhati = 「平等に見守る・静観する（捨をもって看る）」（adhi-upa-ikkhati）
 * samatha-paṭipanna = 「止へと進み行ったもの・止に到ったもの」
-* ekatta-upaṭṭhāna = 「専一の現前」
-→「清まった心を平等に見守り、止へ進み行ったものを平等に見守り、専一の現前を平等に見守る。」
+* ekatta-upaṭṭhāna = 「単一性の現前」
+→「清まった心を平等に見守り、止へ進み行ったものを平等に見守り、単一性の現前を平等に見守る。」
 
 4. Yañca visuddhaṃ cittaṃ ajjhupekkhati, yañca samathapaṭipannaṃ ajjhupekkhati, yañca ekattupaṭṭhānaṃ ajjhupekkhati.
 
 * yañca … yañca … yañca = 「～ということと、～ということと、～ということ（の三つ）」
-→「清まった心を平等に見守るということと、止へ進み行ったものを平等に見守るということと、専一の現前を平等に見守るということ（の三つである）。」
+→「清まった心を平等に見守るということと、止へ進み行ったものを平等に見守るということと、単一性の現前を平等に見守るということ（の三つである）。」
 
 5. Tena vuccati – ‘‘arahattamaggo majjhekalyāṇo ceva hoti lakkhaṇasampanno ca’’.
 
