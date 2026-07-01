@@ -25,6 +25,8 @@
 - 受感 → 感受 (paṭisaṃvedī)
 - 倦厭 / 不楽 → 嫌気 (arati)
 - 所依 → 依りどころ (sannissaya)
+- 依拠 → 頼りに / 依存 / 縁として (nissāya / nissita / āgamma。「依って」は避ける)
+- 依止 → 依りどころ / 身を寄せる (nissaya / bhajati。合成語 親依止縁 は保持)
 - 奢摩他 → サマタ (samatha)
 - 毘鉢舎那 → ヴィパッサナー (vipassanā)
 - 安般 / 安那般那 → 出入息 (ānāpāna)
