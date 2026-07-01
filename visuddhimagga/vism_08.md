@@ -484,7 +484,7 @@ Ayaṃ panettha saṅkhepattho. Bhikkhave, kena pakārena kenākārena kena vidh
   * sannissaya = 「依りどころ・基盤」（saṃ-ni-√si）
   * bhūta = 「～である・～となった」（√bhū 過分、kammadhāraya：sannissaya-bhūta「依りどころとなる」）
   * sāsana = 「教法・教説」
-  * paridīpana = 「遍く照らし出すもの・明示するもの」（pari-√dīp の行為者）
+  * paridīpana = 「遍（あまね）く照らし出すもの・明示するもの」（pari-√dīp の行為者）
 * añña-sāsanassa = 「他の教法に関して」（añña「他の」＋ sāsana・属、kammadhāraya）
 * tathā-bhāva-paṭisedhano ca = 「またそのような〔依りどころとなる〕在り方を排除するものである」（主・単）
   * tathā = 「そのような・かくのごとき」
@@ -532,7 +532,7 @@ Araññagato vā…pe… suññāgāragato vāti idamassa ānāpānassatisamādh
   * anurūpa = 「随順する・ふさわしい」（kammadhāraya：bhāvanā-anurūpa「修習に随順する」）
   * senāsana = 「坐臥処・住処」（sena＜sayana「臥処」＋ āsana「坐処」dvanda）
   * pariggaha = 「会得・把握・取得」（pari-√gah）
-  * paridīpana = 「遍く明示するもの」（pari-√dīp の行為者）
+  * paridīpana = 「遍（あまね）く明示するもの」（pari-√dīp の行為者）
 
 →「『阿蘭若に行き、あるいは……（中略）……空閑処に行き』とは、これは、その〔比丘〕にとっての、出入息念三昧の修習にふさわしい坐臥処の会得を明示するものである。」
 
@@ -1058,10 +1058,10 @@ Ujuṃ kāyaṃ paṇidhāyāti uparimasarīraṃ ujukaṃ ṭhapetvā. Aṭṭh
 
 * atha vā = 「あるいはまた」
 * parī ti = 「『pari(遍)』とは」
-* pariggaha-aṭṭho = 「遍く把握するという義(意味)である」
+* pariggaha-aṭṭho = 「遍（あまね）く把握するという義(意味)である」
   * pariggaha = 「把握・把握」/ aṭṭha = 「義・意味」
 
-→「あるいはまた、『pari(遍)』とは、遍く把握するという義である。」
+→「あるいはまた、『pari(遍)』とは、遍（あまね）く把握するという義である。」
 
 8. Mukhan ti niyyānaṭṭho.
 
@@ -1082,12 +1082,12 @@ Ujuṃ kāyaṃ paṇidhāyāti uparimasarīraṃ ujukaṃ ṭhapetvā. Aṭṭh
 10. Tena vuccati ‘‘parimukhaṃ sati’’n ti evaṃ paṭisambhidāyaṃ (paṭi. ma. 1.164) vutta-nayenā pettha attho daṭṭhabbo.
 
 * tena vuccati = 「それゆえに(次のように)言われる」
-* ‘‘parimukhaṃ sati’’n ti = 「『遍く出離の念(parimukhā sati)』と」
+* ‘‘parimukhaṃ sati’’n ti = 「『遍（あまね）く出離の念(parimukhā sati)』と」
 * evaṃ paṭisambhidāyaṃ (paṭi. ma. 1.164) = 「このように『無礙解道(パティサンビダーマッガ)』(1.164)において」
 * vutta-nayena api ettha attho daṭṭhabbo = 「説かれた方法によっても、ここでの意味は理解されるべきである」
   * vutta-naya = 「説かれた仕方・趣旨」/ daṭṭhabba = 「見られるべき・理解されるべき」
 
-→「それゆえに『遍く出離の念(parimukhā sati)』と、このように『無礙解道』(1.164)に説かれた方法によっても、ここでの意味は理解されるべきである。」
+→「それゆえに『遍（あまね）く出離の念(parimukhā sati)』と、このように『無礙解道』(1.164)に説かれた方法によっても、ここでの意味は理解されるべきである。」
 
 11. Tatrāyaṃ saṅkhepo, pariggahita-niyyānaṃ satiṃ katvā ti.
 
@@ -1096,7 +1096,7 @@ Ujuṃ kāyaṃ paṇidhāyāti uparimasarīraṃ ujukaṃ ṭhapetvā. Aṭṭh
 * pariggahita-niyyānaṃ satiṃ katvā ti = 「『把握された出離をもつ念をなして(pariggahita-niyyānaṃ satiṃ katvā)』と(いうことである)」
   * pariggahita = 「把握された・把握された(過去分詞)」/ niyyāna = 「出離」/ katvā = 「なして・作して」
 
-→「そこでの要約はこうである──『遍く把握された出離をもつ念をなして』(という趣旨である)。」
+→「そこでの要約はこうである──『遍（あまね）く把握された出離をもつ念をなして』(という趣旨である)。」
 
 ## 219 (1)
 

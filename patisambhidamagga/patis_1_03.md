@@ -2888,13 +2888,13 @@ Bhāṇavāro.
   * parimukhaṃ =「面前に・前面に」（副詞的対格）
   * satiṃ = sati〔対格〕「念を」
   * upaṭṭhapetvā = upaṭṭhapeti の連続体「現前させて・確立して」
-  * Parī ti pariggahaṭṭho = pari「遍（あまねく）」＋ ti「とは」＋ pariggaha「把握」＋ aṭṭha「義（意味）」→「『pari』とは遍く把握するという義（意味）である」
+  * Parī ti pariggahaṭṭho = pari「遍（あまねく）」＋ ti「とは」＋ pariggaha「把握」＋ aṭṭha「義（意味）」→「『pari』とは遍（あまね）く把握するという義（意味）である」
   * Mukhan ti niyyānaṭṭho = mukha「面・口」＋ ti「とは」＋ niyyāna「出離（出ていくこと）」＋ aṭṭha →「『mukha』とは出離するという義である」
   * Satī ti upaṭṭhānaṭṭho = sati「念」＋ ti「とは」＋ upaṭṭhāna「現前・確立」＋ aṭṭha →「『sati』とは現前・確立するという義である」
   * Tena vuccati – ‘‘parimukhaṃ satiṃ upaṭṭhapetvā’’ti = tena「それ故に」＋ vuccati「言われる」
     → 「それ故に『面前に念を確立して』と説かれる」
 
-  →「『面前に念を確立して』とは――『pari』は遍く把握するという義、『mukha』は出離するという義、『sati』は現前・確立するという義である。それ故に『面前に念を確立して』と説かれるのである。」
+  →「『面前に念を確立して』とは――『pari』は遍（あまね）く把握するという義、『mukha』は出離するという義、『sati』は現前・確立するという義である。それ故に『面前に念を確立して』と説かれるのである。」
 
 ## 165
 
