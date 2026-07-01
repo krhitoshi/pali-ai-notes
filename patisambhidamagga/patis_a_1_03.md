@@ -3682,11 +3682,11 @@ Buddhotipadassa abhāvepi buddhenātipade yo so buddho, taṃ niddisitukāmena 
 
   * tattha ＝「そのうち（ここで）」
   * sabbesu dhammesu ＝「一切法において」
-  * appaṭihatañāṇanimittānuttaravimokkhādhigamaparibhāvitaṃ ＝「無礙智を因相（しるし）とする無上の解脱の証得によって遍く薫習された」（依主釈の連鎖）
+  * appaṭihatañāṇanimittānuttaravimokkhādhigamaparibhāvitaṃ ＝「無礙智を因相（しるし）とする無上の解脱への到達によって遍く薫習された」（依主釈の連鎖）
     * appaṭihatañāṇa ＝「無礙の智」（appaṭihata＝妨げられない／ñāṇa＝智）
     * nimitta ＝「因相・しるし」
     * anuttaravimokkha ＝「無上の解脱」
-    * adhigama ＝「証得」
+    * adhigama ＝「到達」
     * paribhāvita ＝「遍く薫習された（修められた）」
   * khandhasantānaṃ upādāya ＝「蘊の相続に縁って」（khandhasantāna＝蘊の相続／upādāya＝～に縁って）
   * paṇṇattiko ＝「施設された（仮設された）もの」（paṇṇatti＝施設）
@@ -3696,7 +3696,7 @@ Buddhotipadassa abhāvepi buddhenātipade yo so buddho, taṃ niddisitukāmena 
   * sattaviseso ＝「特別な有情」（satta＝有情／visesa＝殊別）
   * buddho ＝「buddha〔である〕」
 
-→「そのうち、一切法において無礙智を因相（しるし）とする無上の解脱の証得によって遍く薫習された蘊の相続に縁って施設され、あるいは一切知性の近因である諸諦の現等覚に縁って施設された特別な有情——これが buddha である。」
+→「そのうち、一切法において無礙智を因相（しるし）とする無上の解脱への到達によって遍く薫習された蘊の相続に縁って施設され、あるいは一切知性の近因である諸諦の現等覚に縁って施設された特別な有情——これが buddha である。」
 
 30. Ettāvatā atthato buddhavibhāvanā katā hoti.
 
@@ -4576,9 +4576,9 @@ Bandheyyevaṃ sakaṃ cittaṃ, satiyārammaṇe daḷha’’nti.
 
 * sabba-buddha-paccekabuddha-buddhasāvakānaṃ = 「一切の仏・独覚（辟支仏）・仏弟子たちにとっての」（属格複数）
 
-* visesādhigama-diṭṭhadhammasukhavihāra-padaṭṭhānaṃ = 「すぐれた証得と現法楽住との近因（足処）であるところの」（主格単数）
+* visesādhigama-diṭṭhadhammasukhavihāra-padaṭṭhānaṃ = 「すぐれた境地への到達と現法楽住との近因（足処）であるところの」（主格単数）
 
-  * visesādhigama = 「すぐれた証得（特別な悟りの達成）」
+  * visesādhigama = 「すぐれた境地への到達（特別な悟りの達成）」
 
   * diṭṭhadhammasukhavihāra = 「現法楽住（今生における安楽な住）」
 
@@ -4602,7 +4602,7 @@ Bandheyyevaṃ sakaṃ cittaṃ, satiyārammaṇe daḷha’’nti.
 
 * jhānassa = 「禅定にとっての」（属格単数）
 
-→「あるいはまた、この出入息念という業処は、業処の区分のうちで頂点にあり、一切の仏・独覚・仏弟子たちにとってのすぐれた証得と現法楽住との近因であるが、（その業処は）女・男・象・馬などの物音にあふれた村里を捨て去らずには修習することが容易ではない。なぜなら、音は禅定にとっての刺だからである。」
+→「あるいはまた、この出入息念という業処は、業処の区分のうちで頂点にあり、一切の仏・独覚・仏弟子たちにとってのすぐれた境地への到達と現法楽住との近因であるが、（その業処は）女・男・象・馬などの物音にあふれた村里を捨て去らずには修習することが容易ではない。なぜなら、音は禅定にとっての刺だからである。」
 
 6. Agāmake pana araññe sukaraṃ yogāvacarena idaṃ kammaṭṭhānaṃ pariggahetvā ānāpānacatukkajjhānaṃ nibbattetvā tadeva pādakaṃ katvā saṅkhāre sammasitvā aggaphalaṃ arahattaṃ pāpuṇituṃ.
 

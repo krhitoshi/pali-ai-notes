@@ -18,6 +18,7 @@
 - 善男子 → 良家の子 (kulaputta)
 - 転起 → 生じる / 生起 / はたらき (pavattati / pavatti。不転起 → 生起しないこと)
 - 現起 → 現前 (upaṭṭhāna)
+- 証得 → 到達 (adhigama のみ。sacchikaroti/paṭilābha の証得は対象外)
 - 止息 → 静める / 静まる / 静まり (passambhana / paṭippassaddhi)
 - 通達 / 洞知 → 洞察 (paṭivedha / paṭividita)
 - 総摂 → 統合 / 集約 (samodhāna / samodhāneti)
