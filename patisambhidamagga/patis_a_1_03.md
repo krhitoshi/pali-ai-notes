@@ -3682,12 +3682,12 @@ Buddhotipadassa abhāvepi buddhenātipade yo so buddho, taṃ niddisitukāmena 
 
   * tattha ＝「そのうち（ここで）」
   * sabbesu dhammesu ＝「一切法において」
-  * appaṭihatañāṇanimittānuttaravimokkhādhigamaparibhāvitaṃ ＝「無礙智を因相（しるし）とする無上の解脱への到達によって遍（あまね）く薫習された」（依主釈の連鎖）
+  * appaṭihatañāṇanimittānuttaravimokkhādhigamaparibhāvitaṃ ＝「無礙智を因相（しるし）とする無上の解脱への到達によって遍（あまね）く修習された」（依主釈の連鎖）
     * appaṭihatañāṇa ＝「無礙の智」（appaṭihata＝妨げられない／ñāṇa＝智）
     * nimitta ＝「因相・しるし」
     * anuttaravimokkha ＝「無上の解脱」
     * adhigama ＝「到達」
-    * paribhāvita ＝「遍（あまね）く薫習された（修められた）」
+    * paribhāvita ＝「遍（あまね）く修習された」（pari＝遍・あまねく／bhāvita＝修習された）
   * khandhasantānaṃ upādāya ＝「蘊の相続に縁って」（khandhasantāna＝蘊の相続／upādāya＝～に縁って）
   * paṇṇattiko ＝「施設された（仮設された）もの」（paṇṇatti＝施設）
   * sabbaññutapadaṭṭhānaṃ vā ＝「あるいは一切知性の近因である」（sabbaññuta＝一切知性／padaṭṭhāna＝近因。saccābhisambodhiṃ を修飾）
@@ -3696,7 +3696,7 @@ Buddhotipadassa abhāvepi buddhenātipade yo so buddho, taṃ niddisitukāmena 
   * sattaviseso ＝「特別な有情」（satta＝有情／visesa＝殊別）
   * buddho ＝「buddha〔である〕」
 
-→「そのうち、一切法において無礙智を因相（しるし）とする無上の解脱への到達によって遍（あまね）く薫習された蘊の相続に縁って施設され、あるいは一切知性の近因である諸諦の現等覚に縁って施設された特別な有情——これが buddha である。」
+→「そのうち、一切法において無礙智を因相（しるし）とする無上の解脱への到達によって遍（あまね）く修習された蘊の相続に縁って施設され、あるいは一切知性の近因である諸諦の現等覚に縁って施設された特別な有情——これが buddha である。」
 
 30. Ettāvatā atthato buddhavibhāvanā katā hoti.
 
