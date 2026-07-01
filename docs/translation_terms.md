@@ -5,6 +5,7 @@
 
 - 理趣 → 方法 (naya)
 - 摂受 → 会得 / 保持 (pariggaṇhāti / pariggaha)
+- 摂せられる → 含まれる (saṅgahita。PTS comprised/included, 村上「含まれた」)
 - 殊勝 / 勝妙 → すぐれた (paṇīta / visesa / visiṭṭha)
 - 把捉 / 遍取 / 把持 → 把握 (gahaṇa / pariggaha)
 - 顕示 → 明示 (paridīpana)
