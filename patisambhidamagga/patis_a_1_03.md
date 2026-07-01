@@ -15825,8 +15825,8 @@ Saddhammappakāsiniyā paṭisambhidāmaggaṭṭhakathāya
   * anusaya-vatthu = 「随眠という基（依主釈、『随眠が拠りどころとなるもの』）」
   * kilesa = 「煩悩」
 * pahānena = 「捨断によって（具格）」
-* pariyuṭṭhāna-duccarita-vatthu-ppahānaṃ = 「纏（現行の煩悩）と悪行の基の捨断（中性主格）」
-  * pariyuṭṭhāna = 「纏（pari + ud + √ṭhā）」
+* pariyuṭṭhāna-duccarita-vatthu-ppahānaṃ = 「纏（心にまといつく煩悩）と悪行の基の捨断（中性主格）」
+  * pariyuṭṭhāna = 「纏・心にまといつく煩悩（pari + ud + √ṭhā）」
   * duccarita = 「悪行」
   * vatthu = 「基・拠りどころ」
 * hoti = 「成る（現在三単）」
@@ -15835,7 +15835,7 @@ Saddhammappakāsiniyā paṭisambhidāmaggaṭṭhakathāya
 * puna = 「再び」
 * anusayānaṃ pahānaṃ = 「随眠の捨断〔について〕（属格 + 主格）」
 * vuttaṃ = 「言われた（過分・中性主格）」
-→ 「随眠を基とする煩悩の捨断によって、纏（現行の煩悩）と悪行の基の捨断が成る、ということを示すために、再び随眠の捨断〔について〕言われたのである。」
+→ 「随眠を基とする煩悩の捨断によって、纏（心にまといつく煩悩）と悪行の基の捨断が成る、ということを示すために、再び随眠の捨断〔について〕言われたのである。」
 
 16. Ekavīsatiphalañāṇaṃ sandhāya pahīnakilesagaṇanāyapi ñāṇagaṇanā katā hoti, paccavekkhaṇañāṇañca sandhāya pahīnakilesapaccavekkhaṇagaṇanāya phalapaccavekkhaṇañāṇagaṇanā katā hotīti.
 
