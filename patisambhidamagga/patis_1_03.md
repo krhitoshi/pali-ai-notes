@@ -4715,7 +4715,7 @@ Kathaṃ te kāyā paṭividitā honti? Dīghaṃ assāsavasena cittassa ekaggat
 
 Āvajjato te kāyā paṭividitā honti, pajānato te kāyā paṭividitā honti, passato te kāyā paṭividitā honti, paccavekkhato te kāyā paṭividitā honti, cittaṃ adhiṭṭhahato te kāyā paṭividitā honti, saddhāya adhimuccato te kāyā paṭividitā honti, vīriyaṃ paggaṇhato te kāyā paṭividitā honti, satiṃ upaṭṭhāpayato te kāyā paṭividitā honti, cittaṃ samādahato te kāyā paṭividitā honti, paññāya pajānato te kāyā paṭividitā honti, abhiññeyyaṃ abhijānato te kāyā paṭividitā honti, pariññeyyaṃ parijānato te kāyā paṭividitā honti, pahātabbaṃ pajahato te kāyā paṭividitā honti, bhāvetabbaṃ bhāvayato te kāyā paṭividitā honti, sacchikātabbaṃ sacchikaroto te kāyā paṭividitā honti. Evaṃ te kāyā paṭividitā honti. Sabbakāyapaṭisaṃvedī assāsapassāsā kāyo upaṭṭhānaṃ sati anupassanā ñāṇaṃ. Kāyo upaṭṭhānaṃ, no sati. Sati upaṭṭhānañceva sati ca. Tāya satiyā tena ñāṇena taṃ kāyaṃ anupassati. Tena vuccati – ‘‘kāye kāyānupassanāsatipaṭṭhānabhāvanā’’ti.
 
-- ※upaṭṭhāna は本段で二義に用いられる――(a) 念が確立される所依・対象（＝身がこれ）と、(b) 念そのものの確立作用（＝念がこれ）。訳語は一貫して「現前」を当て、文脈で〔 〕注記する。
+- ※upaṭṭhāna は本段で二義に用いられる――(a) 念が確立される依りどころ・対象（＝身がこれ）と、(b) 念そのものの確立作用（＝念がこれ）。訳語は一貫して「現前」を当て、文脈で〔 〕注記する。
 
 ### 対訳
 
@@ -4757,10 +4757,10 @@ Kathaṃ te kāyā paṭividitā honti? Dīghaṃ assāsavasena cittassa ekaggat
 12. Kāyo upaṭṭhānaṃ, no sati.
 
   * kāyo = 「身は」
-  * upaṭṭhānaṃ = 「現前〔の所依〕〔である〕」（念が確立される対象としての意）
+  * upaṭṭhānaṃ = 「現前〔の依りどころ〕〔である〕」（念が確立される対象としての意）
   * no sati = 「念ではない」（no＝否定辞）
 
-→「身は現前〔の所依〕であって、念ではない。」
+→「身は現前〔の依りどころ〕であって、念ではない。」
 
 13. Sati upaṭṭhānañceva sati ca.
 
