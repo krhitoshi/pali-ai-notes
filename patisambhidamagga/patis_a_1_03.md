@@ -9539,7 +9539,7 @@ Kathaṃ asammohato? Sappītike dve jhāne samāpajjitvā vuṭṭhāya jhānas
 
 * jhāna-paṭilābhena = 「禅を獲得することによって」（具格単数）
 
-  * paṭilābha = 「獲得、証得」
+  * paṭilābha = 「獲得」
 
 * ārammaṇato pīti paṭisaṃviditā hoti = 「所縁の観点から喜は感知されたものとなる」（奪格 + 女性・主格単数 + 3単・現在）
 
