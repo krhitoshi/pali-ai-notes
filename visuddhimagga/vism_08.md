@@ -1036,8 +1036,8 @@ Ujuṃ kāyaṃ paṇidhāyāti uparimasarīraṃ ujukaṃ ṭhapetvā. Aṭṭh
 
 * tāsu anuppajjamānāsu = 「それら(の受)が生じないとき(絶対処格)」
   * anuppajjamāna = 「生じない(現在分詞)」
-* cittaṃ ekaggaṃ hoti = 「心は一境性となる(統一される)」
-  * ekagga = 「一境性の・専一の」
+* cittaṃ ekaggaṃ hoti = 「心は一境性となる(一点に集中する)」
+  * ekagga = 「一境性の・一点に集中した」
 * kammaṭṭhānaṃ na paripatati = 「業処(瞑想の所縁)は退落しない(崩れ落ちない)」
   * kammaṭṭhāna = 「業処・瞑想主題」/ paripatati = 「落ちる・退失する」
 * vuddhiṃ phātiṃ upagacchati = 「増大と繁栄(向上)とに至る」
