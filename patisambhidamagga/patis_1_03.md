@@ -2548,7 +2548,7 @@ Bhāṇavāro.
 * abbhā mutto =「雲から解き放たれ」（奪格）
 * mahikā mutto =「霧（霜・もや）から解き放たれ」（mahikā「霧・霜」、奪格）
 * dhūma-rajā mutto =「煙塵から解き放たれ」（dhūma「煙」＋raja「塵」、奪格）
-* rāhu-gahaṇā vippamutto =「ラーフ（羅睺、蝕の魔）の捕捉から完全に解き放たれて」（rāhu＋gahaṇa「捕捉・把持」、奪格）〔異読 rāhupāṇā（syā.）＝ラーフの手から〕
+* rāhu-gahaṇā vippamutto =「ラーフ（羅睺、蝕の魔）の捕捉から完全に解き放たれて」（rāhu＋gahaṇa「捕捉・掴み」、奪格）〔異読 rāhupāṇā（syā.）＝ラーフの手から〕
 * bhāsate ca =「輝き」（√bhās 中動・三単）
 * tapate ca =「熱を放ち」（√tap 中動・三単）
 * virocate ca =「光り渡る」（vi-√ruc 中動・三単）〔異読 virocati（syā.）〕
