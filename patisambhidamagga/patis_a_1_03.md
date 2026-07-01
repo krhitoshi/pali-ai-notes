@@ -9701,9 +9701,9 @@ Kathaṃ asammohato? Sappītike dve jhāne samāpajjitvā vuṭṭhāya jhānas
 
   * cetasika = 「心所（心に属するもの）」
 
-* ete dhammā citta-paṭibaddhā cittasaṅkhārā’’ti = 「『これらの法は心に繋属したものであり、心行である』と」
+* ete dhammā citta-paṭibaddhā cittasaṅkhārā’’ti = 「『これらの法は心に結びついたものであり、心行である』と」
 
-  * cittapaṭibaddha = 「心に繋属した、心に結びついた」
+  * cittapaṭibaddha = 「心に結びついた」
 
   * cittasaṅkhāra = 「心行」
 
@@ -9725,7 +9725,7 @@ Kathaṃ asammohato? Sappītike dve jhāne samāpajjitvā vuṭṭhāya jhānas
 
   * bhāsita = 「説かれた」（過去分詞）
 
-→「二つの心行の句においては、『想と受とは心所であり、これらの法は心に繋属したものであって、心行である』という教説のゆえに、想と相応した受（が説かれている）、と――このように受随観の方法によって、この四種法は説かれた、と知られるべきである。」
+→「二つの心行の句においては、『想と受とは心所であり、これらの法は心に結びついたものであって、心行である』という教説のゆえに、想と相応した受（が説かれている）、と――このように受随観の方法によって、この四種法は説かれた、と知られるべきである。」
 
 ## 163 (19)
 
@@ -13052,7 +13052,7 @@ Dīghaṃassāsapassāsaniddesavaṇṇanā niṭṭhitā.
   * ye ca vuccanti cittasaṅkhārā ti = 「『およそ心行と呼ばれるもの（ye ca vuccanti cittasaṅkhārā）』とは」
   * saññā ca vedanā ca = 「想と受と〔は〕」
   * cetasikā ete dhammā = 「これらの心所たる諸法は」（cetasika＝心所たる）
-  * citta-paṭibaddhā = 「心に繋属する」（paṭibaddha＝繋がれた・結びつけられた、主格複数）
+  * citta-paṭibaddhā = 「心に結びつく」（paṭibaddha＝繋がれた・結びつけられた、主格複数）
   * cittasaṅkhārā = 「心行〔である〕」
   * ti (paṭi. ma. 1.174; ma. ni. 1.463) = 「と（無礙解道大品 1.174／中部 1.463 に〔説かれる〕）」
   * evaṃ vuccamānā-pi = 「かくのごとく説かれるとはいえ（説かれつつあるものであっても）」（vuccamāna 受動現在分詞・主格複数）
@@ -13060,7 +13060,7 @@ Dīghaṃassāsapassāsaniddesavaṇṇanā niṭṭhitā.
   * idha nāmakāyena-eva saṅgahitā = 「ここ（本箇所）では名身によってこそ摂せられる」（saṅgahita 過去分詞・主格複数）
   * ti vuttaṃ hoti = 「と説かれたもの（の意）となる」
 
-→「『およそ心行と呼ばれるもの』とは、『想と受と〔は〕、これらの心所たる諸法は心に繋属するものであり、心行である』（無礙解道大品 1.174／中部 1.463）と、かくのごとく説かれるとはいえ、〔それら〕心行は、ここ（本箇所）では〔色身ではなく〕名身によってこそ摂せられる、と説かれたものとなる（という意である）。」
+→「『およそ心行と呼ばれるもの』とは、『想と受と〔は〕、これらの心所たる諸法は心に結びつくものであり、心行である』（無礙解道大品 1.174／中部 1.463）と、かくのごとく説かれるとはいえ、〔それら〕心行は、ここ（本箇所）では〔色身ではなく〕名身によってこそ摂せられる、と説かれたものとなる（という意である）。」
 
 ## 170 (2)
 
@@ -13152,7 +13152,7 @@ Mahābhūtāti mahantapātubhāvato mahābhūtasāmaññato mahāparihārato mah
 
   * ye ca vuccanti kāyasaṅkhārā ti = 「『およそ身行と呼ばれるもの（ye ca vuccanti kāyasaṅkhārā）』とは」
   * assāsa-passāsā kāyikā = 「出息・入息は身に属するもの（身の）であり」（kāyika＝身に属する、主格複数）
-  * ete dhammā kāya-paṭibaddhā = 「これらの諸法は身に繋属する」（paṭibaddha＝繋がれた、主格複数）
+  * ete dhammā kāya-paṭibaddhā = 「これらの諸法は身に結びつく」（paṭibaddha＝繋がれた、主格複数）
   * kāyasaṅkhārā = 「身行〔である〕」
   * ti (paṭi. ma. 1.171; ma. ni. 1.463) = 「と（無礙解道大品 1.171／中部 1.463 に〔説かれる〕）」
   * evaṃ vuccamānā-pi = 「かくのごとく説かれるとはいえ」（vuccamāna 受動現在分詞・主格複数）
@@ -13160,7 +13160,7 @@ Mahābhūtāti mahantapātubhāvato mahābhūtasāmaññato mahāparihārato mah
   * idha rūpakāyena-eva saṅgahitā = 「ここ（本箇所）では色身によってこそ摂せられる」（saṅgahita 過去分詞・主格複数）
   * ti vuttaṃ hoti = 「と説かれたもの（の意）となる」
 
-→「『およそ身行と呼ばれるもの』とは、『出息・入息は身に属するものであり、これらの諸法は身に繋属するものであって、身行である』（無礙解道大品 1.171／中部 1.463）と、かくのごとく説かれるとはいえ、〔それら〕身行は、ここ（本箇所）では〔名身ではなく〕色身によってこそ摂せられる、と説かれたものとなる（という意である）。」
+→「『およそ身行と呼ばれるもの』とは、『出息・入息は身に属するものであり、これらの諸法は身に結びつくものであって、身行である』（無礙解道大品 1.171／中部 1.463）と、かくのごとく説かれるとはいえ、〔それら〕身行は、ここ（本箇所）では〔名身ではなく〕色身によってこそ摂せられる、と説かれたものとなる（という意である）。」
 
 ## 170 (3)
 
@@ -13266,7 +13266,7 @@ Evaṃ santeti evaṃ sukhumānaṃ passambhane sante. Vātūpaladdhiyā ca pab
 
 2. Kāyapaṭibaddhāti kāyaṃ paṭibaddhā kāyaṃ nissitā, kāye sati honti, asati na honti, tasmāyeva te kāyena saṅkharīyantīti kāyasaṅkhārā.
 
-  * kāyapaṭibaddhā ti = 「『身に繋属したもの（kāyapaṭibaddhā）』とは」（標挙）
+  * kāyapaṭibaddhā ti = 「『身に結びついたもの（kāyapaṭibaddhā）』とは」（標挙）
   * kāyaṃ paṭibaddhā = 「身に繋がれたもの」（対格＋過去分詞）
   * kāyaṃ nissitā = 「身を依りどころとするもの」（nissita＝依りどころとする、過去分詞）
   * kāye sati honti = 「身があるときに存し」（locative absolute）
@@ -13274,7 +13274,7 @@ Evaṃ santeti evaṃ sukhumānaṃ passambhane sante. Vātūpaladdhiyā ca pab
   * tasmā eva = 「まさにそれゆえに」
   * te kāyena saṅkharīyanti = 「それらは身によって形成される」（saṅkharīyanti＝saṅkharoti の受動、現在・三人称複数）
   * ti kāyasaṅkhārā = 「ゆえに身行〔と言う〕」
-    → 「『身に繋属したもの』とは、身に繋がれたもの、身を依りどころとするものであり、身があるときに存し、〔身が〕ないときには存しない。まさにそれゆえに、それらは身によって形成されるがゆえに身行と言う。」
+    → 「『身に結びついたもの』とは、身に繋がれたもの、身を依りどころとするものであり、身があるときに存し、〔身が〕ないときには存しない。まさにそれゆえに、それらは身によって形成されるがゆえに身行と言う。」
 
 3. Passambhentoti nibbāpento sannisīdāpento.
 
