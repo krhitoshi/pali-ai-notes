@@ -478,11 +478,11 @@ Soḷasañāṇaniddesavaṇṇanā niṭṭhitā.
 
 13. Niyyānāvaraṇaṭṭhena nīvaraṇāti ettha aratipi sabbepi akusalā āvaraṇaṭṭhena nīvaraṇāti vuttā.
 * niyyānāvaraṇaṭṭhena nīvaraṇā ti ettha = 「『出要をさえぎるという意味で諸蓋である』というここにおいて」（被釈句＋処格 ettha）
-* arati pi = 「嫌気もまた」
+* arati pi = 「嫌気（不快）もまた」
 * sabbe pi akusalā = 「すべての不善法もまた」（主格・複数）
 * āvaraṇaṭṭhena = 「さえぎるという意味で」（具格・単数）
 * nīvaraṇā ti vuttā = 「『諸蓋である』と説かれた」（主格・複数＋過去分詞）
-  → 「『出要をさえぎるという意味で諸蓋である』というここにおいては、嫌気もまた、すべての不善法もまた、さえぎるという意味で『諸蓋である』と説かれている。」
+  → 「『出要をさえぎるという意味で諸蓋である』というここにおいては、嫌気（不快）もまた、すべての不善法もまた、さえぎるという意味で『諸蓋である』と説かれている。」
 
 14. Niyyānāvaraṇaṭṭhenāti niyyānānaṃ āgamanamaggapidahanaṭṭhena.
 * niyyānāvaraṇaṭṭhena ti = 「『出要をさえぎるという意味で』とは」（被釈語）
@@ -1292,11 +1292,11 @@ Upakkilesañāṇaniddesavaṇṇanā niṭṭhitā.
 14. Ekattagataṃ hotīti taṃ taṃ visesaṃ pattassa taṃ taṃ ekattaṃ gataṃ hoti.
 
 * ekattagataṃ hoti = 「一つにまとまった（専一になった）ものとなる」（本文の語）
-* taṃ taṃ visesaṃ = 「それぞれの優れた境地（すぐれた状態）を」
+* taṃ taṃ visesaṃ = 「それぞれのすぐれた境地を」
 * pattassa = 「到達した者にとって・到達したものについて」（pāpuṇāti の過去分詞、属格）
 * taṃ taṃ ekattaṃ = 「それぞれの専一が」
 * gataṃ hoti = 「到り得たものとなる・具わったものとなる」
-→「『一つにまとまったものとなる』とは、それぞれの優れた境地に到達した者にとって、それぞれの専一が到り得たものとなる（ということである）。」
+→「『一つにまとまったものとなる』とは、それぞれのすぐれた境地に到達した者にとって、それぞれの専一が到り得たものとなる（ということである）。」
 
 ## 158 (2)
 
