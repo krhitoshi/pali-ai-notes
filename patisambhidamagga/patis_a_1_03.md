@@ -3322,10 +3322,10 @@ Cattāro susamāraddhāti cattāro susamāraddhatthāti vuttaṃ hoti, atthasadd
 
   * ñātaṃ viya ＝「『知られた』と同様に」
   * paññāya ＝「慧によって」
-  * sacchikataṃ ＝「作証された」
+  * sacchikataṃ ＝「体得された」
   * phassitañca ＝「また触れられた（接触された）」
 
-→「『知られた』と同様に、慧によって作証され、また触れられた〔という意味である〕。」
+→「『知られた』と同様に、慧によって体得され、また触れられた〔という意味である〕。」
 
 15. "Asallīnaṃ asammuṭṭhā asāraddho ekagga"nti purimassa purimassa padassa atthappakāsanaṃ.
 
@@ -3401,13 +3401,13 @@ Cattāro susamāraddhāti cattāro susamāraddhatthāti vuttaṃ hoti, atthasadd
 
 22. Viditasacchikataphassitāni pana ñātavevacanāni, tasmā ñātanti āraddhatthoyeva vutto hoti.
 
-  * viditasacchikataphassitāni pana ＝「しかし『了知された・作証された・触れられた』は」（vidita＋sacchikata＋phassita）
+  * viditasacchikataphassitāni pana ＝「しかし『了知された・体得された・触れられた』は」（vidita＋sacchikata＋phassita）
   * ñātavevacanāni ＝「『知られた（ñāta）』の同義語である」（vevacana＝同義語）
   * tasmā ＝「それゆえ」
   * ñātaṃ ti ＝「『知られた』というのは」
   * āraddhatthoyeva vutto hoti ＝「まさに『発動された（āraddha）』の義として言われたことになる」（āraddhattha＝āraddha の義／eva＝まさに）
 
-→「そして『了知された・作証された・触れられた』は『知られた』の同義語であるから、それゆえ『知られた』というのは、まさに『発動された』の義として言われたことになる〔のである〕。」
+→「そして『了知された・体得された・触れられた』は『知られた』の同義語であるから、それゆえ『知られた』というのは、まさに『発動された』の義として言われたことになる〔のである〕。」
 
 ## 161 (2)
 
@@ -3571,10 +3571,10 @@ Buddhotipadassa abhāvepi buddhenātipade yo so buddho, taṃ niddisitukāmena 
 
   * abhiññattho ti ＝「『証知の義』とは」
   * sabbadhammavasena ＝「一切法に関して」（sabbadhamma＝一切法）
-  * pariññatthādayo ＝「『遍知の義』等〔遍知・断・修習・作証の四〕は」（pariññattha＋ādayo）
+  * pariññatthādayo ＝「『遍知の義』等〔遍知・断・修習・体得の四〕は」（pariññattha＋ādayo）
   * maggañāṇakiccavasena ＝「道智の作用に関して」（maggañāṇa＝道智／kicca＝作用）
 
-→「『証知の義』とは一切法に関して〔のものであり〕、『遍知の義』等〔遍知・断・修習・作証〕は道智の作用に関して〔のものである〕。」
+→「『証知の義』とは一切法に関して〔のものであり〕、『遍知の義』等〔遍知・断・修習・体得〕は道智の作用に関して〔のものである〕。」
 
 18. Saccābhisamayattho catunnaṃ saccānaṃ ekapaṭivedhadassanavasena.
 
@@ -4038,11 +4038,11 @@ Vodānañāṇaniddesavaṇṇanā niṭṭhitā.
 
 14. Sacchikā paññattīti arahattaphalasacchikiriyāya, sabbadhammasacchikiriyāya vā jātā paññatti.
 
-* sacchikā paññatti ti =「『現証に基づく施設(sacchikā paññatti)』とは」
-* arahatta-phala-sacchikiriyāya =「阿羅漢果の現証(sacchikiriyā)によって」（具格）
-* sabba-dhamma-sacchikiriyāya vā =「あるいは一切法の現証によって」
+* sacchikā paññatti ti =「『体得に基づく施設(sacchikā paññatti)』とは」
+* arahatta-phala-sacchikiriyāya =「阿羅漢果の体得(sacchikiriyā)によって」（具格）
+* sabba-dhamma-sacchikiriyāya vā =「あるいは一切法の体得によって」
 * jātā paññatti =「生じた施設（呼称）（である）」（jāta「生じた」）
-→「『現証に基づく施設』とは――阿羅漢果の現証によって、あるいは一切法の現証によって生じた呼称（である）。」
+→「『体得に基づく施設』とは――阿羅漢果の体得によって、あるいは一切法の体得によって生じた呼称（である）。」
 
 15. Yadidaṃ buddhoti yā ayaṃ buddhoti paññatti, ayaṃ byañjanato buddhavibhāvanā.
 
@@ -10819,13 +10819,13 @@ Tathā ‘‘dhammena nayamānānaṃ, kā usūyā vijānata’’nti (mahāva. 
   * pariññeyyā =「遍知されるべき」
   * pahātabbā =「断ぜらるべき」
   * bhāvetabbā =「修習さるべき」
-  * sacchikātabbā ca =「証得さるべき（もの）も（である）」
+  * sacchikātabbā ca =「体得さるべき（もの）も（である）」
   * tasmā =「それ故に」
   * esa dhammesu vinayo = esa「これは」＋ dhammesu〔処格・複数〕「諸法において」＋ vinayo「律（調伏）」→「これは諸法における律」
   * na sattesu na jīvesu ca = na「～にあらず」＋ sattesu〔処格・複数〕「有情において」＋ na jīvesu「命我において（も）あらず」→「有情においてでも命我においてでもない」
   * ti dhammavinayo =「故に『法と律（dhammavinaya）』」（処格的解釈）
 
-  →「あるいは、諸法こそが証知されるべきもの・遍知されるべきもの・断ぜらるべきもの・修習さるべきもの・証得さるべきものであるが故に、これは諸法における律であって、有情においてでも命我（霊我）においてでもない、故に『法と律（dhammavinaya）』である（＝処格的解釈）。」
+  →「あるいは、諸法こそが証知されるべきもの・遍知されるべきもの・断ぜらるべきもの・修習さるべきもの・体得さるべきものであるが故に、これは諸法における律であって、有情においてでも命我（霊我）においてでもない、故に『法と律（dhammavinaya）』である（＝処格的解釈）。」
 
 12. Sātthasabyañjanatādīhi aññesaṃ vacanato padhānaṃ vacananti pavacanaṃ, pavacanameva pāvacanaṃ.
 

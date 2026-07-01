@@ -2111,11 +2111,11 @@ Anupubbaṃ paricitāti dīghaṃ assāsavasena purimā purimā paricitā, pacch
   * ñātaṃ hoti ＝「知られている」（ñāta＝√ñā の過分・中・主格）
   * diṭṭhaṃ ＝「見られた」（√dis 過分）
   * viditaṃ ＝「了知された」（√vid 過分）
-  * sacchikataṃ ＝「証得された・作証された」
+  * sacchikataṃ ＝「体得された」
   * phassitaṃ ＝「触れられた・接触された」（√phus 過分）
   * paññāya ＝「慧（智慧）によって」（女・具格）
 
-→「かくのごとく、この『sama（等）』もこの『susama（善等）』も、慧によって知られ、見られ、了知され、証得され、触れられている。」
+→「かくのごとく、この『sama（等）』もこの『susama（善等）』も、慧によって知られ、見られ、了知され、体得され、触れられている。」
 
 5. Āraddhaṃ hoti vīriyaṃ asallīnaṃ, upaṭṭhitā sati asammūḷā [apamuṭṭhā (syā.)], passaddho kāyo asāraddho, samāhitaṃ cittaṃ ekaggaṃ.
 
@@ -2248,13 +2248,13 @@ Buddhoti yo so bhagavā sayambhū anācariyako pubbe ananussutesu dhammesu sām
 
 4. sacchikiriyattho yathattho, saccābhisamayattho yathattho, nirodhe patiṭṭhāpakattho yathattho.
 
-  * sacchikiriyattho ＝「作証の義」（sacchikiriyā＝作証＋attha）
+  * sacchikiriyattho ＝「体得の義」（sacchikiriyā＝体得＋attha）
   * saccābhisamayattho ＝「諦現観の義」（依主釈：sacca＝諦／abhisamaya＝現観／attha）
   * nirodhe ＝「滅において」（男・処格）
   * patiṭṭhāpakattho ＝「住立させる（確立させる）義」（patiṭṭhāpaka＝住立させるもの、patiṭṭhāpeti の使役行為者名詞＋attha）
   * yathattho ＝「如実義である」（各項の述語）
 
-→「作証の義が如実義であり、諦現観の義が如実義であり、滅において住立させる義が如実義である。」
+→「体得の義が如実義であり、諦現観の義が如実義であり、滅において住立させる義が如実義である。」
 
 ────────────────────────────
 ■ 後半（buddha の語義解説）
@@ -2406,9 +2406,9 @@ Buddhoti yo so bhagavā sayambhū anācariyako pubbe ananussutesu dhammesu sām
 * buddhānaṃ bhagavantānaṃ =「仏・世尊がたの」（属格複数）
 * bodhiyā mūle =「菩提樹の根元において」（bodhi 属格＋mūla 処格）
 * saha sabbaññutañāṇassa paṭilābhā =「一切知智の獲得と同時に」（saha＋属格／paṭilābha 奪格「獲得とともに」）
-* sacchikā paññatti =「現証に基づく施設（呼称）」（sacchika「実証された」女性＋paññatti「施設・呼称」）
+* sacchikā paññatti =「体得に基づく施設（呼称）」（sacchika「体得された」女性＋paññatti「施設・呼称」）
 * yadidaṃ buddho ti =「すなわち『仏』という（名）がそれである」
-→「これは解脱を究極とする呼称であり、仏・世尊がたが菩提樹の根元において一切知智を獲得するのと同時に、現証された施設（呼称）である――すなわち『仏』という名がそれである。」
+→「これは解脱を究極とする呼称であり、仏・世尊がたが菩提樹の根元において一切知智を獲得するのと同時に、体得された施設（呼称）である――すなわち『仏』という名がそれである。」
 
 19. Desitāti attadamathattho yathattho yathā buddhena desito,
 
@@ -4736,11 +4736,11 @@ Kathaṃ te kāyā paṭividitā honti? Dīghaṃ assāsavasena cittassa ekaggat
   * pariññeyyaṃ parijānato = 「遍知されるべきものを遍知する者にとって」（pariññeyya＋parijānāti, pari+√jñā）
   * pahātabbaṃ pajahato = 「断じられるべきものを断ずる者にとって」（pahātabba＋pajahati, pa+√hā）
   * bhāvetabbaṃ bhāvayato = 「修習されるべきものを修習する者にとって」（bhāvetabba＋bhāveti, √bhū 使役）
-  * sacchikātabbaṃ sacchikaroto = 「現証されるべきものを現証する者にとって」（sacchikātabba＋sacchikaroti, sacchi+√kṛ）
-  * ※後五者（証知・遍知・断・修習・現証）は四諦に配される五作用に対応。
+  * sacchikātabbaṃ sacchikaroto = 「体得されるべきものを体得する者にとって」（sacchikātabba＋sacchikaroti, sacchi+√kṛ）
+  * ※後五者（証知・遍知・断・修習・体得）は四諦に配される五作用に対応。
   * evaṃ = 「かくのごとく」
 
-→「引転する（心を向ける）者には、それらの身は洞察される。了知する者には、それらの身は洞察される。見る者には、それらの身は洞察される。観察する者には、それらの身は洞察される。心を確立する者には、それらの身は洞察される。信によって信解する者には、それらの身は洞察される。精進を策励する者には、それらの身は洞察される。念を現前させる者には、それらの身は洞察される。心を等持する者には、それらの身は洞察される。慧によって了知する者には、それらの身は洞察される。証知されるべきものを証知する者には、それらの身は洞察される。遍知されるべきものを遍知する者には、それらの身は洞察される。断じられるべきものを断ずる者には、それらの身は洞察される。修習されるべきものを修習する者には、それらの身は洞察される。現証されるべきものを現証する者には、それらの身は洞察される。かくのごとく、それらの身は洞察される。」
+→「引転する（心を向ける）者には、それらの身は洞察される。了知する者には、それらの身は洞察される。見る者には、それらの身は洞察される。観察する者には、それらの身は洞察される。心を確立する者には、それらの身は洞察される。信によって信解する者には、それらの身は洞察される。精進を策励する者には、それらの身は洞察される。念を現前させる者には、それらの身は洞察される。心を等持する者には、それらの身は洞察される。慧によって了知する者には、それらの身は洞察される。証知されるべきものを証知する者には、それらの身は洞察される。遍知されるべきものを遍知する者には、それらの身は洞察される。断じられるべきものを断ずる者には、それらの身は洞察される。修習されるべきものを修習する者には、それらの身は洞察される。体得されるべきものを体得する者には、それらの身は洞察される。かくのごとく、それらの身は洞察される。」
 
 11. Sabbakāyapaṭisaṃvedī assāsapassāsā kāyo upaṭṭhānaṃ sati anupassanā ñāṇaṃ.
 
@@ -4867,9 +4867,9 @@ Sabbakāyapaṭisaṃvedī assāsapassāsavasena cittassa ekaggataṃ avikkhepa
   * pariññeyyaṃ parijānanto = 「遍知されるべきものを遍知しながら」
   * pahātabbaṃ pajahanto = 「断じられるべきものを断じながら」
   * bhāvetabbaṃ bhāvento = 「修習されるべきものを修習しながら」
-  * sacchikātabbaṃ sacchikaronto = 「現証されるべきものを現証しながら」
+  * sacchikātabbaṃ sacchikaronto = 「体得されるべきものを体得しながら」
 
-→「これら三つの学を、引転しながら学び、知りながら学び、見ながら学び、観察しながら学び、心を確立しながら学び、信によって信解しながら学び、精進を策励しながら学び、念を現前させながら学び、心を等持しながら学び、慧によって了知しながら学び、証知されるべきものを証知しながら学び、遍知されるべきものを遍知しながら学び、断じられるべきものを断じながら学び、修習されるべきものを修習しながら学び、現証されるべきものを現証しながら学ぶ。」
+→「これら三つの学を、引転しながら学び、知りながら学び、見ながら学び、観察しながら学び、心を確立しながら学び、信によって信解しながら学び、精進を策励しながら学び、念を現前させながら学び、心を等持しながら学び、慧によって了知しながら学び、証知されるべきものを証知しながら学び、遍知されるべきものを遍知しながら学び、断じられるべきものを断じながら学び、修習されるべきものを修習しながら学び、体得されるべきものを体得しながら学ぶ。」
 
 6. Sabbakāyapaṭisaṃvedī assāsapassāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato viditā vedanā uppajjanti…pe…
 
@@ -5202,8 +5202,8 @@ Bhāṇavāro.
   * imā tisso sikkhāyo = 「これら三学を」（対格複数女性）
   * āvajjanto sikkhati = 「転じ向けつつ（傾注しつつ）学ぶ」（āvajjati の現在分詞）
   * …pe… = 「（中略）」
-  * sacchikātabbaṃ sacchikaronto sikkhati = 「証得されるべきものを証得しつつ学ぶ」（sacchikātabba＝証作されるべきもの、未来受動分詞。sacchikaronto＝現在分詞）
-    → 「これら三学を傾注しつつ学ぶ。（中略）証得されるべきものを証得しつつ学ぶ。」
+  * sacchikātabbaṃ sacchikaronto sikkhati = 「体得されるべきものを体得しつつ学ぶ」（sacchikātabba＝体得されるべきもの、未来受動分詞。sacchikaronto＝現在分詞）
+    → 「これら三学を傾注しつつ学ぶ。（中略）体得されるべきものを体得しつつ学ぶ。」
 
 11. passambhayaṃ kāyasaṅkhāraṃ assāsapassāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato viditā vedanā uppajjanti…pe…
 
@@ -5425,11 +5425,11 @@ Kathaṃ sā pīti paṭividitā hoti? Dīghaṃ assāsapassāsavasena cittassa
 * pariññeyyaṃ parijānato =「遍知さるべきものを遍知する者にとって」（pariññeyya＝遍知さるべき／parijānāti＝遍知する）
 * pahātabbaṃ pajahato =「断ぜらるべきものを断ずる者にとって」（pahātabba＝断ぜらるべき／pajahati＝断ずる、捨断する）
 * bhāvetabbaṃ bhāvayato =「修さるべきものを修習する者にとって」（bhāvetabba＝修さるべき／bhāveti＝修習する）
-* sacchikātabbaṃ sacchikaroto =「証得さるべきものを証得する者にとって、現証する者にとって」（sacchikātabba＝証得さるべき／sacchikaroti＝現証する）
+* sacchikātabbaṃ sacchikaroto =「体得さるべきものを体得する者にとって」（sacchikātabba＝体得さるべき／sacchikaroti＝体得する）
 * sā pīti paṭividitā hoti =「その喜は明らかに知られたものとなる」
   ※ 証知・遍知・断・修・証の五事は、四諦に対する作用（苦＝遍知、集＝断、滅＝証、道＝修）の体系を承ける。
 
-→「証知さるべきものを証知する者に、遍知さるべきものを遍知する者に、断ぜらるべきものを断ずる者に、修さるべきものを修習する者に、証得さるべきものを現証する者に、その喜は明らかに知られたものとなる。」
+→「証知さるべきものを証知する者に、遍知さるべきものを遍知する者に、断ぜらるべきものを断ずる者に、修さるべきものを修習する者に、体得さるべきものを体得する者に、その喜は明らかに知られたものとなる。」
 
 9. Evaṃ sā pīti paṭividitā hoti.
 
@@ -5680,10 +5680,10 @@ Anupassatīti kathaṃ taṃ vedanaṃ anupassati. Aniccato anupassati…pe… e
 
 * tāya satiyā tena ñāṇena te sukhā paṭividitā honti = 「その念によって、その智によって、それらの楽は洞察されたものとなる」
 * …pe… = 「（中略）」
-* sacchikātabbaṃ = 「証得されるべきもの」（sacchi-√kar の未来受動分詞、中性主格）
-* sacchikaroto = 「証得する者にとって」（sacchikaroti の現在分詞、属格・与格単数）
+* sacchikātabbaṃ = 「体得されるべきもの」（sacchi-√kar の未来受動分詞、中性主格）
+* sacchikaroto = 「体得する者にとって」（sacchikaroti の現在分詞、属格・与格単数）
 
-→ 「その念によって、その智によって、それらの楽は洞察されたものとなる……（中略）……証得されるべきものを証得する者にとって、それらの楽は洞察されたものとなる。」
+→ 「その念によって、その智によって、それらの楽は洞察されたものとなる……（中略）……体得されるべきものを体得する者にとって、それらの楽は洞察されたものとなる。」
 
 6. Evaṃ te sukhā paṭividitā honti.
 
@@ -5916,11 +5916,11 @@ Anupassatīti kathaṃ taṃ vedanaṃ anupassati? Aniccato anupassati…pe… 
 
 5. sacchikātabbaṃ sacchikaroto te cittasaṅkhārā paṭividitā honti.
 
-* sacchikātabbaṃ = 「証得されるべきものを」（sacchi-√kar の未来受動分詞〔義務分詞〕、中性・対格・単数）
-* sacchikaroto = 「証得する者にとって」（sacchi-√kar の現在分詞、属格・単数）
+* sacchikātabbaṃ = 「体得されるべきものを」（sacchi-√kar の未来受動分詞〔義務分詞〕、中性・対格・単数）
+* sacchikaroto = 「体得する者にとって」（sacchi-√kar の現在分詞、属格・単数）
 * te cittasaṅkhārā paṭividitā honti = 「それらの心行は洞察されたものとなる」
 
-→ 「証得されるべきものを証得する者にとって、それらの心行は洞察されたものとなる。」
+→ 「体得されるべきものを体得する者にとって、それらの心行は洞察されたものとなる。」
 
 6. Evaṃ te cittasaṅkhārā paṭividitā honti.
 
@@ -6348,10 +6348,10 @@ Anupassatīti kathaṃ taṃ cittaṃ anupassati…pe… evaṃ taṃ cittaṃ a
 * dīghaṃ passāsa-vasena = 「長き入息のゆえに」（passāsa＝入息）
 * （以下、上記2・3と同型：心の一境性・不散乱を了知する者に念が現前し、その念・その智によって心が洞察される）
 * …pe… = peyyāla（中略）
-* sacchikātabbaṃ = 「作証されるべきものを、現証されるべきものを（sacchikaroti の未来受動分詞、対格単数）」
-* sacchikaroto = 「作証する者にとって（sacchikaroti の現在分詞、属格単数）」
+* sacchikātabbaṃ = 「体得されるべきものを（sacchikaroti の未来受動分詞、対格単数）」
+* sacchikaroto = 「体得する者にとって（sacchikaroti の現在分詞、属格単数）」
 * taṃ cittaṃ paṭividitaṃ hoti = 「その心は洞察される」
-→「長き入息のゆえに、心の一境性・不散乱を了知する者にとって、念が現前する。その念によって、その智によって、その心は洞察される。……（中略）……作証されるべきものを作証する者にとって、その心は洞察される。」
+→「長き入息のゆえに、心の一境性・不散乱を了知する者にとって、念が現前する。その念によって、その智によって、その心は洞察される。……（中略）……体得されるべきものを体得する者にとって、その心は洞察される。」
 
 5. Evaṃ taṃ cittaṃ paṭividitaṃ hoti.
 
@@ -7999,11 +7999,11 @@ Anupassatīti kathaṃ te dhamme anupassati? Aniccato anupassati, no niccato…p
 * sikkhati = 「学ぶ・修学する」（√sikkh 現在・三人称単数）
 * jānanto = 「知りつつ」（√ñā 現在分詞・主格）
 * …pe… = 「（中略）」
-* sacchikātabbaṃ = 「証得されるべきもの」（未来受動分詞・対格、sacchi+√kar「現証する」）
-* sacchikaronto = 「現証しつつ」（現在分詞・主格）
+* sacchikātabbaṃ = 「体得されるべきもの」（未来受動分詞・対格、sacchi+√kar「体得する」）
+* sacchikaronto = 「体得しつつ」（現在分詞・主格）
 * sikkhati = 「学ぶ」
 
-→ 「これら三つの学を、引転しつつ学び、知りつつ学び……（中略）……証得されるべきものを現証しつつ学ぶ。」
+→ 「これら三つの学を、引転しつつ学び、知りつつ学び……（中略）……体得されるべきものを体得しつつ学ぶ。」
 
 ## 182 (3)
 
