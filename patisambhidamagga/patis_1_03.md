@@ -4663,7 +4663,7 @@ Kathaṃ te kāyā paṭividitā honti? Dīghaṃ assāsavasena cittassa ekaggat
     * upādāya-rūpaṃ = 「所造色」（upādāya = 「取って・依存して」絶対分詞の形容詞的用法 ＋ rūpa）
   * assāso ca passāso ca = 「出息と入息と」
   * nimittañca = 「相（nimitta）と」
-  * upanibandhanā = 「繋縛（処）・依止」（upa+ni+√bandh、念を結びつける対象としての所縁）
+  * upanibandhanā = 「繋縛（処）・依りどころ」（upa+ni+√bandh、念を結びつける対象としての所縁）
   * ye ca vuccanti kāyasaṅkhārā = 「およそ身行と呼ばれるもの」
   * ayaṃ rūpakāyo = 「これが色身である」
 
