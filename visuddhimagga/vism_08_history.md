@@ -204,3 +204,17 @@ vism_08.md (Visuddhimagga 第8章 安般念) の校訂記録.
 - 根拠: DoP kosalla = competence, proficiency, skill, knowledge;
   akosalla = lack of skill or knowledge
 - 校訂: Claude Opus 4.8 + MCP (DoP)
+
+### 2026/07/01 漢語「依拠」を平易語に置換
+
+- 内容: nissāya (ni-√si 連続体・後置詞) 系の訳語「依拠」を文脈で訳し分けて平易化
+  (4 箇所). 「依って」は 依る/因る/拠る と紛らわしいため採らない
+  - §690 padaṭṭhāna 語釈: 直接の依拠 -> 直接のよりどころ (名詞. 所依->依りどころ と揃える)
+  - §793 nissāya の対格支配の注記: ～に依拠して -> ～を頼りにして
+  - §803 訳文: 山の険所に依拠して身を潜め -> 山の険所を頼りに身を潜め (手段)
+  - §3027 paṭibaddha 語釈: 結びつけられた, 依拠した -> 結びつけられた, 依存した
+- 根拠: nissāya は多義 (Main/PTS/村上: によって・頼りにして・にもとづいて・の故に).
+  文脈依存のため一律置換せず, 手段は「頼りに」, 名詞は「よりどころ」, paṭibaddha の
+  語釈は「依存」に分けた. 同語根 sannissaya は既に 所依->依りどころ に平易化済み
+- 範囲: まず vism_08 のみ. patis_a_1_03 等 他ファイルの「依拠」(nissāya/nissita) は未着手
+- 校訂: Claude Opus 4.8 + MCP (pali-dict)
