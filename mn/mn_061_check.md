@@ -1,11 +1,11 @@
-Ambalaṭṭhikarāhulovāda-sutta (MN 61) 校訂チェック
+Ambalaṭṭhikarāhulovāda-sutta (MN 61) 校閲
 
 - 第一稿: mn_061.md (Gemini gemini-3.1-pro-preview)
 - チェック: Claude claude-opus-4-8 + MCP (pali-dict / dop / cscd-text)
 - 2026/06/28
-- 出典つき全文校訂は mn_061_reviewed.md を参照
+- 出典つき全文校閲は mn_061_reviewed.md を参照
 
-本書は全文校訂版ではなく, 第一稿のうち校訂が必要そうな箇所のみを指摘する.
+本書は全文校閲版ではなく, 第一稿のうち改訂が必要そうな箇所のみを指摘する.
 優先度は 高 (要修正/要検討) / 中 (註記推奨) / 低 (語の精度, 任意) で示す.
 
 ## チェック範囲

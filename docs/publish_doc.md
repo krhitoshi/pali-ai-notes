@@ -64,7 +64,7 @@ git diff --cached --name-only -- docs/
 ## 公開済みファイル
 
 - `plain_terms.md` — 漢語・古語の平易化リスト
-- `breath_direction.md` — assāsa / passāsa の方向校訂の手順
-- `check_version.md` — 校訂チェック (指摘方式) の作り方
+- `breath_direction.md` — assāsa / passāsa の方向改訂の手順
+- `check_version.md` — 校閲 (指摘方式) の作り方
 - `remove_meta_block.md` — 生成メタブロックの削除手順
 - `publish_doc.md` — 本書 (公開手順)

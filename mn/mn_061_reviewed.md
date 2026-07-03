@@ -1,10 +1,10 @@
-3. Ambalaṭṭhikarāhulovādasuttaṃ (MN 61) 校訂版
+3. Ambalaṭṭhikarāhulovādasuttaṃ (MN 61) 校閲版
 
 - 第一稿: mn_061.md (Gemini gemini-3.1-pro-preview)
-- 校訂: Claude claude-opus-4-8 + MCP (pali-dict / dop / cscd-text)
+- 校閲: Claude claude-opus-4-8 + MCP (pali-dict / dop / cscd-text)
 - 2026/06/28
 
-校訂方針:
+校閲方針:
 
 - 各実質語を辞書 (Main / Concise / PTS / DoP) と原文 (CSCD) で照合する
 - 対訳は読みやすさのため第一稿の訳を残し, 修正・註・要確認のある語にだけ
@@ -1004,10 +1004,10 @@ harāyitabba / jigucchitabba) となる。
 
 ---
 
-## 校訂サマリ (MN 61 全体)
+## 校閲サマリ (MN 61 全体)
 
 - 結論: 訳語そのものの実質的な変更は nikkujjita (#108) の 1 箇所のみ。第一稿
-  (Gemini) は精度が高く, 校訂の主な成果は訳の確定・出典付け・原文保証であった
+  (Gemini) は精度が高く, 校閲の主な成果は訳の確定・出典付け・原文保証であった
 - 原文照合: #107-#112 すべて CSCD 本文と一致。文字のドリフトなし
 - sasakkaṃ (#109 項目 8, #110 項目 3, #111 項目 6): aṭṭhakathā が「ekaṃseneva na
   kātabbaṃ（絶対になすべきでない）」と注釈 (Majjhimapaṇṇāsa-aṭṭh. §109)。第一稿の

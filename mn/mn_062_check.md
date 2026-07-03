@@ -1,10 +1,10 @@
-Mahārāhulovāda-sutta (MN 62) 校訂チェック
+Mahārāhulovāda-sutta (MN 62) 校閲
 
 - 第一稿: mn_062.md (Gemini gemini-3.1-pro-preview)
 - チェック: Claude claude-opus-4-8 + MCP (pali-dict / dop / cscd-text)
 - 2026/06/28
 
-本書は全文校訂版ではなく, 第一稿のうち校訂が必要そうな箇所のみを指摘する.
+本書は全文校閲版ではなく, 第一稿のうち改訂が必要そうな箇所のみを指摘する.
 優先度は 高 (要修正/要検討) / 中 (註記推奨) / 低 (語の精度, 任意) で示す.
 
 ## チェック範囲
@@ -64,5 +64,5 @@ Mahārāhulovāda-sutta (MN 62) 校訂チェック
 ## メモ
 
 - 高 1 件 (sabbakāya), 中 2 件 (方向, saṅkhāra 確認), 低 1 件 (arati)
-- 全文校訂版 (mn_NNN_reviewed.md) に比べ, 確認済み箇所の冗長な再掲を避け,
+- 全文校閲版 (mn_NNN_reviewed.md) に比べ, 確認済み箇所の冗長な再掲を避け,
   判断が要る箇所だけを集約できる
