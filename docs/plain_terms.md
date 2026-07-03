@@ -28,6 +28,16 @@ translation_terms.md に, 注意点はこのファイルに追記して維持す
 - 理趣 (naya): DoP naya 1: way, (right) method. 仕方 / 方式 / 要領 等の既存の
   平易訳は可
 - 奢摩他 / 毘鉢舎那: 漢字音写をカナ音写へ. 主訳 (止 / 観) は保持し括弧内のみ置換
+- 義 (attha): 多義語のため単独の「義」で済ませず文脈で訳し分ける
+  (DoP 2attha: 1. aim, purpose; benefit 2. use, need 3. affair, matter
+  4. wealth 5. meaning, sense)
+  - 語義説明の文脈 (X-aṭṭho「という意味である」, X-aṭṭhena「という意味に
+    おいて」, ti attho, attho vutto / daṭṭhabbo / veditabbo) は 意味
+  - 目的・効用の文脈 (patis の yathattha「如実の意義」, samattha「平等の意義」,
+    attho ti anavajjaṭṭho... 註は attho = payojana と説明) は 意義
+  - 目的の複合語 -atthaṃ / -atthāya は ～のため, atthavasa は 理由・道理
+  - 保持: upaṭṭhāna の二義注記「対象義 / 作用義」, 熟語 (義務分詞・定義・
+    同義語・語義・二義), niddesa の訳「義釈」
 
 ## 古語表現 -> 平易
 
