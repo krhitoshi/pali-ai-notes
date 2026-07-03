@@ -33,11 +33,12 @@ translation_terms.md に, 注意点はこのファイルに追記して維持す
   4. wealth 5. meaning, sense)
   - 語義説明の文脈 (X-aṭṭho「という意味である」, X-aṭṭhena「という意味に
     おいて」, ti attho, attho vutto / daṭṭhabbo / veditabbo) は 意味
-  - 目的・効用の文脈 (patis の samattha「平等の意義」, attho ti anavajjaṭṭho...
-    註は attho = payojana と説明) は 意義
-  - 修習のねらい・成果そのものを言う文脈 (patis §161(2) の十項 X-attho) は 目的.
-    yathattha は「真実の目的」(註の yathāsabhāvatthā による. 根拠は
-    `docs/yathattha_term.md` と patis_1_03.md §161(2) の訳注参照)
+  - 目的・効用の文脈 (patis の samattha「平等の目的」, attho ti anavajjaṭṭho...
+    註は attho = payojana と説明) と修習のねらい・成果そのものを言う文脈
+    (patis §161(2) の十項 X-attho) は 目的. 「意義」は「意味」の語義もあり
+    紛れるため attha の訳語には使わない. yathattha は「真実の目的」(註の
+    yathāsabhāvatthā による. 根拠は `docs/yathattha_term.md` と
+    patis_1_03.md §161(2) の訳注参照)
   - 目的の複合語 -atthaṃ / -atthāya は ～のため, atthavasa は 理由・道理
   - 保持: upaṭṭhāna の二義注記「対象義 / 作用義」, 熟語 (義務分詞・定義・
     同義語・語義・二義), niddesa の訳「義釈」
