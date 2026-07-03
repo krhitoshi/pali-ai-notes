@@ -420,15 +420,15 @@ Ayaṃ panettha saṅkhepattho. Bhikkhave, kena pakārena kenākārena kena vidh
 * vuttaṃ hoti = 「説かれたことになる」
 
 →「あるいは、（この三昧が）決択分に属するものであるがゆえに、順次に聖道の増大に達して（諸悪不善法を）断ち切り、軽安にし寂滅させる、と説かれたことになる。」
-〔注：antaradhāpeti を、近義としては vikkhambhana（鎮伏）として、究極義としては聖道による samuccheda（正断）・paṭippassaddhi（軽安捨断）として二重に解する。〕
+〔注：antaradhāpeti を、当面の意味では vikkhambhana（鎮伏）として、究極の意味では聖道による samuccheda（正断）・paṭippassaddhi（軽安捨断）として二重に解する。〕
 
 12. Ayaṃ pan' ettha saṅkhepattho.
 
 * Ayaṃ pana = 「さて、これが」
 * ettha = 「ここにおける」
-* saṅkhepattho = 「要略の意義（である）」（saṅkhepa＋attha, tappurisa）
+* saṅkhepattho = 「要略の意味（である）」（saṅkhepa＋attha, tappurisa）
 
-→「さて、これがここにおける要略の意義である。」
+→「さて、これがここにおける要略の意味である。」
 
 13. Bhikkhave, kena pakārena kenākārena kena vidhinā bhāvito ānāpānassatisamādhi kena pakārena bahulīkato santo ceva …pe… vūpasametī ti.
 
@@ -452,12 +452,12 @@ Ayaṃ panettha saṅkhepattho. Bhikkhave, kena pakārena kenākārena kena vidh
 1. Idāni tamatthaṃ vitthārento ‘‘idha, bhikkhave’’tiādimāha.
 
 * idāni = 「今や、ここに至って」
-* taṃ atthaṃ = 「その意義を」（taṃ 指示代名詞・男/中・対 ＋ atthaṃ・対）
+* taṃ atthaṃ = 「その意味を」（taṃ 指示代名詞・男/中・対 ＋ atthaṃ・対。前節の saṅkhepattho「要略の意味」を承ける）
 * vitthārento = 「詳説しつつ／敷衍しつつ」（vi-√thar 使役系・現在分詞・男・主）
 * ‘‘idha, bhikkhave’’ti ādiṃ = 「『idha, bhikkhave（ここに、比丘たちよ）』に始まる（一節）を」（ti-ādiṃ：引用辞 ti ＋ ādi「～等・～以下」の対、tappurisa）
 * āha = 「説いた／述べた」（√ah 完了形・三・単）
 
-→「今や、その意義を詳説しつつ、『ここに、比丘たちよ』に始まる一節を説いた。」
+→「今や、その意味を詳説しつつ、『ここに、比丘たちよ』に始まる一節を説いた。」
 
 2. Tattha idha bhikkhave bhikkhūti bhikkhave, imasmiṃ sāsane bhikkhu.
 
@@ -1058,26 +1058,26 @@ Ujuṃ kāyaṃ paṇidhāyāti uparimasarīraṃ ujukaṃ ṭhapetvā. Aṭṭh
 
 * atha vā = 「あるいはまた」
 * parī ti = 「『pari(遍)』とは」
-* pariggaha-aṭṭho = 「遍（あまね）く把握するという義(意味)である」
-  * pariggaha = 「把握・把握」/ aṭṭha = 「義・意味」
+* pariggaha-aṭṭho = 「遍（あまね）く把握するという意味である」
+  * pariggaha = 「把握」/ aṭṭha = 「意味」
 
-→「あるいはまた、『pari(遍)』とは、遍（あまね）く把握するという義である。」
+→「あるいはまた、『pari(遍)』とは、遍（あまね）く把握するという意味である。」
 
 8. Mukhan ti niyyānaṭṭho.
 
 * mukhan ti = 「『mukha(口・面)』とは」
-* niyyāna-aṭṭho = 「出離(出ていくこと)という義である」
+* niyyāna-aṭṭho = 「出離(出ていくこと)という意味である」
   * niyyāna = 「出離・出脱(輪廻からの出口)」
 
-→「『mukha(口・面)』とは、出離という義である。」
+→「『mukha(口・面)』とは、出離という意味である。」
 
 9. Satī ti upaṭṭhānaṭṭho.
 
 * satī ti = 「『sati(念)』とは」
-* upaṭṭhāna-aṭṭho = 「現前（現れ立つこと）という義である」
-  * upaṭṭhāna = 「現前・現前」
+* upaṭṭhāna-aṭṭho = 「現前（現れ立つこと）という意味である」
+  * upaṭṭhāna = 「現前」
 
-→「『sati(念)』とは、現前という義である。」
+→「『sati(念)』とは、現前という意味である。」
 
 10. Tena vuccati ‘‘parimukhaṃ sati’’n ti evaṃ paṭisambhidāyaṃ (paṭi. ma. 1.164) vutta-nayenā pettha attho daṭṭhabbo.
 
@@ -2251,8 +2251,8 @@ Paṭisambhidāyaṃ (paṭi. ma. 1.171) panassa saddhiṃ codanāsodhanāhi eva
 * (paṭi. ma. 1.171) = 「（無礙解道・大品・第171節）」典拠略号
 * pana assa = 「さて, これ（＝身行静まり）の」（pana＋ayaṃ 属格 assa）
 * saddhiṃ codanā-sodhanāhi = 「難詰と解明とともに」（saddhiṃ「ともに」＋codanā「難詰・問い詰め」, sodhanā「解明・浄化」dvanda, 具格・複）
-* evaṃ attho vutto = 「このように義が説かれた」（attha 主格＋vac 過分）
-→「さて『無礙解道』（無礙解道・大品・171）においては, これ（身行静まり）の義が, その難詰と解明とともに, 次のように説かれた──」
+* evaṃ attho vutto = 「このように意味が説かれた」（attha 主格＋vac 過分）
+→「さて『無礙解道』（無礙解道・大品・171）においては, これ（身行静まり）の意味が, その難詰と解明とともに, 次のように説かれた──」
 
 2. ‘‘Kathaṃ passambhayaṃ kāyasaṅkhāraṃ assasissāmi…pe… passasissāmīti sikkhati?
 * kathaṃ = 「いかにして」（疑問副詞）
@@ -2447,7 +2447,7 @@ Paṭisambhidāyaṃ (paṭi. ma. 1.171) panassa saddhiṃ codanāsodhanāhi eva
 →「『微細な音らの相がよく把握され, よく作意され, よく憶持されたことのゆえに, 微細な音が滅したときにも, その後に, 微細音の相を所縁とすること（の状態）として心が起こる。』」
 
 4. evameva paṭhamaṃ oḷārikā assāsapassāsā pavattanti.
-* evam eva = 「まさにそのように」（譬喩を本義に結ぶ語）
+* evam eva = 「まさにそのように」（譬喩を本題に結ぶ語）
 * paṭhamaṃ = 「まず最初に」
 * oḷārikā assāsa-passāsā = 「粗い出息・入息が（複数）」（dvanda, 主格・複）
 * pavattanti = 「起こる」
@@ -4411,7 +4411,7 @@ Visuddhimagga（清浄道論）Ānāpānassatikathā §230
 * evaṃ hi assa = 「このように～する彼にとって」（assa = 属格）
 * manasikaroto = 「作意する者にとって」（現在分詞、属格）
 * na cirasseva = 「間もなく、長くかからずに」
-* te upaṭṭhahanti = 「それら（出入息）が現れ立つ／現前する」（upaṭṭhahanti：ここでは対象が立ち現れる義）
+* te upaṭṭhahanti = 「それら（出入息）が現れ立つ／現前する」（upaṭṭhahanti：ここでは対象が立ち現れるという意味）
 * nipātanatitthe viya goṇā = 「水場における牛のように」
 
 →「このように作意する彼にとって、間もなく、水場の牛のように、それら（出入息）が現前する。」

@@ -253,3 +253,32 @@ vism_08.md (Visuddhimagga 第8章 安般念) の改訂記録.
 - 誤爆防止: 語源グロス「pari(遍)」は 遍 の直後が く でないため不変
 - 検証: 残存「遍く」0. 遍（あまね）く 7 件. 二重化なし
 - 改訂: Claude Opus 4.8
+
+### 2026/07/03 attha の訳語「義」を文脈で訳し分け
+
+- 内容: attha を単独の「義」と訳してぼかしていた箇所を文脈に応じた訳語に改訂.
+  今回の該当箇所はいずれも語や句の意味を説明する註釈文脈で, DoP 2attha 第 5 義
+  meaning, sense に当たるため「意味」を採用
+  - §221(3) evamattho vutto: 「これ（身行静まり）の義が説かれた」->
+    「意味が説かれた」
+  - §218(2) 語釈の定型 X-aṭṭho (pariggahaṭṭho / niyyānaṭṭho / upaṭṭhānaṭṭho):
+    「という義である」-> 「という意味である」
+  - §216(2) saṅkhepattho: 要略の意義 -> 要略の意味
+  - §217(1) tamatthaṃ vitthārento: その意義を -> その意味を
+    (前節の saṅkhepattho「要略の意味」を承ける旨を語釈に注記)
+  - 訳注の言い換え: §216(2) antaradhāpeti の訳注 近義としては / 究極義としては ->
+    当面の意味では / 究極の意味では, §230 upaṭṭhahanti 語釈
+    「対象が立ち現れる義」-> 「立ち現れるという意味」
+- あわせて §218(2) の語釈の自己重複「把握・把握」(pariggaha)・「現前・現前」
+  (upaṭṭhāna) (機械置換の残り) を単一語に修正
+- あわせて §221(5) evam eva の注記「譬喩を本義に結ぶ語」-> 「譬喩を本題に結ぶ語」
+  (attha ではないが同種の曖昧な「義」のため)
+- 保持: upaṭṭhāna の二義の括弧注記「対象義 / 作用義」(§221(6)) は
+  docs/plain_terms.md の規約により保持. 文法用語 (義務分詞), 定義, 同義語,
+  atthavasa 語釈の「意義の力」(§229, 訳文は「理由（道理）」) は対象外
+- 根拠: DoP 2attha (S. artha): 1. aim, purpose, goal; advantage, benefit /
+  2. use, need / 3. affair, matter / 4. wealth / 5. meaning, sense. 註釈書の
+  定型 ti attho は "this is the meaning" と明記される. 目的の意の複合語
+  (-atthaṃ「～のため」§223(3) satisaṇṭhāpanatthaṃ, §225 dassanatthaṃ 等) は
+  既に「ため」で訳出済み
+- 改訂: Claude Fable 5 + MCP (pali-dop)
