@@ -2216,45 +2216,47 @@ Buddhoti yo so bhagavā sayambhū anācariyako pubbe ananussutesu dhammesu sām
 ### 対訳
 
 ────────────────────────────
-■ 前半（yathā の語義解説——十の如実の意義）
+■ 前半（yathā の語義解説——十の真実の目的）
 ────────────────────────────
 
 1. Yathāti dasa yathatthā –
 
-  * yathā ＝「yathā（～のごとく／如）」という〔被釈語〕（ti＝引用辞「～とは」）
+  * yathā ＝「yathā（～のとおりに）」という〔被釈語〕（ti＝引用辞「～とは」。偈の「仏によって説かれたとおりに」の yathā）
   * dasa ＝「十の」（数詞）
-  * yathatthā ＝「如実の意義（yathā＋attha：真実のとおりの意義）」（男複・主格）
+  * yathatthā ＝「真実の目的（yathā＋attha。訳語は註の語釈による——段末の訳注参照）」（男複・主格）
 
-→「『yathā（如）』とは——十の如実の意義（yathattha）が〔ある、すなわち〕——」
+→「『yathā（～のとおりに）』とは——十の真実の目的（yathattha）が〔ある、すなわち〕——」
 
 2. attadamathattho yathattho, attasamathattho yathattho, attaparinibbāpanattho yathattho,
 
-  * attadamathattho ＝「自己調御という意義」（依主釈：atta＝自己／damatha＝調御／attha＝意義）
-  * attasamathattho ＝「自己寂止という意義」（atta＋samatha＝寂止＋attha）
-  * attaparinibbāpanattho ＝「自己を般涅槃させるという意義」（atta＋parinibbāpana＝般涅槃させること＋attha、parinibbāpana は使役名詞）
-  * yathattho ＝「〔それが〕如実の意義である」（各項の述語、男・主格）
+  * attadamathattho ＝「自己調御という目的」（依主釈：atta＝自己／damatha＝調御／attha＝目的）
+  * attasamathattho ＝「自己寂止という目的」（atta＋samatha＝寂止＋attha）
+  * attaparinibbāpanattho ＝「自己を般涅槃させるという目的」（atta＋parinibbāpana＝般涅槃させること＋attha、parinibbāpana は使役名詞）
+  * yathattho ＝「〔それが〕真実の目的である」（各項の述語、男・主格）
 
-→「自己調御という意義が如実の意義であり、自己寂止という意義が如実の意義であり、自己を般涅槃させるという意義が如実の意義であり、」
+→「自己調御という目的が真実の目的であり、自己寂止という目的が真実の目的であり、自己を般涅槃させるという目的が真実の目的であり、」
 
 3. abhiññattho yathattho, pariññattho yathattho, pahānattho yathattho, bhāvanattho yathattho,
 
-  * abhiññattho ＝「証知という意義」（abhiññā＝証知＋attha）
-  * pariññattho ＝「遍知という意義」（pariññā＝遍知＋attha）
-  * pahānattho ＝「断という意義」（pahāna＝断捨＋attha）
-  * bhāvanattho ＝「修習という意義」（bhāvanā＝修習＋attha）
-  * yathattho ＝「如実の意義である」（各項の述語）
+  * abhiññattho ＝「証知という目的」（abhiññā＝証知＋attha）
+  * pariññattho ＝「遍知という目的」（pariññā＝遍知＋attha）
+  * pahānattho ＝「断という目的」（pahāna＝断捨＋attha）
+  * bhāvanattho ＝「修習という目的」（bhāvanā＝修習＋attha）
+  * yathattho ＝「真実の目的である」（各項の述語）
 
-→「証知という意義が如実の意義であり、遍知という意義が如実の意義であり、断という意義が如実の意義であり、修習という意義が如実の意義であり、」
+→「証知という目的が真実の目的であり、遍知という目的が真実の目的であり、断という目的が真実の目的であり、修習という目的が真実の目的であり、」
 
 4. sacchikiriyattho yathattho, saccābhisamayattho yathattho, nirodhe patiṭṭhāpakattho yathattho.
 
-  * sacchikiriyattho ＝「体得という意義」（sacchikiriyā＝体得＋attha）
-  * saccābhisamayattho ＝「諦現観という意義」（依主釈：sacca＝諦／abhisamaya＝現観／attha）
+  * sacchikiriyattho ＝「体得という目的」（sacchikiriyā＝体得＋attha）
+  * saccābhisamayattho ＝「諦現観という目的」（依主釈：sacca＝諦／abhisamaya＝現観／attha）
   * nirodhe ＝「滅において」（男・処格）
-  * patiṭṭhāpakattho ＝「住立させる（確立させる）という意義」（patiṭṭhāpaka＝住立させるもの、patiṭṭhāpeti の使役行為者名詞＋attha）
-  * yathattho ＝「如実の意義である」（各項の述語）
+  * patiṭṭhāpakattho ＝「住立させる（確立させる）という目的」（patiṭṭhāpaka＝住立させるもの、patiṭṭhāpeti の使役行為者名詞＋attha）
+  * yathattho ＝「真実の目的である」（各項の述語）
 
-→「体得という意義が如実の意義であり、諦現観という意義が如実の意義であり、滅において住立させるという意義が如実の意義である。」
+→「体得という目的が真実の目的であり、諦現観という目的が真実の目的であり、滅において住立させるという目的が真実の目的である。」
+
+〔訳注：この段は偈の「仏によって説かれたとおりに（yathā buddhena desitā）」の yathā の語釈で、十項はこの yathā が指すものの列挙。「真実の目的」という訳語は註の語釈「Yathatthāti yathāsabhāvatthā（yathattha とは、あるがままの本性どおりの目的である）」に基づく。註によれば、偈の yathā は「説かれたとおり（pakāra）」の yathā と「あるがまま（sabhāva）」の yathā とを一語で兼ねたもの（ekasesa）で、十項は後者に当たる。すなわち、出入息念の修習が持つ十の目的が、説かれたとおり実際に成り立つことをいう。別解として Ñāṇamoli (1982) は本段を「yathā という語の十の意味」の列挙と解する。〕
 
 ────────────────────────────
 ■ 後半（buddha の語義解説）
@@ -2413,20 +2415,20 @@ Buddhoti yo so bhagavā sayambhū anācariyako pubbe ananussutesu dhammesu sām
 19. Desitāti attadamathattho yathattho yathā buddhena desito,
 
 * desitā ti =「『説かれた』とは」（desita: √dis 使役 過去分詞「教示された」、被釈語）
-* atta-damatha-ttho =「自己を調える（自己調御）という意義（目的）」（damatha「調える・制すること」＋attha）
-* yathattho =「真実の意義として（如実の意義）」（yathā＋attha）
+* atta-damatha-ttho =「自己を調える（自己調御）という目的」（damatha「調える・制すること」＋attha）
+* yathattho =「真実の目的として」（yathā＋attha。§161(2) の訳注参照）
 * yathā buddhena desito =「仏によって説かれたとおりに」（yathā「～のとおり」、buddhena 具格、desito 過去分詞）
-→「『説かれた』とは――自己を調えるという意義が、仏によって説かれたとおりの真実の意義として（説かれた）。」
+→「『説かれた』とは――自己を調えるという目的が、仏によって説かれたとおりの真実の目的として（説かれた）。」
 
 20. attasamathattho yathattho yathā buddhena desito,
 
-* atta-samatha-ttho =「自己を静める（自己寂止）という意義」（samatha「静めること」）
-→「自己を静めるという意義が、仏によって説かれたとおりの真実の意義として（説かれた）。」
+* atta-samatha-ttho =「自己を静める（自己寂止）という目的」（samatha「静めること」）
+→「自己を静めるという目的が、仏によって説かれたとおりの真実の目的として（説かれた）。」
 
 21. attaparinibbāpanattho yathattho yathā buddhena desito
 
-* atta-parinibbāpana-ttho =「自己を般涅槃させる（完全に寂滅へ導く）という意義」（parinibbāpana: parinibbāna させる使役名詞）
-→「自己を般涅槃させるという意義が、仏によって説かれたとおりの真実の意義として（説かれた）。」
+* atta-parinibbāpana-ttho =「自己を般涅槃させる（完全に寂滅へ導く）という目的」（parinibbāpana: parinibbāna させる使役名詞）
+→「自己を般涅槃させるという目的が、仏によって説かれたとおりの真実の目的として（説かれた）。」
 
 22. …pe…
 
@@ -2435,8 +2437,8 @@ Buddhoti yo so bhagavā sayambhū anācariyako pubbe ananussutesu dhammesu sām
 22. nirodhe patiṭṭhāpakattho yathattho yathā buddhena desito.
 
 * nirodhe =「滅において」（処格）
-* patiṭṭhāpaka-ttho =「（自己を滅に）確立させる・安立させるという意義」（patiṭṭhāpaka: 使役行為者名詞「確立させる者・もの」＋attha）
-→「（自己を）滅において確立させるという意義が、仏によって説かれたとおりの真実の意義として（説かれた）。」
+* patiṭṭhāpaka-ttho =「（自己を滅に）確立させる・安立させるという目的」（patiṭṭhāpaka: 使役行為者名詞「確立させる者・もの」＋attha）
+→「（自己を）滅において確立させるという目的が、仏によって説かれたとおりの真実の目的として（説かれた）。」
 
 ## 162 (2)
 
@@ -2488,10 +2490,10 @@ Bhāṇavāro.
 5. Pabhāsetīti attadamathatthaṃ yathatthaṃ abhisambuddhattā.
 
 * pabhāseti ti =「『照らす（pabhāseti）』とは」（被釈語）
-* atta-damatha-tthaṃ =「自己を調えるという意義を」（damatha「調える・制すること」＋attha、対格）
-* yathatthaṃ =「如実に・真実のとおりに」（yathā＋attha、副詞的対格）
+* atta-damatha-tthaṃ =「自己を調えるという目的を」（damatha「調える・制すること」＋attha、対格）
+* yathatthaṃ =「真実のとおりに」（yathā＋attha、副詞的対格。§161(2) の訳注参照）
 * abhisambuddhattā =「現等覚した（覚りきった）ことによって」（abhisambuddha「現等覚した」＋tta、奪格「～であることから」）
-→「『照らす』とは――自己を調えるという意義を、如実に現等覚したがゆえに。」
+→「『照らす』とは――自己を調えるという目的を、真実のとおりに現等覚したがゆえに。」
 
 6. So imaṃ lokaṃ obhāseti bhāseti pabhāseti.
 
@@ -2504,20 +2506,20 @@ Bhāṇavāro.
 
 7. Attasamathatthaṃ yathatthaṃ abhisambuddhattā. So imaṃ lokaṃ obhāseti bhāseti pabhāseti.
 
-* atta-samatha-tthaṃ =「自己を静める（自己寂止）という意義を」（samatha「静めること」）
-→「自己を静めるという意義を、如実に現等覚したがゆえに。彼はこの世間を照らし、輝かせ、明るく照らす。」
+* atta-samatha-tthaṃ =「自己を静める（自己寂止）という目的を」（samatha「静めること」）
+→「自己を静めるという目的を、真実のとおりに現等覚したがゆえに。彼はこの世間を照らし、輝かせ、明るく照らす。」
 
 8. Attaparinibbāpanatthaṃ yathatthaṃ abhisambuddhattā. So imaṃ lokaṃ obhāseti bhāseti pabhāseti…pe…
 
-* atta-parinibbāpana-tthaṃ =「自己を般涅槃させるという意義を」（parinibbāpana「般涅槃させること」、使役名詞）
+* atta-parinibbāpana-tthaṃ =「自己を般涅槃させるという目的を」（parinibbāpana「般涅槃させること」、使役名詞）
 * …pe… =（中略）〔同型句が反復される箇所を省略〕
-→「自己を般涅槃させるという意義を、如実に現等覚したがゆえに。彼はこの世間を照らし、輝かせ、明るく照らす。（中略）」
+→「自己を般涅槃させるという目的を、真実のとおりに現等覚したがゆえに。彼はこの世間を照らし、輝かせ、明るく照らす。（中略）」
 
 9. nirodhe patiṭṭhāpakatthaṃ yathatthaṃ abhisambuddhattā. So imaṃ lokaṃ obhāseti bhāseti pabhāseti.
 
 * nirodhe =「滅において」（処格）
-* patiṭṭhāpaka-tthaṃ =「（自己を滅に）確立させるという意義を」（patiṭṭhāpaka「確立させる者・もの」、使役行為者名詞＋attha）
-→「（自己を）滅において確立させるという意義を、如実に現等覚したがゆえに。彼はこの世間を照らし、輝かせ、明るく照らす。」
+* patiṭṭhāpaka-tthaṃ =「（自己を滅に）確立させるという目的を」（patiṭṭhāpaka「確立させる者・もの」、使役行為者名詞＋attha）
+→「（自己を）滅において確立させるという目的を、真実のとおりに現等覚したがゆえに。彼はこの世間を照らし、輝かせ、明るく照らす。」
 
 10. Abbhā muttova candimāti yathā abbhā, evaṃ kilesā.
 

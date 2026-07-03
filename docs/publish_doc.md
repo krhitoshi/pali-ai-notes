@@ -68,3 +68,5 @@ git diff --cached --name-only -- docs/
 - `check_version.md` — 校閲 (指摘方式) の作り方
 - `remove_meta_block.md` — 生成メタブロックの削除手順
 - `publish_doc.md` — 本書 (公開手順)
+- `translation_terms.md` — 改訂で置換した訳語リスト
+- `yathattha_term.md` — yathattha の訳語「真実の目的」の根拠

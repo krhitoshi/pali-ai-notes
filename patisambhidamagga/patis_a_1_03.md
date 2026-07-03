@@ -3536,60 +3536,60 @@ Buddhotipadassa abhāvepi buddhenātipade yo so buddho, taṃ niddisitukāmena 
 
 →「それゆえに『相互に、まさに修習されており、かつ順次修習されている』と言われたのである。」
 
-■ yathattha（如実義）の語義解説
+■ yathattha（真実の目的）の語義解説
 
 13. Yathatthāti yathāsabhāvatthā.
 
-  * yathatthā ti ＝「『如実義（yathattha）』とは」
-  * yathāsabhāvatthā ＝「ありのままの自性（本性）の義」（yathāsabhāva＝ありのままの自性／attha＝義）
+  * yathatthā ti ＝「『真実の目的（yathattha）』とは」
+  * yathāsabhāvatthā ＝「あるがままの本性どおりの目的」（yathāsabhāva＝あるがままの本性／attha＝目的）
 
-→「『如実義（yathattha）』とは、ありのままの自性（本性）の義である。」
+→「『真実の目的（yathattha）』とは、あるがままの本性どおりの目的である。」
 
 14. Attadamathatthoti arahattamaggakkhaṇe attano nibbisevanattho.
 
-  * attadamathattho ti ＝「『自己調御の義』とは」
+  * attadamathattho ti ＝「『自己調御という目的』とは」
   * arahattamaggakkhaṇe ＝「阿羅漢道の刹那において」（arahattamagga＝阿羅漢道／khaṇa＝刹那）
-  * attano nibbisevanattho ＝「自己が荒々しさを離れること（わがままがなくなること）の義」（nibbisevana＝荒々しさのないこと）
+  * attano nibbisevanattho ＝「自己が荒々しさを離れること（わがままがなくなること）という目的」（nibbisevana＝荒々しさのないこと）
 
-→「『自己調御の義』とは、阿羅漢道の刹那において自己が荒々しさを離れること（わがままがなくなること）の義である。」
+→「『自己調御という目的』とは、阿羅漢道の刹那において自己が荒々しさを離れる（わがままがなくなる）という目的である。」
 
 15. Samathatthoti sītibhāvattho.
 
-  * samathattho ti ＝「『〔自己〕寂止の義』とは」
-  * sītibhāvattho ＝「清涼となること（涼やかさ）の義」（sītibhāva＝冷涼の状態）
+  * samathattho ti ＝「『〔自己〕寂止という目的』とは」
+  * sītibhāvattho ＝「清涼となること（涼やかさ）という目的」（sītibhāva＝冷涼の状態）
 
-→「『〔自己〕寂止の義』とは、清涼となること（冷涼の境地）の義である。」
+→「『〔自己〕寂止という目的』とは、清涼となる（冷涼の境地に至る）という目的である。」
 
 16. Parinibbāpanatthoti kilesaparinibbānena.
 
-  * parinibbāpanattho ti ＝「『般涅槃せしめる義』とは」
+  * parinibbāpanattho ti ＝「『般涅槃させるという目的』とは」
   * kilesaparinibbānena ＝「煩悩の般涅槃（煩悩の完全な消滅）によって」（kilesa＝煩悩／parinibbāna＝般涅槃）
 
-→「『般涅槃せしめる義』とは、煩悩の般涅槃（煩悩の完全な消滅）によって〔自己を般涅槃せしめることの義である〕。」
+→「『般涅槃させるという目的』とは、煩悩の般涅槃（煩悩の完全な消滅）によって〔自己を般涅槃させるという目的である〕。」
 
 17. Abhiññatthoti sabbadhammavasena. Pariññatthādayo maggañāṇakiccavasena.
 
-  * abhiññattho ti ＝「『証知の義』とは」
+  * abhiññattho ti ＝「『証知という目的』とは」
   * sabbadhammavasena ＝「一切法に関して」（sabbadhamma＝一切法）
-  * pariññatthādayo ＝「『遍知の義』等〔遍知・断・修習・体得の四〕は」（pariññattha＋ādayo）
+  * pariññatthādayo ＝「『遍知という目的』等〔遍知・断・修習・体得の四〕は」（pariññattha＋ādayo）
   * maggañāṇakiccavasena ＝「道智の作用に関して」（maggañāṇa＝道智／kicca＝作用）
 
-→「『証知の義』とは一切法に関して〔のものであり〕、『遍知の義』等〔遍知・断・修習・体得〕は道智の作用に関して〔のものである〕。」
+→「『証知という目的』とは一切法に関して〔のものであり〕、『遍知という目的』等〔遍知・断・修習・体得〕は道智の作用に関して〔のものである〕。」
 
 18. Saccābhisamayattho catunnaṃ saccānaṃ ekapaṭivedhadassanavasena.
 
-  * saccābhisamayattho ＝「『諦現観の義』は」（依主釈：sacca＝諦／abhisamaya＝現観）
+  * saccābhisamayattho ＝「『諦現観という目的』は」（依主釈：sacca＝諦／abhisamaya＝現観）
   * catunnaṃ saccānaṃ ＝「四つの諦の」
   * ekapaṭivedhadassanavasena ＝「一なる洞察を示す点に関して」（ekapaṭivedha＝一つの洞察／dassana＝示すこと）
 
-→「『諦現観の義』は、四つの諦の一なる〔同時の〕洞察を示す点に関して〔のものである〕。」
+→「『諦現観という目的』は、四つの諦の一なる〔同時の〕洞察を示す点に関して〔のものである〕。」
 
 19. Nirodhe patiṭṭhāpakattho ārammaṇakaraṇavasena.
 
-  * nirodhe patiṭṭhāpakattho ＝「『滅において住立せしめる義』は」
+  * nirodhe patiṭṭhāpakattho ＝「『滅において住立させるという目的』は」
   * ārammaṇakaraṇavasena ＝「〔滅を〕所縁とすることに関して」（ārammaṇakaraṇa＝所縁とすること）
 
-→「『滅において住立せしめる義』は、〔滅を〕所縁とすることに関して〔のものである〕。」
+→「『滅において住立させるという目的』は、〔滅を〕所縁とすることに関して〔のものである〕。」
 
 ■ buddha の語義解説
 
@@ -4062,22 +4062,22 @@ Vodānañāṇaniddesavaṇṇanā niṭṭhitā.
 
 17. Yathāsaddena saṅgahitā dasa yathatthā ca yathā buddhena desitā, yena pakārena desitāti pakāratthassa ca yathāsaddassa, sabhāvatthassa ca yathāsaddassa sarūpekasesavasena ekasesaṃ katvā ‘‘yathā’’ti vuttanti veditabbaṃ.
 
-* yathā-saddena saṅgahitā dasa yathatthā ca =「そして『yathā』という語によって含摂される十の如実義(yathattha)もまた」（saṅgahita「含摂された」／dasa yathatthā「十の如実義」）
+* yathā-saddena saṅgahitā dasa yathatthā ca =「そして『yathā』という語によって含摂される十の真実の目的(yathattha)もまた」（saṅgahita「含摂された」／dasa yathatthā「十の真実の目的」）
 * yathā buddhena desitā =「仏によって説かれたとおりに（あり）」
 * yena pakārena desitā ti =「いかなる仕方で説かれたか（その仕方どおりに）、という」
 * pakāra-tthassa ca yathā-saddassa =「『仕方』を意味する『yathā』の語と」（pakārattha「仕方の義」の yathā）
 * sabhāva-tthassa ca yathā-saddassa =「『本性（あるがまま）』を意味する『yathā』の語との」（sabhāvattha「本性・あるがままの義」の yathā）
 * sarūpa-ekasesa-vasena ekasesaṃ katvā =「同形の単一残置(ekasesa)の仕方によって一つに残し合わせて」（sarūpa「同形の」＋ekasesa「単一残置〔文法：同形語の一語化〕」）
 * yathā ti vuttaṃ ti veditabbaṃ =「『yathā』と説かれたのだ、と知るべきである」
-→「そして『yathā』という語によって含摂される十の如実義もまた、仏によって説かれたとおりに、いかなる仕方で説かれたか（その仕方どおりにある）――『仕方』を意味する『yathā』の語と、『本性（あるがまま）』を意味する『yathā』の語とを、同形の単一残置(ekasesa)の仕方によって一つにまとめて、『yathā』と説かれたのだ、と知るべきである。」
+→「そして『yathā』という語によって含摂される十の真実の目的もまた、仏によって説かれたとおりに、いかなる仕方で説かれたか（その仕方どおりにある）――『仕方』を意味する『yathā』の語と、『本性（あるがまま）』を意味する『yathā』の語とを、同形の単一残置(ekasesa)の仕方によって一つにまとめて、『yathā』と説かれたのだ、と知るべきである。」
 〔ekasesa＝同形・同義の二語を一語で代表させるパーリ文法の語法。〕
 
 18. Padabhājanīye panassa yathatthesu ekekassa yojanāvasena ‘‘desito’’ti ekavacanaṃ kataṃ.
 
 * pada-bhājanīye pana assa =「ところで、この（句の）分析においては」（assa「これの」属格）
-* yathatthesu ekekassa yojanā-vasena =「諸々の如実義のうち、一つ一つを結びつける(yojanā)仕方によって」（yathattha 処格複数／ekeka「各々」／yojanā「連結・適用」）
+* yathatthesu ekekassa yojanā-vasena =「諸々の真実の目的のうち、一つ一つを結びつける(yojanā)仕方によって」（yathattha 処格複数／ekeka「各々」／yojanā「連結・適用」）
 * desito ti ekavacanaṃ kataṃ =「『desito（説かれた・単数形）』という単数が用いられた」（ekavacana「単数」）
-→「ところで、この句の分析においては、諸々の如実義のうち一つ一つを（個別に）結びつける仕方によって、『desito（説かれた）』という単数形が用いられたのである。」
+→「ところで、この句の分析においては、諸々の真実の目的のうち一つ一つを（個別に）結びつける仕方によって、『desito（説かれた）』という単数形が用いられたのである。」
 
 19. ‘‘Soti gahaṭṭho vā hoti pabbajito vā’’ti vuttattā ādipadepi yassa gahaṭṭhassa vā pabbajitassa vāti vuttameva hoti.
 
