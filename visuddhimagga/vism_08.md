@@ -4212,7 +4212,7 @@ Visuddhimagga 229
 14. Imameva hi atthavasaṃ paṭicca vuttaṃ bhagavatā – ‘‘nāhaṃ, bhikkhave, muṭṭhasatissa asampajānassa ānāpānassatibhāvanaṃ vadāmī’’ti (ma. ni. 3.149; saṃ. ni. 5.992).
 
   * imam eva hi atthavasaṃ paṭicca = 「まさにこの理由（道理）にもとづいて」
-    * atthavasa = 「道理、理由、意義の力」（atthassa vasa、依主釈）
+    * atthavasa = 「道理、理由」（atthassa vasa、依主釈）
     * paṭicca = 「～にもとづいて、～によって」（不変化辞）
   * vuttaṃ bhagavatā = 「世尊によって説かれた」
     * bhagavatā = 「世尊によって」（具格）

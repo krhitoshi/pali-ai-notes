@@ -282,3 +282,11 @@ vism_08.md (Visuddhimagga 第8章 安般念) の改訂記録.
   (-atthaṃ「～のため」§223(3) satisaṇṭhāpanatthaṃ, §225 dassanatthaṃ 等) は
   既に「ため」で訳出済み
 - 改訂: Claude Fable 5 + MCP (pali-dop)
+
+### 2026/07/03 atthavasa 語釈から「意義の力」を削除
+
+- 内容: §229 の atthavasa 語釈「道理、理由、意義の力」から「意義の力」を
+  削除し「道理、理由」に. 訳文は元から「理由（道理）」で変更なし
+- 経緯: attha の訳語から「意義」を廃した同日改訂 (patis_1_03_history.md
+  参照) に合わせた語釈の整理. patis_a_1_03 の同語の語釈とも一致
+- 改訂: Claude Fable 5
