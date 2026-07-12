@@ -70,3 +70,4 @@ git diff --cached --name-only -- docs/
 - `publish_doc.md` — 本書 (公開手順)
 - `translation_terms.md` — 改訂で置換した訳語リスト
 - `yathattha_term.md` — yathattha の訳語「真実の目的」の根拠
+- `automation.md` — 対訳作成の自動化の設計方針と運用手順
