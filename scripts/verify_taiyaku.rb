@@ -7,10 +7,13 @@
 # 再掲であり, LLM 生成のためドリフトしうる. 各行が正本の連続部分文字列で
 # あることを確認し, 一致しない行を要確認として報告する.
 #
-# 判定は 3 段階:
-#   OK       空白を 1 個に集約した上で正本の部分文字列
-#   OK-LOOSE 正本の異読注 [ ... ] を除去し, 句読点前の空白を詰めても一致
-#   NG       いずれにも一致しない (要確認)
+# 判定は 4 段階:
+#   OK         空白を 1 個に集約した上で正本の部分文字列
+#   OK-LOOSE   正本の異読注 [ ... ] を除去し, 句読点前の空白を詰めても一致
+#   OK-NOSPACE さらに引用符 (‘ ’) と空白をすべて除いても一致.
+#              文字と語順は保たれており, 引用符の省略・…pe… 前後の空白付加・
+#              連声の分かち書きなど再掲時の編集的な揺れだけがある状態
+#   NG         いずれにも一致しない (要確認)
 
 source_path, *md_paths = ARGV
 abort "usage: verify_taiyaku.rb <source.txt> <md...>" if md_paths.empty?
@@ -22,6 +25,8 @@ end
 source = collapse(File.read(source_path, encoding: "UTF-8"))
 # 異読注を除去した緩和版. 注の除去で生じた空白や句読点前空白も詰める
 source_loose = collapse(source.gsub(/\[[^\]]*\]/, "")).gsub(/ ([,.;?!])/, '\1')
+# 引用符と空白をすべて除いた版. 文字化けや脱字は残らず検出できる
+source_nospace = source_loose.gsub(/[‘’]/, "").gsub(/\s/, "")
 
 ng = 0
 checked = 0
@@ -36,6 +41,8 @@ md_paths.each do |md|
     loose = pali.gsub(/\[[^\]]*\]/, "").gsub(/\s+/, " ").gsub(/ ([,.;?!])/, '\1').strip
     if source_loose.include?(loose)
       puts "OK-LOOSE #{md}:#{lineno}: #{pali[0, 60]}"
+    elsif source_nospace.include?(loose.gsub(/[‘’]/, "").gsub(/\s/, ""))
+      puts "OK-NOSPACE #{md}:#{lineno}: #{pali[0, 60]}"
     else
       ng += 1
       puts "NG #{md}:#{lineno}: #{pali}"
