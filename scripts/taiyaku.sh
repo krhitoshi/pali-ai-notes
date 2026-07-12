@@ -2,11 +2,16 @@
 # 対訳作成パイプライン: 抽出 -> 生成 (claude -p) -> 組み立て -> 検証
 #
 # 使い方:
-#   scripts/taiyaku.sh <xml> <subhead> <chunkspec> <workdir> <out_md> [model] [effort] [label]
+#   scripts/taiyaku.sh <xml|url> <subhead> <chunkspec> <workdir> <out_md> [model] [effort] [label]
 #
 # 例:
 #   scripts/taiyaku.sh _tmp/s0305m.mul9.xml "10. Kimilasuttaṃ" "1-3,4,5-6,7-8,9" \
 #     _tmp/work_kimila sn/sn_54_1_10_fable5.md
+#   scripts/taiyaku.sh https://www.tipitaka.org/romn/cscd/s0202m.mul0.xml \
+#     "9. Bahuvedanīyasuttaṃ" "1,2,3-5,6-11,12,13-15" _tmp/work_mn059 mn/mn_059_fable5.md
+#
+# <xml|url> に URL を渡すと _tmp/ にダウンロードして使う.
+# 既に同名ファイルがあれば再ダウンロードせずそれを正本として使う
 #
 # 注意:
 # - 生成で 401 が出る場合は claude login で CLI の再ログインが必要
@@ -20,6 +25,20 @@ effort=${7:-high}
 label=${8:-"Claude Fable 5 High"}
 
 repo_root=$(cd "$(dirname "$0")/.." && pwd)
+
+# 0. URL なら _tmp/ にダウンロードする. 既存ファイルは正本として再利用する
+case "$xml" in
+  http://*|https://*)
+    dest="$repo_root/_tmp/$(basename "$xml")"
+    if [ -f "$dest" ]; then
+      echo "reuse: $dest"
+    else
+      curl -sS -o "$dest" "$xml"
+      echo "downloaded: $dest ($(wc -c < "$dest" | tr -d ' ') bytes)"
+    fi
+    xml=$dest
+    ;;
+esac
 
 # 1. 抽出 + チャンク分割 (連結一致 assert 込み)
 ruby "$repo_root/scripts/extract_chunks.rb" "$xml" "$subhead" "$workdir" "$chunkspec"

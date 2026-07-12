@@ -29,7 +29,12 @@ paras = []
 lines[(start + 1)..].each do |line|
   line = line.strip
   next if line.empty?
-  break unless line.start_with?('<p rend="bodytext"')
+  unless line.start_with?('<p rend="bodytext"')
+    # 経の結び (MN などの "... niṭṭhitaṃ ..." centre 段落) は含める.
+    # vagga の結び ("...vaggo paṭhamo." など) は niṭṭhitaṃ を含まないので除外される
+    paras << line if line.start_with?('<p rend="centre"') && line.include?("niṭṭhitaṃ")
+    break
+  end
   paras << line
 end
 abort "no bodytext paragraphs found" if paras.empty?
