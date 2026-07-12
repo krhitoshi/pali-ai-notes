@@ -3,7 +3,7 @@
 
 118. Ākāsadhātuyaṃ ākāsagatanti ākāsabhāvaṃ gataṃ. Upādinnantiādinnaṃ gahitaṃ parāmaṭṭhaṃ, sarīraṭṭhakanti attho. Kaṇṇacchiddanti maṃsalohitādīhi asamphuṭṭhakaṇṇavivaraṃ. Nāsacchiddādīsupi eseva nayo. Yenacāti yena chiddena. Ajjhoharatīti anto paveseti, jivhābandhanato hi yāva udarapaṭalā manussānaṃ vidatthicaturaṅgulaṃ chiddaṭṭhānaṃ hoti. Taṃ sandhāyetaṃ vuttaṃ. Yattha cāti yasmiṃ okāse. Santiṭṭhatīti patiṭṭhāti. Manussānañhi mahantaṃ paṭaparissāvanamattañca udarapaṭalaṃ nāma hoti. Taṃ sandhāyetaṃ vuttaṃ. Adhobhāgaṃ nikkhamatīti yena heṭṭhā nikkhamati. Dvattiṃsahatthamattaṃ ekavīsatiyā ṭhānesu vaṅkaṃ antaṃ nāma hoti. Taṃ sandhāyetaṃ vuttaṃ. Yaṃ vā panaññampīti iminā sukhumasukhumaṃ cammamaṃsādiantaragatañceva lomakūpabhāvena ca ṭhitaṃ ākāsaṃ dasseti. Sesametthāpi pathavīdhātuādīsu vuttanayeneva veditabbaṃ.
 
-### Gemini
+### Meta
 
 - 2026/03/23
 - gemini-3.1-pro-preview
@@ -170,7 +170,7 @@
 
 Na katthaci patiṭṭhitoti pathavīpabbatarukkhādīsu ekasmimpi na patiṭṭhito, yadi hi pathaviyaṃ patiṭṭhito bhaveyya, pathaviyā bhijjamānāya saheva bhijjeyya, pabbate patamāne saheva pateyya, rukkhe chijjamāne saheva chijjeyya.
 
-### Gemini
+### Meta
 
 - 2026/03/23
 - gemini-3.1-pro-preview
@@ -299,7 +299,7 @@ Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
 
 Māhārāhulovādasuttavaṇṇanā niṭṭhitā.
 
-### Gemini
+### Meta
 
 - 2026/03/24
 - gemini-3.1-pro-preview

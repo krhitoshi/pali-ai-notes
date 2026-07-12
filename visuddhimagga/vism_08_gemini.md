@@ -5,7 +5,7 @@
 
 Evamassa ututtayānukūlaṃ dhātucariyānukūlañca ānāpānassatibhāvanānurūpaṃ senāsanaṃ upadisitvā alīnānuddhaccapakkhikaṃ santaṃ iriyāpathaṃ upadisanto nisīdatīti āha. Athassa nisajjāya daḷhabhāvaṃ assāsapassāsānaṃ pavattanasukhataṃ ārammaṇapariggahūpāyañca dassento pallaṅkaṃ ābhujitvātiādimāha. Tattha pallaṅkanti samantato ūrubaddhāsanaṃ. Ābhujitvāti bandhitvā.
 
-### Gemini
+### Meta
 
 - 2026/06/19
 - gemini-3.1-pro-preview
@@ -163,7 +163,7 @@ Evamassa ututtayānukūlaṃ dhātucariyānukūlañca ānāpānassatibhāvanānu
 
 Ujuṃ kāyaṃ paṇidhāyāti uparimasarīraṃ ujukaṃ ṭhapetvā. Aṭṭhārasapiṭṭhikaṇṭake koṭiyā koṭiṃ paṭipādetvā. Evañhi nisīdantassa cammamaṃsanhārūni na paṇamanti. Athassa yā tesaṃ paṇamanappaccayā khaṇe khaṇe vedanā uppajjeyyuṃ, tā na uppajjanti. Tāsu anuppajjamānāsu cittaṃ ekaggaṃ hoti, kammaṭṭhānaṃ na paripatati, vuddhiṃ phātiṃ upagacchati. Parimukhaṃ satiṃ upaṭṭhapetvāti kammaṭṭhānābhimukhaṃ satiṃ ṭhapayitvā. Atha vā parīti pariggahaṭṭho. Mukhanti niyyānaṭṭho. Satīti upaṭṭhānaṭṭho. Tena vuccati ‘‘parimukhaṃ sati’’nti evaṃ paṭisambhidāyaṃ (paṭi. ma. 1.164) vuttanayenapettha attho daṭṭhabbo. Tatrāyaṃ saṅkhepo, pariggahitaniyyānaṃ satiṃ katvāti.
 
-### Gemini
+### Meta
 
 - 2026/06/19
 - gemini-3.1-pro-preview
@@ -298,7 +298,7 @@ Ujuṃ kāyaṃ paṇidhāyāti uparimasarīraṃ ujukaṃ ṭhapetvā. Aṭṭh
 
 ‘‘Bāttiṃsāya ākārehi sato kārī hoti. Dīghaṃ assāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti. Tāya satiyā tena ñāṇena sato kārī hoti. Dīghaṃ passāsavasena…pe… paṭinissaggānupassī assāsavasena. Paṭinissaggānupassī passāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti. Tāya satiyā tena ñāṇena sato kārī hotī’’ti (paṭi. ma. 1.165).
 
-### Gemini
+### Meta
 
 - 2026/06/19
 - gemini-3.1-pro-preview
@@ -415,7 +415,7 @@ Tattha dīghaṃ vā assasantoti dīghaṃ vā assāsaṃ pavattayanto. Assās
 
 Yā pana tesaṃ dīgharassatā, sā addhānavasena veditabbā. Yathā hi okāsaddhānaṃ pharitvā ṭhitaṃ udakaṃ vā vālikā vā ‘‘dīghamudakaṃ dīghā vālikā, rassamudakaṃ rassā vālikā’’ti vuccati, evaṃ cuṇṇavicuṇṇāpi assāsapassāsā hatthisarīre ca ahisarīre ca tesaṃ attabhāvasaṅkhātaṃ dīghaṃ addhānaṃ saṇikaṃ pūretvā saṇikameva nikkhamanti. Tasmā dīghāti vuccanti. Sunakhasasādīnaṃ attabhāvasaṅkhātaṃ rassaṃ addhānaṃ sīghaṃ pūretvā sīghameva nikkhamanti, tasmā rassāti vuccanti. Manussesu pana keci hatthiahiādayo viya kāladdhānavasena dīghaṃ assasanti ca passasanti ca. Keci sunakhasasādayo viya rassaṃ, tasmā tesaṃ kālavasena dīghamaddhānaṃ nikkhamantā ca pavisantā ca te ‘‘dīghā’’ ittaramaddhānaṃ nikkhamantā ca pavisantā ca ‘‘rassā’’ti veditabbā.
 
-### Gemini
+### Meta
 
 - 2026/06/19
 - gemini-3.1-pro-preview
@@ -596,7 +596,7 @@ Tatrāyaṃ bhikkhu navahākārehi dīghaṃ assasanto passasanto ca ‘‘dīg
 
 ‘‘Kathaṃ dīghaṃ assasanto dīghaṃ assasāmīti pajānāti. Dīghaṃ passasanto dīghaṃ passasāmīti pajānāti. Dīghaṃ assāsaṃ addhānasaṅkhāte assasati. Dīghaṃ passāsaṃ addhānasaṅkhāte passasati. Dīghaṃ assāsapassāsaṃ addhānasaṅkhāte assasatipi passasatipi. Dīghaṃ assāsapassāsaṃ addhānasaṅkhāte assasatopi passasatopi chando uppajjati. Chandavasena tato sukhumataraṃ dīghaṃ assāsaṃ addhānasaṅkhāte assasati. Chandavasena tato sukhumataraṃ dīghaṃ passāsaṃ…pe… dīghaṃ assāsapassāsaṃ addhānasaṅkhāte assasatipi passasatipi. Chandavasena tato sukhumataraṃ dīghaṃ assāsapassāsaṃ addhānasaṅkhāte assasatopi passasatopi pāmojjaṃ uppajjati. Pāmojjavasena tato sukhumataraṃ dīghaṃ assāsaṃ addhānasaṅkhāte assasati. Pāmojjavasena tato sukhumataraṃ dīghaṃ passāsaṃ…pe… dīghaṃ assāsapassāsaṃ addhānasaṅkhāte assasatipi passasatipi. Pāmojjavasena tato sukhumataraṃ dīghaṃ assāsapassāsaṃ addhānasaṅkhāte assasatopi passasatopi dīghaṃ assāsapassāsā cittaṃ vivattati, upekkhā saṇṭhāti. Imehi navahi ākārehi dīghaṃ assāsapassāsā kāyo. Upaṭṭhānaṃ sati. Anupassanā ñāṇaṃ. Kāyo upaṭṭhānaṃ, no sati. Sati upaṭṭhānañceva sati ca. Tāya satiyā tena ñāṇena taṃ kāyaṃ anupassati. Tena vuccati kāye kāyānupassanāsatipaṭṭhānabhāvanā’’ti.
 
-### Gemini
+### Meta
 
 - 2026/06/19
 - gemini-3.1-pro-preview
@@ -806,7 +806,7 @@ Cattāro vaṇṇā vattanti,
 
 Nāsikaggeva bhikkhunoti. (pārā. aṭṭha. 2.165);
 
-### Gemini
+### Meta
 
 - 2026/06/19
 - gemini-3.1-pro-preview

@@ -65,7 +65,7 @@ bodies.each_with_index do |body, i|
   warn "WARN: #{gen_paths[i]} does not start with '### 対訳'" unless gen.start_with?("### 対訳")
   out << "\n## #{headings[i]}\n\n"
   out << body << "\n\n"
-  out << "### Claude\n\n- #{date}\n- #{model_label}\n\n"
+  out << "### Meta\n\n- #{date}\n- #{model_label}\n\n"
   out << gen << "\n"
 end
 

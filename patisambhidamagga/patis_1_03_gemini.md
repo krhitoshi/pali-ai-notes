@@ -3,7 +3,7 @@
 
 164.Idhāti imissā diṭṭhiyā, imissā khantiyā, imissā ruciyā, imasmiṃ ādāye, imasmiṃ dhamme, imasmiṃ vinaye, imasmiṃ dhammavinaye, imasmiṃ pāvacane, imasmiṃ brahmacariye, imasmiṃ satthusāsane. Tena vuccati – ‘‘idhā’’ti. Bhikkhūti puthujjanakalyāṇako vā hoti bhikkhu sekkho vā arahā vā akuppadhammo. Araññanti nikkhamitvā bahi indakhīlā sabbametaṃ araññaṃ. Rukkhamūlanti yattha bhikkhuno āsanaṃ paññattaṃ hoti mañco vā pīṭhaṃ vā bhisi vā taṭṭikā vā cammakhaṇḍo vā tiṇasantharo [tiṇasaṇṭharo (syā.)] vā paṇṇasantharo vā palālasantharo [palāsasaṇṭharo (syā.)] vā, tattha bhikkhu caṅkamati vā tiṭṭhati vā nisīdati vā seyyaṃ vā kappeti. Suññanti kenaci anākiṇṇaṃ hoti gahaṭṭhehi vā pabbajitehi vā. Agāranti [āgāranti (syā.)] vihāro aḍḍhayogo pāsādo hammiyaṃ guhā. Nisīdati pallaṅkaṃ ābhujitvāti nisinno hoti pallaṅkaṃ ābhujitvā . Ujuṃ kāyaṃ paṇidhāyāti ujuko hoti kāyo ṭhito [panidhito (syā.)] supaṇihito. Parimukhaṃ satiṃ upaṭṭhapetvāti. Parīti pariggahaṭṭho. Mukhanti niyyānaṭṭho. Satīti upaṭṭhānaṭṭho. Tena vuccati – ‘‘parimukhaṃ satiṃ upaṭṭhapetvā’’ti.
 
-### Gemini
+### Meta
 
 - 2026/06/21
 - gemini-3.1-pro-preview
@@ -140,7 +140,7 @@
 
 165.Satova assasati, sato passasatīti bāttiṃsāya ākārehi sato kārī hoti. Dīghaṃ assāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti. Tāya satiyā tena ñāṇena sato kārī hoti. Dīghaṃ passāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti. Tāya satiyā tena ñāṇena sato kārī hoti. Rassaṃ assāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti. Tāya satiyā tena ñāṇena sato kārī hoti. Rassaṃ passāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti. Tāya satiyā tena ñāṇena sato kārī hoti…pe… paṭinissaggānupassī assāsavasena paṭinissaggānupassī passāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti. Tāya satiyā tena ñāṇena sato kārī hoti.
 
-### Gemini
+### Meta
 
 - 2026/06/20
 - gemini-3.1-pro-preview
@@ -260,7 +260,7 @@
 
 ## Paṭhamacatukkaniddeso
 
-### Gemini
+### Meta
 
 - 2026/06/20
 - gemini-3.1-pro-preview
@@ -281,7 +281,7 @@ Paṭhamacatukkaniddeso
 
 166. Kathaṃ dīghaṃ assasanto ‘‘dīghaṃ assasāmī’’ti pajānāti, dīghaṃ passasanto ‘‘dīghaṃ passasāmī’’ti pajānāti? Dīghaṃ assāsaṃ addhānasaṅkhāte assasati, dīghaṃ passāsaṃ addhānasaṅkhāte passasati, dīghaṃ assāsapassāsaṃ addhānasaṅkhāte assasatipi passasatipi. Dīghaṃ assāsapassāsaṃ addhānasaṅkhāte assasatopi passasatopi chando uppajjati. Chandavasena tato sukhumataraṃ dīghaṃ assāsaṃ addhānasaṅkhāte assasati, chandavasena tato sukhumataraṃ dīghaṃ passāsaṃ addhānasaṅkhāte passasati, chandavasena tato sukhumataraṃ dīghaṃ assāsapassāsaṃ addhānasaṅkhāte assasatipi passasatipi. Chandavasena tato sukhumataraṃ dīghaṃ assāsapassāsaṃ addhānasaṅkhāte assasatopi passasatopi pāmojjaṃ uppajjati. Pāmojjavasena tato sukhumataraṃ dīghaṃ assāsaṃ addhānasaṅkhāte assasati, pāmojjavasena tato sukhumataraṃ dīghaṃ passāsaṃ addhānasaṅkhāte passasati, pāmojjavasena tato sukhumataraṃ dīghaṃ assāsapassāsaṃ addhānasaṅkhāte assasatipi passasatipi. Pāmojjavasena tato sukhumataraṃ dīghaṃ assāsapassāsaṃ addhānasaṅkhāte assasatopi passasatopi dīghaṃ assāsapassāsāpi cittaṃ vivattati, upekkhā saṇṭhāti. Imehi navahākārehi dīghaṃ assāsapassāsā kāyo. Upaṭṭhānaṃ sati. Anupassanā ñāṇaṃ. Kāyo upaṭṭhānaṃ, no sati; sati upaṭṭhānañceva sati ca. Tāya satiyā tena ñāṇena taṃ kāyaṃ anupassati. Tena vuccati – ‘‘kāye kāyānupassanāsatipaṭṭhānabhāvanā’’ti.
 
-### Gemini
+### Meta
 
 - 2026/06/20
 - gemini-3.1-pro-preview

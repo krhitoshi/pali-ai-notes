@@ -33,7 +33,7 @@ Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
 Ambalaṭṭhikarāhulovādasuttavaṇṇanā niṭṭhitā.
 
 
-# Gemini
+# Meta
 
 - 2026/03/16
 - gemini-3.1-pro-preview
