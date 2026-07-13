@@ -3544,7 +3544,7 @@ Visuddhimagga 227（鋸喩 kakacūpama）
 
 3. Nimittaṃ assāsapassāsā, anārammaṇamekacittassa;
 
-  * nimittaṃ = 「相(にっそう)、しるし」（呼吸の相）
+  * nimittaṃ = 「相、しるし」（呼吸の相）
   * assāsapassāsā = 「出息と入息」（相違釈・主格複数）
     * assāsa = 「出息（外へ出る息）」
     * passāsa = 「入息（内へ入る息）」
