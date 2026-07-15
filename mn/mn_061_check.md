@@ -18,6 +18,7 @@ Ambalaṭṭhikarāhulovāda-sutta (MN 61) 校閲
 ### 高
 
 1. nikkujjita (#108 対訳 6)
+
    - 第一稿: 「伏せられたもの（台無しにされたもの）である」
    - 指摘: 原義は「伏せる・ひっくり返す」。「台無し」は文脈解釈であり語義ではない
    - 提案: 対訳は原義「伏せられたもの」に留め, 「台無し」の解釈は意訳に回す
@@ -29,13 +30,16 @@ Ambalaṭṭhikarāhulovāda-sutta (MN 61) 校閲
 字義に引きずられて誤修正しないための記録として残す.
 
 1. sasakkaṃ (#109 対訳 8, #110 対訳 3, #111 対訳 6)
+
    - 第一稿: 「決して / 確実に / 断じて」(sasakkaṃ na karaṇīyaṃ)
    - 辞書字義: PTSD は sa+sakka =「できる限り (as much as one can)」
    - 註釈: Majjhimapaṇṇāsa-aṭṭh. §109「Sasakkaṃ na karaṇīyanti ekaṃseneva na
      kātabbaṃ」(ekaṃsena = 絶対に)。第一稿の強い否定が正しい
+
    - 片山訳も「けっして…すべきではありません」
 
 2. anupadajjeyyāsi (#109 対訳 19, #110 対訳 8, #111 対訳 18)
+
    - 第一稿: 「続ける / 継続する」
    - 辞書字義: anuppadeti の主たる語義は「与える」
    - 註釈: Majjhimapaṇṇāsa-aṭṭh. §109「anupadeyyāsi upatthambheyyāsi punappunaṃ

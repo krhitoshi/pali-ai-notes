@@ -23,6 +23,7 @@ Atha kho te bhikkhū – ‘‘bhagavā anekapariyāyena asubhakathaṃ katheti
 
 * Vesālī = 「ヴェーサーリー（毘舎離、地名）」
 * sutta = 「経」(依主釈：ヴェーサーリーの経)
+
 → 「ヴェーサーリー経」
 
 2. Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ.
@@ -36,6 +37,7 @@ Atha kho te bhikkhū – ‘‘bhagavā anekapariyāyena asubhakathaṃ katheti
 * viharati = 「住しておられた」(viharati 現在)
 * mahāvane = 「大林（マハーヴァナ）に」(処格／持業釈：大いなる林)
 * kūṭāgārasālāyaṃ = 「重閣講堂に」(処格／依主釈：kūṭāgāra〔尖頂屋・重閣〕+ sālā〔堂〕)
+
 → 「このように私は聞いた。あるとき世尊はヴェーサーリーの大林にある重閣講堂に住しておられた。」
 
 3. Tena kho pana samayena bhagavā bhikkhūnaṃ anekapariyāyena asubhakathaṃ katheti, asubhāya vaṇṇaṃ bhāsati, asubhabhāvanāya vaṇṇaṃ bhāsati.
@@ -49,6 +51,7 @@ Atha kho te bhikkhū – ‘‘bhagavā anekapariyāyena asubhakathaṃ katheti
 * vaṇṇaṃ = 「称讃を」(対格)
 * bhāsati = 「述べられる」
 * asubhabhāvanāya = 「不浄の修習の」(属格／依主釈：asubha + bhāvanā〔修習〕)
+
 → 「ちょうどそのとき世尊は、比丘たちにさまざまな方法で不浄の話を説き、不浄を称讃し、不浄の修習を称讃しておられた。」
 
 4. Atha kho bhagavā bhikkhū āmantesi – ‘‘icchāmahaṃ, bhikkhave, aḍḍhamāsaṃ paṭisallīyituṃ.
@@ -60,6 +63,7 @@ Atha kho te bhikkhū – ‘‘bhagavā anekapariyāyena asubhakathaṃ katheti
 * bhikkhave = 「比丘たちよ」(呼格)
 * aḍḍhamāsaṃ = 「半月の間」(時間の対格／aḍḍha〔半〕+ māsa〔月〕)
 * paṭisallīyituṃ = 「独坐・宴黙すること（独居して坐すること）を」(paṭisallīyati の不定詞)
+
 → 「そこで世尊は比丘たちに告げられた──『比丘たちよ、私は半月のあいだ独坐したいと思う。』」
 
 5. Nāmhi kenaci upasaṅkamitabbo, aññatra ekena piṇḍapātanīhārakenā’’ti.
@@ -70,6 +74,7 @@ Atha kho te bhikkhū – ‘‘bhagavā anekapariyāyena asubhakathaṃ katheti
 * aññatra = 「～を除いて」(+具格)
 * ekena piṇḍapātanīhārakena = 「一人の托鉢食を運ぶ者（だけ）によって」(具格／依主釈：piṇḍapāta〔団食・托鉢食〕+ nīhāraka〔運び出す者〕)
 * ti = 引用終止
+
 → 「ただ一人、托鉢食を運ぶ者を除いては、誰も私のもとに近づいてはならない。』」
 
 6. ‘‘Evaṃ, bhante’’ti kho te bhikkhū bhagavato paṭissutvā nāssudha koci bhagavantaṃ upasaṅkamati, aññatra ekena piṇḍapātanīhārakena.
@@ -83,6 +88,7 @@ Atha kho te bhikkhū – ‘‘bhagavā anekapariyāyena asubhakathaṃ katheti
 * bhagavantaṃ = 「世尊に」(対格)
 * upasaṅkamati = 「近づく」(歴史的現在)
 * aññatra ekena piṇḍapātanīhārakena = 「一人の托鉢食を運ぶ者を除いて」
+
 → 「『かしこまりました、尊者よ』と、かの比丘たちは世尊に応諾し、ただ一人の托鉢食を運ぶ者を除いては、ここで誰一人として世尊に近づかなかった。」
 
 7. Atha kho te bhikkhū – ‘‘bhagavā anekapariyāyena asubhakathaṃ katheti, asubhāya vaṇṇaṃ bhāsati, asubhabhāvanāya vaṇṇaṃ bhāsatī’’ti anekākāravokāraṃ asubhabhāvanānuyogamanuyuttā viharanti.
@@ -94,6 +100,7 @@ Atha kho te bhikkhū – ‘‘bhagavā anekapariyāyena asubhakathaṃ katheti
 * anuyuttā = 「専念した（者たちとして）」(anuyuñjati の過去分詞・男性複数主格)
 * asubhabhāvanānuyogam anuyuttā = 「不浄修習への専念に専念して」(連声 -m-)
 * viharanti = 「住する」
+
 → 「そこでかの比丘たちは、『世尊はさまざまな方法で不浄を説き、不浄を称讃し、不浄の修習を称讃される』として、さまざまな様相と仕方で不浄の修習への専念にいそしみつつ住した。」
 
 8. Te iminā kāyena aṭṭīyamānā [aṭṭiyamānā (sī. syā. kaṃ. pī. ka.)] harāyamānā jigucchamānā satthahārakaṃ pariyesanti.
@@ -106,6 +113,7 @@ Atha kho te bhikkhū – ‘‘bhagavā anekapariyāyena asubhakathaṃ katheti
 * jigucchamānā = 「忌み嫌い」(jigucchati〔嫌悪する〕√gup の意欲活用、現在分詞。三語 aṭṭīyamānā・harāyamānā・jigucchamānā は定型句)
 * satthahārakaṃ = 「刀をふるう者を（＝刃で命を絶たせる者を）」(対格／依主釈：sattha〔刀・刃物〕+ hāraka〔運ぶ・ふるう者〕)
 * pariyesanti = 「探し求める」(pariyesati 現在)
+
 → 「彼らはこの身体ゆえに悩み、恥じ、忌み嫌って、刀をふるう者（刃で命を絶たせる者）を探し求めた。」
 
 9. Dasapi bhikkhū ekāhena satthaṃ āharanti, vīsampi…pe… tiṃsampi bhikkhū ekāhena satthaṃ āharanti.
@@ -117,6 +125,7 @@ Atha kho te bhikkhū – ‘‘bhagavā anekapariyāyena asubhakathaṃ katheti
 * vīsam pi = 「二十人もが」
 * …pe… = （中略）〔省略部は「bhikkhū ekāhena satthaṃ āharanti」を二十および中間の数で反復する〕
 * tiṃsam pi bhikkhū = 「三十人もの比丘が」
+
 → 「一日に十人もの比丘が刀を用い〔て命を絶ち〕、二十人もが……（中略）……一日に三十人もの比丘が刀を用い〔て命を絶った〕。」
 
 ## 985 (2)
@@ -145,6 +154,7 @@ Atha kho bhagavā tassa aḍḍhamāsassa accayena paṭisallānā vuṭṭhito
 * vuṭṭhito = 「立ち上がって、出て」(vuṭṭhāti の過去分詞・男性主格)
 * āyasmantaṃ ānandaṃ = 「尊者アーナンダに」(対格)
 * āmantesi = 「告げられた」(āmanteti のアオリスト)
+
 → 「そこで世尊は、その半月が過ぎて独坐より出で立ち、尊者アーナンダに告げられた──」
 
 2. ‘‘kiṃ nu kho, ānanda, tanubhūto viya bhikkhusaṅgho’’ti?
@@ -155,6 +165,7 @@ Atha kho bhagavā tassa aḍḍhamāsassa accayena paṭisallānā vuṭṭhito
 * viya = 「～のようである」
 * bhikkhusaṅgho = 「比丘僧伽は」(依主釈：bhikkhu + saṅgha〔僧伽・集団〕)
 * ti = 引用終止
+
 → 「『アーナンダよ、比丘僧伽はいったいどうしてまばらになったかのようなのか。』」
 
 3. ‘‘Tathā hi pana, bhante, ‘bhagavā bhikkhūnaṃ anekapariyāyena asubhakathaṃ katheti, asubhāya vaṇṇaṃ bhāsati, asubhabhāvanāya vaṇṇaṃ bhāsatī’ti anekākāravokāraṃ asubhabhāvanānuyogamanuyuttā viharanti.
@@ -169,6 +180,7 @@ Atha kho bhagavā tassa aḍḍhamāsassa accayena paṭisallānā vuṭṭhito
 * anekākāravokāraṃ = 「さまざまな様相と仕方で」(副詞的対格／aneka + ākāra〔様相〕+ vokāra〔様態・区分〕)
 * asubhabhāvanānuyogaṃ anuyuttā = 「不浄修習への専念にいそしんで」(依主釈：asubhabhāvanā + anuyoga〔専念〕、anuyuttā〔専念した・男複主格〕。連声 -m-)
 * viharanti = 「住する」
+
 → 「『尊者よ、と申しますのも、まさに、「世尊は比丘たちにさまざまな方法で不浄を説き、不浄を称讃し、不浄の修習を称讃される」として、（比丘たちは）さまざまな様相と仕方で不浄の修習への専念にいそしみつつ住しているのです。』」
 
 4. Te iminā kāyena aṭṭīyamānā harāyamānā jigucchamānā satthahārakaṃ pariyesanti.
@@ -180,6 +192,7 @@ Atha kho bhagavā tassa aḍḍhamāsassa accayena paṭisallānā vuṭṭhito
 * jigucchamānā = 「忌み嫌い」(jigucchati〔√gup の意欲活用〕の現在分詞。三語は定型句)
 * satthahārakaṃ = 「刀をふるう者を（＝刃で命を絶たせる者を）」(対格／依主釈：sattha〔刀〕+ hāraka〔ふるう者〕)
 * pariyesanti = 「探し求める」(pariyesati 現在)
+
 → 「『彼らはこの身体ゆえに悩み、恥じ、忌み嫌って、刀をふるう者（刃で命を絶たせる者）を探し求めています。』」
 
 5. Dasapi bhikkhū ekāhena satthaṃ āharanti, vīsampi bhikkhū… tiṃsampi bhikkhū ekāhena satthaṃ āharanti.
@@ -190,6 +203,7 @@ Atha kho bhagavā tassa aḍḍhamāsassa accayena paṭisallānā vuṭṭhito
 * vīsam pi bhikkhū = 「二十人もの比丘が」
 * … = （中略）〔省略部は「ekāhena satthaṃ āharanti」を反復する〕
 * tiṃsam pi bhikkhū = 「三十人もの比丘が」
+
 → 「『一日に十人もの比丘が刀を用い〔て命を絶ち〕、二十人もの比丘が……（中略）……一日に三十人もの比丘が刀を用い〔て命を絶っています〕。』」
 
 6. Sādhu, bhante, bhagavā aññaṃ pariyāyaṃ ācikkhatu yathāyaṃ bhikkhusaṅgho aññāya saṇṭhaheyyā’’ti.
@@ -203,6 +217,7 @@ Atha kho bhagavā tassa aḍḍhamāsassa accayena paṭisallānā vuṭṭhito
 * aññāya = 「了知に・悟りに」(処格／aññā〔完全智・了知〕。文脈上「正しい知見において」)
 * saṇṭhaheyya = 「安立しうるように、立脚しうるように」(saṇṭhāti〔確立する・安立する〕の願望法・三単)
 * ti = 引用終止
+
 → 「『尊者よ、どうか世尊が、この比丘僧伽が了知（正しい知見）において安立しうるよう、他の方法をお説きくださいますように。』」
 
 7. ‘‘Tenahānanda, yāvatikā bhikkhū vesāliṃ upanissāya viharanti te sabbe upaṭṭhānasālāyaṃ sannipātehī’’ti.
@@ -215,6 +230,7 @@ Atha kho bhagavā tassa aḍḍhamāsassa accayena paṭisallānā vuṭṭhito
 * upaṭṭhānasālāyaṃ = 「侍者堂（給仕堂・集会堂）に」(処格／依主釈：upaṭṭhāna〔給仕・伺候〕+ sālā〔堂〕)
 * sannipātehi = 「集めよ」(sannipāteti〔集合させる〕の命令・二単)
 * ti = 引用終止
+
 → 「『それならばアーナンダよ、ヴェーサーリーに依って住するすべての比丘を、その全員を侍者堂に集めなさい。』」
 
 8. ‘‘Evaṃ, bhante’’ti kho āyasmā ānando bhagavato paṭissutvā yāvatikā bhikkhū vesāliṃ upanissāya viharanti te sabbe upaṭṭhānasālāyaṃ sannipātetvā yena bhagavā tenupasaṅkami;
@@ -225,6 +241,7 @@ Atha kho bhagavā tassa aḍḍhamāsassa accayena paṭisallānā vuṭṭhito
 * yāvatikā bhikkhū … viharanti = 「ヴェーサーリーに依って住する限りのすべての比丘」(前段と同一構文)
 * te sabbe … sannipātetvā = 「その全員を集めて」(sannipāteti の連続体)
 * yena bhagavā tena upasaṅkami = 「世尊のおられるところへ近づいた」(yena … tena …〔～のところへ〕の慣用構文。連声 tenupasaṅkami。upasaṅkami は upasaṅkamati のアオリスト)
+
 → 「『かしこまりました、尊者よ』と、尊者アーナンダは世尊に応諾し、ヴェーサーリーに依って住するすべての比丘、その全員を侍者堂に集めて、世尊のおられるところへ近づいた。」
 
 9. upasaṅkamitvā bhagavantaṃ etadavoca – ‘‘sannipatito [sannipātito (sī.)], bhante, bhikkhusaṅgho.
@@ -236,6 +253,7 @@ Atha kho bhagavā tassa aḍḍhamāsassa accayena paṭisallānā vuṭṭhito
   * 〔異読〕sannipātito（sī.）＝「集められました」(sannipāteti の過去分詞・使役受動「集合させられた」)
 * bhante = 「尊者よ」(呼格)
 * bhikkhusaṅgho = 「比丘僧伽は」(主格)
+
 → 「近づいて、世尊にこう申し上げた──『尊者よ、比丘僧伽が集まりました。〔異読：比丘僧伽を集めました／集められました〕』」
 
 10. Yassa dāni, bhante, bhagavā kālaṃ maññatī’’ti.
@@ -246,6 +264,7 @@ Atha kho bhagavā tassa aḍḍhamāsassa accayena paṭisallānā vuṭṭhito
 * bhagavā = 「世尊が」(主格)
 * kālaṃ maññati = 「時（ふさわしい時）とお考えになる」(kālaṃ〔時を・対格〕+ maññati〔思う〕。"yassa dāni kālaṃ maññati" は「いまや、世尊がそのための時とお考えになる、そのこと（をなさるがよい）」の定型句で、行為への促し・委ねを表す)
 * ti = 引用終止
+
 → 「『尊者よ、いまや世尊が（しかるべき）時とお思いになることを（なさいませ）。』」
 
 ## 985 (3)
@@ -273,6 +292,7 @@ Atha kho bhagavā yena upaṭṭhānasālā tenupasaṅkami; upasaṅkamitvā p
 * upasaṅkamitvā = 「近づいて」(upasaṅkamati の連続体)
 * paññatte āsane = 「設けられた座に」(処格／paññatta〔設けられた・施設された〕+ āsana〔座〕)
 * nisīdi = 「坐られた」(nisīdati のアオリスト)
+
 → 「そこで世尊は侍者堂のあるところへ近づき、近づいて、設けられた座に坐られた。」
 
 2. Nisajja kho bhagavā bhikkhū āmantesi –
@@ -280,6 +300,7 @@ Atha kho bhagavā yena upaṭṭhānasālā tenupasaṅkami; upasaṅkamitvā p
 * nisajja = 「坐して」(nisīdati の連続体・古形)
 * bhikkhū = 「比丘たちに」(対格・複数)
 * āmantesi = 「告げられた」(āmanteti のアオリスト)
+
 → 「坐して、世尊は比丘たちに告げられた──」
 
 3. ‘‘ayampi kho, bhikkhave, ānāpānassatisamādhi bhāvito bahulīkato santo ceva paṇīto ca asecanako ca sukho ca vihāro uppannuppanne ca pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasameti’’.
@@ -297,6 +318,7 @@ Atha kho bhagavā yena upaṭṭhānasālā tenupasaṅkami; upasaṅkamitvā p
 * ṭhānaso = 「たちどころに、その場で」(副詞)
 * antaradhāpeti = 「消し去る」(antaradhāyati の使役)
 * vūpasameti = 「鎮める、静める」(vūpasammati の使役)
+
 → 「『比丘たちよ、この入出息念の三昧もまた、修習し多く修するならば、寂静であり、勝れて妙であり、混じり気なく（それ自体で満ち足り）、楽なる住であって、生起するそのつどの悪しき不善なる諸法をたちどころに消し去り、鎮めるのである。』」
 
 4. ‘‘Seyyathāpi, bhikkhave, gimhānaṃ pacchime māse ūhataṃ rajojallaṃ, tamenaṃ mahāakālamegho ṭhānaso antaradhāpeti vūpasameti;
@@ -308,12 +330,14 @@ Atha kho bhagavā yena upaṭṭhānasālā tenupasaṅkami; upasaṅkamitvā p
 * tamenaṃ = 「その（巻き上げられた塵を）」(taṃ + enaṃ、強意の対格)
 * mahāakālamegho = 「大いなる時ならぬ（季節はずれの）雨雲が」(持業釈：mahā〔大〕+ akāla〔時ならぬ〕+ megha〔雲〕。連声 mahāakāla-)
 * ṭhānaso antaradhāpeti vūpasameti = §3 と同一（「たちどころに消し去り、鎮める」）
+
 → 「『比丘たちよ、たとえば夏の最後の月に巻き上げられた塵と垢を、大いなる時ならぬ雨雲がたちどころに消し去り、鎮めるように──』」
 
 5. evameva kho, bhikkhave, ānāpānassatisamādhi bhāvito bahulīkato santo ceva paṇīto ca asecanako ca sukho ca vihāro uppannuppanne ca pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasameti.
 
 * evam eva kho = 「まさにそのように」(譬喩の帰結を導く)
 * （以下 §3 と同一構文・同一語釈）
+
 → 「『まさにそのように、比丘たちよ、入出息念の三昧は、修習し多く修するならば、寂静であり、勝れて妙であり、混じり気なく、楽なる住であって、生起するそのつどの悪しき不善なる諸法をたちどころに消し去り、鎮めるのである。』」
 
 6. Kathaṃ bhāvito ca, bhikkhave, ānāpānassatisamādhi kathaṃ bahulīkato santo ceva paṇīto ca asecanako ca sukho ca vihāro uppannuppanne ca pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasameti?
@@ -321,6 +345,7 @@ Atha kho bhagavā yena upaṭṭhānasālā tenupasaṅkami; upasaṅkamitvā p
 * kathaṃ … kathaṃ … = 「どのように～し、どのように～するならば」(疑問副詞の反復)
 * bhāvito = 「修習されて」／ bahulīkato = 「多く修されて」
 * （後半は §3 と同一構文）
+
 → 「『では比丘たちよ、入出息念の三昧をどのように修習し、どのように多く修するならば、寂静であり、勝れて妙であり、混じり気なく、楽なる住であって、生起するそのつどの悪しき不善なる諸法をたちどころに消し去り、鎮めるのか。』」
 
 7. ‘‘Idha, bhikkhave, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā.
@@ -333,6 +358,7 @@ Atha kho bhagavā yena upaṭṭhānasālā tenupasaṅkami; upasaṅkamitvā p
 * pallaṅkaṃ ābhujitvā = 「結跏趺坐を組んで」(pallaṅka〔跏趺〕+ ābhujati〔組む・折り曲げる〕の連続体)
 * ujuṃ kāyaṃ paṇidhāya = 「身体をまっすぐに保ち」(uju〔まっすぐ〕+ kāya〔身〕+ paṇidahati〔据える・向ける〕の連続体)
 * parimukhaṃ satiṃ upaṭṭhapetvā = 「念（気づき）を面前に現起させて」(parimukhaṃ〔面前に＝対象たる息に向けて、鼻孔周辺に〕+ sati〔念〕+ upaṭṭhāpeti〔現起させる・確立する〕の連続体)
+
 → 「『比丘たちよ、ここに比丘が、森に、あるいは樹下に、あるいは空閑処に行って坐り、結跏趺坐を組み、身体をまっすぐに保ち、念を面前に現起させる。』」
 
 8. So satova assasati, satova passasati…pe…
@@ -342,6 +368,7 @@ Atha kho bhagavā yena upaṭṭhānasālā tenupasaṅkami; upasaṅkamitvā p
 * assasati = 「出息する（息を吐く）」(本箇所は経の系統につき assāsa＝出息）
 * passasati = 「入息する（息を吸う）」(passāsa＝入息）
 * …pe… = （中略）〔省略部は十六事の定型句「dīghaṃ vā assasanto…」以下、各随観段を経て次段の paṭinissaggānupassī に至る全文を反復する〕
+
 → 「『彼はまさに念をたもって出息し、まさに念をたもって入息する……（中略）……』」
 
 9. ‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī passasissāmī’ti sikkhati.
@@ -350,6 +377,7 @@ Atha kho bhagavā yena upaṭṭhānasālā tenupasaṅkami; upasaṅkamitvā p
 * assasissāmi = 「出息しよう」(assasati の未来一人称単数)
 * passasissāmi = 「入息しよう」(passasati の未来一人称単数)
 * iti sikkhati = 「と〔思って〕学ぶ・修練する」(sikkhati〔学ぶ〕)
+
 → 「『「捨遣を随観しつつ出息しよう」と学び、「捨遣を随観しつつ入息しよう」と学ぶ。』」
 
 10. Evaṃ bhāvito kho, bhikkhave, ānāpānassatisamādhi evaṃ bahulīkato santo ceva paṇīto ca asecanako ca sukho ca vihāro uppannuppanne ca pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasametī’’ti.
@@ -357,9 +385,11 @@ Atha kho bhagavā yena upaṭṭhānasālā tenupasaṅkami; upasaṅkamitvā p
 * evaṃ bhāvito … evaṃ bahulīkato = 「このように修習し、このように多く修するならば」
 * （後半は §3 と同一構文）
 * ti = 引用終止
+
 → 「『比丘たちよ、このように修習し、このように多く修するならば、入出息念の三昧は、寂静であり、勝れて妙であり、混じり気なく、楽なる住であって、生起するそのつどの悪しき不善なる諸法をたちどころに消し去り、鎮めるのである。』」
 
 11. Navamaṃ.
 
 * navamaṃ = 「第九〔経〕」(序数・中性主格)
+
 → 「〔以上が〕第九〔経である〕。」

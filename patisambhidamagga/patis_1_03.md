@@ -262,6 +262,7 @@ Soḷasañāṇaniddeso dutiyo.
 * abyāpādo = 「無瞋（瞋りのないこと）」（主格・単数・男性）
 * byāpādo = 「瞋恚」（主格・単数・男性）
   （枠組みは上に同じ。具格は男性 tena ... byāpādena）
+
   → 「無瞋は聖者たちの出要である。その無瞋によって聖者たちは導き出される。瞋恚は出要をさえぎるものである。その瞋恚に覆われているがゆえに、聖者たちの出要である無瞋を了知しない――それゆえ瞋恚は出要をさえぎるものである。」
 
 5. Ālokasaññā ariyānaṃ niyyānaṃ. Tāya ca ālokasaññāya ariyā niyyanti. Thinamiddhaṃ niyyānāvaraṇaṃ. Tena ca thinamiddhena nivutattā ālokasaññaṃ ariyānaṃ niyyānaṃ nappajānātīti – thinamiddhaṃ niyyānāvaraṇaṃ.
@@ -454,6 +455,7 @@ Vimokkhaṃ appajānantā, te honti parapattiyāti.
   * kaṅkhanā =「待ち望むこと・期待」（主格・女性）
   * bahiddhāvikkhepapatthanā =「外への散乱を願うこと」（bahiddhā 外＋vikkhepa 散乱＋patthanā 願い・願望）
     〔異読〕vikkhepapanthanā（シャム本）＝「外への散乱という難所」
+
     →「出息を追随すること、また入息を追随すること、念〔に伴う〕内への散乱、〔そして〕外への散乱を願う待望——〔これらが障碍である〕。」
 
 9. Assāsenābhitunnassa, passāsapaṭilābhe mucchanā; Passāsenābhitunnassa, assāsapaṭilābhe mucchanā.
@@ -1047,6 +1049,7 @@ Upakkilesañāṇaniddeso tatiyo.
 * tattheva = 「まさにそこに」（tattha + eva）
 * adhimoceti = 「（心を）そこにしっかり向け定める・据える」（adhimuccati の使役形）
   ※従来の「勝解」を改め、現代語で「向け定める／落ち着け据える」と訳す
+
 →「未来を期待する心は、動揺している。それを避けて、まさにその対象に心を向け定める。──このようにして心は散乱へ向かわない。」
 
 5. Līnaṃ cittaṃ kosajjānupatitaṃ; taṃ paggaṇhitvā kosajjaṃ pajahati – evampi cittaṃ na vikkhepaṃ gacchati.
@@ -1386,6 +1389,7 @@ Catutthassa jhānassa ko ādi, kiṃ majjhe, kiṃ pariyosānaṃ…pe… evaṃ
 * pīti = 「喜」／ sukha = 「楽」／ cittassa adhiṭṭhāna = 「心の確立」
 * saddhā = 「信」／ vīriya = 「精進」／ sati = 「念」／ samādhi = 「定」／ paññā = 「慧」
   ※第一禅にあった vitakka（尋）・vicāra（伺）が脱落している点に注意（第二禅では尋・伺が静まるため）
+
 →「このように三つの転回を経た心は、三種の善を具え、十の特相を具えたものとなり、喜を具え、また楽を具え、心の確立を具え、信を具え、精進を具え、念を具え、定を具え、慧を具えたものとなる。」
 
 4. Tatiyassa jhānassa ko ādi, kiṃ majjhe, kiṃ pariyosānaṃ…pe…
@@ -1462,6 +1466,7 @@ Sotāpattimaggassa…pe… sakadāgāmimaggassa… anāgāmimaggassa… arahatta
 * vitakka = 「尋」／ vicāra = 「伺」／ pīti = 「喜」／ sukha = 「楽」／ cittassa adhiṭṭhāna = 「心の確立」
 * saddhā・vīriya・sati・samādhi・paññā = 「信・精進・念・定・慧」
   ※無常随観は欲界の観であり、尋・伺を含む十項すべてを具える
+
 →「このように三つの転回を経た心は、三種の善を具え、十の特相を具えたものとなり、尋を具え、また伺を具え、喜を具え、楽を具え、心の確立を具え、信を具え、精進を具え、念を具え、定を具え、慧を具えたものとなる。」
 
 3. Dukkhānupassanāya…pe… anattānupassanāya… nibbidānupassanāya… virāgānupassanāya… nirodhānupassanāya… paṭinissaggānupassanāya… khayānupassanāya… vayānupassanāya… vipariṇāmānupassanāya… animittānupassanāya… appaṇihitānupassanāya… suññatānupassanāya… adhipaññādhammavipassanāya… yathābhūtañāṇadassanāya… ādīnavānupassanāya… paṭisaṅkhānupassanāya… vivaṭṭanānupassanāya… paññāsampannañca.
@@ -1524,6 +1529,7 @@ Sotāpattimaggassa…pe… sakadāgāmimaggassa… anāgāmimaggassa… arahatta
 * paṭipajjati = 「進み行く・到る」／ paṭipannattā = 「進み行ったがゆえに」
 * tattha cittaṃ pakkhandati = 「そこへ心が進み入る」
   ※従来の「跳入／踊入」を改め、現代語で「進み入る」と訳す
+
 →「それ（阿羅漢道）にとっての障碍であるもの、それから心が清まる。清まったがゆえに、心は中間の止の相へと進み行く。進み行ったがゆえに、そこへ心が進み入る。」
 
 8. Yañca paripanthato cittaṃ visujjhati, yañca visuddhattā cittaṃ majjhimaṃ samathanimittaṃ paṭipajjati, yañca paṭipannattā tattha cittaṃ pakkhandati – arahattamaggassa paṭipadāvisuddhi ādi.
@@ -2509,6 +2515,7 @@ Buddhoti yo so bhagavā sayambhū anācariyako pubbe ananussutesu dhammesu sām
 
 * visavitāya =「（煩悩という）毒を除き去っていることによって」（具格）
   〔visavitāya は語義に諸説あり。註は煩悩・渇愛(visattikā)の「毒(visa)」を離れた状態と解する。異読 vikatitāya（syā.）〕
+
 →「（煩悩の）毒を除き去っていることによって、仏である。」
 
 8. Khīṇāsavasaṅkhātena buddho.
@@ -2523,6 +2530,7 @@ Buddhoti yo so bhagavā sayambhū anācariyako pubbe ananussutesu dhammesu sām
 * nir-upalepa =「汚れ（付着）のないこと」（nis「～なき」＋upalepa「塗りつけ・染汚」）
 * saṅkhātena =「～と称されることによって」
   〔異読 nirupakkilesa（syā.）＝随煩悩なき者〕
+
 →「汚れ（染汚）のない者と称されることによって、仏である。」
 
 10. Ekantavītarāgoti – buddho.

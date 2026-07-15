@@ -9,6 +9,7 @@
 - 各実質語を辞書 (Main / Concise / PTS / DoP) と原文 (CSCD) で照合する
 - 対訳は読みやすさのため第一稿の訳を残し, 修正・註・要確認のある語にだけ
   `[註: ...]` `[要確認]` を付ける
+
 - 各段落末に検証メモを置き, 辞書での確認結果・出典・修正点・要確認をまとめる
 - 原文のパーリ語は CSCD 本文と byte 単位で照合する
 
@@ -577,6 +578,7 @@
   - ādāsa = 鏡 (mirror)
 - 修正点: なし。当初 sasakkaṃ を PTSD の字義で「できる限り」に修正したが, aṭṭhakathā
   (ekaṃseneva na kātabbaṃ) により第一稿「決して/確実に」が妥当と確認し撤回した
+
 - 註釈確認 (Majjhimapaṇṇāsa-aṭṭh. §109):
   - sasakkaṃ = ekaṃsena (絶対に)
   - anupadajjeyyāsi = upatthambheyyāsi punappunaṃ kareyyāsi (支え繰り返しなす =「続ける」)
@@ -718,6 +720,7 @@
 - 原文照合: CSCD 本文 §110 と一致。文字のドリフトなし
 - 原文の特記: 項目 4 の肯定節は atta / para のみで ubhaya を欠くが, CSCD 原文どおりで
   第一稿の脱落ではない
+
 - 辞書確認: #109 と共通 (byābādha, udraya, paṭisaṃharati, saṃvara, uttānīkaroti)
 - 修正点: なし (sasakkaṃ は第一稿どおり。#109 の註釈確認を参照)
 - 註釈確認: anupadajjeyyāsi = 「続ける」(upatthambheyyāsi punappunaṃ kareyyāsi, aṭṭh. §109)
@@ -1008,11 +1011,13 @@ harāyitabba / jigucchitabba) となる。
 
 - 結論: 訳語そのものの実質的な変更は nikkujjita (#108) の 1 箇所のみ。第一稿
   (Gemini) は精度が高く, 校閲の主な成果は訳の確定・出典付け・原文保証であった
+
 - 原文照合: #107-#112 すべて CSCD 本文と一致。文字のドリフトなし
 - sasakkaṃ (#109 項目 8, #110 項目 3, #111 項目 6): aṭṭhakathā が「ekaṃseneva na
   kātabbaṃ（絶対になすべきでない）」と注釈 (Majjhimapaṇṇāsa-aṭṭh. §109)。第一稿の
   「決して/確実に」が妥当。当初 PTSD の字義 (sa+sakka = できる限り) のみで「できる限り」
   に修正したが, 註釈確認のうえ撤回した
+
 - 解釈の混入:
   - nikkujjita (#108 項目 6): 「台無し」は文脈解釈。対訳は原義「伏せられた」に留めた
 - 註釈で確定した語 (Majjhimapaṇṇāsa-aṭṭh. §109):
