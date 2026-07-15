@@ -44,12 +44,13 @@ Attadantoti ete assatarā ca sindhavā ca kuñjarā ca dantāva varaṃ, na adan
 
 1. Attadanto ti
 
+* attadanta = 「自己を調御した者」（atta-danta）
+
   * atta = 「自己」
 
   * danta = 「調御された、制御された（dama の過去分詞）」
-    → 「自己を調御した者」
 
-→「『attadanta』とは～という意味である」
+→「『attadanto』とは～という意味である」
 
 2. ete assatarā ca sindhavā ca kuñjarā ca dantāva varaṃ, na adantā.
 
@@ -71,7 +72,7 @@ Attadantoti ete assatarā ca sindhavā ca kuñjarā ca dantāva varaṃ, na adan
 
   * na adantā = 「制御されていないものは優れていない」
 
-→ 「これらのラバも、シンド馬も、象も、調御されたものこそ優れており、制御されていないものは優れていない。」
+→「これらのラバも、シンド馬も、象も、調御されたものこそ優れており、制御されていないものは優れていない。」
 
 3. Yo pana catūhi ariyamaggehi attano dantatāya attadanto nibbisevano,
 
@@ -87,7 +88,7 @@ Attadantoti ete assatarā ca sindhavā ca kuñjarā ca dantāva varaṃ, na adan
 
   * nis + visevana（visevana = 荒々しさ、わがまま）から、「荒々しさのない」
 
-→ 「しかし、四つの聖なる道によって自らを調御した、わがままのない（よく馴らされた）者は」
+→「しかし、四つの聖なる道によって自らを調御した、わがままのない（よく馴らされた）者は」
 
 4. ayaṃ tatopi varaṃ, sabbehi pi etehi uttaritaro ti attho.
 
@@ -103,5 +104,5 @@ Attadantoti ete assatarā ca sindhavā ca kuñjarā ca dantāva varaṃ, na adan
 
 * ti attho = 「という意味である」
 
-→ 「この人は、それらすべてよりもさらに優れている、という意味である。」
+→「この人は、それらすべてよりもさらに優れている、という意味である。」
 ```
