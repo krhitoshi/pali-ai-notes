@@ -20,113 +20,113 @@ Gaṇanavāro paṭhamo.
 
 1. Soḷasavatthukaṃ ānāpānassatisamādhiṃ bhāvayato samādhikāni dve ñāṇasatāni uppajjanti –
 
-  * soḷasa-vatthukaṃ ＝ soḷasa「十六」＋ vatthuka「事・基盤をもつ」（有財釈、samādhiṃ を修飾、対格）→「十六の事から成る」
-  * ānāpāna-ssati-samādhiṃ ＝ ānāpāna「出入息」（āna＋apāna の相違釈）＋ sati「念」＋ samādhi「三昧」、対格単数 →「出入息念の三昧を」〔異読：ānāpānasatisamādhiṃ (sī. aṭṭha.)〕
-  * bhāvayato ＝ bhāveti（√bhū 使役）現在分詞・属格単数「修習する者に」
-  * samādhikāni ＝ sa-「〜とともに」＋ adhika「余分の」（dve ñāṇasatāni を修飾）「二百を超える」
-  * dve ñāṇa-satāni ＝ dve「二」＋ ñāṇa「智」＋ sata「百」、主格複数中性「二百の智」
-  * uppajjanti ＝ uppajjati（ud＋√pad）現在三人称複数「生起する」
+* soḷasa-vatthukaṃ ＝ soḷasa「十六」＋ vatthuka「事・基盤をもつ」（有財釈、samādhiṃ を修飾、対格）→「十六の事から成る」
+* ānāpāna-ssati-samādhiṃ ＝ ānāpāna「出入息」（āna＋apāna の相違釈）＋ sati「念」＋ samādhi「三昧」、対格単数 →「出入息念の三昧を」〔異読：ānāpānasatisamādhiṃ (sī. aṭṭha.)〕
+* bhāvayato ＝ bhāveti（√bhū 使役）現在分詞・属格単数「修習する者に」
+* samādhikāni ＝ sa-「〜とともに」＋ adhika「余分の」（dve ñāṇasatāni を修飾）「二百を超える」
+* dve ñāṇa-satāni ＝ dve「二」＋ ñāṇa「智」＋ sata「百」、主格複数中性「二百の智」
+* uppajjanti ＝ uppajjati（ud＋√pad）現在三人称複数「生起する」
 
 →「十六の事から成る出入息念の三昧を修習する者には、二百あまりの智が生起する——」
 
 2. aṭṭha paripanthe ñāṇāni, aṭṭha ca upakāre ñāṇāni, aṭṭhārasa upakkilese ñāṇāni, terasa vodāne ñāṇāni, bāttiṃsa satokārissa ñāṇāni, catuvīsati samādhivasena ñāṇāni, dvesattati vipassanāvasena ñāṇāni, aṭṭha nibbidāñāṇāni, aṭṭha nibbidānulomañāṇāni, aṭṭha nibbidāpaṭippassaddhiñāṇāni, ekavīsati vimuttisukhe ñāṇāni.
 
-  * aṭṭha paripanthe ñāṇāni ＝「八つの、障碍に関する智」（paripanthe は paripantha「障碍・妨げ」の処格）〔異読：paribandhe (ka.)〕
-  * aṭṭha ca upakāre ñāṇāni ＝「八つの、たすけ（資益）に関する智」（upakāre は upakāra「助け・支え」の処格）
-  * aṭṭhārasa upakkilese ñāṇāni ＝「十八の、随煩悩に関する智」（upakkilesa「汚れ・随煩悩」処格）
-  * terasa vodāne ñāṇāni ＝「十三の、浄化に関する智」（vodāna「清め・浄化」処格）
-  * bāttiṃsa satokārissa ñāṇāni ＝「三十二の、念をもって行ずる者の智」（sato＋kāri「念ある行者」属格）〔異読：satokārīsu (syā.)＝処格複数〕
-  * catuvīsati samādhivasena ñāṇāni ＝「二十四の、三昧の力による智」（samādhi＋vasa 具格「〜のはたらきによって」）
-  * dvesattati vipassanāvasena ñāṇāni ＝「七十二の、観のはたらきによる智」（vipassanā「観」＋vasa 具格）
-  * aṭṭha nibbidāñāṇāni ＝「八つの、厭離の智」（nibbidā「厭い離れること」）
-  * aṭṭha nibbidānulomañāṇāni ＝「八つの、厭離に随順する智」（anuloma「順応・随順」）
-  * aṭṭha nibbidāpaṭippassaddhiñāṇāni ＝「八つの、厭離が静まる智」（paṭippassaddhi「静まり」）
-  * ekavīsati vimuttisukhe ñāṇāni ＝「二十一の、解脱の楽に関する智」（vimutti「解脱」＋sukha「楽」処格）
+* aṭṭha paripanthe ñāṇāni ＝「八つの、障碍に関する智」（paripanthe は paripantha「障碍・妨げ」の処格）〔異読：paribandhe (ka.)〕
+* aṭṭha ca upakāre ñāṇāni ＝「八つの、たすけ（資益）に関する智」（upakāre は upakāra「助け・支え」の処格）
+* aṭṭhārasa upakkilese ñāṇāni ＝「十八の、随煩悩に関する智」（upakkilesa「汚れ・随煩悩」処格）
+* terasa vodāne ñāṇāni ＝「十三の、浄化に関する智」（vodāna「清め・浄化」処格）
+* bāttiṃsa satokārissa ñāṇāni ＝「三十二の、念をもって行ずる者の智」（sato＋kāri「念ある行者」属格）〔異読：satokārīsu (syā.)＝処格複数〕
+* catuvīsati samādhivasena ñāṇāni ＝「二十四の、三昧の力による智」（samādhi＋vasa 具格「〜のはたらきによって」）
+* dvesattati vipassanāvasena ñāṇāni ＝「七十二の、観のはたらきによる智」（vipassanā「観」＋vasa 具格）
+* aṭṭha nibbidāñāṇāni ＝「八つの、厭離の智」（nibbidā「厭い離れること」）
+* aṭṭha nibbidānulomañāṇāni ＝「八つの、厭離に随順する智」（anuloma「順応・随順」）
+* aṭṭha nibbidāpaṭippassaddhiñāṇāni ＝「八つの、厭離が静まる智」（paṭippassaddhi「静まり」）
+* ekavīsati vimuttisukhe ñāṇāni ＝「二十一の、解脱の楽に関する智」（vimutti「解脱」＋sukha「楽」処格）
 
 →「八つは障碍に関する智、八つはたすけ（資益）に関する智、十八は随煩悩に関する智、十三は浄化に関する智、三十二は念をもって行ずる者の智、二十四は三昧のはたらきによる智、七十二は観のはたらきによる智、八つは厭離の智、八つは厭離に随順する智、八つは厭離が静まる智、二十一は解脱の楽に関する智である。」
 
 3. Katamāni aṭṭha paripanthe ñāṇāni, aṭṭha ca upakāre ñāṇāni?
 
-  * katamāni ＝ 疑問代名詞、主格複数中性「いかなるものが」
-  * aṭṭha paripanthe ñāṇāni ＝「八つの、障碍に関する智」
-  * aṭṭha ca upakāre ñāṇāni ＝「八つの、たすけに関する智」
+* katamāni ＝ 疑問代名詞、主格複数中性「いかなるものが」
+* aṭṭha paripanthe ñāṇāni ＝「八つの、障碍に関する智」
+* aṭṭha ca upakāre ñāṇāni ＝「八つの、たすけに関する智」
 
 →「障碍に関する八智、たすけ（資益）に関する八智とは、いかなるものか。」
 
 4. Kāmacchando samādhissa paripantho, nekkhammaṃ samādhissa upakāraṃ.
 
-  * kāmacchando ＝ kāma「欲」＋chanda「欲求」、主格単数「愛欲」
-  * samādhissa ＝ samādhi 属格単数「三昧の」
-  * paripantho ＝ 主格単数「障碍」（述語名詞）
-  * nekkhammaṃ ＝ 主格単数中性「出離」
-  * upakāraṃ ＝ 中性主格、述語「たすけ（資益）」
+* kāmacchando ＝ kāma「欲」＋chanda「欲求」、主格単数「愛欲」
+* samādhissa ＝ samādhi 属格単数「三昧の」
+* paripantho ＝ 主格単数「障碍」（述語名詞）
+* nekkhammaṃ ＝ 主格単数中性「出離」
+* upakāraṃ ＝ 中性主格、述語「たすけ（資益）」
 
 →「愛欲は三昧の障碍であり、出離は三昧のたすけである。」
 
 5. Byāpādo samādhissa paripantho, abyāpādo samādhissa upakāraṃ.
 
-  * byāpādo ＝「瞋恚」、主格単数
-  * abyāpādo ＝「無瞋」、主格単数
+* byāpādo ＝「瞋恚」、主格単数
+* abyāpādo ＝「無瞋」、主格単数
 
 →「瞋恚は三昧の障碍であり、無瞋は三昧のたすけである。」
 
 6. Thinamiddhaṃ samādhissa paripantho, ālokasaññā samādhissa upakāraṃ.
 
-  * thina-middhaṃ ＝ thina「惛沈」＋middha「睡眠」、主格単数中性「惛沈睡眠」
-  * āloka-saññā ＝ āloka「光明」＋saññā「想」、主格単数「光明想」
+* thina-middhaṃ ＝ thina「惛沈」＋middha「睡眠」、主格単数中性「惛沈睡眠」
+* āloka-saññā ＝ āloka「光明」＋saññā「想」、主格単数「光明想」
 
 →「惛沈睡眠は三昧の障碍であり、光明想は三昧のたすけである。」
 
 7. Uddhaccaṃ samādhissa paripantho, avikkhepo samādhissa upakāraṃ.
 
-  * uddhaccaṃ ＝「掉挙（心の浮つき）」、主格単数中性
-  * avikkhepo ＝ a-「不」＋vikkhepa「散乱」、主格単数「不散乱」
+* uddhaccaṃ ＝「掉挙（心の浮つき）」、主格単数中性
+* avikkhepo ＝ a-「不」＋vikkhepa「散乱」、主格単数「不散乱」
 
 →「掉挙は三昧の障碍であり、不散乱は三昧のたすけである。」
 
 8. Vicikicchā samādhissa paripantho, dhammavavatthānaṃ samādhissa upakāraṃ.
 
-  * vicikicchā ＝「疑」、主格単数
-  * dhamma-vavatthānaṃ ＝ dhamma「法」＋vavatthāna「見極め・確定」（依主釈）、主格単数「諸法を見極めること」
+* vicikicchā ＝「疑」、主格単数
+* dhamma-vavatthānaṃ ＝ dhamma「法」＋vavatthāna「見極め・確定」（依主釈）、主格単数「諸法を見極めること」
 
 →「疑は三昧の障碍であり、諸法を見極めること（法の確定）は三昧のたすけである。」
 
 9. Avijjā samādhissa paripantho, ñāṇaṃ samādhissa upakāraṃ.
 
-  * avijjā ＝「無明」、主格単数
-  * ñāṇaṃ ＝「智」、主格単数中性
+* avijjā ＝「無明」、主格単数
+* ñāṇaṃ ＝「智」、主格単数中性
 
 →「無明は三昧の障碍であり、智は三昧のたすけである。」
 
 10. Arati samādhissa paripantho, pāmojjaṃ samādhissa upakāraṃ.
 
-  * arati ＝ a-「不」＋rati「楽しみ」、主格単数「楽しまないこと・嫌気」
-  * pāmojjaṃ ＝「喜悦（よろこび）」、主格単数中性
+* arati ＝ a-「不」＋rati「楽しみ」、主格単数「楽しまないこと・嫌気」
+* pāmojjaṃ ＝「喜悦（よろこび）」、主格単数中性
 
 →「楽しまないこと（嫌気）は三昧の障碍であり、喜悦は三昧のたすけである。」
 
 11. Sabbepi akusalā dhammā samādhissa paripanthā, sabbepi kusalā dhammā samādhissa upakārā.
 
-  * sabbe pi ＝「すべての〜もまた」（sabbe 主格複数＋強調の pi）
-  * akusalā dhammā ＝「不善の諸法」、主格複数
-  * paripanthā ＝「障碍（となるもの）」、主格複数
-  * kusalā dhammā ＝「善の諸法」、主格複数
-  * upakārā ＝「たすけ（資益となるもの）」、主格複数
+* sabbe pi ＝「すべての〜もまた」（sabbe 主格複数＋強調の pi）
+* akusalā dhammā ＝「不善の諸法」、主格複数
+* paripanthā ＝「障碍（となるもの）」、主格複数
+* kusalā dhammā ＝「善の諸法」、主格複数
+* upakārā ＝「たすけ（資益となるもの）」、主格複数
 
 →「すべての不善の法は三昧の障碍であり、すべての善の法は三昧のたすけである。」
 
 12. Imāni aṭṭha paripanthe ñāṇāni, aṭṭha ca upakāre ñāṇāni.
 
-  * imāni ＝ 指示代名詞、主格複数中性「これらが」
-  * aṭṭha paripanthe ñāṇāni ＝「八つの、障碍に関する智」
-  * aṭṭha ca upakāre ñāṇāni ＝「八つの、たすけに関する智」
+* imāni ＝ 指示代名詞、主格複数中性「これらが」
+* aṭṭha paripanthe ñāṇāni ＝「八つの、障碍に関する智」
+* aṭṭha ca upakāre ñāṇāni ＝「八つの、たすけに関する智」
 
 →「これらが障碍に関する八智、たすけ（資益）に関する八智である。」
 
 13. Gaṇanavāro paṭhamo.
 
-  * gaṇana-vāro ＝ gaṇana「計数・数えること」＋vāra「節・章段」（依主釈）、主格単数
-  * paṭhamo ＝「第一の」、主格単数
+* gaṇana-vāro ＝ gaṇana「計数・数えること」＋vāra「節・章段」（依主釈）、主格単数
+* paṭhamo ＝「第一の」、主格単数
 
 →「計数の節、第一。」
 
@@ -359,132 +359,132 @@ Vimokkhaṃ appajānantā, te honti parapattiyāti.
 
 0. 3. Upakkilesañāṇaniddeso / Paṭhamacchakkaṃ
 
-  * upakkilesa =「随煩悩（心を曇らせる微細な汚れ）」
-  * ñāṇa =「智」
-  * niddesa =「解説・釈（詳しく説き示すこと）」
+* upakkilesa =「随煩悩（心を曇らせる微細な汚れ）」
+* ñāṇa =「智」
+* niddesa =「解説・釈（詳しく説き示すこと）」
 
-    →「随煩悩智の解説」
+→「随煩悩智の解説」
 
-  * paṭhama =「第一の」
-  * chakka =「六法、六つ一組（六項目のまとまり）」
+* paṭhama =「第一の」
+* chakka =「六法、六つ一組（六項目のまとまり）」
 
-    →「第一の六法」
+→「第一の六法」
 
 →「三 随煩悩智の解説／第一の六法」
 
 1. Imehi ca pana nīvaraṇehi visuddhacittassa soḷasavatthukaṃ ānāpānassatisamādhiṃ bhāvayato khaṇikasamodhānā katame aṭṭhārasa upakkilesā uppajjanti?
 
-  * imehi =「これらの」（指示代名詞 ima、具格・複数）
-  * ca pana =「さて、しかしまた」
-  * nīvaraṇehi =「蓋によって」（nīvaraṇa、具格・複数）
-  * visuddhacittassa =「心が清浄となった者にとって」（属格・単数；visuddha 清浄な＋citta 心、有財釈）
-  * soḷasavatthukaṃ =「十六の事をもつ」（対格；soḷasa 十六＋vatthu 事・基、有財釈）
-  * ānāpānassatisamādhiṃ =「出入息念の三昧を」（対格；ānāpānassati＋samādhi、依主釈）
-  * bhāvayato =「修習する者にとって」（現在分詞・属格／与格・単数；bhāveti 使役）
-  * khaṇikasamodhānā =「刹那的な統合により」（奪格；khaṇika 刹那的な＋samodhāna 統合・まとまり）
-  * katame =「どのような」（疑問代名詞、主格・複数）
-  * aṭṭhārasa =「十八の」
-  * upakkilesā =「随煩悩が」（主格・複数）
-  * uppajjanti =「生起する」（uppajjati、三人称複数・現在）
+* imehi =「これらの」（指示代名詞 ima、具格・複数）
+* ca pana =「さて、しかしまた」
+* nīvaraṇehi =「蓋によって」（nīvaraṇa、具格・複数）
+* visuddhacittassa =「心が清浄となった者にとって」（属格・単数；visuddha 清浄な＋citta 心、有財釈）
+* soḷasavatthukaṃ =「十六の事をもつ」（対格；soḷasa 十六＋vatthu 事・基、有財釈）
+* ānāpānassatisamādhiṃ =「出入息念の三昧を」（対格；ānāpānassati＋samādhi、依主釈）
+* bhāvayato =「修習する者にとって」（現在分詞・属格／与格・単数；bhāveti 使役）
+* khaṇikasamodhānā =「刹那的な統合により」（奪格；khaṇika 刹那的な＋samodhāna 統合・まとまり）
+* katame =「どのような」（疑問代名詞、主格・複数）
+* aṭṭhārasa =「十八の」
+* upakkilesā =「随煩悩が」（主格・複数）
+* uppajjanti =「生起する」（uppajjati、三人称複数・現在）
 
-    →「さて、これらの蓋によって心が清浄となった者が、十六の事ある出入息念の三昧を修習するとき、刹那的な〔心の〕統合により、どのような十八の随煩悩が生起するのか。」
+→「さて、これらの蓋によって心が清浄となった者が、十六の事ある出入息念の三昧を修習するとき、刹那的な〔心の〕統合により、どのような十八の随煩悩が生起するのか。」
 
 2. Assāsādimajjhapariyosānaṃ satiyā anugacchato ajjhattavikkhepagataṃ cittaṃ samādhissa paripantho.
 
-  * assāsādimajjhapariyosānaṃ =「出息の初め・中ほど・終わりを」（対格；assāsa 出息＋ādi 初め＋majjha 中間＋pariyosāna 終わり、依主釈）
-  * satiyā =「念によって」（具格・単数）
-  * anugacchato =「追随する者にとって」（現在分詞・属格／与格・単数；anugacchati 後を追う・随行する）
-  * ajjhattavikkhepagataṃ =「内への散乱に陥った」（cittaṃ を修飾；ajjhatta 内＋vikkhepa 散乱＋gata 至った、有財釈）
-  * cittaṃ =「心は」（主格・単数）
-  * samādhissa =「三昧の」（属格・単数）
-  * paripantho =「妨げ・障碍」（主格・単数；paripantha 障害・難所）
+* assāsādimajjhapariyosānaṃ =「出息の初め・中ほど・終わりを」（対格；assāsa 出息＋ādi 初め＋majjha 中間＋pariyosāna 終わり、依主釈）
+* satiyā =「念によって」（具格・単数）
+* anugacchato =「追随する者にとって」（現在分詞・属格／与格・単数；anugacchati 後を追う・随行する）
+* ajjhattavikkhepagataṃ =「内への散乱に陥った」（cittaṃ を修飾；ajjhatta 内＋vikkhepa 散乱＋gata 至った、有財釈）
+* cittaṃ =「心は」（主格・単数）
+* samādhissa =「三昧の」（属格・単数）
+* paripantho =「妨げ・障碍」（主格・単数；paripantha 障害・難所）
 
-    →「出息の初め・中ほど・終わりを念によって追随する者にとって、内へと散乱した心は三昧の妨げである。」
+→「出息の初め・中ほど・終わりを念によって追随する者にとって、内へと散乱した心は三昧の妨げである。」
 
 3. Passāsādimajjhapariyosānaṃ satiyā anugacchato bahiddhāvikkhepagataṃ cittaṃ samādhissa paripantho.
 
-  * passāsādimajjhapariyosānaṃ =「入息の初め・中ほど・終わりを」（対格；passāsa 入息＋ādi＋majjha＋pariyosāna）
-  * bahiddhāvikkhepagataṃ =「外への散乱に陥った」（bahiddhā 外＋vikkhepa＋gata、有財釈）
-  * 他は 2 と同じ
+* passāsādimajjhapariyosānaṃ =「入息の初め・中ほど・終わりを」（対格；passāsa 入息＋ādi＋majjha＋pariyosāna）
+* bahiddhāvikkhepagataṃ =「外への散乱に陥った」（bahiddhā 外＋vikkhepa＋gata、有財釈）
+* 他は 2 と同じ
 
-    →「入息の初め・中ほど・終わりを念によって追随する者にとって、外へと散乱した心は三昧の妨げである。」
+→「入息の初め・中ほど・終わりを念によって追随する者にとって、外へと散乱した心は三昧の妨げである。」
 
 4. Assāsapaṭikaṅkhanā nikanti taṇhācariyā samādhissa paripantho.
 
-  * assāsapaṭikaṅkhanā =「出息を待ち望むこと」（主格；assāsa＋paṭikaṅkhanā 期待・待望）
-  * nikanti =「欲求・願い」（主格；同格による言い換え）
-  * taṇhācariyā =「渇愛の働き・渇愛のふるまい」（主格；taṇhā 渇愛＋cariyā 行・ふるまい、依主釈）
-  * samādhissa paripantho =「三昧の妨げ」
+* assāsapaṭikaṅkhanā =「出息を待ち望むこと」（主格；assāsa＋paṭikaṅkhanā 期待・待望）
+* nikanti =「欲求・願い」（主格；同格による言い換え）
+* taṇhācariyā =「渇愛の働き・渇愛のふるまい」（主格；taṇhā 渇愛＋cariyā 行・ふるまい、依主釈）
+* samādhissa paripantho =「三昧の妨げ」
 
-    →「出息を待ち望むこと、すなわち欲求、渇愛の働きは、三昧の妨げである。」
+→「出息を待ち望むこと、すなわち欲求、渇愛の働きは、三昧の妨げである。」
 
 5. Passāsapaṭikaṅkhanā nikanti taṇhācariyā samādhissa paripantho.
 
-  * passāsapaṭikaṅkhanā =「入息を待ち望むこと」（主格）
-  * 他は 4 と同じ
+* passāsapaṭikaṅkhanā =「入息を待ち望むこと」（主格）
+* 他は 4 と同じ
 
-    →「入息を待ち望むこと、すなわち欲求、渇愛の働きは、三昧の妨げである。」
+→「入息を待ち望むこと、すなわち欲求、渇愛の働きは、三昧の妨げである。」
 
 6. Assāsenābhitunnassa passāsapaṭilābhe mucchanā samādhissa paripantho.
 
-  * assāsena =「出息によって」（具格・単数）
-  * abhitunnassa =「圧倒された者にとって」（過去分詞・属格・単数；abhitunna、abhi-tudati の過分、突かれ悩まされた）
-  * passāsapaṭilābhe =「入息を得ることにおいて」（処格；passāsa＋paṭilābha 獲得）
-  * mucchanā =「昏迷（意識のもうろう）・とらわれ」（主格；mucchanā 失神・昏迷）
-  * samādhissa paripantho =「三昧の妨げ」
+* assāsena =「出息によって」（具格・単数）
+* abhitunnassa =「圧倒された者にとって」（過去分詞・属格・単数；abhitunna、abhi-tudati の過分、突かれ悩まされた）
+* passāsapaṭilābhe =「入息を得ることにおいて」（処格；passāsa＋paṭilābha 獲得）
+* mucchanā =「昏迷（意識のもうろう）・とらわれ」（主格；mucchanā 失神・昏迷）
+* samādhissa paripantho =「三昧の妨げ」
 
-    →「出息に圧倒された者にとって、入息を得る際の昏迷（意識のもうろう）は、三昧の妨げである。」
+→「出息に圧倒された者にとって、入息を得る際の昏迷（意識のもうろう）は、三昧の妨げである。」
 
 7. Passāsenābhitunnassa assāsapaṭilābhe mucchanā samādhissa paripantho.
 
-  * passāsena =「入息によって」（具格・単数）
-  * assāsapaṭilābhe =「出息を得ることにおいて」（処格）
-  * 他は 6 と同じ
+* passāsena =「入息によって」（具格・単数）
+* assāsapaṭilābhe =「出息を得ることにおいて」（処格）
+* 他は 6 と同じ
 
-    →「入息に圧倒された者にとって、出息を得る際の昏迷は、三昧の妨げである。」
+→「入息に圧倒された者にとって、出息を得る際の昏迷は、三昧の妨げである。」
 
 8. Anugacchanā ca assāsaṃ, passāsaṃ anugacchanā; Sati ajjhattavikkhepā, kaṅkhanā bahiddhāvikkhepapatthanā [vikkhepapanthanā (syā.)].
 
-  * anugacchanā =「追随すること」（主格・女性）
-  * ca =「～と、また」
-  * assāsaṃ =「出息を」（対格；動作名詞 anugacchanā の目的語）
-  * passāsaṃ =「入息を」（対格）
-  * anugacchanā =「追随すること」
-  * sati =「念（が）」（主格・女性）
-  * ajjhattavikkhepā =「内への散乱〔となる〕」（ajjhatta 内＋vikkhepa 散乱）
-  * kaṅkhanā =「待ち望むこと・期待」（主格・女性）
-  * bahiddhāvikkhepapatthanā =「外への散乱を願うこと」（bahiddhā 外＋vikkhepa 散乱＋patthanā 願い・願望）
-    〔異読〕vikkhepapanthanā（シャム本）＝「外への散乱という難所」
+* anugacchanā =「追随すること」（主格・女性）
+* ca =「～と、また」
+* assāsaṃ =「出息を」（対格；動作名詞 anugacchanā の目的語）
+* passāsaṃ =「入息を」（対格）
+* anugacchanā =「追随すること」
+* sati =「念（が）」（主格・女性）
+* ajjhattavikkhepā =「内への散乱〔となる〕」（ajjhatta 内＋vikkhepa 散乱）
+* kaṅkhanā =「待ち望むこと・期待」（主格・女性）
+* bahiddhāvikkhepapatthanā =「外への散乱を願うこと」（bahiddhā 外＋vikkhepa 散乱＋patthanā 願い・願望）
+  〔異読〕vikkhepapanthanā（シャム本）＝「外への散乱という難所」
 
-    →「出息を追随すること、また入息を追随すること、念〔に伴う〕内への散乱、〔そして〕外への散乱を願う待望——〔これらが障碍である〕。」
+→「出息を追随すること、また入息を追随すること、念〔に伴う〕内への散乱、〔そして〕外への散乱を願う待望——〔これらが障碍である〕。」
 
 9. Assāsenābhitunnassa, passāsapaṭilābhe mucchanā; Passāsenābhitunnassa, assāsapaṭilābhe mucchanā.
 
-  * 内容は散文 6・7 と同義（偈頌としての要約）
-  * assāsena abhitunnassa passāsapaṭilābhe mucchanā =「出息に圧倒された者の、入息を得る際の昏迷」
-  * passāsena abhitunnassa assāsapaṭilābhe mucchanā =「入息に圧倒された者の、出息を得る際の昏迷」
+* 内容は散文 6・7 と同義（偈頌としての要約）
+* assāsena abhitunnassa passāsapaṭilābhe mucchanā =「出息に圧倒された者の、入息を得る際の昏迷」
+* passāsena abhitunnassa assāsapaṭilābhe mucchanā =「入息に圧倒された者の、出息を得る際の昏迷」
 
-    →「出息に圧倒された者の、入息を得る際の昏迷、入息に圧倒された者の、出息を得る際の昏迷——」
+→「出息に圧倒された者の、入息を得る際の昏迷、入息に圧倒された者の、出息を得る際の昏迷——」
 
 10. Cha ete upakkilesā, ānāpānassatisamādhissa; Yehi vikkhippamānassa [vikampamānassa (syā.)], no ca cittaṃ vimuccati; Vimokkhaṃ appajānantā, te honti parapattiyāti.
 
-  * cha ete =「これら六つの」（主格・複数）
-  * upakkilesā =「随煩悩」（主格・複数）
-  * ānāpānassatisamādhissa =「出入息念三昧の」（属格・単数）
-  * yehi =「それらによって」（関係代名詞・具格・複数）
-  * vikkhippamānassa =「散乱させられている者にとって」（受動現在分詞・属格・単数；vikkhipati 散乱させる）
-    〔異読〕vikampamānassa（シャム本）＝「動揺している者にとって」
+* cha ete =「これら六つの」（主格・複数）
+* upakkilesā =「随煩悩」（主格・複数）
+* ānāpānassatisamādhissa =「出入息念三昧の」（属格・単数）
+* yehi =「それらによって」（関係代名詞・具格・複数）
+* vikkhippamānassa =「散乱させられている者にとって」（受動現在分詞・属格・単数；vikkhipati 散乱させる）
+  〔異読〕vikampamānassa（シャム本）＝「動揺している者にとって」
 
-  * no ca … vimuccati =「～心は解脱しない」（no 否定＋vimuccati 解脱する）
-  * cittaṃ =「心は」（主格・単数）
-  * vimokkhaṃ =「解脱を」（対格・単数）
-  * appajānantā =「了知しない者たちは」（現在分詞・主格・複数；a＋pajānanta、はっきり知らない）
-  * te =「彼らは」（主格・複数）
-  * honti =「～となる」（hoti、三人称複数）
-  * parapattiyā =「他に依存する者・他人の言を頼む者」（主格・複数；para 他＋pattiya 信頼・依存）
-  * ti =「『～』と」（引用）
+* no ca … vimuccati =「～心は解脱しない」（no 否定＋vimuccati 解脱する）
+* cittaṃ =「心は」（主格・単数）
+* vimokkhaṃ =「解脱を」（対格・単数）
+* appajānantā =「了知しない者たちは」（現在分詞・主格・複数；a＋pajānanta、はっきり知らない）
+* te =「彼らは」（主格・複数）
+* honti =「～となる」（hoti、三人称複数）
+* parapattiyā =「他に依存する者・他人の言を頼む者」（主格・複数；para 他＋pattiya 信頼・依存）
+* ti =「『～』と」（引用）
 
-    →「これら六つは、出入息念三昧の随煩悩である。それらによって散乱させられる者は、心が解脱しない。解脱を了知しない彼らは、他に依存する者となる。」と。
+→「これら六つは、出入息念三昧の随煩悩である。それらによって散乱させられる者は、心が解脱しない。解脱を了知しない彼らは、他に依存する者となる。」と。
 
 ## Dutiyacchakkaṃ
 
@@ -1904,35 +1904,35 @@ Yo assasati tassupaṭṭhāti, yo passasati tassupaṭṭhāti. Paripuṇṇā
 
 1. Ānāpānassati yassa, paripuṇṇā subhāvitā;
 
-  * ānāpāna-sati = 「出入息念」（āna 出息＋apāna 入息＋sati 念の依主釈）／女性・主格・単数
-  * yassa = 関係代名詞・属格・単数「およそ～する者の／にとって」
-  * paripuṇṇā = 過去分詞・女性・主格・単数「完全に満たされた」（pari-√pūr）
-  * subhāvitā = 過去分詞・女性・主格・単数「よく修習された」（su＋bhāvita, √bhū 使役）
+* ānāpāna-sati = 「出入息念」（āna 出息＋apāna 入息＋sati 念の依主釈）／女性・主格・単数
+* yassa = 関係代名詞・属格・単数「およそ～する者の／にとって」
+* paripuṇṇā = 過去分詞・女性・主格・単数「完全に満たされた」（pari-√pūr）
+* subhāvitā = 過去分詞・女性・主格・単数「よく修習された」（su＋bhāvita, √bhū 使役）
 
-    → 「およそ出入息念が完全に満たされ、よく修習され、」
+→ 「およそ出入息念が完全に満たされ、よく修習され、」
 
 2. Anupubbaṃ paricitā, yathā buddhena desitā;
 
-  * anupubbaṃ = 副詞「順次に、次第に」（anu＋pubba）
-  * paricitā = 過去分詞・女性・主格・単数「習熟された、積み重ねられた」（pari-√ci）
-  * yathā = 「～のとおりに、～のごとく」
-  * buddhena = 具格・単数「ブッダ（仏）によって」
-  * desitā = 過去分詞・女性・主格・単数「説かれた」（√dis, deseti）
+* anupubbaṃ = 副詞「順次に、次第に」（anu＋pubba）
+* paricitā = 過去分詞・女性・主格・単数「習熟された、積み重ねられた」（pari-√ci）
+* yathā = 「～のとおりに、～のごとく」
+* buddhena = 具格・単数「ブッダ（仏）によって」
+* desitā = 過去分詞・女性・主格・単数「説かれた」（√dis, deseti）
 
-    → 「順次に習熟され、仏によって説かれたとおりに（修められた）、」
+→ 「順次に習熟され、仏によって説かれたとおりに（修められた）、」
 
 3. So imaṃ lokaṃ pabhāseti, abbhā muttova candimā ti.
 
-  * so = 「その人は」（主格・単数）
-  * imaṃ lokaṃ = 「この世界を」（対格・単数）
-  * pabhāseti = 現在・三単・使役「照らす、輝かせる」（pa-√bhās）
-  * abbhā = 奪格・単数「雲から」（abbha 雲）
-  * mutto = 過去分詞・主格・単数・男性「解き放たれた」（√muc）
-  * va = iva「～のように」
-  * candimā = 主格・単数「月」
-  * ti = 引用符
+* so = 「その人は」（主格・単数）
+* imaṃ lokaṃ = 「この世界を」（対格・単数）
+* pabhāseti = 現在・三単・使役「照らす、輝かせる」（pa-√bhās）
+* abbhā = 奪格・単数「雲から」（abbha 雲）
+* mutto = 過去分詞・主格・単数・男性「解き放たれた」（√muc）
+* va = iva「～のように」
+* candimā = 主格・単数「月」
+* ti = 引用符
 
-    → 「その人はこの世界を照らす、雲から解き放たれた月のように」と。
+→ 「その人はこの世界を照らす、雲から解き放たれた月のように」と。
 
 ────────────────────────
 ■ 註釈
@@ -1940,107 +1940,107 @@ Yo assasati tassupaṭṭhāti, yo passasati tassupaṭṭhāti. Paripuṇṇā
 
 4. Ānan ti assāso, no passāso.
 
-  * āna ti = 「『āna』とは」
-  * assāso = 主格・単数「出息」
-  * no passāso = 「入息ではない」
+* āna ti = 「『āna』とは」
+* assāso = 主格・単数「出息」
+* no passāso = 「入息ではない」
 
-    → 「『āna』とは出息（assāsa）であって、入息（passāsa）ではない。」
+→ 「『āna』とは出息（assāsa）であって、入息（passāsa）ではない。」
 
 5. Apānan ti passāso, no assāso.
 
-  * apāna ti = 「『apāna』とは」
-  * passāso = 主格・単数「入息」
-  * no assāso = 「出息ではない」
+* apāna ti = 「『apāna』とは」
+* passāso = 主格・単数「入息」
+* no assāso = 「出息ではない」
 
-    → 「『apāna』とは入息（passāsa）であって、出息（assāsa）ではない。」
+→ 「『apāna』とは入息（passāsa）であって、出息（assāsa）ではない。」
 
 6. Assāsavasena upaṭṭhānaṃ sati, passāsavasena upaṭṭhānaṃ sati.
 
-  * assāsa-vasena = 具格「出息に関して・出息に即して」（vasa 力・勢いの具格＝「～によって」）
-  * upaṭṭhānaṃ = 中性・主格「現前（念が心に立ち現れること）」
-  * sati = 女性・主格「念」
-  * passāsa-vasena = 「入息に関して」
+* assāsa-vasena = 具格「出息に関して・出息に即して」（vasa 力・勢いの具格＝「～によって」）
+* upaṭṭhānaṃ = 中性・主格「現前（念が心に立ち現れること）」
+* sati = 女性・主格「念」
+* passāsa-vasena = 「入息に関して」
 
-    → 「出息に即して現前すること、それが念である。入息に即して現前すること、それが念である。」
+→ 「出息に即して現前すること、それが念である。入息に即して現前すること、それが念である。」
 
 7. Yo assasati tassupaṭṭhāti, yo passasati tassupaṭṭhāti.
 
-  * yo = 関係代名詞・主格・単数「～する者は」
-  * assasati = 現在・三単「出息する」（ā-√sas）
-  * tassa upaṭṭhāti = 「その者に（念が）現前する」（tassa 与格／属格＋upa-√ṭhā 現在・三単）
-  * yo passasati = 「入息する者は」
+* yo = 関係代名詞・主格・単数「～する者は」
+* assasati = 現在・三単「出息する」（ā-√sas）
+* tassa upaṭṭhāti = 「その者に（念が）現前する」（tassa 与格／属格＋upa-√ṭhā 現在・三単）
+* yo passasati = 「入息する者は」
 
-    → 「出息する者にはそれ（念）が現前し、入息する者にはそれが現前する。」
+→ 「出息する者にはそれ（念）が現前し、入息する者にはそれが現前する。」
 
 8. Paripuṇṇā ti pariggahaṭṭhena paripuṇṇā, parivāraṭṭhena paripuṇṇā, paripūraṭṭhena paripuṇṇā.
 
-  * paripuṇṇā ti = 「『完全に満たされた』とは」
-  * pariggaha-ṭṭhena = 具格・依主釈「あまねく把握するという意味で」（pariggaha 把握＋aṭṭha 意味）
-  * parivāra-ṭṭhena = 「あまねく取り巻く（付随する）という意味で」（parivāra 随伴・とりまき）
-  * paripūra-ṭṭhena = 「あまねく満たすという意味で」（paripūra 充満）
-  * paripuṇṇā = 「完全である」
+* paripuṇṇā ti = 「『完全に満たされた』とは」
+* pariggaha-ṭṭhena = 具格・依主釈「あまねく把握するという意味で」（pariggaha 把握＋aṭṭha 意味）
+* parivāra-ṭṭhena = 「あまねく取り巻く（付随する）という意味で」（parivāra 随伴・とりまき）
+* paripūra-ṭṭhena = 「あまねく満たすという意味で」（paripūra 充満）
+* paripuṇṇā = 「完全である」
 
-    → 「『完全に満たされた』とは、あまねく把握するという意味で完全であり、あまねく取り巻く（付随する）という意味で完全であり、あまねく満たすという意味で完全である、ということである。」
+→ 「『完全に満たされた』とは、あまねく把握するという意味で完全であり、あまねく取り巻く（付随する）という意味で完全であり、あまねく満たすという意味で完全である、ということである。」
 
 9. Subhāvitā ti catasso bhāvanā –
 
-  * subhāvitā ti = 「『よく修習された』とは」
-  * catasso = 数詞・女性・主格「四つの」
-  * bhāvanā = 「修習」（ここでは複数の意）
+* subhāvitā ti = 「『よく修習された』とは」
+* catasso = 数詞・女性・主格「四つの」
+* bhāvanā = 「修習」（ここでは複数の意）
 
-    → 「『よく修習された』とは、四つの修習（があるということ）である――」
+→ 「『よく修習された』とは、四つの修習（があるということ）である――」
 
 10. tattha jātānaṃ dhammānaṃ anativattanaṭṭhena bhāvanā,
 
-  * tattha = 「そこに（その修習の中で）」
-  * jātānaṃ = 過去分詞・属格・複数「生じた（諸法の）」（√jan）
-  * dhammānaṃ = 属格・複数「諸法の」
-  * anativattana-ṭṭhena = 具格・依主釈「（相互に）超え出ないという意味で」（na＋ativattana 超え出ること, ativattati）
-  * bhāvanā = 「修習」
+* tattha = 「そこに（その修習の中で）」
+* jātānaṃ = 過去分詞・属格・複数「生じた（諸法の）」（√jan）
+* dhammānaṃ = 属格・複数「諸法の」
+* anativattana-ṭṭhena = 具格・依主釈「（相互に）超え出ないという意味で」（na＋ativattana 超え出ること, ativattati）
+* bhāvanā = 「修習」
 
-    → 「そこに生じた諸法が（互いに）超え出ない、という意味での修習。」
+→ 「そこに生じた諸法が（互いに）超え出ない、という意味での修習。」
 
 11. indriyānaṃ ekarasaṭṭhena bhāvanā,
 
-  * indriyānaṃ = 属格・複数「諸根の」（信・精進・念・定・慧の五根）
-  * eka-rasa-ṭṭhena = 具格「一味（同一の働き）であるという意味で」（eka 一＋rasa 味・作用、持業釈を含む依主釈）
-  * bhāvanā = 「修習」
+* indriyānaṃ = 属格・複数「諸根の」（信・精進・念・定・慧の五根）
+* eka-rasa-ṭṭhena = 具格「一味（同一の働き）であるという意味で」（eka 一＋rasa 味・作用、持業釈を含む依主釈）
+* bhāvanā = 「修習」
 
-    → 「諸根が一味（同一の働き）である、という意味での修習。」
+→ 「諸根が一味（同一の働き）である、という意味での修習。」
 
 12. tadupagavīriyavāhanaṭṭhena bhāvanā,
 
-  * tad-upaga = 「それにふさわしい・それに資する」（tad それ＋upaga 近づく・かなう）
-  * vīriya = 「精進」
-  * vāhana = 「もたらすこと・運ぶこと」（√vah）
-  * -ṭṭhena = 「という意味で」
-  * 複合：tadupaga-vīriya-vāhana（依主釈）「それにふさわしい精進をもたらす」
-  * bhāvanā = 「修習」
+* tad-upaga = 「それにふさわしい・それに資する」（tad それ＋upaga 近づく・かなう）
+* vīriya = 「精進」
+* vāhana = 「もたらすこと・運ぶこと」（√vah）
+* -ṭṭhena = 「という意味で」
+* 複合：tadupaga-vīriya-vāhana（依主釈）「それにふさわしい精進をもたらす」
+* bhāvanā = 「修習」
 
-    → 「それにふさわしい精進をもたらす（起こす）、という意味での修習。」
+→ 「それにふさわしい精進をもたらす（起こす）、という意味での修習。」
 
 13. āsevanaṭṭhena bhāvanā.
 
-  * āsevana = 「繰り返し行うこと・習修」（ā-√sev）
-  * -ṭṭhena = 「という意味で」
-  * bhāvanā = 「修習」
+* āsevana = 「繰り返し行うこと・習修」（ā-√sev）
+* -ṭṭhena = 「という意味で」
+* bhāvanā = 「修習」
 
-    → 「繰り返し実践する（習修）、という意味での修習。」
+→ 「繰り返し実践する（習修）、という意味での修習。」
 
 14. Tassime cattāro bhāvanaṭṭhā yānīkatā honti vatthukatā anuṭṭhitā paricitā susamāraddhā.
 
-  * tassa = 属格・単数「彼にとって」
-  * ime = 主格・複数「これらの」
-  * cattāro = 数詞・男性・主格・複数「四つの」
-  * bhāvanaṭṭhā = 主格・複数「修習の意味（修習という側面・事柄）」（bhāvanā＋aṭṭha）
-  * yānīkatā = 過去分詞・主格・複数「乗り物とされた（拠り所とされた）」（yāna 乗り物＋kata）
-  * honti = 現在・三複「～となる」（√bhū）
-  * vatthukatā = 「土台とされた」（vatthu 土台＋kata）
-  * anuṭṭhitā = 過去分詞・主格・複数「確立された・実行された」（anu-√ṭhā）
-  * paricitā = 過去分詞・主格・複数「習熟された・積み重ねられた」
-  * susamāraddhā = 過去分詞・主格・複数「よく実践された・よく着手された」（su＋sam-ā-√rabh）
+* tassa = 属格・単数「彼にとって」
+* ime = 主格・複数「これらの」
+* cattāro = 数詞・男性・主格・複数「四つの」
+* bhāvanaṭṭhā = 主格・複数「修習の意味（修習という側面・事柄）」（bhāvanā＋aṭṭha）
+* yānīkatā = 過去分詞・主格・複数「乗り物とされた（拠り所とされた）」（yāna 乗り物＋kata）
+* honti = 現在・三複「～となる」（√bhū）
+* vatthukatā = 「土台とされた」（vatthu 土台＋kata）
+* anuṭṭhitā = 過去分詞・主格・複数「確立された・実行された」（anu-√ṭhā）
+* paricitā = 過去分詞・主格・複数「習熟された・積み重ねられた」
+* susamāraddhā = 過去分詞・主格・複数「よく実践された・よく着手された」（su＋sam-ā-√rabh）
 
-    → 「彼にとって、これら四つの修習の側面（事柄）は、拠り所（乗り物）とされ、土台とされ、確立され（実行され）、習熟され、よく実践されたものとなる。」
+→ 「彼にとって、これら四つの修習の側面（事柄）は、拠り所（乗り物）とされ、土台とされ、確立され（実行され）、習熟され、よく実践されたものとなる。」
 
 ## 160 (2)
 
@@ -2056,35 +2056,35 @@ Yānīkatāti yattha yattha ākaṅkhati tattha tattha vasippatto hoti balappatt
 
 1. Yānīkatā ti yattha yattha ākaṅkhati tattha tattha vasippatto hoti balappatto vesārajjappatto.
 
-  * yānīkatā ti = 「『拠り所（乗り物）とされた』とは」
-  * yattha yattha ... tattha tattha = 「どこにおいても～そこそこにおいて／～する所すべてにおいて」（畳語による全称）
-  * ākaṅkhati = 現在・三単「望む、欲する」（ā-√kaṅkh）
-  * vasippatto = 過去分詞・主格・単数「自在を得た」（vasi 自在＋patta 得た）
-  * balappatto = 「力を得た」（bala 力＋patta）
-  * vesārajjappatto = 「無畏（確信）を得た」（vesārajja 無畏＋patta）
+* yānīkatā ti = 「『拠り所（乗り物）とされた』とは」
+* yattha yattha ... tattha tattha = 「どこにおいても～そこそこにおいて／～する所すべてにおいて」（畳語による全称）
+* ākaṅkhati = 現在・三単「望む、欲する」（ā-√kaṅkh）
+* vasippatto = 過去分詞・主格・単数「自在を得た」（vasi 自在＋patta 得た）
+* balappatto = 「力を得た」（bala 力＋patta）
+* vesārajjappatto = 「無畏（確信）を得た」（vesārajja 無畏＋patta）
 
-    → 「『拠り所とされた』とは、望むところすべてにおいて自在を得、力を得、無畏（確信）を得ている、ということである。」
+→ 「『拠り所とされた』とは、望むところすべてにおいて自在を得、力を得、無畏（確信）を得ている、ということである。」
 
 2. Tassa me te dhammā āvajjanapaṭibaddhā honti ākaṅkhapaṭibaddhā manasikārapaṭibaddhā cittuppādapaṭibaddhā.
 
-  * tassa = 属格・単数「その者にとって」
-  * me = ここでは虚辞的・強調の小辞（文脈上は属格的に「彼の」を補強）
-  * te dhammā = 主格・複数「それらの諸法は」
-  * āvajjana-paṭibaddhā = 主格・複数・依主釈「引転（心を向けること）に結びついた」（āvajjana 引転＋paṭibaddha 結びついた）
-  * honti = 現在・三複「～である」（√bhū）
-  * ākaṅkha-paṭibaddhā = 「望み（欲すること）に結びついた」
-  * manasikāra-paṭibaddhā = 「作意に結びついた」
-  * cittuppāda-paṭibaddhā = 「心の生起に結びついた」（citta 心＋uppāda 生起）
+* tassa = 属格・単数「その者にとって」
+* me = ここでは虚辞的・強調の小辞（文脈上は属格的に「彼の」を補強）
+* te dhammā = 主格・複数「それらの諸法は」
+* āvajjana-paṭibaddhā = 主格・複数・依主釈「引転（心を向けること）に結びついた」（āvajjana 引転＋paṭibaddha 結びついた）
+* honti = 現在・三複「～である」（√bhū）
+* ākaṅkha-paṭibaddhā = 「望み（欲すること）に結びついた」
+* manasikāra-paṭibaddhā = 「作意に結びついた」
+* cittuppāda-paṭibaddhā = 「心の生起に結びついた」（citta 心＋uppāda 生起）
 
-    → 「その者にとって、それらの諸法は、（心を）向けること（引転）に結びつき、望むことに結びつき、作意に結びつき、心の生起に結びついている。」
+→ 「その者にとって、それらの諸法は、（心を）向けること（引転）に結びつき、望むことに結びつき、作意に結びつき、心の生起に結びついている。」
 
 3. Tena vuccati – ‘‘yānīkatā’’ti.
 
-  * tena = 具格「それゆえに」
-  * vuccati = 受動・三単「言われる」（√vac）
-  * yānīkatā ti = 「『拠り所とされた』と」
+* tena = 具格「それゆえに」
+* vuccati = 受動・三単「言われる」（√vac）
+* yānīkatā ti = 「『拠り所とされた』と」
 
-    → 「それゆえに『拠り所（乗り物）とされた』と言われる。」
+→ 「それゆえに『拠り所（乗り物）とされた』と言われる。」
 
 ────────────────────────
 ■ vatthukatā（土台とされた）の語釈
@@ -2092,32 +2092,32 @@ Yānīkatāti yattha yattha ākaṅkhati tattha tattha vasippatto hoti balappatt
 
 4. Vatthukatā ti yasmiṃ yasmiṃ vatthusmiṃ cittaṃ svādhiṭṭhitaṃ hoti, tasmiṃ tasmiṃ vatthusmiṃ sati supaṭṭhitā hoti.
 
-  * vatthukatā ti = 「『土台とされた』とは」
-  * yasmiṃ yasmiṃ vatthusmiṃ = 処格・畳語「いかなる対象（事柄）においても」（vatthu 土台・対象）
-  * cittaṃ = 主格・単数「心が」
-  * svādhiṭṭhitaṃ = 過去分詞・主格・単数「よく確立された」（su＋adhiṭṭhita, adhi-√ṭhā）
-  * hoti = 「～である」
-  * tasmiṃ tasmiṃ vatthusmiṃ = 処格・畳語「そのそれぞれの対象において」
-  * sati = 主格・単数「念が」
-  * supaṭṭhitā = 過去分詞・主格・単数「よく確立された・よく立った」（su＋patiṭṭhita）
+* vatthukatā ti = 「『土台とされた』とは」
+* yasmiṃ yasmiṃ vatthusmiṃ = 処格・畳語「いかなる対象（事柄）においても」（vatthu 土台・対象）
+* cittaṃ = 主格・単数「心が」
+* svādhiṭṭhitaṃ = 過去分詞・主格・単数「よく確立された」（su＋adhiṭṭhita, adhi-√ṭhā）
+* hoti = 「～である」
+* tasmiṃ tasmiṃ vatthusmiṃ = 処格・畳語「そのそれぞれの対象において」
+* sati = 主格・単数「念が」
+* supaṭṭhitā = 過去分詞・主格・単数「よく確立された・よく立った」（su＋patiṭṭhita）
 
-    → 「『土台とされた』とは、いかなる対象（事柄）において心がよく確立されていても、そのそれぞれの対象において念もよく確立されている、ということである。」
+→ 「『土台とされた』とは、いかなる対象（事柄）において心がよく確立されていても、そのそれぞれの対象において念もよく確立されている、ということである。」
 
 5. Yasmiṃ yasmiṃ vā pana vatthusmiṃ sati sūpaṭṭhitā hoti, tasmiṃ tasmiṃ vatthusmiṃ cittaṃ svādhiṭṭhitaṃ hoti.
 
-  * vā pana = 「あるいはまた」
-  * （以下、前文の主語「念」と「心」を逆にした対句）
-  * sati sūpaṭṭhitā hoti = 「念がよく確立されている」
-  * cittaṃ svādhiṭṭhitaṃ hoti = 「心がよく確立されている」
+* vā pana = 「あるいはまた」
+* （以下、前文の主語「念」と「心」を逆にした対句）
+* sati sūpaṭṭhitā hoti = 「念がよく確立されている」
+* cittaṃ svādhiṭṭhitaṃ hoti = 「心がよく確立されている」
 
-    → 「あるいはまた、いかなる対象において念がよく確立されていても、そのそれぞれの対象において心もよく確立されている。」
+→ 「あるいはまた、いかなる対象において念がよく確立されていても、そのそれぞれの対象において心もよく確立されている。」
 
 6. Tena vuccati – ‘‘vatthukatā’’ti.
 
-  * tena vuccati = 「それゆえに言われる」
-  * vatthukatā ti = 「『土台とされた』と」
+* tena vuccati = 「それゆえに言われる」
+* vatthukatā ti = 「『土台とされた』と」
 
-    → 「それゆえに『土台とされた』と言われる。」
+→ 「それゆえに『土台とされた』と言われる。」
 
 ────────────────────────
 ■ anuṭṭhitā（確立された）の語釈
@@ -2125,28 +2125,28 @@ Yānīkatāti yattha yattha ākaṅkhati tattha tattha vasippatto hoti balappatt
 
 7. Anuṭṭhitā ti vatthusmiṃ yena yena cittaṃ abhinīharati tena tena sati anuparivattati.
 
-  * anuṭṭhitā ti = 「『確立された（実行された）』とは」
-  * vatthusmiṃ = 処格・単数「対象において」
-  * yena yena = 具格・畳語「どのような仕方で（向ける）ところすべてに」
-  * cittaṃ abhinīharati = 「心を向け差し向ける」（abhi-nis-√har, 心を傾注させる）
-  * tena tena = 具格・畳語「そのそれぞれの仕方で」
-  * sati anuparivattati = 「念がそれに随って働く・付き従って巡る」（anu-pari-√vatt）
+* anuṭṭhitā ti = 「『確立された（実行された）』とは」
+* vatthusmiṃ = 処格・単数「対象において」
+* yena yena = 具格・畳語「どのような仕方で（向ける）ところすべてに」
+* cittaṃ abhinīharati = 「心を向け差し向ける」（abhi-nis-√har, 心を傾注させる）
+* tena tena = 具格・畳語「そのそれぞれの仕方で」
+* sati anuparivattati = 「念がそれに随って働く・付き従って巡る」（anu-pari-√vatt）
 
-    → 「『確立された』とは、対象において、心を差し向けるそのそれぞれの仕方に、念が随って働く、ということである。」
+→ 「『確立された』とは、対象において、心を差し向けるそのそれぞれの仕方に、念が随って働く、ということである。」
 
 8. Yena yena vā pana sati anuparivattati tena tena cittaṃ abhinīharati.
 
-  * vā pana = 「あるいはまた」
-  * （前文を逆にした対句）
+* vā pana = 「あるいはまた」
+* （前文を逆にした対句）
 
-    → 「あるいはまた、念が随って働くそのそれぞれの仕方に、心を差し向ける。」
+→ 「あるいはまた、念が随って働くそのそれぞれの仕方に、心を差し向ける。」
 
 9. Tena vuccati – ‘‘anuṭṭhitā’’ti.
 
-  * tena vuccati = 「それゆえに言われる」
-  * anuṭṭhitā ti = 「『確立された』と」
+* tena vuccati = 「それゆえに言われる」
+* anuṭṭhitā ti = 「『確立された』と」
 
-    → 「それゆえに『確立された』と言われる。」
+→ 「それゆえに『確立された』と言われる。」
 
 ────────────────────────
 ■ paricitā（習熟された）の語釈
@@ -2154,30 +2154,30 @@ Yānīkatāti yattha yattha ākaṅkhati tattha tattha vasippatto hoti balappatt
 
 10. Paricitā ti pariggahaṭṭhena paricitā, parivāraṭṭhena paricitā, paripūraṭṭhena paricitā.
 
-  * paricitā ti = 「『習熟された』とは」
-  * pariggaha-ṭṭhena = 具格・依主釈「あまねく把握するという意味で」（pariggaha 把握＋aṭṭha 意味）
-  * parivāra-ṭṭhena = 「あまねく取り巻く（付随する）という意味で」
-  * paripūra-ṭṭhena = 「あまねく満たすという意味で」
-  * paricitā = 「習熟された」
+* paricitā ti = 「『習熟された』とは」
+* pariggaha-ṭṭhena = 具格・依主釈「あまねく把握するという意味で」（pariggaha 把握＋aṭṭha 意味）
+* parivāra-ṭṭhena = 「あまねく取り巻く（付随する）という意味で」
+* paripūra-ṭṭhena = 「あまねく満たすという意味で」
+* paricitā = 「習熟された」
 
-    → 「『習熟された』とは、あまねく把握するという意味で習熟され、あまねく取り巻くという意味で習熟され、あまねく満たすという意味で習熟されている、ということである。」
+→ 「『習熟された』とは、あまねく把握するという意味で習熟され、あまねく取り巻くという意味で習熟され、あまねく満たすという意味で習熟されている、ということである。」
 
 11. Satiyā pariggaṇhanto jināti pāpake akusale dhamme.
 
-  * satiyā = 具格・単数「念によって」
-  * pariggaṇhanto = 現在分詞・主格・単数「あまねく把握しつつ」（pari-√gah）
-  * jināti = 現在・三単「打ち勝つ、克服する」（√ji）
-  * pāpake = 対格・複数「悪しき」（pāpaka）
-  * akusale dhamme = 対格・複数「不善の諸法を」（akusala 不善＋dhamma）
+* satiyā = 具格・単数「念によって」
+* pariggaṇhanto = 現在分詞・主格・単数「あまねく把握しつつ」（pari-√gah）
+* jināti = 現在・三単「打ち勝つ、克服する」（√ji）
+* pāpake = 対格・複数「悪しき」（pāpaka）
+* akusale dhamme = 対格・複数「不善の諸法を」（akusala 不善＋dhamma）
 
-    → 「念によって（諸法を）あまねく把握しつつ、悪しき不善の諸法に打ち勝つ。」
+→ 「念によって（諸法を）あまねく把握しつつ、悪しき不善の諸法に打ち勝つ。」
 
 12. Tena vuccati – ‘‘paricitā’’ti.
 
-  * tena vuccati = 「それゆえに言われる」
-  * paricitā ti = 「『習熟された』と」
+* tena vuccati = 「それゆえに言われる」
+* paricitā ti = 「『習熟された』と」
 
-    → 「それゆえに『習熟された』と言われる。」
+→ 「それゆえに『習熟された』と言われる。」
 
 ────────────────────────
 ■ susamāraddhā（よく実践された）の語釈
@@ -2185,48 +2185,48 @@ Yānīkatāti yattha yattha ākaṅkhati tattha tattha vasippatto hoti balappatt
 
 13. Susamāraddhā ti cattāro susamāraddhā –
 
-  * susamāraddhā ti = 「『よく実践された（よく着手された）』とは」
-  * cattāro = 数詞・男性・主格・複数「四つの」
-  * susamāraddhā = 「よく実践されたもの（があるということ）」
+* susamāraddhā ti = 「『よく実践された（よく着手された）』とは」
+* cattāro = 数詞・男性・主格・複数「四つの」
+* susamāraddhā = 「よく実践されたもの（があるということ）」
 
-    → 「『よく実践された』とは、四つの（よく実践されたもの）がある――」
+→ 「『よく実践された』とは、四つの（よく実践されたもの）がある――」
 
 14. tattha jātānaṃ dhammānaṃ anativattanaṭṭhena susamāraddhā,
 
-  * tattha = 「そこに（その実践の中で）」
-  * jātānaṃ dhammānaṃ = 属格・複数「生じた諸法の」
-  * anativattana-ṭṭhena = 具格「（互いに）超え出ないという意味で」（na＋ativattana 超え出ること）
-  * susamāraddhā = 「よく実践された」
+* tattha = 「そこに（その実践の中で）」
+* jātānaṃ dhammānaṃ = 属格・複数「生じた諸法の」
+* anativattana-ṭṭhena = 具格「（互いに）超え出ないという意味で」（na＋ativattana 超え出ること）
+* susamāraddhā = 「よく実践された」
 
-    → 「そこに生じた諸法が（互いに）超え出ない、という意味でよく実践された。」
+→ 「そこに生じた諸法が（互いに）超え出ない、という意味でよく実践された。」
 
 15. indriyānaṃ ekarasaṭṭhena susamāraddhā,
 
-  * indriyānaṃ = 属格・複数「諸根の」
-  * eka-rasa-ṭṭhena = 具格「一味（同一の働き）であるという意味で」（eka 一＋rasa 味・作用）
-  * susamāraddhā = 「よく実践された」
+* indriyānaṃ = 属格・複数「諸根の」
+* eka-rasa-ṭṭhena = 具格「一味（同一の働き）であるという意味で」（eka 一＋rasa 味・作用）
+* susamāraddhā = 「よく実践された」
 
-    → 「諸根が一味（同一の働き）である、という意味でよく実践された。」
+→ 「諸根が一味（同一の働き）である、という意味でよく実践された。」
 
 16. tadupagavīriyavāhanaṭṭhena susamāraddhā,
 
-  * tad-upaga = 「それにふさわしい・それに資する」（tad それ＋upaga かなう）
-  * vīriya = 「精進」
-  * vāhana = 「もたらすこと」（√vah）
-  * 複合：tadupaga-vīriya-vāhana（依主釈）「それにふさわしい精進をもたらす」
-  * -ṭṭhena = 「という意味で」
-  * susamāraddhā = 「よく実践された」
+* tad-upaga = 「それにふさわしい・それに資する」（tad それ＋upaga かなう）
+* vīriya = 「精進」
+* vāhana = 「もたらすこと」（√vah）
+* 複合：tadupaga-vīriya-vāhana（依主釈）「それにふさわしい精進をもたらす」
+* -ṭṭhena = 「という意味で」
+* susamāraddhā = 「よく実践された」
 
-    → 「それにふさわしい精進をもたらす、という意味でよく実践された。」
+→ 「それにふさわしい精進をもたらす、という意味でよく実践された。」
 
 17. tappaccanīkānaṃ kilesānaṃ susamūhatattā susamāraddhā.
 
-  * tap-paccanīkānaṃ = 属格・複数「それに敵対する（それと相反する）」（tad それ＋paccanīka 対敵・逆らうもの）
-  * kilesānaṃ = 属格・複数「諸煩悩の」
-  * susamūhata-ttā = 奪格／具格「よく根絶されていることのゆえに」（su＋samūhata よく抜き去られた, sam-ud-√han ＋tā 抽象名詞）
-  * susamāraddhā = 「よく実践された」
+* tap-paccanīkānaṃ = 属格・複数「それに敵対する（それと相反する）」（tad それ＋paccanīka 対敵・逆らうもの）
+* kilesānaṃ = 属格・複数「諸煩悩の」
+* susamūhata-ttā = 奪格／具格「よく根絶されていることのゆえに」（su＋samūhata よく抜き去られた, sam-ud-√han ＋tā 抽象名詞）
+* susamāraddhā = 「よく実践された」
 
-    → 「それに敵対する諸煩悩がよく根絶されているがゆえに、よく実践された。」
+→ 「それに敵対する諸煩悩がよく根絶されているがゆえに、よく実践された。」
 
 ## 161 (1)
 
@@ -2242,71 +2242,71 @@ Anupubbaṃ paricitāti dīghaṃ assāsavasena purimā purimā paricitā, pacch
 
 1. Susamanti atthi samaṃ, atthi susamaṃ.
 
-  * susamaṃ ＝「susamaṃ（善く等しきもの）」という〔被釈語〕
-    （ti＝引用辞「～とは」）
+* susamaṃ ＝「susamaṃ（善く等しきもの）」という〔被釈語〕
+  （ti＝引用辞「～とは」）
 
-  * atthi ＝「ある」（√as, 三・単・現在）
-  * samaṃ ＝「等しきもの・調和均衡したもの」（中・主格）
-  * susamaṃ ＝「善く等しきもの・完全に寂静なるもの」（中・主格）
+* atthi ＝「ある」（√as, 三・単・現在）
+* samaṃ ＝「等しきもの・調和均衡したもの」（中・主格）
+* susamaṃ ＝「善く等しきもの・完全に寂静なるもの」（中・主格）
 
 →「『susama（善等）』について——〔まず〕『sama（等）』があり、〔また〕『susama（善等）』がある〔と二様に分析される〕。」
 
 2. Katamaṃ samaṃ? Ye tattha jātā anavajjā kusalā bodhipakkhiyā – idaṃ samaṃ.
 
-  * katamaṃ samaṃ ＝「何が『sama（等）』であるか」
-  * ye ＝「およそ～であるもの（複・主格）」
-  * tattha jātā ＝「そこに生じたもの」（jāta＝√jan の過分・複・主格）
-  * anavajjā ＝「無罪の・咎なき」（複・主格）
-  * kusalā ＝「善の」（複・主格）
-  * bodhipakkhiyā ＝「菩提分（覚りに資する）の諸法」（複・主格、依主釈：bodhi＋pakkhiya）
-  * idaṃ samaṃ ＝「これが『sama（等）』である」
+* katamaṃ samaṃ ＝「何が『sama（等）』であるか」
+* ye ＝「およそ～であるもの（複・主格）」
+* tattha jātā ＝「そこに生じたもの」（jāta＝√jan の過分・複・主格）
+* anavajjā ＝「無罪の・咎なき」（複・主格）
+* kusalā ＝「善の」（複・主格）
+* bodhipakkhiyā ＝「菩提分（覚りに資する）の諸法」（複・主格、依主釈：bodhi＋pakkhiya）
+* idaṃ samaṃ ＝「これが『sama（等）』である」
 
 →「何が『sama（等）』であるか。そこに生じた、咎なく善なる菩提分の諸法——これが『sama（等）』である。」
 
 3. Katamaṃ susamaṃ? Yaṃ tesaṃ tesaṃ dhammānaṃ ārammaṇaṃ nirodho nibbānaṃ – idaṃ susamaṃ.
 
-  * katamaṃ susamaṃ ＝「何が『susama（善等）』であるか」
-  * yaṃ ＝「およそ～であるもの（中・主格）」
-  * tesaṃ tesaṃ dhammānaṃ ＝「それら諸々の法の」（複・属格、反復で「個々の諸法の」）
-  * ārammaṇaṃ ＝「所縁（対象）」（中・主格）
-  * nirodho ＝「滅」（男・主格）
-  * nibbānaṃ ＝「涅槃」（中・主格）
-  * idaṃ susamaṃ ＝「これが『susama（善等）』である」
+* katamaṃ susamaṃ ＝「何が『susama（善等）』であるか」
+* yaṃ ＝「およそ～であるもの（中・主格）」
+* tesaṃ tesaṃ dhammānaṃ ＝「それら諸々の法の」（複・属格、反復で「個々の諸法の」）
+* ārammaṇaṃ ＝「所縁（対象）」（中・主格）
+* nirodho ＝「滅」（男・主格）
+* nibbānaṃ ＝「涅槃」（中・主格）
+* idaṃ susamaṃ ＝「これが『susama（善等）』である」
 
 →「何が『susama（善等）』であるか。それら個々の諸法の所縁（対象）たる滅・涅槃——これが『susama（善等）』である。」
 
 4. Iti idañca samaṃ idañca susamaṃ ñātaṃ hoti diṭṭhaṃ viditaṃ sacchikataṃ phassitaṃ paññāya.
 
-  * iti ＝「かくのごとく」
-  * idañca samaṃ idañca susamaṃ ＝「この『sama（等）』もこの『susama（善等）』も」
-  * ñātaṃ hoti ＝「知られている」（ñāta＝√ñā の過分・中・主格）
-  * diṭṭhaṃ ＝「見られた」（√dis 過分）
-  * viditaṃ ＝「了知された」（√vid 過分）
-  * sacchikataṃ ＝「体得された」
-  * phassitaṃ ＝「触れられた・接触された」（√phus 過分）
-  * paññāya ＝「慧（智慧）によって」（女・具格）
+* iti ＝「かくのごとく」
+* idañca samaṃ idañca susamaṃ ＝「この『sama（等）』もこの『susama（善等）』も」
+* ñātaṃ hoti ＝「知られている」（ñāta＝√ñā の過分・中・主格）
+* diṭṭhaṃ ＝「見られた」（√dis 過分）
+* viditaṃ ＝「了知された」（√vid 過分）
+* sacchikataṃ ＝「体得された」
+* phassitaṃ ＝「触れられた・接触された」（√phus 過分）
+* paññāya ＝「慧（智慧）によって」（女・具格）
 
 →「かくのごとく、この『sama（等）』もこの『susama（善等）』も、慧によって知られ、見られ、了知され、体得され、触れられている。」
 
 5. Āraddhaṃ hoti vīriyaṃ asallīnaṃ, upaṭṭhitā sati asammūḷā [apamuṭṭhā (syā.)], passaddho kāyo asāraddho, samāhitaṃ cittaṃ ekaggaṃ.
 
-  * āraddhaṃ hoti vīriyaṃ ＝「精進が発動されている」（āraddha＝ā√rabh 過分・中・主格）
-  * asallīnaṃ ＝「退縮なき・沈滞しない」（中・主格）
-  * upaṭṭhitā sati ＝「念が確立している（現前している）」（upaṭṭhita＝upa√sthā 過分・女・主格／sati＝念）
-  * asammūḷā ＝「混乱なき・惑わない」（女・主格）
-  * 〔異読〕apamuṭṭhā (syā.) ＝「忘失なき」（a＋pamuṭṭha, √mus 過分）
-  * passaddho kāyo ＝「身が静まった（軽安となった）」（passaddha＝静まる）
-  * asāraddho ＝「焦燥なき・動揺なき」（男・主格）
-  * samāhitaṃ cittaṃ ＝「心が等持された（統一された）」（samāhita＝sam-ā√dhā 過分）
-  * ekaggaṃ ＝「一境の（一点に集中した）」（中・主格）
+* āraddhaṃ hoti vīriyaṃ ＝「精進が発動されている」（āraddha＝ā√rabh 過分・中・主格）
+* asallīnaṃ ＝「退縮なき・沈滞しない」（中・主格）
+* upaṭṭhitā sati ＝「念が確立している（現前している）」（upaṭṭhita＝upa√sthā 過分・女・主格／sati＝念）
+* asammūḷā ＝「混乱なき・惑わない」（女・主格）
+* 〔異読〕apamuṭṭhā (syā.) ＝「忘失なき」（a＋pamuṭṭha, √mus 過分）
+* passaddho kāyo ＝「身が静まった（軽安となった）」（passaddha＝静まる）
+* asāraddho ＝「焦燥なき・動揺なき」（男・主格）
+* samāhitaṃ cittaṃ ＝「心が等持された（統一された）」（samāhita＝sam-ā√dhā 過分）
+* ekaggaṃ ＝「一境の（一点に集中した）」（中・主格）
 
 →「精進が発動されて退縮なく、念が確立して混乱なく〔異読:忘失なく〕、身は静まって焦燥なく、心は等持されて一境（一点集中）である。」
 
 6. Tena vuccati – ‘susamāraddhā’ti.
 
-  * tena vuccati ＝「それゆえに～と言われる」
-  * susamāraddhā ＝「善く発動された（善く励起された）」（su＋sam＋āraddha, ā√rabh 過分・女複・主格）
-  * ti ＝引用辞
+* tena vuccati ＝「それゆえに～と言われる」
+* susamāraddhā ＝「善く発動された（善く励起された）」（su＋sam＋āraddha, ā√rabh 過分・女複・主格）
+* ti ＝引用辞
 
 →「それゆえに『susamāraddhā（善く発動された）』と言われる。」
 
@@ -2316,65 +2316,65 @@ Anupubbaṃ paricitāti dīghaṃ assāsavasena purimā purimā paricitā, pacch
 
 7. Anupubbaṃ paricitāti dīghaṃ assāsavasena purimā purimā paricitā, pacchimā pacchimā anuparicitā.
 
-  * anupubbaṃ paricitā ＝「順次に修習された」という〔被釈語〕（anupubbaṃ＝副詞「順次に・次第に」）
-  * dīghaṃ assāsavasena ＝「長い出息によって」（assāsa＝出息／vasa＝力・~に従って、具格）
-  * purimā purimā ＝「先のもの先のもの（個々の先行するもの）」（女複・主格）
-  * paricitā ＝「反復して修習された・習熟された」（pari√ci 過分・女複・主格）
-  * pacchimā pacchimā ＝「後のもの後のもの（個々の後続するもの）」（女複・主格）
-  * anuparicitā ＝「それに続いて修習された・順次修習された」（anu＋paricita）
+* anupubbaṃ paricitā ＝「順次に修習された」という〔被釈語〕（anupubbaṃ＝副詞「順次に・次第に」）
+* dīghaṃ assāsavasena ＝「長い出息によって」（assāsa＝出息／vasa＝力・~に従って、具格）
+* purimā purimā ＝「先のもの先のもの（個々の先行するもの）」（女複・主格）
+* paricitā ＝「反復して修習された・習熟された」（pari√ci 過分・女複・主格）
+* pacchimā pacchimā ＝「後のもの後のもの（個々の後続するもの）」（女複・主格）
+* anuparicitā ＝「それに続いて修習された・順次修習された」（anu＋paricita）
 
 →「『anupubba paricitā（順次に修習された）』とは——長い出息によって、先のもの先のものが修習され、後のもの後のものが順次に修習される〔のである〕。」
 
 8. Dīghaṃ passāsavasena purimā purimā paricitā, pacchimā pacchimā anuparicitā.
 
-  * dīghaṃ passāsavasena ＝「長い入息によって」（passāsa＝入息）
-  * （以下、語形は7に同じ）
+* dīghaṃ passāsavasena ＝「長い入息によって」（passāsa＝入息）
+* （以下、語形は7に同じ）
 
 →「長い入息によって、先のもの先のものが修習され、後のもの後のものが順次に修習される。」
 
 9. Rassaṃ assāsavasena purimā purimā paricitā, pacchimā pacchimā anuparicitā.
 
-  * rassaṃ assāsavasena ＝「短い出息によって」（rassa＝短い）
+* rassaṃ assāsavasena ＝「短い出息によって」（rassa＝短い）
 
 →「短い出息によって、先のもの先のものが修習され、後のもの後のものが順次に修習される。」
 
 10. Rassaṃ passāsavasena purimā purimā paricitā, pacchimā pacchimā anuparicitā…pe…
 
-  * rassaṃ passāsavasena ＝「短い入息によって」
-  * …pe… ＝（中略）
-    〔省略範囲＝第3項「sabbakāyapaṭisaṃvedī（全身を感受する）」から第15項「virāgānupassī（離貪を随観する）」に至る各項を、出息・入息それぞれにつき同形で列挙する部分〕
+* rassaṃ passāsavasena ＝「短い入息によって」
+* …pe… ＝（中略）
+  〔省略範囲＝第3項「sabbakāyapaṭisaṃvedī（全身を感受する）」から第15項「virāgānupassī（離貪を随観する）」に至る各項を、出息・入息それぞれにつき同形で列挙する部分〕
 
 →「短い入息によって、先のもの先のものが修習され、後のもの後のものが順次に修習される……（中略）……」
 
 11. paṭinissaggānupassī assāsavasena purimā purimā paricitā, pacchimā pacchimā anuparicitā.
 
-  * paṭinissaggānupassī ＝「捨遣を随観しつつ（ある者）」（依主釈：paṭinissagga＝捨遣／anupassin＝随観する者）
-  * assāsavasena ＝「出息によって」
+* paṭinissaggānupassī ＝「捨遣を随観しつつ（ある者）」（依主釈：paṭinissagga＝捨遣／anupassin＝随観する者）
+* assāsavasena ＝「出息によって」
 
 →「捨遣を随観する〔行相〕にて、出息によって、先のもの先のものが修習され、後のもの後のものが順次に修習される。」
 
 12. Paṭinissaggānupassī passāsavasena purimā purimā paricitā, pacchimā pacchimā anuparicitā.
 
-  * paṭinissaggānupassī passāsavasena ＝「捨遣を随観する〔行相〕にて、入息によって」
+* paṭinissaggānupassī passāsavasena ＝「捨遣を随観する〔行相〕にて、入息によって」
 
 →「捨遣を随観する〔行相〕にて、入息によって、先のもの先のものが修習され、後のもの後のものが順次に修習される。」
 
 13. Sabbāpi soḷasavatthukā ānāpānassatiyo aññamaññaṃ paricitā ceva honti anuparicitā ca.
 
-  * sabbāpi ＝「すべて〔の～も〕」（api＝強意「～もまた」）
-  * soḷasavatthukā ＝「十六事ある（十六の基盤をもつ）」（有財釈：soḷasa＝16／vatthu＝事・基盤）
-  * ānāpānassatiyo ＝「出入息念の諸々」（女複・主格）
-  * aññamaññaṃ ＝「相互に・互いに」
-  * paricitā ceva honti ＝「まさに修習されており」
-  * anuparicitā ca ＝「かつ順次修習されている」
+* sabbāpi ＝「すべて〔の～も〕」（api＝強意「～もまた」）
+* soḷasavatthukā ＝「十六事ある（十六の基盤をもつ）」（有財釈：soḷasa＝16／vatthu＝事・基盤）
+* ānāpānassatiyo ＝「出入息念の諸々」（女複・主格）
+* aññamaññaṃ ＝「相互に・互いに」
+* paricitā ceva honti ＝「まさに修習されており」
+* anuparicitā ca ＝「かつ順次修習されている」
 
 →「十六の基盤をもつすべての出入息念は、相互にまさに修習されており、かつ順次修習されている。」
 
 14. Tena vuccati – ‘anupubbaparicitā’ti.
 
-  * tena vuccati ＝「それゆえに～と言われる」
-  * anupubbaparicitā ＝「順次に修習された（もの）」（複合：anupubba＋paricita）
-  * ti ＝引用辞
+* tena vuccati ＝「それゆえに～と言われる」
+* anupubbaparicitā ＝「順次に修習された（もの）」（複合：anupubba＋paricita）
+* ti ＝引用辞
 
 →「それゆえに『anupubbaparicitā（順次に修習された）』と言われる。」
 
@@ -2392,38 +2392,38 @@ Buddhoti yo so bhagavā sayambhū anācariyako pubbe ananussutesu dhammesu sām
 
 1. Yathāti dasa yathatthā –
 
-  * yathā ＝「yathā（～のとおりに）」という〔被釈語〕（ti＝引用辞「～とは」。偈の「仏によって説かれたとおりに」の yathā）
-  * dasa ＝「十の」（数詞）
-  * yathatthā ＝「真実の目的（yathā＋attha。訳語は註の語釈による——段末の訳注参照）」（男複・主格）
+* yathā ＝「yathā（～のとおりに）」という〔被釈語〕（ti＝引用辞「～とは」。偈の「仏によって説かれたとおりに」の yathā）
+* dasa ＝「十の」（数詞）
+* yathatthā ＝「真実の目的（yathā＋attha。訳語は註の語釈による——段末の訳注参照）」（男複・主格）
 
 →「『yathā（～のとおりに）』とは——十の真実の目的（yathattha）が〔ある、すなわち〕——」
 
 2. attadamathattho yathattho, attasamathattho yathattho, attaparinibbāpanattho yathattho,
 
-  * attadamathattho ＝「自己調御という目的」（依主釈：atta＝自己／damatha＝調御／attha＝目的）
-  * attasamathattho ＝「自己寂止という目的」（atta＋samatha＝寂止＋attha）
-  * attaparinibbāpanattho ＝「自己を般涅槃させるという目的」（atta＋parinibbāpana＝般涅槃させること＋attha、parinibbāpana は使役名詞）
-  * yathattho ＝「〔それが〕真実の目的である」（各項の述語、男・主格）
+* attadamathattho ＝「自己調御という目的」（依主釈：atta＝自己／damatha＝調御／attha＝目的）
+* attasamathattho ＝「自己寂止という目的」（atta＋samatha＝寂止＋attha）
+* attaparinibbāpanattho ＝「自己を般涅槃させるという目的」（atta＋parinibbāpana＝般涅槃させること＋attha、parinibbāpana は使役名詞）
+* yathattho ＝「〔それが〕真実の目的である」（各項の述語、男・主格）
 
 →「自己調御という目的が真実の目的であり、自己寂止という目的が真実の目的であり、自己を般涅槃させるという目的が真実の目的であり、」
 
 3. abhiññattho yathattho, pariññattho yathattho, pahānattho yathattho, bhāvanattho yathattho,
 
-  * abhiññattho ＝「証知という目的」（abhiññā＝証知＋attha）
-  * pariññattho ＝「遍知という目的」（pariññā＝遍知＋attha）
-  * pahānattho ＝「断という目的」（pahāna＝断捨＋attha）
-  * bhāvanattho ＝「修習という目的」（bhāvanā＝修習＋attha）
-  * yathattho ＝「真実の目的である」（各項の述語）
+* abhiññattho ＝「証知という目的」（abhiññā＝証知＋attha）
+* pariññattho ＝「遍知という目的」（pariññā＝遍知＋attha）
+* pahānattho ＝「断という目的」（pahāna＝断捨＋attha）
+* bhāvanattho ＝「修習という目的」（bhāvanā＝修習＋attha）
+* yathattho ＝「真実の目的である」（各項の述語）
 
 →「証知という目的が真実の目的であり、遍知という目的が真実の目的であり、断という目的が真実の目的であり、修習という目的が真実の目的であり、」
 
 4. sacchikiriyattho yathattho, saccābhisamayattho yathattho, nirodhe patiṭṭhāpakattho yathattho.
 
-  * sacchikiriyattho ＝「体得という目的」（sacchikiriyā＝体得＋attha）
-  * saccābhisamayattho ＝「諦現観という目的」（依主釈：sacca＝諦／abhisamaya＝現観／attha）
-  * nirodhe ＝「滅において」（男・処格）
-  * patiṭṭhāpakattho ＝「住立させる（確立させる）という目的」（patiṭṭhāpaka＝住立させるもの、patiṭṭhāpeti の使役行為者名詞＋attha）
-  * yathattho ＝「真実の目的である」（各項の述語）
+* sacchikiriyattho ＝「体得という目的」（sacchikiriyā＝体得＋attha）
+* saccābhisamayattho ＝「諦現観という目的」（依主釈：sacca＝諦／abhisamaya＝現観／attha）
+* nirodhe ＝「滅において」（男・処格）
+* patiṭṭhāpakattho ＝「住立させる（確立させる）という目的」（patiṭṭhāpaka＝住立させるもの、patiṭṭhāpeti の使役行為者名詞＋attha）
+* yathattho ＝「真実の目的である」（各項の述語）
 
 →「体得という目的が真実の目的であり、諦現観という目的が真実の目的であり、滅において住立させるという目的が真実の目的である。」
 
@@ -2435,32 +2435,32 @@ Buddhoti yo so bhagavā sayambhū anācariyako pubbe ananussutesu dhammesu sām
 
 5. Buddhoti yo so bhagavā sayambhū anācariyako
 
-  * buddho ＝「buddha（覚者・仏）」という〔被釈語〕（ti＝引用辞）
-  * yo so ＝「およそかの～である者は」（関係代名詞＋指示代名詞、男・単・主格）
-  * bhagavā ＝「世尊」（男・単・主格）
-  * sayambhū ＝「自ら成った者・自存者（独りでに覚った者）」（sayaṃ＝自ら＋bhū＝在る／成る、男・主格）
-  * anācariyako ＝「師なき者（教師を持たぬ者）」（an＝無＋ācariya＝師＋ka、男・主格）
+* buddho ＝「buddha（覚者・仏）」という〔被釈語〕（ti＝引用辞）
+* yo so ＝「およそかの～である者は」（関係代名詞＋指示代名詞、男・単・主格）
+* bhagavā ＝「世尊」（男・単・主格）
+* sayambhū ＝「自ら成った者・自存者（独りでに覚った者）」（sayaṃ＝自ら＋bhū＝在る／成る、男・主格）
+* anācariyako ＝「師なき者（教師を持たぬ者）」（an＝無＋ācariya＝師＋ka、男・主格）
 
 →「『buddha（覚者）』とは——およそかの世尊、すなわち自ら成った者、師なき者であって、」
 
 6. pubbe ananussutesu dhammesu sāmaṃ saccāni abhisambujjhi,
 
-  * pubbe ＝「過去に・以前に」（処格・副詞）
-  * ananussutesu dhammesu ＝「未だ聞かれざる（未聞の）諸法において」（an＝未＋anussuta＝聞かれた［anu√su 過分］＋dhamma、男複・処格）
-  * sāmaṃ ＝「自ら・独力で」（副詞）
-  * saccāni ＝「諸諦（四諦）を」（中複・対格）
-  * abhisambujjhi ＝「現等覚した・覚った」（abhi-sam-√budh、アオリスト三・単）
+* pubbe ＝「過去に・以前に」（処格・副詞）
+* ananussutesu dhammesu ＝「未だ聞かれざる（未聞の）諸法において」（an＝未＋anussuta＝聞かれた［anu√su 過分］＋dhamma、男複・処格）
+* sāmaṃ ＝「自ら・独力で」（副詞）
+* saccāni ＝「諸諦（四諦）を」（中複・対格）
+* abhisambujjhi ＝「現等覚した・覚った」（abhi-sam-√budh、アオリスト三・単）
 
 →「過去に未だ聞かれざる諸法において、自ら諸諦を現等覚し、」
 
 7. tattha ca sabbaññutaṃ pāpuṇi, balesu ca vasībhāvaṃ.
 
-  * tattha ＝「そこにおいて・その点において」（副詞）
-  * ca ＝「また・かつ」（接続辞）
-  * sabbaññutaṃ ＝「一切知性を」（sabba＝一切＋ñutā＝知者たること、女・単・対格）
-  * pāpuṇi ＝「到達した・得た」（pa√āp、アオリスト三・単）
-  * balesu ＝「諸力（〔十〕力）において」（中複・処格）
-  * vasībhāvaṃ ＝「自在性を〔得た〕」（vasī＝自在＋bhāva＝あること、男・単・対格。直前の pāpuṇi が掛かる）
+* tattha ＝「そこにおいて・その点において」（副詞）
+* ca ＝「また・かつ」（接続辞）
+* sabbaññutaṃ ＝「一切知性を」（sabba＝一切＋ñutā＝知者たること、女・単・対格）
+* pāpuṇi ＝「到達した・得た」（pa√āp、アオリスト三・単）
+* balesu ＝「諸力（〔十〕力）において」（中複・処格）
+* vasībhāvaṃ ＝「自在性を〔得た〕」（vasī＝自在＋bhāva＝あること、男・単・対格。直前の pāpuṇi が掛かる）
 
 →「そしてその点において一切知性に到達し、また諸力において自在性に到達した〔——かかる者が buddha と呼ばれる〕。」
 
@@ -2997,117 +2997,117 @@ Bhāṇavāro.
 
 1. Idhā ti
 
-  * idha =「ここに、この（教え・場において）」（副詞）
-  * ti =「～と（は）」（引用・標示の辞、註釈される語を示す）
-  * imissā diṭṭhiyā = imissā〔ayaṃ 女性・単数・処格〕「この」＋ diṭṭhiyā〔diṭṭhi 女性・単数・処格〕「見解において」
-  * imissā khantiyā = khanti〔処格〕「忍・信受（受け入れ）において」
-  * imissā ruciyā = ruci〔処格〕「楽欲・好み（傾倒）において」
-  * imasmiṃ ādāye = imasmiṃ〔中/男性・単数・処格〕「この」＋ ādāya〔処格〕「受持（教えの取り受け）において」
-  * imasmiṃ dhamme = dhamma〔処格〕「法において」
-  * imasmiṃ vinaye = vinaya〔処格〕「律において」
-  * imasmiṃ dhammavinaye = dhamma-vinaya〔並列複合・処格〕「法と律（法律）において」
-  * imasmiṃ pāvacane = pāvacana〔処格〕「聖教（仏の教説）において」
-  * imasmiṃ brahmacariye = brahmacariya〔処格〕「梵行において」
-  * imasmiṃ satthusāsane = satthu-sāsana〔属格依主複合・処格〕「師の教説（教え）において」
-  * Tena vuccati – ‘‘idhā’’ti = tena〔具格〕「それ故に」＋ vuccati〔現在・受動〕「言われる」
+* idha =「ここに、この（教え・場において）」（副詞）
+* ti =「～と（は）」（引用・標示の辞、註釈される語を示す）
+* imissā diṭṭhiyā = imissā〔ayaṃ 女性・単数・処格〕「この」＋ diṭṭhiyā〔diṭṭhi 女性・単数・処格〕「見解において」
+* imissā khantiyā = khanti〔処格〕「忍・信受（受け入れ）において」
+* imissā ruciyā = ruci〔処格〕「楽欲・好み（傾倒）において」
+* imasmiṃ ādāye = imasmiṃ〔中/男性・単数・処格〕「この」＋ ādāya〔処格〕「受持（教えの取り受け）において」
+* imasmiṃ dhamme = dhamma〔処格〕「法において」
+* imasmiṃ vinaye = vinaya〔処格〕「律において」
+* imasmiṃ dhammavinaye = dhamma-vinaya〔並列複合・処格〕「法と律（法律）において」
+* imasmiṃ pāvacane = pāvacana〔処格〕「聖教（仏の教説）において」
+* imasmiṃ brahmacariye = brahmacariya〔処格〕「梵行において」
+* imasmiṃ satthusāsane = satthu-sāsana〔属格依主複合・処格〕「師の教説（教え）において」
+* Tena vuccati – ‘‘idhā’’ti = tena〔具格〕「それ故に」＋ vuccati〔現在・受動〕「言われる」
 
-    → 「それ故に『idha（ここに）』と説かれる」
+→ 「それ故に『idha（ここに）』と説かれる」
 
 →「『idha（ここに）』とは、この見解において、この忍（信受）において、この楽欲において、この受持において、この法において、この律において、この法と律において、この聖教において、この梵行において、この師の教えにおいて、という意味である。それ故に『ここに』と説かれるのである。」
 
 2. Bhikkhū ti
 
-  * bhikkhu =「比丘」（註釈される語）
-  * puthujjana-kalyāṇako vā = puthujjana「凡夫」＋ kalyāṇaka「善き者」→「善凡夫（賢善なる凡夫）であるか」
-  * hoti bhikkhu =「である比丘」
-  * sekkho vā = sekkha「有学（学びの途上にある者）であるか」
-  * arahā vā = arahant「阿羅漢であるか」
-  * akuppadhammo = a-kuppa「動じない」＋ dhamma「性質」→「不動法者（解脱が揺るがぬ性質の阿羅漢）」
+* bhikkhu =「比丘」（註釈される語）
+* puthujjana-kalyāṇako vā = puthujjana「凡夫」＋ kalyāṇaka「善き者」→「善凡夫（賢善なる凡夫）であるか」
+* hoti bhikkhu =「である比丘」
+* sekkho vā = sekkha「有学（学びの途上にある者）であるか」
+* arahā vā = arahant「阿羅漢であるか」
+* akuppadhammo = a-kuppa「動じない」＋ dhamma「性質」→「不動法者（解脱が揺るがぬ性質の阿羅漢）」
 
 →「『比丘』とは、善凡夫（賢善なる凡夫）である比丘か、あるいは有学か、あるいは阿羅漢である不動法者をいう。」
 
 3. Araññan ti
 
-  * araññaṃ =「阿蘭若・森」（註釈される語）
-  * nikkhamitvā = nikkhamati の連続体「（村を）出て」
-  * bahi indakhīlā = bahi「外に」＋ indakhīla〔奪格〕「インダキーラ（村境の門柱・境界標）より」→「インダキーラの外に」
-  * sabbam etaṃ araññaṃ = sabba「すべて」＋ etaṃ「これ（その範囲）」＋ araññaṃ「森である」
-    ※村境の標柱の外側を一切「阿蘭若」とする広義（律・対法的）の定義。
+* araññaṃ =「阿蘭若・森」（註釈される語）
+* nikkhamitvā = nikkhamati の連続体「（村を）出て」
+* bahi indakhīlā = bahi「外に」＋ indakhīla〔奪格〕「インダキーラ（村境の門柱・境界標）より」→「インダキーラの外に」
+* sabbam etaṃ araññaṃ = sabba「すべて」＋ etaṃ「これ（その範囲）」＋ araññaṃ「森である」
+  ※村境の標柱の外側を一切「阿蘭若」とする広義（律・対法的）の定義。
 
 →「『阿蘭若（森）』とは、（村を）出てインダキーラ（境界の門柱）の外、それらすべてが阿蘭若である。」
 
 4. Rukkhamūlan ti
 
-  * rukkhamūla = rukkha「樹」＋ mūla「根・もと」→「樹下（樹の根もと）」
-  * yattha =「～するところの（場所）」（関係副詞）
-  * bhikkhuno āsanaṃ paññattaṃ hoti = bhikkhuno〔属格〕「比丘のために」＋ āsanaṃ「座が」＋ paññatta〔過去分詞〕「設けられて」＋ hoti「いる」
-  * mañco vā =「寝台か」
-  * pīṭhaṃ vā =「椅子（腰掛け）か」
-  * bhisi vā =「敷物（褥・クッション）か」
-  * taṭṭikā vā =「編んだ敷物（ござ）か」
-  * cammakhaṇḍo vā = camma「皮」＋ khaṇḍa「片」→「皮の切れ端か」
-  * tiṇasantharo vā = tiṇa「草」＋ santhara「敷物」→「草の敷物か」
-  * paṇṇasantharo vā = paṇṇa「葉」＋ santhara →「葉の敷物か」
-  * palālasantharo vā = palāla「藁」＋ santhara →「藁の敷物か」
-  * tattha =「そこで」
-  * caṅkamati vā =「経行（歩行）するか」
-  * tiṭṭhati vā =「立つか」
-  * nisīdati vā =「座るか」
-  * seyyaṃ vā kappeti = seyya「臥処」＋ kappeti「設える」→「臥処を設ける（横臥する）」
+* rukkhamūla = rukkha「樹」＋ mūla「根・もと」→「樹下（樹の根もと）」
+* yattha =「～するところの（場所）」（関係副詞）
+* bhikkhuno āsanaṃ paññattaṃ hoti = bhikkhuno〔属格〕「比丘のために」＋ āsanaṃ「座が」＋ paññatta〔過去分詞〕「設けられて」＋ hoti「いる」
+* mañco vā =「寝台か」
+* pīṭhaṃ vā =「椅子（腰掛け）か」
+* bhisi vā =「敷物（褥・クッション）か」
+* taṭṭikā vā =「編んだ敷物（ござ）か」
+* cammakhaṇḍo vā = camma「皮」＋ khaṇḍa「片」→「皮の切れ端か」
+* tiṇasantharo vā = tiṇa「草」＋ santhara「敷物」→「草の敷物か」
+* paṇṇasantharo vā = paṇṇa「葉」＋ santhara →「葉の敷物か」
+* palālasantharo vā = palāla「藁」＋ santhara →「藁の敷物か」
+* tattha =「そこで」
+* caṅkamati vā =「経行（歩行）するか」
+* tiṭṭhati vā =「立つか」
+* nisīdati vā =「座るか」
+* seyyaṃ vā kappeti = seyya「臥処」＋ kappeti「設える」→「臥処を設ける（横臥する）」
 
 →「『樹下』とは、比丘のために座が設けられているところ――寝台か、椅子か、敷物か、ござか、皮の切れ端か、草の敷物か、葉の敷物か、藁の敷物か――そこで比丘が経行し、あるいは立ち、あるいは座り、あるいは臥処を設ける（横たわる）、その場所をいう。」
 
 5. Suññan ti
 
-  * suññaṃ =「空（くう）なる・人気のない」（註釈される語）
-  * kenaci anākiṇṇaṃ hoti = kenaci〔具格・不定〕「誰によっても」＋ an-ākiṇṇa「混み合っていない（ākiṇṇa の否定）」＋ hoti「である」
-  * gahaṭṭhehi vā = gahaṭṭha〔具格・複数〕「在家者によってか」
-  * pabbajitehi vā = pabbajita〔具格・複数〕「出家者によってか」
+* suññaṃ =「空（くう）なる・人気のない」（註釈される語）
+* kenaci anākiṇṇaṃ hoti = kenaci〔具格・不定〕「誰によっても」＋ an-ākiṇṇa「混み合っていない（ākiṇṇa の否定）」＋ hoti「である」
+* gahaṭṭhehi vā = gahaṭṭha〔具格・複数〕「在家者によってか」
+* pabbajitehi vā = pabbajita〔具格・複数〕「出家者によってか」
 
 →「『空なる（人気のない）』とは、在家者によっても出家者によっても、誰によっても混み合っていない（空閑である）ことをいう。」
 
 6. Agāran ti
 
-  * agāra =「住処・建物」（註釈される語）
-  * vihāro =「精舎」
-  * aḍḍhayogo = aḍḍha「半」＋ yoga「（屋根の）構え」→「片屋根の家屋」
-  * pāsādo =「高楼（重層の楼閣）」
-  * hammiyaṃ =「平屋根の家（上に居室を備えた建物）」
-  * guhā =「洞窟」
+* agāra =「住処・建物」（註釈される語）
+* vihāro =「精舎」
+* aḍḍhayogo = aḍḍha「半」＋ yoga「（屋根の）構え」→「片屋根の家屋」
+* pāsādo =「高楼（重層の楼閣）」
+* hammiyaṃ =「平屋根の家（上に居室を備えた建物）」
+* guhā =「洞窟」
 
 →「『住処（建物）』とは、精舎、片屋根の家屋、高楼、平屋根家、洞窟をいう。」
 
 7. Nisīdati pallaṅkaṃ ābhujitvā ti
 
-  * nisīdati =「座る」（註釈される語）
-  * pallaṅkaṃ = pallaṅka〔対格〕「結跏趺坐（組んだ脚）を」
-  * ābhujitvā = ābhujati の連続体「曲げて・組んで」
-  * nisinno hoti = nisinna〔過去分詞〕「座して」＋ hoti「いる」
+* nisīdati =「座る」（註釈される語）
+* pallaṅkaṃ = pallaṅka〔対格〕「結跏趺坐（組んだ脚）を」
+* ābhujitvā = ābhujati の連続体「曲げて・組んで」
+* nisinno hoti = nisinna〔過去分詞〕「座して」＋ hoti「いる」
 
 →「『結跏趺坐を組んで座る』とは、結跏趺坐を組んで座っている、ということである。」
 
 8. Ujuṃ kāyaṃ paṇidhāya ti
 
-  * ujuṃ =「真っ直ぐに」（副詞的対格）
-  * kāyaṃ = kāya〔対格〕「身を」
-  * paṇidhāya = paṇidahati の連続体「据えて・向けて」
-  * ujuko hoti kāyo = ujuka「真っ直ぐな」＋ kāya「身が」＋ hoti「である」
-  * ṭhito = ṭhita〔過去分詞〕「安定して立てられた」
-  * supaṇihito = su「善く」＋ paṇihita〔過去分詞〕「据えられた」→「善く据えられた」
+* ujuṃ =「真っ直ぐに」（副詞的対格）
+* kāyaṃ = kāya〔対格〕「身を」
+* paṇidhāya = paṇidahati の連続体「据えて・向けて」
+* ujuko hoti kāyo = ujuka「真っ直ぐな」＋ kāya「身が」＋ hoti「である」
+* ṭhito = ṭhita〔過去分詞〕「安定して立てられた」
+* supaṇihito = su「善く」＋ paṇihita〔過去分詞〕「据えられた」→「善く据えられた」
 
 →「『身を真っ直ぐに据えて』とは、身が真っ直ぐであり、安定し、善く据えられている、ということである。」
 
 9. Parimukhaṃ satiṃ upaṭṭhapetvā ti
 
-  * parimukhaṃ =「面前に・前面に」（副詞的対格）
-  * satiṃ = sati〔対格〕「念を」
-  * upaṭṭhapetvā = upaṭṭhapeti の連続体「現前させて・確立して」
-  * Parī ti pariggahaṭṭho = pari「遍（あまねく）」＋ ti「とは」＋ pariggaha「把握」＋ aṭṭha「意味」→「『pari』とは遍（あまね）く把握するという意味である」
-  * Mukhan ti niyyānaṭṭho = mukha「面・口」＋ ti「とは」＋ niyyāna「出離（出ていくこと）」＋ aṭṭha →「『mukha』とは出離するという意味である」
-  * Satī ti upaṭṭhānaṭṭho = sati「念」＋ ti「とは」＋ upaṭṭhāna「現前・確立」＋ aṭṭha →「『sati』とは現前・確立するという意味である」
-  * Tena vuccati – ‘‘parimukhaṃ satiṃ upaṭṭhapetvā’’ti = tena「それ故に」＋ vuccati「言われる」
+* parimukhaṃ =「面前に・前面に」（副詞的対格）
+* satiṃ = sati〔対格〕「念を」
+* upaṭṭhapetvā = upaṭṭhapeti の連続体「現前させて・確立して」
+* Parī ti pariggahaṭṭho = pari「遍（あまねく）」＋ ti「とは」＋ pariggaha「把握」＋ aṭṭha「意味」→「『pari』とは遍（あまね）く把握するという意味である」
+* Mukhan ti niyyānaṭṭho = mukha「面・口」＋ ti「とは」＋ niyyāna「出離（出ていくこと）」＋ aṭṭha →「『mukha』とは出離するという意味である」
+* Satī ti upaṭṭhānaṭṭho = sati「念」＋ ti「とは」＋ upaṭṭhāna「現前・確立」＋ aṭṭha →「『sati』とは現前・確立するという意味である」
+* Tena vuccati – ‘‘parimukhaṃ satiṃ upaṭṭhapetvā’’ti = tena「それ故に」＋ vuccati「言われる」
 
-    → 「それ故に『面前に念を確立して』と説かれる」
+→ 「それ故に『面前に念を確立して』と説かれる」
 
 →「『面前に念を確立して』とは――『pari』は遍（あまね）く把握するという意味、『mukha』は出離するという意味、『sati』は現前・確立するという意味である。それ故に『面前に念を確立して』と説かれるのである。」
 
@@ -4838,93 +4838,93 @@ Kathaṃ te kāyā paṭividitā honti? Dīghaṃ assāsavasena cittassa ekaggat
 
 1. Kathaṃ "sabbakāyapaṭisaṃvedī assasissāmī"ti sikkhati, "sabbakāyapaṭisaṃvedī passasissāmī"ti sikkhati?
 
-  * kathaṃ = 「どのように」
-  * sabba-kāya-paṭisaṃvedī = 「全身を感受する者」
-    * sabba = 「一切・全」／ kāya = 「身」
-    * paṭisaṃvedī = 「感受する者」（paṭi+saṃ+√vid、所有接尾辞 -in、主格単数）
-  * assasissāmi = 「私は出息しよう」（assasati の未来形1人称単数、ā+√śvas）※出息
-  * passasissāmi = 「私は入息しよう」※入息
-  * ti = 「～と」（引用辞）
-  * sikkhati = 「学ぶ・修学する」（√śikṣ 現在3単）
+* kathaṃ = 「どのように」
+* sabba-kāya-paṭisaṃvedī = 「全身を感受する者」
+  * sabba = 「一切・全」／ kāya = 「身」
+  * paṭisaṃvedī = 「感受する者」（paṭi+saṃ+√vid、所有接尾辞 -in、主格単数）
+* assasissāmi = 「私は出息しよう」（assasati の未来形1人称単数、ā+√śvas）※出息
+* passasissāmi = 「私は入息しよう」※入息
+* ti = 「～と」（引用辞）
+* sikkhati = 「学ぶ・修学する」（√śikṣ 現在3単）
 
 →「いかにして『全身を感受する者として、私は出息しよう』と修学し、『全身を感受する者として、私は入息しよう』と修学するのか。」
 
 2. Kāyoti dve kāyā – nāmakāyo ca rūpakāyo ca.
 
-  * kāyo ti = 「『身（kāya）』とは」
-  * dve kāyā = 「二つの身」
-  * nāma-kāyo = 「名身」（精神的身体）／ rūpa-kāyo = 「色身」（物質的身体）
-  * ca … ca = 「～と～」
+* kāyo ti = 「『身（kāya）』とは」
+* dve kāyā = 「二つの身」
+* nāma-kāyo = 「名身」（精神的身体）／ rūpa-kāyo = 「色身」（物質的身体）
+* ca … ca = 「～と～」
 
 →「『身』とは、二つの身である――名身と色身とである。」
 
 3. Katamo nāmakāyo? Vedanā, saññā, cetanā, phasso, manasikāro, nāmañca nāmakāyo ca, ye ca vuccanti cittasaṅkhārā – ayaṃ nāmakāyo.
 
-  * katamo nāmakāyo = 「いかなるものが名身か」
-  * vedanā = 「受」／ saññā = 「想」／ cetanā = 「思」／ phasso = 「触」／ manasikāro = 「作意」
-  * nāmañca = 「名（nāma）と」／ nāmakāyo ca = 「名身と」
-  * ye ca vuccanti cittasaṅkhārā = 「およそ心行と呼ばれるもの」
-    * ye = 「およそ～するもの」（関係代名詞・複数主格）
-    * vuccanti = 「呼ばれる」（√vac 受動・現在3複）
-    * cittasaṅkhārā = 「心行」
-  * ayaṃ nāmakāyo = 「これが名身である」
+* katamo nāmakāyo = 「いかなるものが名身か」
+* vedanā = 「受」／ saññā = 「想」／ cetanā = 「思」／ phasso = 「触」／ manasikāro = 「作意」
+* nāmañca = 「名（nāma）と」／ nāmakāyo ca = 「名身と」
+* ye ca vuccanti cittasaṅkhārā = 「およそ心行と呼ばれるもの」
+  * ye = 「およそ～するもの」（関係代名詞・複数主格）
+  * vuccanti = 「呼ばれる」（√vac 受動・現在3複）
+  * cittasaṅkhārā = 「心行」
+* ayaṃ nāmakāyo = 「これが名身である」
 
 →「いかなるものが名身か。受・想・思・触・作意、名と名身と、およそ心行と呼ばれるもの――これが名身である。」
 
 4. Katamo rūpakāyo? Cattāro ca mahābhūtā, catunnañca mahābhūtānaṃ upādāyarūpaṃ, assāso ca passāso ca, nimittañca upanibandhanā, ye ca vuccanti kāyasaṅkhārā – ayaṃ rūpakāyo.
 
-  * katamo rūpakāyo = 「いかなるものが色身か」
-  * cattāro mahābhūtā = 「四大種」
-  * catunnaṃ mahābhūtānaṃ upādāyarūpaṃ = 「四大種の所造色」
-    * catunnaṃ mahābhūtānaṃ = 「四つの大種の」（属格複数）
-    * upādāya-rūpaṃ = 「所造色」（upādāya = 「取って・依存して」絶対分詞の形容詞的用法 ＋ rūpa）
-  * assāso ca passāso ca = 「出息と入息と」
-  * nimittañca = 「相（nimitta）と」
-  * upanibandhanā = 「繋縛（処）・依りどころ」（upa+ni+√bandh、念を結びつける対象としての所縁）
-  * ye ca vuccanti kāyasaṅkhārā = 「およそ身行と呼ばれるもの」
-  * ayaṃ rūpakāyo = 「これが色身である」
+* katamo rūpakāyo = 「いかなるものが色身か」
+* cattāro mahābhūtā = 「四大種」
+* catunnaṃ mahābhūtānaṃ upādāyarūpaṃ = 「四大種の所造色」
+  * catunnaṃ mahābhūtānaṃ = 「四つの大種の」（属格複数）
+  * upādāya-rūpaṃ = 「所造色」（upādāya = 「取って・依存して」絶対分詞の形容詞的用法 ＋ rūpa）
+* assāso ca passāso ca = 「出息と入息と」
+* nimittañca = 「相（nimitta）と」
+* upanibandhanā = 「繋縛（処）・依りどころ」（upa+ni+√bandh、念を結びつける対象としての所縁）
+* ye ca vuccanti kāyasaṅkhārā = 「およそ身行と呼ばれるもの」
+* ayaṃ rūpakāyo = 「これが色身である」
 
 →「いかなるものが色身か。四大種と、四大種の所造色と、出息と入息と、相と繋縛（処）と、およそ身行と呼ばれるもの――これが色身である。」
 
 5. Kathaṃ te kāyā paṭividitā honti?
 
-  * kathaṃ = 「どのように」
-  * te kāyā = 「それらの身は」
-  * paṭividitā honti = 「洞察された（了知された）ものとなる」
-    * paṭividitā = 「洞察された」（paṭi+vidita、vindati の過去分詞・複数主格）
-    * honti = 「～となる・である」（3複）
+* kathaṃ = 「どのように」
+* te kāyā = 「それらの身は」
+* paṭividitā honti = 「洞察された（了知された）ものとなる」
+  * paṭividitā = 「洞察された」（paṭi+vidita、vindati の過去分詞・複数主格）
+  * honti = 「～となる・である」（3複）
 
 →「いかにして、それらの身は洞察される（了知される）のか。」
 
 6. Dīghaṃ assāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti. Tāya satiyā tena ñāṇena te kāyā paṭividitā honti.
 
-  * dīghaṃ = 「長く・長き」（対格・副詞的）
-  * assāsa-vasena = 「出息によって・出息を通じて」（vasa 具格）
-  * cittassa = 「心の」（属格）
-  * ekaggataṃ = 「一境性を」（対格）
-  * avikkhepaṃ = 「無散乱を」（対格）
-  * pajānato = 「了知する者にとって」（現在分詞・属格／与格）
-  * sati upaṭṭhitā hoti = 「念が現前する」（upaṭṭhitā = 現前した、過去分詞）
-  * tāya satiyā = 「その念によって」（具格）／ tena ñāṇena = 「その智によって」（具格）
-  * te kāyā paṭividitā honti = 「それらの身は洞察される」
+* dīghaṃ = 「長く・長き」（対格・副詞的）
+* assāsa-vasena = 「出息によって・出息を通じて」（vasa 具格）
+* cittassa = 「心の」（属格）
+* ekaggataṃ = 「一境性を」（対格）
+* avikkhepaṃ = 「無散乱を」（対格）
+* pajānato = 「了知する者にとって」（現在分詞・属格／与格）
+* sati upaṭṭhitā hoti = 「念が現前する」（upaṭṭhitā = 現前した、過去分詞）
+* tāya satiyā = 「その念によって」（具格）／ tena ñāṇena = 「その智によって」（具格）
+* te kāyā paṭividitā honti = 「それらの身は洞察される」
 
 →「長き出息によって、心の一境性・無散乱を了知する者には、念が現前する。その念によって、その智によって、それらの身は洞察される。」
 
 7. Dīghaṃ passāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti. Tāya satiyā tena ñāṇena te kāyā paṭividitā honti.
 
-  * （第6偈と同型。dīghaṃ＝長き、passāsa-vasena＝入息によって）
+* （第6偈と同型。dīghaṃ＝長き、passāsa-vasena＝入息によって）
 
 →「長き入息によって、心の一境性・無散乱を了知する者には、念が現前する。その念によって、その智によって、それらの身は洞察される。」
 
 8. Rassaṃ assāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti. Tāya satiyā tena ñāṇena te kāyā paṭividitā honti.
 
-  * （第6偈と同型。rassaṃ＝短き、assāsa-vasena＝出息によって）
+* （第6偈と同型。rassaṃ＝短き、assāsa-vasena＝出息によって）
 
 →「短き出息によって、心の一境性・無散乱を了知する者には、念が現前する。その念によって、その智によって、それらの身は洞察される。」
 
 9. Rassaṃ passāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato sati upaṭṭhitā hoti. Tāya satiyā tena ñāṇena te kāyā paṭividitā honti.
 
-  * （第6偈と同型。rassaṃ＝短き、passāsa-vasena＝入息によって）
+* （第6偈と同型。rassaṃ＝短き、passāsa-vasena＝入息によって）
 
 →「短き入息によって、心の一境性・無散乱を了知する者には、念が現前する。その念によって、その智によって、それらの身は洞察される。」
 
@@ -4938,74 +4938,74 @@ Kathaṃ te kāyā paṭividitā honti? Dīghaṃ assāsavasena cittassa ekaggat
 
 10. Āvajjato te kāyā paṭividitā honti, pajānato … passato … paccavekkhato … cittaṃ adhiṭṭhahato … saddhāya adhimuccato … vīriyaṃ paggaṇhato … satiṃ upaṭṭhāpayato … cittaṃ samādahato … paññāya pajānato … abhiññeyyaṃ abhijānato … pariññeyyaṃ parijānato … pahātabbaṃ pajahato … bhāvetabbaṃ bhāvayato … sacchikātabbaṃ sacchikaroto te kāyā paṭividitā honti. Evaṃ te kāyā paṭividitā honti.
 
-  * 反復述語 te kāyā paṭividitā honti = 「それらの身は洞察される（了知される）」（各句に共通）
-  * āvajjato = 「引転する（心を向ける）者にとって」（āvajjati, ā+√vṛj, 現在分詞・属格単数）
-  * pajānato = 「了知する者にとって」（pajānāti, pa+√jñā）
-  * passato = 「見る者にとって」（passati, √dṛś）
-  * paccavekkhato = 「観察する者にとって」（paccavekkhati, paṭi+ava+√īkṣ）
-  * cittaṃ adhiṭṭhahato = 「心を確立（決定）する者にとって」（adhiṭṭhahati, adhi+√sthā／cittaṃ 対格）
-  * saddhāya adhimuccato = 「信によって信解する者にとって」（adhimuccati, adhi+√muc／saddhāya 具格）
-  * vīriyaṃ paggaṇhato = 「精進を策励する者にとって」（paggaṇhāti, pa+√grah）
-  * satiṃ upaṭṭhāpayato = 「念を現前させる者にとって」（upaṭṭhāpeti, upa+√sthā 使役）
-  * cittaṃ samādahato = 「心を等持する者にとって」（samādahati, saṃ+ā+√dhā）
-  * paññāya pajānato = 「慧によって了知する者にとって」（paññāya 具格）
-  * abhiññeyyaṃ abhijānato = 「証知されるべきものを証知する者にとって」（abhiññeyya 未来受動分詞＋abhijānāti, abhi+√jñā）
-  * pariññeyyaṃ parijānato = 「遍知されるべきものを遍知する者にとって」（pariññeyya＋parijānāti, pari+√jñā）
-  * pahātabbaṃ pajahato = 「断じられるべきものを断ずる者にとって」（pahātabba＋pajahati, pa+√hā）
-  * bhāvetabbaṃ bhāvayato = 「修習されるべきものを修習する者にとって」（bhāvetabba＋bhāveti, √bhū 使役）
-  * sacchikātabbaṃ sacchikaroto = 「体得されるべきものを体得する者にとって」（sacchikātabba＋sacchikaroti, sacchi+√kṛ）
-  * ※後五者（証知・遍知・断・修習・体得）は四諦に配される五作用に対応。
-  * evaṃ = 「かくのごとく」
+* 反復述語 te kāyā paṭividitā honti = 「それらの身は洞察される（了知される）」（各句に共通）
+* āvajjato = 「引転する（心を向ける）者にとって」（āvajjati, ā+√vṛj, 現在分詞・属格単数）
+* pajānato = 「了知する者にとって」（pajānāti, pa+√jñā）
+* passato = 「見る者にとって」（passati, √dṛś）
+* paccavekkhato = 「観察する者にとって」（paccavekkhati, paṭi+ava+√īkṣ）
+* cittaṃ adhiṭṭhahato = 「心を確立（決定）する者にとって」（adhiṭṭhahati, adhi+√sthā／cittaṃ 対格）
+* saddhāya adhimuccato = 「信によって信解する者にとって」（adhimuccati, adhi+√muc／saddhāya 具格）
+* vīriyaṃ paggaṇhato = 「精進を策励する者にとって」（paggaṇhāti, pa+√grah）
+* satiṃ upaṭṭhāpayato = 「念を現前させる者にとって」（upaṭṭhāpeti, upa+√sthā 使役）
+* cittaṃ samādahato = 「心を等持する者にとって」（samādahati, saṃ+ā+√dhā）
+* paññāya pajānato = 「慧によって了知する者にとって」（paññāya 具格）
+* abhiññeyyaṃ abhijānato = 「証知されるべきものを証知する者にとって」（abhiññeyya 未来受動分詞＋abhijānāti, abhi+√jñā）
+* pariññeyyaṃ parijānato = 「遍知されるべきものを遍知する者にとって」（pariññeyya＋parijānāti, pari+√jñā）
+* pahātabbaṃ pajahato = 「断じられるべきものを断ずる者にとって」（pahātabba＋pajahati, pa+√hā）
+* bhāvetabbaṃ bhāvayato = 「修習されるべきものを修習する者にとって」（bhāvetabba＋bhāveti, √bhū 使役）
+* sacchikātabbaṃ sacchikaroto = 「体得されるべきものを体得する者にとって」（sacchikātabba＋sacchikaroti, sacchi+√kṛ）
+* ※後五者（証知・遍知・断・修習・体得）は四諦に配される五作用に対応。
+* evaṃ = 「かくのごとく」
 
 →「引転する（心を向ける）者には、それらの身は洞察される。了知する者には、それらの身は洞察される。見る者には、それらの身は洞察される。観察する者には、それらの身は洞察される。心を確立する者には、それらの身は洞察される。信によって信解する者には、それらの身は洞察される。精進を策励する者には、それらの身は洞察される。念を現前させる者には、それらの身は洞察される。心を等持する者には、それらの身は洞察される。慧によって了知する者には、それらの身は洞察される。証知されるべきものを証知する者には、それらの身は洞察される。遍知されるべきものを遍知する者には、それらの身は洞察される。断じられるべきものを断ずる者には、それらの身は洞察される。修習されるべきものを修習する者には、それらの身は洞察される。体得されるべきものを体得する者には、それらの身は洞察される。かくのごとく、それらの身は洞察される。」
 
 11. Sabbakāyapaṭisaṃvedī assāsapassāsā kāyo upaṭṭhānaṃ sati anupassanā ñāṇaṃ.
 
-  * sabba-kāya-paṭisaṃvedī = 「全身を感受する〔という規定の〕」（assāsapassāsā を修飾）
-  * assāsa-passāsā = 「出息・入息（出入息）」（主格複数）※出息＝assāsa／入息＝passāsa
-  * kāyo = 「『身（kāya）』〔である〕」（＝〈身における身随観〉の対象たる「身」）
-  * upaṭṭhānaṃ = 「現前〔の確立〕は」（satipaṭṭhāna の upaṭṭhāna）
-  * sati = 「念〔である〕」
-  * anupassanā = 「随観は」
-  * ñāṇaṃ = 「智〔である〕」
+* sabba-kāya-paṭisaṃvedī = 「全身を感受する〔という規定の〕」（assāsapassāsā を修飾）
+* assāsa-passāsā = 「出息・入息（出入息）」（主格複数）※出息＝assāsa／入息＝passāsa
+* kāyo = 「『身（kāya）』〔である〕」（＝〈身における身随観〉の対象たる「身」）
+* upaṭṭhānaṃ = 「現前〔の確立〕は」（satipaṭṭhāna の upaṭṭhāna）
+* sati = 「念〔である〕」
+* anupassanā = 「随観は」
+* ñāṇaṃ = 「智〔である〕」
 
 →「全身を感受する〔規定の〕出息・入息が『身（kāya）』であり、現前〔の確立〕（upaṭṭhāna）が念（sati）であり、随観（anupassanā）が智（ñāṇa）である。」
 
 12. Kāyo upaṭṭhānaṃ, no sati.
 
-  * kāyo = 「身は」
-  * upaṭṭhānaṃ = 「現前〔の依りどころ〕〔である〕」（念が確立される対象としての意）
-  * no sati = 「念ではない」（no＝否定辞）
+* kāyo = 「身は」
+* upaṭṭhānaṃ = 「現前〔の依りどころ〕〔である〕」（念が確立される対象としての意）
+* no sati = 「念ではない」（no＝否定辞）
 
 →「身は現前〔の依りどころ〕であって、念ではない。」
 
 13. Sati upaṭṭhānañceva sati ca.
 
-  * sati = 「念は」
-  * upaṭṭhānañceva = 「現前〔の確立作用〕であると共に」（upaṭṭhānaṃ＋ca＋eva）
-  * sati ca = 「念でもある」
+* sati = 「念は」
+* upaṭṭhānañceva = 「現前〔の確立作用〕であると共に」（upaṭṭhānaṃ＋ca＋eva）
+* sati ca = 「念でもある」
 
 →「念は現前〔の確立作用〕であると共に、念でもある。」
 
 14. Tāya satiyā tena ñāṇena taṃ kāyaṃ anupassati.
 
-  * tāya satiyā = 「その念によって」（具格）
-  * tena ñāṇena = 「その智によって」（具格）
-  * taṃ kāyaṃ = 「その身を」（対格）
-  * anupassati = 「随観する」（anu+√paś, 現在3単）
+* tāya satiyā = 「その念によって」（具格）
+* tena ñāṇena = 「その智によって」（具格）
+* taṃ kāyaṃ = 「その身を」（対格）
+* anupassati = 「随観する」（anu+√paś, 現在3単）
 
 →「その念によって、その智によって、その身を随観する。」
 
 15. Tena vuccati – "kāye kāyānupassanāsatipaṭṭhānabhāvanā"ti.
 
-  * tena = 「それゆえに」（具格・理由）
-  * vuccati = 「説かれる」（√vac 受動・現在3単）
-  * kāye = 「身において」（処格）
-  * kāya-anupassanā = 「身随観」（身を随観すること）
-  * sati-paṭṭhāna = 「念処」
-  * bhāvanā = 「修習」
-  * 全複合 kāye kāyānupassanā-satipaṭṭhāna-bhāvanā = 「身において身を随観する念処の修習」
-  * ti = 「～と」（引用辞）
+* tena = 「それゆえに」（具格・理由）
+* vuccati = 「説かれる」（√vac 受動・現在3単）
+* kāye = 「身において」（処格）
+* kāya-anupassanā = 「身随観」（身を随観すること）
+* sati-paṭṭhāna = 「念処」
+* bhāvanā = 「修習」
+* 全複合 kāye kāyānupassanā-satipaṭṭhāna-bhāvanā = 「身において身を随観する念処の修習」
+* ti = 「～と」（引用辞）
 
 →「それゆえに『身において身を随観する念処の修習（身における身随観念処修習）』と説かれる。」
 
@@ -5021,101 +5021,101 @@ Sabbakāyapaṭisaṃvedī assāsapassāsavasena cittassa ekaggataṃ avikkhepa
 
 1. Anupassatīti kathaṃ taṃ kāyaṃ anupassati…pe… evaṃ taṃ kāyaṃ anupassati.
 
-  * anupassati ti = 「『随観する（anupassati）』とは」
-  * kathaṃ = 「どのように」
-  * taṃ kāyaṃ = 「その身を」（対格）
-  * anupassati = 「随観する」（anu+√paś, 現在3単）
-  * …pe… = 「（中略）」（peyyāla 省略）
-  * evaṃ = 「かくのごとく」
+* anupassati ti = 「『随観する（anupassati）』とは」
+* kathaṃ = 「どのように」
+* taṃ kāyaṃ = 「その身を」（対格）
+* anupassati = 「随観する」（anu+√paś, 現在3単）
+* …pe… = 「（中略）」（peyyāla 省略）
+* evaṃ = 「かくのごとく」
 
 →「『随観する』とは、いかにしてその身を随観するのか――（中略）――かくのごとくその身を随観する。」
 
 2. Bhāvanāti catasso bhāvanā…pe… āsevanaṭṭhena bhāvanā.
 
-  * bhāvanā ti = 「『修習（bhāvanā）』とは」
-  * catasso bhāvanā = 「四つの修習」（catasso＝四、女性主格）
-  * …pe… = 「（中略）」
-  * āsevana-aṭṭhena = 「習行という意味において」（āsevana＝習行・反復実践／aṭṭha 具格）
-  * bhāvanā = 「修習〔である〕」
+* bhāvanā ti = 「『修習（bhāvanā）』とは」
+* catasso bhāvanā = 「四つの修習」（catasso＝四、女性主格）
+* …pe… = 「（中略）」
+* āsevana-aṭṭhena = 「習行という意味において」（āsevana＝習行・反復実践／aṭṭha 具格）
+* bhāvanā = 「修習〔である〕」
 
 →「『修習』とは、四つの修習である――（中略）――習行という意味において修習〔である〕。」
 
 3. Sabbakāyapaṭisaṃvedī assāsapassāsānaṃ [assāsapassāsā (syā.)] saṃvaraṭṭhena sīlavisuddhi, avikkhepaṭṭhena cittavisuddhi, dassanaṭṭhena diṭṭhivisuddhi.
 
-  * sabba-kāya-paṭisaṃvedī = 「全身を感受する〔規定の〕」
-  * assāsa-passāsānaṃ = 「出息・入息の」（属格複数）※異読 assāsapassāsā（主格複数, シャム本 syā.）
-  * saṃvara-aṭṭhena = 「防護という意味において」（saṃvara＝律儀・防護／aṭṭha 具格）
-  * sīla-visuddhi = 「戒清浄〔である〕」
-  * avikkhepa-aṭṭhena = 「無散乱という意味において」
-  * citta-visuddhi = 「心清浄〔である〕」
-  * dassana-aṭṭhena = 「見という意味において」（dassana＝見・観見）
-  * diṭṭhi-visuddhi = 「見清浄〔である〕」
+* sabba-kāya-paṭisaṃvedī = 「全身を感受する〔規定の〕」
+* assāsa-passāsānaṃ = 「出息・入息の」（属格複数）※異読 assāsapassāsā（主格複数, シャム本 syā.）
+* saṃvara-aṭṭhena = 「防護という意味において」（saṃvara＝律儀・防護／aṭṭha 具格）
+* sīla-visuddhi = 「戒清浄〔である〕」
+* avikkhepa-aṭṭhena = 「無散乱という意味において」
+* citta-visuddhi = 「心清浄〔である〕」
+* dassana-aṭṭhena = 「見という意味において」（dassana＝見・観見）
+* diṭṭhi-visuddhi = 「見清浄〔である〕」
 
 →「全身を感受する〔規定の〕出息・入息の、防護という意味において戒清浄〔があり〕、無散乱という意味において心清浄〔があり〕、見という意味において見清浄〔がある〕。」
 
 4. Yo tattha saṃvaraṭṭho, ayaṃ adhisīlasikkhā. Yo tattha avikkhepaṭṭho, ayaṃ adhicittasikkhā. Yo tattha dassanaṭṭho, ayaṃ adhipaññāsikkhā.
 
-  * yo tattha = 「そこにおいて～であるところのもの」（yo 関係代名詞・主格／tattha＝そこに）
-  * saṃvara-aṭṭho = 「防護という意味」（主格単数）
-  * ayaṃ = 「これは」
-  * adhisīla-sikkhā = 「増上戒学〔である〕」
-  * avikkhepa-aṭṭho = 「無散乱という意味」
-  * adhicitta-sikkhā = 「増上心学〔である〕」
-  * dassana-aṭṭho = 「見という意味」
-  * adhipaññā-sikkhā = 「増上慧学〔である〕」
+* yo tattha = 「そこにおいて～であるところのもの」（yo 関係代名詞・主格／tattha＝そこに）
+* saṃvara-aṭṭho = 「防護という意味」（主格単数）
+* ayaṃ = 「これは」
+* adhisīla-sikkhā = 「増上戒学〔である〕」
+* avikkhepa-aṭṭho = 「無散乱という意味」
+* adhicitta-sikkhā = 「増上心学〔である〕」
+* dassana-aṭṭho = 「見という意味」
+* adhipaññā-sikkhā = 「増上慧学〔である〕」
 
 →「そこにおいて防護という意味であるところのもの、これは増上戒学である。そこにおいて無散乱という意味であるところのもの、これは増上心学である。そこにおいて見という意味であるところのもの、これは増上慧学である。」
 
 5. Imā tisso sikkhāyo āvajjanto sikkhati, jānanto sikkhati, passanto sikkhati, paccavekkhanto sikkhati, cittaṃ adhiṭṭhahanto sikkhati, saddhāya adhimuccanto sikkhati, vīriyaṃ paggaṇhanto sikkhati, satiṃ upaṭṭhapento sikkhati, cittaṃ samādahanto sikkhati, paññāya pajānanto sikkhati, abhiññeyyaṃ abhijānanto sikkhati, pariññeyyaṃ parijānanto sikkhati, pahātabbaṃ pajahanto sikkhati, bhāvetabbaṃ bhāvento sikkhati, sacchikātabbaṃ sacchikaronto sikkhati.
 
-  * imā tisso sikkhāyo = 「これら三つの学を」（対格複数）
-  * 反復述語 sikkhati = 「学ぶ・修学する」（各句に共通）
-  * āvajjanto = 「引転する（心を向ける）ながら」（現在分詞・主格単数。以下同型）
-  * jānanto = 「知りながら」（jānāti, √jñā）
-  * passanto = 「見ながら」（passati, √dṛś）
-  * paccavekkhanto = 「観察しながら」（paccavekkhati）
-  * cittaṃ adhiṭṭhahanto = 「心を確立しながら」
-  * saddhāya adhimuccanto = 「信によって信解しながら」
-  * vīriyaṃ paggaṇhanto = 「精進を策励しながら」
-  * satiṃ upaṭṭhapento = 「念を現前させながら」（使役）
-  * cittaṃ samādahanto = 「心を等持しながら」
-  * paññāya pajānanto = 「慧によって了知しながら」
-  * abhiññeyyaṃ abhijānanto = 「証知されるべきものを証知しながら」
-  * pariññeyyaṃ parijānanto = 「遍知されるべきものを遍知しながら」
-  * pahātabbaṃ pajahanto = 「断じられるべきものを断じながら」
-  * bhāvetabbaṃ bhāvento = 「修習されるべきものを修習しながら」
-  * sacchikātabbaṃ sacchikaronto = 「体得されるべきものを体得しながら」
+* imā tisso sikkhāyo = 「これら三つの学を」（対格複数）
+* 反復述語 sikkhati = 「学ぶ・修学する」（各句に共通）
+* āvajjanto = 「引転する（心を向ける）ながら」（現在分詞・主格単数。以下同型）
+* jānanto = 「知りながら」（jānāti, √jñā）
+* passanto = 「見ながら」（passati, √dṛś）
+* paccavekkhanto = 「観察しながら」（paccavekkhati）
+* cittaṃ adhiṭṭhahanto = 「心を確立しながら」
+* saddhāya adhimuccanto = 「信によって信解しながら」
+* vīriyaṃ paggaṇhanto = 「精進を策励しながら」
+* satiṃ upaṭṭhapento = 「念を現前させながら」（使役）
+* cittaṃ samādahanto = 「心を等持しながら」
+* paññāya pajānanto = 「慧によって了知しながら」
+* abhiññeyyaṃ abhijānanto = 「証知されるべきものを証知しながら」
+* pariññeyyaṃ parijānanto = 「遍知されるべきものを遍知しながら」
+* pahātabbaṃ pajahanto = 「断じられるべきものを断じながら」
+* bhāvetabbaṃ bhāvento = 「修習されるべきものを修習しながら」
+* sacchikātabbaṃ sacchikaronto = 「体得されるべきものを体得しながら」
 
 →「これら三つの学を、引転しながら学び、知りながら学び、見ながら学び、観察しながら学び、心を確立しながら学び、信によって信解しながら学び、精進を策励しながら学び、念を現前させながら学び、心を等持しながら学び、慧によって了知しながら学び、証知されるべきものを証知しながら学び、遍知されるべきものを遍知しながら学び、断じられるべきものを断じながら学び、修習されるべきものを修習しながら学び、体得されるべきものを体得しながら学ぶ。」
 
 6. Sabbakāyapaṭisaṃvedī assāsapassāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato viditā vedanā uppajjanti…pe…
 
-  * sabba-kāya-paṭisaṃvedī = 「全身を感受する〔規定の〕」
-  * assāsa-passāsa-vasena = 「出息・入息によって」（vasa 具格）
-  * cittassa ekaggataṃ avikkhepaṃ = 「心の一境性・無散乱を」（対格）
-  * pajānato = 「了知する者にとって」（現在分詞・属格／与格）
-  * viditā = 「知られたものとして」（vidita 過去分詞・主格複数、女性 vedanā に一致）
-  * vedanā uppajjanti = 「諸受が生起する」（vedanā 主格複数／uppajjanti 現在3複）
-  * …pe… = 「（中略）」
+* sabba-kāya-paṭisaṃvedī = 「全身を感受する〔規定の〕」
+* assāsa-passāsa-vasena = 「出息・入息によって」（vasa 具格）
+* cittassa ekaggataṃ avikkhepaṃ = 「心の一境性・無散乱を」（対格）
+* pajānato = 「了知する者にとって」（現在分詞・属格／与格）
+* viditā = 「知られたものとして」（vidita 過去分詞・主格複数、女性 vedanā に一致）
+* vedanā uppajjanti = 「諸受が生起する」（vedanā 主格複数／uppajjanti 現在3複）
+* …pe… = 「（中略）」
 
 →「全身を感受する〔規定の〕出息・入息によって、心の一境性・無散乱を了知する者には、諸受が知られたものとして生起する――（中略）――」
 
 7. sabbakāyapaṭisaṃvedī assāsapassāsavasena cittassa ekaggataṃ avikkhepaṃ pajānanto indriyāni samodhāneti…pe…
 
-  * sabba-kāya-paṭisaṃvedī assāsa-passāsa-vasena … pajānanto = 「全身を感受する〔規定の〕出息・入息によって……了知しながら」（pajānanto 現在分詞・主格単数）
-  * indriyāni = 「諸根を」（対格複数）
-  * samodhāneti = 「統合する」（saṃ+ava+√dhā 使役, 現在3単）
-  * …pe… = 「（中略）」
+* sabba-kāya-paṭisaṃvedī assāsa-passāsa-vasena … pajānanto = 「全身を感受する〔規定の〕出息・入息によって……了知しながら」（pajānanto 現在分詞・主格単数）
+* indriyāni = 「諸根を」（対格複数）
+* samodhāneti = 「統合する」（saṃ+ava+√dhā 使役, 現在3単）
+* …pe… = 「（中略）」
 
 →「全身を感受する〔規定の〕出息・入息によって、心の一境性・無散乱を了知しながら、諸根を統合する――（中略）――」
 
 8. tena vuccati – "samatthañca paṭivijjhatī"ti.
 
-  * tena = 「それゆえに」（具格・理由）
-  * vuccati = 「説かれる」（√vac 受動・現在3単）
-  * samatthañca = 「均衡（平等）の目的をも」（sama＋atthaṃ＋ca。sama＝均衡・平等／attha＝目的）
-  * paṭivijjhati = 「洞察する」（paṭi+√vyadh, 現在3単）
-  * ti = 「～と」（引用辞）
+* tena = 「それゆえに」（具格・理由）
+* vuccati = 「説かれる」（√vac 受動・現在3単）
+* samatthañca = 「均衡（平等）の目的をも」（sama＋atthaṃ＋ca。sama＝均衡・平等／attha＝目的）
+* paṭivijjhati = 「洞察する」（paṭi+√vyadh, 現在3単）
+* ti = 「～と」（引用辞）
 
 →「それゆえに『均衡（平等）の目的をも洞察する』と説かれる。」
 
@@ -5129,94 +5129,94 @@ Yathārūpehi kāyasaṅkhārehi yā kāyassa ānamanā vinamanā sannamanā pa
 
 1. Kathaṃ ‘‘passambhayaṃ kāyasaṅkhāraṃ assasissāmī’’ti sikkhati, ‘‘passambhayaṃ kāyasaṅkhāraṃ passasissāmī’’ti sikkhati?
 
-  * kathaṃ = 「いかにして」（疑問副詞）
-  * passambhayaṃ = 「静めつつ・軽安にさせつつ」（passambhayati〔pa+√śrambh の使役〕の現在分詞・主格単数男性。passaddhi＝軽安と同根）
-  * kāyasaṅkhāraṃ = 「身行を」（kāya＋saṅkhāra、対格単数。tappurisa）
-  * assasissāmi = 「私は出息しよう」（assasati の未来・一人称単数）
-  * passasissāmi = 「私は入息しよう」（passasati の未来・一人称単数）
-  * ti sikkhati = 「と〔思って〕学ぶ」（sikkhati 現在・三人称単数）
+* kathaṃ = 「いかにして」（疑問副詞）
+* passambhayaṃ = 「静めつつ・軽安にさせつつ」（passambhayati〔pa+√śrambh の使役〕の現在分詞・主格単数男性。passaddhi＝軽安と同根）
+* kāyasaṅkhāraṃ = 「身行を」（kāya＋saṅkhāra、対格単数。tappurisa）
+* assasissāmi = 「私は出息しよう」（assasati の未来・一人称単数）
+* passasissāmi = 「私は入息しよう」（passasati の未来・一人称単数）
+* ti sikkhati = 「と〔思って〕学ぶ」（sikkhati 現在・三人称単数）
 
-    → 「いかにして『身行を静めつつ、私は出息しよう』と学び、『身行を静めつつ、私は入息しよう』と学ぶのか。」
+→ 「いかにして『身行を静めつつ、私は出息しよう』と学び、『身行を静めつつ、私は入息しよう』と学ぶのか。」
 
 2. Katamo kāyasaṅkhāro?
 
-  * katamo = 「いかなるものが・何が」（疑問代名詞、主格単数男性）
-  * kāyasaṅkhāro = 「身行は」（主格単数男性）
+* katamo = 「いかなるものが・何が」（疑問代名詞、主格単数男性）
+* kāyasaṅkhāro = 「身行は」（主格単数男性）
 
-    → 「身行とは何か。」
+→ 「身行とは何か。」
 
 3. Dīghaṃ assāsā kāyikā. Ete dhammā kāyapaṭibaddhā kāyasaṅkhārā. Te kāyasaṅkhāre passambhento nirodhento vūpasamento sikkhati.
 
-  * dīghaṃ = 「長く」（副詞的対格）
-  * assāsā = 「諸出息は」（主格複数男性）
-  * kāyikā = 「身に属するもの・身体的なもの」（主格複数男性）
-  * ete dhammā = 「これらの諸法は」（主格複数男性）
-  * kāyapaṭibaddhā = 「身に結びついたもの」（kāya＋paṭibaddha、主格複数）
-  * kāyasaṅkhārā = 「身行である」（主格複数男性）
-  * te kāyasaṅkhāre = 「それらの身行を」（対格複数男性）
-  * passambhento = 「静めつつ」（現在分詞・主格単数男性）
-  * nirodhento = 「滅させつつ」（nirodheti〔ni+√rudh の使役〕の現在分詞）
-  * vūpasamento = 「寂静にさせつつ」（vūpasameti〔vi+ava+√śam の使役〕の現在分詞）
-  * sikkhati = 「学ぶ」
+* dīghaṃ = 「長く」（副詞的対格）
+* assāsā = 「諸出息は」（主格複数男性）
+* kāyikā = 「身に属するもの・身体的なもの」（主格複数男性）
+* ete dhammā = 「これらの諸法は」（主格複数男性）
+* kāyapaṭibaddhā = 「身に結びついたもの」（kāya＋paṭibaddha、主格複数）
+* kāyasaṅkhārā = 「身行である」（主格複数男性）
+* te kāyasaṅkhāre = 「それらの身行を」（対格複数男性）
+* passambhento = 「静めつつ」（現在分詞・主格単数男性）
+* nirodhento = 「滅させつつ」（nirodheti〔ni+√rudh の使役〕の現在分詞）
+* vūpasamento = 「寂静にさせつつ」（vūpasameti〔vi+ava+√śam の使役〕の現在分詞）
+* sikkhati = 「学ぶ」
 
-    → 「長き出息は身に属するものである。これらの諸法は身に結びついたものであり、身行である。彼はそれらの身行を静め、滅させ、寂静にさせつつ学ぶ。」
+→ 「長き出息は身に属するものである。これらの諸法は身に結びついたものであり、身行である。彼はそれらの身行を静め、滅させ、寂静にさせつつ学ぶ。」
 
 4. Dīghaṃ passāsā kāyikā. Ete dhammā kāyapaṭibaddhā kāyasaṅkhārā. Te kāyasaṅkhāre passambhento nirodhento vūpasamento sikkhati.
 
-  * dīghaṃ passāsā = 「長き諸入息は」（主格複数男性。passāsa＝入息、本書の慣用による）
-  * kāyikā = 「身に属するもの」
-  * （以下、項3に同じ構文）
+* dīghaṃ passāsā = 「長き諸入息は」（主格複数男性。passāsa＝入息、本書の慣用による）
+* kāyikā = 「身に属するもの」
+* （以下、項3に同じ構文）
 
-    → 「長き入息は身に属するものである。これらの諸法は身に結びついたものであり、身行である。彼はそれらの身行を静め、滅させ、寂静にさせつつ学ぶ。」
+→ 「長き入息は身に属するものである。これらの諸法は身に結びついたものであり、身行である。彼はそれらの身行を静め、滅させ、寂静にさせつつ学ぶ。」
 
 5. Rassaṃ assāsā rassaṃ passāsā.
 
-  * rassaṃ = 「短く」（副詞的対格）
-  * assāsā = 「諸出息」（主格複数）
-  * passāsā = 「諸入息」（主格複数）
+* rassaṃ = 「短く」（副詞的対格）
+* assāsā = 「諸出息」（主格複数）
+* passāsā = 「諸入息」（主格複数）
 
-    → 「短き出息、短き入息〔も同様である〕。」
+→ 「短き出息、短き入息〔も同様である〕。」
 
 6. Sabbakāyapaṭisaṃvedī assāsā sabbakāyapaṭisaṃvedī passāsā kāyikā. Ete dhammā kāyapaṭibaddhā kāyasaṅkhārā. Te kāyasaṅkhāre passambhento nirodhento vūpasamento sikkhati.
 
-  * sabbakāyapaṭisaṃvedī = 「一切身を感受する者として（の）」（sabba＋kāya＋paṭisaṃvedin、kammadhāraya＋tappurisa）
-    * paṭisaṃvedī = 「感受する者」（paṭi+saṃ+√vid、現在分詞的）
-  * assāsā ... passāsā kāyikā = 「〔そのような〕諸出息・諸入息は身に属するものである」
-  * ete dhammā kāyapaṭibaddhā kāyasaṅkhārā = 「これらの諸法は身に結びついたものであり、身行である」
-  * te kāyasaṅkhāre passambhento nirodhento vūpasamento sikkhati = 「彼はそれらの身行を静め、滅させ、寂静にさせつつ学ぶ」
+* sabbakāyapaṭisaṃvedī = 「一切身を感受する者として（の）」（sabba＋kāya＋paṭisaṃvedin、kammadhāraya＋tappurisa）
+  * paṭisaṃvedī = 「感受する者」（paṭi+saṃ+√vid、現在分詞的）
+* assāsā ... passāsā kāyikā = 「〔そのような〕諸出息・諸入息は身に属するものである」
+* ete dhammā kāyapaṭibaddhā kāyasaṅkhārā = 「これらの諸法は身に結びついたものであり、身行である」
+* te kāyasaṅkhāre passambhento nirodhento vūpasamento sikkhati = 「彼はそれらの身行を静め、滅させ、寂静にさせつつ学ぶ」
 
-    → 「一切身を感受しつつの出息、一切身を感受しつつの入息は身に属するものである。これらの諸法は身に結びついたものであり、身行である。彼はそれらの身行を静め、滅させ、寂静にさせつつ学ぶ。」
+→ 「一切身を感受しつつの出息、一切身を感受しつつの入息は身に属するものである。これらの諸法は身に結びついたものであり、身行である。彼はそれらの身行を静め、滅させ、寂静にさせつつ学ぶ。」
 
 7. Yathārūpehi kāyasaṅkhārehi yā kāyassa ānamanā vinamanā sannamanā paṇamanā iñjanā phandanā calanā pakampanā – passambhayaṃ kāyasaṅkhāraṃ assasissāmīti sikkhati, passambhayaṃ kāyasaṅkhāraṃ passasissāmīti sikkhati.
 
-  * yathārūpehi kāyasaṅkhārehi = 「いかなる類の身行によって」（yathārūpa＝そのような・どのような、具格複数）
-  * yā = 「およそ～であるところの」（関係代名詞、主格・女性。以下の動作名詞を承ける）
-  * kāyassa = 「身体の」（属格単数）
-  * ānamanā = 「前屈（前へ曲げること）」（ā+√nam、女性動作名詞）
-  * vinamanā = 「後屈（反らすこと・横へ曲げること）」（vi+√nam）
-  * sannamanā = 「収縮（縮めること）」（saṃ+√nam）
-  * paṇamanā = 「傾屈（前傾・傾けること）」（pa+√nam）
-  * iñjanā = 「動揺（うごめき）」（√iñj）
-  * phandanā = 「顫動（ぴくつき・震え）」（√phand〔= spand〕）
-  * calanā = 「揺動（揺れ動き）」（√cal）
-  * pakampanā = 「戦慄（激しい震え）」（pa+√kamp）
-  * passambhayaṃ kāyasaṅkhāraṃ assasissāmīti sikkhati = 「『身行を静めつつ、私は出息しよう』と学ぶ」
+* yathārūpehi kāyasaṅkhārehi = 「いかなる類の身行によって」（yathārūpa＝そのような・どのような、具格複数）
+* yā = 「およそ～であるところの」（関係代名詞、主格・女性。以下の動作名詞を承ける）
+* kāyassa = 「身体の」（属格単数）
+* ānamanā = 「前屈（前へ曲げること）」（ā+√nam、女性動作名詞）
+* vinamanā = 「後屈（反らすこと・横へ曲げること）」（vi+√nam）
+* sannamanā = 「収縮（縮めること）」（saṃ+√nam）
+* paṇamanā = 「傾屈（前傾・傾けること）」（pa+√nam）
+* iñjanā = 「動揺（うごめき）」（√iñj）
+* phandanā = 「顫動（ぴくつき・震え）」（√phand〔= spand〕）
+* calanā = 「揺動（揺れ動き）」（√cal）
+* pakampanā = 「戦慄（激しい震え）」（pa+√kamp）
+* passambhayaṃ kāyasaṅkhāraṃ assasissāmīti sikkhati = 「『身行を静めつつ、私は出息しよう』と学ぶ」
 
-    → 「いかなる類の身行によって、身体の前屈・後屈・収縮・傾屈・動揺・顫動・揺動・戦慄があるとしても――〔そのような身行に関して〕『身行を静めつつ、私は出息しよう』と学び、『身行を静めつつ、私は入息しよう』と学ぶ。」
+→ 「いかなる類の身行によって、身体の前屈・後屈・収縮・傾屈・動揺・顫動・揺動・戦慄があるとしても――〔そのような身行に関して〕『身行を静めつつ、私は出息しよう』と学び、『身行を静めつつ、私は入息しよう』と学ぶ。」
 
 8. Yathārūpehi kāyasaṅkhārehi yā kāyassa na ānamanā na vinamanā na sannamanā na paṇamanā aniñjanā aphandanā acalanā akampanā santaṃ sukhumaṃ passambhayaṃ kāyasaṅkhāraṃ assasissāmīti sikkhati, passambhayaṃ kāyasaṅkhāraṃ passasissāmīti sikkhati.
 
-  * yathārūpehi kāyasaṅkhārehi = 「いかなる類の身行によって」（具格複数）
-  * yā kāyassa na ānamanā ... na paṇamanā = 「身体の前屈もなく、後屈もなく、収縮もなく、傾屈もなく」（na＋各動作名詞）
-  * aniñjanā = 「動揺なきこと」（a＋iñjanā）
-  * aphandanā = 「顫動なきこと」（a＋phandanā）
-  * acalanā = 「揺動なきこと」（a＋calanā）
-  * akampanā = 「戦慄なきこと」（a＋kampanā）
-  * santaṃ = 「寂静な」（√śam の過去分詞、対格単数男性、kāyasaṅkhāraṃ を修飾）
-  * sukhumaṃ = 「微細な」（対格単数男性、同上）
-  * passambhayaṃ kāyasaṅkhāraṃ assasissāmīti sikkhati = 「『身行を静めつつ、私は出息しよう』と学ぶ」
+* yathārūpehi kāyasaṅkhārehi = 「いかなる類の身行によって」（具格複数）
+* yā kāyassa na ānamanā ... na paṇamanā = 「身体の前屈もなく、後屈もなく、収縮もなく、傾屈もなく」（na＋各動作名詞）
+* aniñjanā = 「動揺なきこと」（a＋iñjanā）
+* aphandanā = 「顫動なきこと」（a＋phandanā）
+* acalanā = 「揺動なきこと」（a＋calanā）
+* akampanā = 「戦慄なきこと」（a＋kampanā）
+* santaṃ = 「寂静な」（√śam の過去分詞、対格単数男性、kāyasaṅkhāraṃ を修飾）
+* sukhumaṃ = 「微細な」（対格単数男性、同上）
+* passambhayaṃ kāyasaṅkhāraṃ assasissāmīti sikkhati = 「『身行を静めつつ、私は出息しよう』と学ぶ」
 
-    → 「いかなる類の身行によって、身体の前屈もなく、後屈もなく、収縮もなく、傾屈もなく、動揺なく、顫動なく、揺動なく、戦慄なくして――寂静で微細な身行を静めつつ『私は出息しよう』と学び、身行を静めつつ『私は入息しよう』と学ぶ。」
+→ 「いかなる類の身行によって、身体の前屈もなく、後屈もなく、収縮もなく、傾屈もなく、動揺なく、顫動なく、揺動なく、戦慄なくして――寂静で微細な身行を静めつつ『私は出息しよう』と学び、身行を静めつつ『私は入息しよう』と学ぶ。」
 
 ## 171 (2)
 
@@ -5228,126 +5228,126 @@ Iti kira ‘‘passambhayaṃ kāyasaṅkhāraṃ assasissāmī’’ti sikkhati
 
 1. Iti kira ‘‘passambhayaṃ kāyasaṅkhāraṃ assasissāmī’’ti sikkhati, ‘‘passambhayaṃ kāyasaṅkhāraṃ passasissāmī’’ti sikkhati.
 
-  * iti kira = 「いわく、このように〔という主張があるが〕」（kira は伝聞・他者の主張を示す不変化辞）
-  * passambhayaṃ kāyasaṅkhāraṃ = 「身行を静めつつ」（現在分詞＋対格）
-  * assasissāmi ... passasissāmi = 「私は出息しよう……私は入息しよう」（未来・一人称単数）
-  * ti sikkhati = 「と〔思って〕学ぶ」
+* iti kira = 「いわく、このように〔という主張があるが〕」（kira は伝聞・他者の主張を示す不変化辞）
+* passambhayaṃ kāyasaṅkhāraṃ = 「身行を静めつつ」（現在分詞＋対格）
+* assasissāmi ... passasissāmi = 「私は出息しよう……私は入息しよう」（未来・一人称単数）
+* ti sikkhati = 「と〔思って〕学ぶ」
 
-    → 「いわく、このように『身行を静めつつ、私は出息しよう』と学び、『身行を静めつつ、私は入息しよう』と学ぶ〔という〕。」
+→ 「いわく、このように『身行を静めつつ、私は出息しよう』と学び、『身行を静めつつ、私は入息しよう』と学ぶ〔という〕。」
 
 2. Evaṃ sante vātūpaladdhiyā ca pabhāvanā na hoti, assāsapassāsānañca pabhāvanā na hoti, ānāpānassatiyā ca pabhāvanā na hoti, ānāpānassatisamādhissa ca pabhāvanā na hoti;
 
-  * evaṃ sante = 「そうであるならば（このようである場合には）」（locative absolute）
-  * vātūpaladdhiyā = 「風の認知（呼吸の風の感得）の」（vāta＋upaladdhi、属格単数女性。upaladdhi＝把握・認知）
-  * pabhāvanā = 「顕現・成立・発展」（pabhāveti より、女性名詞。「育成・産出」の意）
-  * na hoti = 「生じない・成り立たない」
-  * assāsapassāsānaṃ = 「出入息の」（属格複数）
-  * ānāpānassatiyā = 「出入息念の」（属格単数女性）
-  * ānāpānassatisamādhissa = 「出入息念三昧の」（属格単数男性）
+* evaṃ sante = 「そうであるならば（このようである場合には）」（locative absolute）
+* vātūpaladdhiyā = 「風の認知（呼吸の風の感得）の」（vāta＋upaladdhi、属格単数女性。upaladdhi＝把握・認知）
+* pabhāvanā = 「顕現・成立・発展」（pabhāveti より、女性名詞。「育成・産出」の意）
+* na hoti = 「生じない・成り立たない」
+* assāsapassāsānaṃ = 「出入息の」（属格複数）
+* ānāpānassatiyā = 「出入息念の」（属格単数女性）
+* ānāpānassatisamādhissa = 「出入息念三昧の」（属格単数男性）
 
-    → 「そうであるならば、風の認知の成立もなく、出入息の成立もなく、出入息念の成立もなく、出入息念三昧の成立もないことになる。」
+→ 「そうであるならば、風の認知の成立もなく、出入息の成立もなく、出入息念の成立もなく、出入息念三昧の成立もないことになる。」
 
 3. na ca naṃ taṃ samāpattiṃ paṇḍitā samāpajjantipi vuṭṭhahantipi.
 
-  * na ca = 「また～ない」
-  * naṃ taṃ samāpattiṃ = 「その当の等至を」（naṃ は強調的指示辞、taṃ samāpattiṃ＝対格単数女性）
-  * paṇḍitā = 「賢者たちは」（主格複数男性）
-  * samāpajjanti pi = 「入定しもし」（samāpajjati 現在・三人称複数）
-  * vuṭṭhahanti pi = 「出定しもする〔ことがない〕」（vuṭṭhahati 現在・三人称複数）
+* na ca = 「また～ない」
+* naṃ taṃ samāpattiṃ = 「その当の等至を」（naṃ は強調的指示辞、taṃ samāpattiṃ＝対格単数女性）
+* paṇḍitā = 「賢者たちは」（主格複数男性）
+* samāpajjanti pi = 「入定しもし」（samāpajjati 現在・三人称複数）
+* vuṭṭhahanti pi = 「出定しもする〔ことがない〕」（vuṭṭhahati 現在・三人称複数）
 
-    → 「また賢者たちは、その当の等至に入定することも出定することもない〔ということになってしまう〕。」
+→ 「また賢者たちは、その当の等至に入定することも出定することもない〔ということになってしまう〕。」
 
 4. Iti kira ‘‘passambhayaṃ kāyasaṅkhāraṃ assasissāmī’’ti sikkhati, ‘‘passambhayaṃ kāyasaṅkhāraṃ passasissāmī’’ti sikkhati.
 
-  * （構文は項1に同じ。ここでは反論に対する解答の前提として再提示される）
+* （構文は項1に同じ。ここでは反論に対する解答の前提として再提示される）
 
-    → 「〔しかし〕いわく、このように『身行を静めつつ、私は出息しよう』と学び、『身行を静めつつ、私は入息しよう』と学ぶ〔のである〕。」
+→ 「〔しかし〕いわく、このように『身行を静めつつ、私は出息しよう』と学び、『身行を静めつつ、私は入息しよう』と学ぶ〔のである〕。」
 
 5. Evaṃ sante vātūpaladdhiyā ca pabhāvanā hoti, assāsapassāsānañca pabhāvanā hoti, ānāpānassatiyā ca pabhāvanā hoti. Ānāpānassatisamādhissa ca pabhāvanā hoti;
 
-  * evaṃ sante = 「そうであるならば」
-  * （以下、各語項2に同じ。ただし na を伴わず肯定）
-  * pabhāvanā hoti = 「成立する・顕現する」
+* evaṃ sante = 「そうであるならば」
+* （以下、各語項2に同じ。ただし na を伴わず肯定）
+* pabhāvanā hoti = 「成立する・顕現する」
 
-    → 「そうであるならば、風の認知の成立もあり、出入息の成立もあり、出入息念の成立もあり、出入息念三昧の成立もある。」
+→ 「そうであるならば、風の認知の成立もあり、出入息の成立もあり、出入息念の成立もあり、出入息念三昧の成立もある。」
 
 6. tañca naṃ samāpattiṃ paṇḍitā samāpajjantipi vuṭṭhahantipi.
 
-  * tañca naṃ samāpattiṃ = 「その当の等至に」（対格単数女性）
-  * paṇḍitā samāpajjanti pi vuṭṭhahanti pi = 「賢者たちは入定しもし、出定しもする」
+* tañca naṃ samāpattiṃ = 「その当の等至に」（対格単数女性）
+* paṇḍitā samāpajjanti pi vuṭṭhahanti pi = 「賢者たちは入定しもし、出定しもする」
 
-    → 「また賢者たちは、その当の等至に入定もし、出定もするのである。」
+→ 「また賢者たちは、その当の等至に入定もし、出定もするのである。」
 
 7. Yathā kathaṃ viya?
 
-  * yathā kathaṃ viya = 「あたかも何のごとくであるか（どのような譬えのごとくか）」（譬喩を導く問い）
+* yathā kathaṃ viya = 「あたかも何のごとくであるか（どのような譬えのごとくか）」（譬喩を導く問い）
 
-    → 「それはどのような譬えのごとくであるか。」
+→ 「それはどのような譬えのごとくであるか。」
 
 8. Seyyathāpi kaṃse ākoṭite paṭhamaṃ oḷārikā saddā pavattanti.
 
-  * seyyathāpi = 「たとえば～のように」
-  * kaṃse ākoṭite = 「青銅（の鐘・銅鑼）が打たれたとき」（locative absolute。kaṃsa＝青銅器・鐘、ākoṭite＝打たれた、過去分詞・処格）
-  * paṭhamaṃ = 「まず最初に」（副詞）
-  * oḷārikā saddā = 「粗大な諸音が」（主格複数男性）
-  * pavattanti = 「生じる」（現在・三人称複数）
+* seyyathāpi = 「たとえば～のように」
+* kaṃse ākoṭite = 「青銅（の鐘・銅鑼）が打たれたとき」（locative absolute。kaṃsa＝青銅器・鐘、ākoṭite＝打たれた、過去分詞・処格）
+* paṭhamaṃ = 「まず最初に」（副詞）
+* oḷārikā saddā = 「粗大な諸音が」（主格複数男性）
+* pavattanti = 「生じる」（現在・三人称複数）
 
-    → 「たとえば、青銅の鐘が打たれたとき、まず最初に粗大な諸音が生じる。」
+→ 「たとえば、青銅の鐘が打たれたとき、まず最初に粗大な諸音が生じる。」
 
 9. Oḷārikānaṃ saddānaṃ nimittaṃ suggahitattā sumanasikatattā sūpadhāritattā niruddhepi oḷārike sadde, atha pacchā sukhumakā saddā pavattanti.
 
-  * oḷārikānaṃ saddānaṃ nimittaṃ = 「粗大な諸音の相を」（nimitta＝相・特徴、対格単数中性）
-  * suggahitattā = 「善く把握されたことのゆえに」（su＋gahita＋tta、奪格的、原因を示す）
-  * sumanasikatattā = 「善く作意されたことのゆえに」（su＋manasikata＋tta）
-  * sūpadhāritattā = 「善く憶持された（注意を保持された）ことのゆえに」（su＋upadhārita＋tta）
-  * niruddhe pi oḷārike sadde = 「粗大な音が滅したときにも」（locative absolute、pi＝～にもかかわらず）
-  * atha pacchā = 「その後に」
-  * sukhumakā saddā = 「微細な諸音が」（主格複数男性）
-  * pavattanti = 「生じる」
+* oḷārikānaṃ saddānaṃ nimittaṃ = 「粗大な諸音の相を」（nimitta＝相・特徴、対格単数中性）
+* suggahitattā = 「善く把握されたことのゆえに」（su＋gahita＋tta、奪格的、原因を示す）
+* sumanasikatattā = 「善く作意されたことのゆえに」（su＋manasikata＋tta）
+* sūpadhāritattā = 「善く憶持された（注意を保持された）ことのゆえに」（su＋upadhārita＋tta）
+* niruddhe pi oḷārike sadde = 「粗大な音が滅したときにも」（locative absolute、pi＝～にもかかわらず）
+* atha pacchā = 「その後に」
+* sukhumakā saddā = 「微細な諸音が」（主格複数男性）
+* pavattanti = 「生じる」
 
-    → 「粗大な諸音の相が善く把握され、善く作意され、善く憶持されたがゆえに、粗大な音が滅したときにも、その後に微細な諸音が生じる。」
+→ 「粗大な諸音の相が善く把握され、善く作意され、善く憶持されたがゆえに、粗大な音が滅したときにも、その後に微細な諸音が生じる。」
 
 10. Sukhumakānaṃ saddānaṃ nimittaṃ suggahitattā sumanasikatattā sūpadhāritattā niruddhepi sukhumake sadde, atha pacchā sukhumasaddanimittārammaṇatāpi cittaṃ pavattati.
 
-  * sukhumakānaṃ saddānaṃ nimittaṃ = 「微細な諸音の相を」（対格単数中性）
-  * suggahitattā sumanasikatattā sūpadhāritattā = 「善く把握・作意・憶持されたことのゆえに」
-  * niruddhe pi sukhumake sadde = 「微細な音が滅したときにも」（locative absolute）
-  * atha pacchā = 「その後に」
-  * sukhumasaddanimittārammaṇatā = 「微細な音の相を所縁とすること」（sukhuma＋sadda＋nimitta＋ārammaṇa＋tā、抽象名詞。「微細音相を対象とする状態」）
-  * pi = 「～もまた」
-  * cittaṃ pavattati = 「心は働き続ける」（主格単数中性、現在・三人称単数）
+* sukhumakānaṃ saddānaṃ nimittaṃ = 「微細な諸音の相を」（対格単数中性）
+* suggahitattā sumanasikatattā sūpadhāritattā = 「善く把握・作意・憶持されたことのゆえに」
+* niruddhe pi sukhumake sadde = 「微細な音が滅したときにも」（locative absolute）
+* atha pacchā = 「その後に」
+* sukhumasaddanimittārammaṇatā = 「微細な音の相を所縁とすること」（sukhuma＋sadda＋nimitta＋ārammaṇa＋tā、抽象名詞。「微細音相を対象とする状態」）
+* pi = 「～もまた」
+* cittaṃ pavattati = 「心は働き続ける」（主格単数中性、現在・三人称単数）
 
-    → 「微細な諸音の相が善く把握され、善く作意され、善く憶持されたがゆえに、微細な音が滅したときにも、その後に微細な音の相を所縁とすることによって心は〔なお〕働き続ける。」
+→ 「微細な諸音の相が善く把握され、善く作意され、善く憶持されたがゆえに、微細な音が滅したときにも、その後に微細な音の相を所縁とすることによって心は〔なお〕働き続ける。」
 
 11. Evamevaṃ paṭhamaṃ oḷārikā assāsapassāsā pavattanti;
 
-  * evamevaṃ = 「まさにそのように（同様に）」（譬喩を本題に結びつける）
-  * paṭhamaṃ = 「まず最初に」
-  * oḷārikā assāsapassāsā = 「粗大な出入息が」（主格複数男性）
-  * pavattanti = 「生じる」
+* evamevaṃ = 「まさにそのように（同様に）」（譬喩を本題に結びつける）
+* paṭhamaṃ = 「まず最初に」
+* oḷārikā assāsapassāsā = 「粗大な出入息が」（主格複数男性）
+* pavattanti = 「生じる」
 
-    → 「まさにそのように、まず最初に粗大な出入息が生じる。」
+→ 「まさにそのように、まず最初に粗大な出入息が生じる。」
 
 12. oḷārikānaṃ assāsapassāsānaṃ nimittaṃ suggahitattā sumanasikatattā sūpadhāritattā niruddhepi oḷārike assāsapassāse, atha pacchā sukhumakā assāsapassāsā pavattanti.
 
-  * oḷārikānaṃ assāsapassāsānaṃ nimittaṃ = 「粗大な出入息の相を」（対格単数中性）
-  * suggahitattā sumanasikatattā sūpadhāritattā = 「善く把握・作意・憶持されたことのゆえに」
-  * niruddhe pi oḷārike assāsapassāse = 「粗大な出入息が滅したときにも」（locative absolute）
-  * atha pacchā sukhumakā assāsapassāsā pavattanti = 「その後に微細な出入息が生じる」
+* oḷārikānaṃ assāsapassāsānaṃ nimittaṃ = 「粗大な出入息の相を」（対格単数中性）
+* suggahitattā sumanasikatattā sūpadhāritattā = 「善く把握・作意・憶持されたことのゆえに」
+* niruddhe pi oḷārike assāsapassāse = 「粗大な出入息が滅したときにも」（locative absolute）
+* atha pacchā sukhumakā assāsapassāsā pavattanti = 「その後に微細な出入息が生じる」
 
-    → 「粗大な出入息の相が善く把握され、善く作意され、善く憶持されたがゆえに、粗大な出入息が滅したときにも、その後に微細な出入息が生じる。」
+→ 「粗大な出入息の相が善く把握され、善く作意され、善く憶持されたがゆえに、粗大な出入息が滅したときにも、その後に微細な出入息が生じる。」
 
 13. Sukhumakānaṃ assāsapassāsānaṃ nimittaṃ suggahitattā sumanasikatattā sūpadhāritattā niruddhepi sukhumake assāsapassāse, atha pacchā sukhumakaassāsapassāsānaṃ nimittārammaṇatāpi cittaṃ na vikkhepaṃ gacchati.
 
-  * sukhumakānaṃ assāsapassāsānaṃ nimittaṃ = 「微細な出入息の相を」（対格単数中性）
-  * suggahitattā sumanasikatattā sūpadhāritattā = 「善く把握・作意・憶持されたことのゆえに」
-  * niruddhe pi sukhumake assāsapassāse = 「微細な出入息が滅したときにも」（locative absolute）
-  * atha pacchā = 「その後に」
-  * sukhumakaassāsapassāsānaṃ nimittārammaṇatā = 「微細な出入息の相を所縁とすること」（抽象名詞）
-  * pi = 「～もまた」
-  * cittaṃ na vikkhepaṃ gacchati = 「心は散乱に陥らない」（vikkhepa＝散乱・散動、対格単数男性。gacchati＝赴く・陥る）
+* sukhumakānaṃ assāsapassāsānaṃ nimittaṃ = 「微細な出入息の相を」（対格単数中性）
+* suggahitattā sumanasikatattā sūpadhāritattā = 「善く把握・作意・憶持されたことのゆえに」
+* niruddhe pi sukhumake assāsapassāse = 「微細な出入息が滅したときにも」（locative absolute）
+* atha pacchā = 「その後に」
+* sukhumakaassāsapassāsānaṃ nimittārammaṇatā = 「微細な出入息の相を所縁とすること」（抽象名詞）
+* pi = 「～もまた」
+* cittaṃ na vikkhepaṃ gacchati = 「心は散乱に陥らない」（vikkhepa＝散乱・散動、対格単数男性。gacchati＝赴く・陥る）
 
-    → 「微細な出入息の相が善く把握され、善く作意され、善く憶持されたがゆえに、微細な出入息が滅したときにも、その後に微細な出入息の相を所縁とすることによって心は散乱に陥らない。」
+→ 「微細な出入息の相が善く把握され、善く作意され、善く憶持されたがゆえに、微細な出入息が滅したときにも、その後に微細な出入息の相を所縁とすることによって心は散乱に陥らない。」
 
 ## 171 (3)
 
@@ -5363,139 +5363,139 @@ Bhāṇavāro.
 
 1. Evaṃ sante vātūpaladdhiyā ca pabhāvanā hoti, assāsapassāsānañca pabhāvanā hoti, ānāpānassatiyā ca pabhāvanā hoti, ānāpānassatisamādhissa ca pabhāvanā hoti; tañca naṃ samāpattiṃ paṇḍitā samāpajjantipi vuṭṭhahantipi.
 
-  * evaṃ sante = 「そうであるならば」（処格絶対句）
-  * vātūpaladdhiyā ... pabhāvanā hoti = 「風の認知の成立がある」（vāta＋upaladdhi、属格単数女性）
-  * assāsapassāsānaṃ ... pabhāvanā hoti = 「出入息の成立がある」（属格複数）
-  * ānāpānassatiyā ... pabhāvanā hoti = 「出入息念の成立がある」
-  * ānāpānassatisamādhissa ... pabhāvanā hoti = 「出入息念三昧の成立がある」
-  * tañca naṃ samāpattiṃ = 「その当の等至に」（対格単数女性）
-  * paṇḍitā samāpajjanti pi vuṭṭhahanti pi = 「賢者たちは入定もし、出定もする」
+* evaṃ sante = 「そうであるならば」（処格絶対句）
+* vātūpaladdhiyā ... pabhāvanā hoti = 「風の認知の成立がある」（vāta＋upaladdhi、属格単数女性）
+* assāsapassāsānaṃ ... pabhāvanā hoti = 「出入息の成立がある」（属格複数）
+* ānāpānassatiyā ... pabhāvanā hoti = 「出入息念の成立がある」
+* ānāpānassatisamādhissa ... pabhāvanā hoti = 「出入息念三昧の成立がある」
+* tañca naṃ samāpattiṃ = 「その当の等至に」（対格単数女性）
+* paṇḍitā samāpajjanti pi vuṭṭhahanti pi = 「賢者たちは入定もし、出定もする」
 
-    → 「そうであるならば、風の認知の成立もあり、出入息の成立もあり、出入息念の成立もあり、出入息念三昧の成立もある。また賢者たちは、その当の等至に入定もし、出定もするのである。」
+→ 「そうであるならば、風の認知の成立もあり、出入息の成立もあり、出入息念の成立もあり、出入息念三昧の成立もある。また賢者たちは、その当の等至に入定もし、出定もするのである。」
 
 2. Passambhayaṃ kāyasaṅkhāraṃ assāsapassāsā kāyo upaṭṭhānaṃ sati anupassanā ñāṇaṃ.
 
-  * passambhayaṃ kāyasaṅkhāraṃ = 「身行を静めつつ」（現在分詞＋対格）
-  * assāsapassāsā kāyo = 「出入息は身である」（主格。出入息という身〔風大の身〕）
-  * upaṭṭhānaṃ = 「現前〔の場〕である」（主格単数中性）
-  * sati = 「念である」（主格単数女性）
-  * anupassanā ñāṇaṃ = 「随観は智である」（anupassanā 主格単数女性、ñāṇaṃ 主格単数中性）
+* passambhayaṃ kāyasaṅkhāraṃ = 「身行を静めつつ」（現在分詞＋対格）
+* assāsapassāsā kāyo = 「出入息は身である」（主格。出入息という身〔風大の身〕）
+* upaṭṭhānaṃ = 「現前〔の場〕である」（主格単数中性）
+* sati = 「念である」（主格単数女性）
+* anupassanā ñāṇaṃ = 「随観は智である」（anupassanā 主格単数女性、ñāṇaṃ 主格単数中性）
 
-    → 「身行を静めつつ〔の〕出入息は身である。現前は〔念の対象であり〕、念であり、随観は智である。」
+→ 「身行を静めつつ〔の〕出入息は身である。現前は〔念の対象であり〕、念であり、随観は智である。」
 
 3. Kāyo upaṭṭhānaṃ, no sati; sati upaṭṭhānañceva sati ca.
 
-  * kāyo upaṭṭhānaṃ = 「身は現前〔の場〕である」
-  * no sati = 「〔それ自体は〕念ではない」（no＝否定）
-  * sati upaṭṭhānañ ceva sati ca = 「念は現前〔の場〕でもあり、かつ念でもある」（upaṭṭhānaṃ＋ca eva ... sati ca）
+* kāyo upaṭṭhānaṃ = 「身は現前〔の場〕である」
+* no sati = 「〔それ自体は〕念ではない」（no＝否定）
+* sati upaṭṭhānañ ceva sati ca = 「念は現前〔の場〕でもあり、かつ念でもある」（upaṭṭhānaṃ＋ca eva ... sati ca）
 
-    → 「身は現前〔の場〕であって、念ではない。念は現前〔の場〕であり、かつ念でもある。」
+→ 「身は現前〔の場〕であって、念ではない。念は現前〔の場〕であり、かつ念でもある。」
 
 4. Tāya satiyā tena ñāṇena taṃ kāyaṃ anupassati.
 
-  * tāya satiyā = 「その念によって」（具格単数女性）
-  * tena ñāṇena = 「その智によって」（具格単数中性）
-  * taṃ kāyaṃ = 「その身を」（対格単数男性）
-  * anupassati = 「随観する」（現在・三人称単数）
+* tāya satiyā = 「その念によって」（具格単数女性）
+* tena ñāṇena = 「その智によって」（具格単数中性）
+* taṃ kāyaṃ = 「その身を」（対格単数男性）
+* anupassati = 「随観する」（現在・三人称単数）
 
-    → 「その念によって、その智によって、その身を随観する。」
+→ 「その念によって、その智によって、その身を随観する。」
 
 5. Tena vuccati – ‘‘kāye kāyānupassanāsatipaṭṭhānabhāvanā’’ti.
 
-  * tena vuccati = 「それゆえに〔こう〕言われる」
-  * kāye kāyānupassanā-satipaṭṭhāna-bhāvanā = 「身において身を随観する念処の修習」（kāye 処格単数、複合語）
+* tena vuccati = 「それゆえに〔こう〕言われる」
+* kāye kāyānupassanā-satipaṭṭhāna-bhāvanā = 「身において身を随観する念処の修習」（kāye 処格単数、複合語）
 
-    → 「それゆえに『身において身を随観する念処の修習』と言われる。」
+→ 「それゆえに『身において身を随観する念処の修習』と言われる。」
 
 6. Anupassatīti kathaṃ taṃ kāyaṃ anupassati…pe… evaṃ taṃ kāyaṃ anupassati.
 
-  * anupassati ti = 「『随観する』とは」（語句の標挙）
-  * kathaṃ taṃ kāyaṃ anupassati = 「いかにしてその身を随観するのか」
-  * …pe… = 「（中略）」
-  * evaṃ taṃ kāyaṃ anupassati = 「かくしてその身を随観する」
+* anupassati ti = 「『随観する』とは」（語句の標挙）
+* kathaṃ taṃ kāyaṃ anupassati = 「いかにしてその身を随観するのか」
+* …pe… = 「（中略）」
+* evaṃ taṃ kāyaṃ anupassati = 「かくしてその身を随観する」
 
-    → 「『随観する』とは――いかにしてその身を随観するのか。（中略）かくしてその身を随観する。」
+→ 「『随観する』とは――いかにしてその身を随観するのか。（中略）かくしてその身を随観する。」
 
 7. Bhāvanāti catasso bhāvanā…pe… āsevanaṭṭhena bhāvanā.
 
-  * bhāvanā ti = 「『修習』とは」（標挙）
-  * catasso bhāvanā = 「四種の修習〔がある〕」（catasso＝四、女性数詞）
-  * …pe… = 「（中略）」
-  * āsevanaṭṭhena bhāvanā = 「習修（反復実践）の意味において修習〔と言う〕」（āsevana＋attha、具格）
+* bhāvanā ti = 「『修習』とは」（標挙）
+* catasso bhāvanā = 「四種の修習〔がある〕」（catasso＝四、女性数詞）
+* …pe… = 「（中略）」
+* āsevanaṭṭhena bhāvanā = 「習修（反復実践）の意味において修習〔と言う〕」（āsevana＋attha、具格）
 
-    → 「『修習』とは――四種の修習〔がある〕。（中略）習修の意味において修習〔と言う〕。」
+→ 「『修習』とは――四種の修習〔がある〕。（中略）習修の意味において修習〔と言う〕。」
 
 8. Passambhayaṃ kāyasaṅkhāraṃ, assāsapassāsānaṃ saṃvaraṭṭhena sīlavisuddhi, avikkhepaṭṭhena cittavisuddhi, dassanaṭṭhena diṭṭhivisuddhi.
 
-  * passambhayaṃ kāyasaṅkhāraṃ = 「身行を静めつつ」
-  * assāsapassāsānaṃ = 「出入息の」（属格複数）
-  * saṃvaraṭṭhena sīlavisuddhi = 「防護の意味において戒清浄〔がある〕」（saṃvara＋attha、具格。sīlavisuddhi 主格）
-  * avikkhepaṭṭhena cittavisuddhi = 「不散乱の意味において心清浄〔がある〕」（avikkhepa＝散乱なきこと）
-  * dassanaṭṭhena diṭṭhivisuddhi = 「見の意味において見清浄〔がある〕」（dassana＝見・観察）
+* passambhayaṃ kāyasaṅkhāraṃ = 「身行を静めつつ」
+* assāsapassāsānaṃ = 「出入息の」（属格複数）
+* saṃvaraṭṭhena sīlavisuddhi = 「防護の意味において戒清浄〔がある〕」（saṃvara＋attha、具格。sīlavisuddhi 主格）
+* avikkhepaṭṭhena cittavisuddhi = 「不散乱の意味において心清浄〔がある〕」（avikkhepa＝散乱なきこと）
+* dassanaṭṭhena diṭṭhivisuddhi = 「見の意味において見清浄〔がある〕」（dassana＝見・観察）
 
-    → 「身行を静めつつ〔の〕出入息に関して、防護の意味において戒清浄があり、不散乱の意味において心清浄があり、見の意味において見清浄がある。」
+→ 「身行を静めつつ〔の〕出入息に関して、防護の意味において戒清浄があり、不散乱の意味において心清浄があり、見の意味において見清浄がある。」
 
 9. Yo tattha saṃvaraṭṭho, ayaṃ adhisīlasikkhā; yo tattha avikkhepaṭṭho, ayaṃ adhicittasikkhā; yo tattha dassanaṭṭho ayaṃ adhipaññāsikkhā.
 
-  * yo tattha saṃvaraṭṭho = 「そこにおいて防護の意味であるところのもの」（yo 関係代名詞・主格単数男性、tattha＝そこに）
-  * ayaṃ adhisīlasikkhā = 「これが増上戒学である」（主格単数女性）
-  * yo tattha avikkhepaṭṭho, ayaṃ adhicittasikkhā = 「そこにおいて不散乱の意味であるところのもの、これが増上心学である」
-  * yo tattha dassanaṭṭho, ayaṃ adhipaññāsikkhā = 「そこにおいて見の意味であるところのもの、これが増上慧学である」
+* yo tattha saṃvaraṭṭho = 「そこにおいて防護の意味であるところのもの」（yo 関係代名詞・主格単数男性、tattha＝そこに）
+* ayaṃ adhisīlasikkhā = 「これが増上戒学である」（主格単数女性）
+* yo tattha avikkhepaṭṭho, ayaṃ adhicittasikkhā = 「そこにおいて不散乱の意味であるところのもの、これが増上心学である」
+* yo tattha dassanaṭṭho, ayaṃ adhipaññāsikkhā = 「そこにおいて見の意味であるところのもの、これが増上慧学である」
 
-    → 「そこにおいて防護の意味であるもの、これが増上戒学である。そこにおいて不散乱の意味であるもの、これが増上心学である。そこにおいて見の意味であるもの、これが増上慧学である。」
+→ 「そこにおいて防護の意味であるもの、これが増上戒学である。そこにおいて不散乱の意味であるもの、これが増上心学である。そこにおいて見の意味であるもの、これが増上慧学である。」
 
 10. Imā tisso sikkhāyo āvajjanto sikkhati…pe… sacchikātabbaṃ sacchikaronto sikkhati,
 
-  * imā tisso sikkhāyo = 「これら三学を」（対格複数女性）
-  * āvajjanto sikkhati = 「転じ向けつつ（傾注しつつ）学ぶ」（āvajjati の現在分詞）
-  * …pe… = 「（中略）」
-  * sacchikātabbaṃ sacchikaronto sikkhati = 「体得されるべきものを体得しつつ学ぶ」（sacchikātabba＝体得されるべきもの、未来受動分詞。sacchikaronto＝現在分詞）
+* imā tisso sikkhāyo = 「これら三学を」（対格複数女性）
+* āvajjanto sikkhati = 「転じ向けつつ（傾注しつつ）学ぶ」（āvajjati の現在分詞）
+* …pe… = 「（中略）」
+* sacchikātabbaṃ sacchikaronto sikkhati = 「体得されるべきものを体得しつつ学ぶ」（sacchikātabba＝体得されるべきもの、未来受動分詞。sacchikaronto＝現在分詞）
 
-    → 「これら三学を傾注しつつ学ぶ。（中略）体得されるべきものを体得しつつ学ぶ。」
+→ 「これら三学を傾注しつつ学ぶ。（中略）体得されるべきものを体得しつつ学ぶ。」
 
 11. passambhayaṃ kāyasaṅkhāraṃ assāsapassāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato viditā vedanā uppajjanti…pe…
 
-  * passambhayaṃ kāyasaṅkhāraṃ = 「身行を静めつつ」
-  * assāsapassāsavasena = 「出入息によって（出入息を縁として）」（assāsapassāsa＋vasa、具格。「～の力によって」）
-  * cittassa ekaggataṃ avikkhepaṃ = 「心の一境性・不散乱を」（cittassa 属格、ekaggataṃ・avikkhepaṃ 対格）
-  * pajānato = 「了知する者にとって」（pajānanta の属格単数男性）
-  * viditā vedanā uppajjanti = 「諸受は知られたものとして生起する」（viditā＝「知られたものとして」、vedanā 主格複数、uppajjanti 現在・三人称複数）
-  * …pe… = 「（中略）」
+* passambhayaṃ kāyasaṅkhāraṃ = 「身行を静めつつ」
+* assāsapassāsavasena = 「出入息によって（出入息を縁として）」（assāsapassāsa＋vasa、具格。「～の力によって」）
+* cittassa ekaggataṃ avikkhepaṃ = 「心の一境性・不散乱を」（cittassa 属格、ekaggataṃ・avikkhepaṃ 対格）
+* pajānato = 「了知する者にとって」（pajānanta の属格単数男性）
+* viditā vedanā uppajjanti = 「諸受は知られたものとして生起する」（viditā＝「知られたものとして」、vedanā 主格複数、uppajjanti 現在・三人称複数）
+* …pe… = 「（中略）」
 
-    → 「身行を静めつつ、出入息によって心の一境性・不散乱を了知する者にとって、諸受は知られたものとして生起する。（中略）」
+→ 「身行を静めつつ、出入息によって心の一境性・不散乱を了知する者にとって、諸受は知られたものとして生起する。（中略）」
 
 12. passambhayaṃ kāyasaṅkhāraṃ assāsapassāsavasena cittassa ekaggataṃ avikkhepaṃ pajānanto indriyāni samodhāneti…pe…
 
-  * passambhayaṃ kāyasaṅkhāraṃ = 「身行を静めつつ」
-  * assāsapassāsavasena = 「出入息によって」
-  * cittassa ekaggataṃ avikkhepaṃ pajānanto = 「心の一境性・不散乱を了知しつつ」（pajānanta 主格単数男性）
-  * indriyāni samodhāneti = 「諸根を結合する（一処に集める・統合する）」（indriyāni 対格複数、samodhāneti＝saṃ+ava+√dhā の使役、現在・三人称単数）
-  * …pe… = 「（中略）」
+* passambhayaṃ kāyasaṅkhāraṃ = 「身行を静めつつ」
+* assāsapassāsavasena = 「出入息によって」
+* cittassa ekaggataṃ avikkhepaṃ pajānanto = 「心の一境性・不散乱を了知しつつ」（pajānanta 主格単数男性）
+* indriyāni samodhāneti = 「諸根を結合する（一処に集める・統合する）」（indriyāni 対格複数、samodhāneti＝saṃ+ava+√dhā の使役、現在・三人称単数）
+* …pe… = 「（中略）」
 
-    → 「身行を静めつつ、出入息によって心の一境性・不散乱を了知しつつ、諸根を結合する。（中略）」
+→ 「身行を静めつつ、出入息によって心の一境性・不散乱を了知しつつ、諸根を結合する。（中略）」
 
 13. tena vuccati – ‘‘samatthañca paṭivijjhatī’’ti.
 
-  * tena vuccati = 「それゆえに〔こう〕言われる」
-  * samatthañca paṭivijjhati = 「かつ均衡（平等）の目的を洞察する」（samatthaṃ＝sama-atthaṃ「均衡（平等）の目的を」、対格。paṭivijjhati＝洞察する、現在・三人称単数）
-  * ti = 「と」
+* tena vuccati = 「それゆえに〔こう〕言われる」
+* samatthañca paṭivijjhati = 「かつ均衡（平等）の目的を洞察する」（samatthaṃ＝sama-atthaṃ「均衡（平等）の目的を」、対格。paṭivijjhati＝洞察する、現在・三人称単数）
+* ti = 「と」
 
-    → 「それゆえに『かつ均衡（平等）の目的を洞察する』と言われる。」
+→ 「それゆえに『かつ均衡（平等）の目的を洞察する』と言われる。」
 
 14. Aṭṭha anupassanāñāṇāni, aṭṭha ca upaṭṭhānānussatiyo, cattāri suttantikavatthūni kāye kāyānupassanāya.
 
-  * aṭṭha anupassanāñāṇāni = 「八つの随観智〔がある〕」（aṭṭha＝八、anupassanā＋ñāṇa、主格複数中性）
-  * aṭṭha ca upaṭṭhānānussatiyo = 「また八つの現前随念〔がある〕」（upaṭṭhāna＋anussati、主格複数女性）
-  * cattāri suttantikavatthūni = 「四つの経典所説の事項〔がある〕」（cattāri＝四、suttantika＝経に属する＋vatthu、主格複数中性）
-  * kāye kāyānupassanāya = 「身における身随観に関して」（kāye 処格、kāyānupassanāya 属格単数女性）
+* aṭṭha anupassanāñāṇāni = 「八つの随観智〔がある〕」（aṭṭha＝八、anupassanā＋ñāṇa、主格複数中性）
+* aṭṭha ca upaṭṭhānānussatiyo = 「また八つの現前随念〔がある〕」（upaṭṭhāna＋anussati、主格複数女性）
+* cattāri suttantikavatthūni = 「四つの経典所説の事項〔がある〕」（cattāri＝四、suttantika＝経に属する＋vatthu、主格複数中性）
+* kāye kāyānupassanāya = 「身における身随観に関して」（kāye 処格、kāyānupassanāya 属格単数女性）
 
-    → 「身における身随観に関して、八つの随観智があり、また八つの現前随念があり、四つの経典所説の事項がある。」
+→ 「身における身随観に関して、八つの随観智があり、また八つの現前随念があり、四つの経典所説の事項がある。」
 
 15. Bhāṇavāro.
 
-  * bhāṇavāro = 「誦分（読誦の一区切り）」（bhāṇa＋vāra、主格単数男性）
+* bhāṇavāro = 「誦分（読誦の一区切り）」（bhāṇa＋vāra、主格単数男性）
 
-    → 「〔以上で〕誦分〔の終り〕。」
+→ 「〔以上で〕誦分〔の終り〕。」
 
 ## Dutiyacatukkaniddeso
 
@@ -6291,115 +6291,115 @@ Anupassatīti kathaṃ taṃ vedanaṃ anupassati? Aniccato anupassati…pe… 
 
 1. Kathaṃ "passambhayaṃ cittasaṅkhāraṃ assasissāmī"ti sikkhati, "passambhayaṃ cittasaṅkhāraṃ passasissāmī"ti sikkhati?
 
-  * Kathaṃ = 「いかにして」（疑問副詞）
-  * passambhayaṃ = 「静めつつ・軽安にさせつつ」（passambheti 使役・現在分詞・主格男性単数；cf. passaddhi＝軽安）
-  * cittasaṅkhāraṃ = 「心行を」（citta＋saṅkhāra、tappurisa、対格単数）
-  * assasissāmi = 「出息しよう」（assasati の未来・一人称単数；√śvas + ā）
-  * passasissāmi = 「入息しよう」（passasati の未来・一人称単数）
-  * ti sikkhati = 「と修学する」（√śikṣ 現在三人称単数）
+* Kathaṃ = 「いかにして」（疑問副詞）
+* passambhayaṃ = 「静めつつ・軽安にさせつつ」（passambheti 使役・現在分詞・主格男性単数；cf. passaddhi＝軽安）
+* cittasaṅkhāraṃ = 「心行を」（citta＋saṅkhāra、tappurisa、対格単数）
+* assasissāmi = 「出息しよう」（assasati の未来・一人称単数；√śvas + ā）
+* passasissāmi = 「入息しよう」（passasati の未来・一人称単数）
+* ti sikkhati = 「と修学する」（√śikṣ 現在三人称単数）
 
-    * 引用文＋「学ぶ」
+  * 引用文＋「学ぶ」
 
 →「いかにして『心行を静めつつ出息しよう』と修学し、『心行を静めつつ入息しよう』と修学するのか。」
 
 2. Katamo cittasaṅkhāro?
 
-  * Katamo = 「どのような・何が」（疑問代名詞・主格男性単数）
-  * cittasaṅkhāro = 「心行」（主格単数）
+* Katamo = 「どのような・何が」（疑問代名詞・主格男性単数）
+* cittasaṅkhāro = 「心行」（主格単数）
 
 →「心行とは何か。」
 
 3. Dīghaṃ assāsavasena saññā ca vedanā ca cetasikā – ete dhammā cittapaṭibaddhā cittasaṅkhārā.
 
-  * Dīghaṃ = 「長く」（副詞的対格）
-  * assāsavasena = 「出息によって・出息のゆえに」（assāsa＋vasa、具格）
-  * saññā ca vedanā ca = 「想と受」（主格、ca…ca＝「～も～も」）
-  * cetasikā = 「心所に属するもの」（主格複数）
-  * ete dhammā = 「これらの諸法」
-  * cittapaṭibaddhā = 「心に結びついた」（citta＋paṭibaddha；paṭi-√bandh の過去分詞、主格複数）
-  * cittasaṅkhārā = 「心行（である）」（主格複数）
+* Dīghaṃ = 「長く」（副詞的対格）
+* assāsavasena = 「出息によって・出息のゆえに」（assāsa＋vasa、具格）
+* saññā ca vedanā ca = 「想と受」（主格、ca…ca＝「～も～も」）
+* cetasikā = 「心所に属するもの」（主格複数）
+* ete dhammā = 「これらの諸法」
+* cittapaṭibaddhā = 「心に結びついた」（citta＋paṭibaddha；paṭi-√bandh の過去分詞、主格複数）
+* cittasaṅkhārā = 「心行（である）」（主格複数）
 
 →「長い出息によって生ずる想と受、これら心所――これらの諸法は心に結びついており、心行である。」
 
 4. Te cittasaṅkhāre passambhento nirodhento vūpasamento sikkhati.
 
-  * Te cittasaṅkhāre = 「それらの心行を」（対格複数）
-  * passambhento = 「静めつつ」（passambheti 使役・現在分詞・主格単数）
-  * nirodhento = 「滅させつつ」（nirodheti 使役・現在分詞）
-  * vūpasamento = 「寂静にさせつつ」（vūpasameti 使役・現在分詞）
-  * sikkhati = 「修学する」
+* Te cittasaṅkhāre = 「それらの心行を」（対格複数）
+* passambhento = 「静めつつ」（passambheti 使役・現在分詞・主格単数）
+* nirodhento = 「滅させつつ」（nirodheti 使役・現在分詞）
+* vūpasamento = 「寂静にさせつつ」（vūpasameti 使役・現在分詞）
+* sikkhati = 「修学する」
 
 →「彼はそれらの心行を静め、滅し、寂静にさせつつ修学する。」
 
 5. Dīghaṃ passāsavasena saññā ca vedanā ca cetasikā – ete dhammā cittapaṭibaddhā cittasaṅkhārā.
 
-  * Dīghaṃ passāsavasena = 「長い入息によって」（passāsa＋vasa、具格）
-  * （以下、第3チャンクに同じ）
+* Dīghaṃ passāsavasena = 「長い入息によって」（passāsa＋vasa、具格）
+* （以下、第3チャンクに同じ）
 
 →「長い入息によって生ずる想と受、これら心所――これらの諸法は心に結びついており、心行である。」
 
 6. Te cittasaṅkhāre passambhento nirodhento vūpasamento sikkhati.
 
-  * （第4チャンクに同じ）
+* （第4チャンクに同じ）
 
 →「彼はそれらの心行を静め、滅し、寂静にさせつつ修学する。」
 
 7. Cittasaṅkhārapaṭisaṃvedī assāsavasena… cittasaṅkhārapaṭisaṃvedī passāsavasena saññā ca vedanā ca cetasikā – ete dhammā cittapaṭibaddhā cittasaṅkhārā.
 
-  * Cittasaṅkhārapaṭisaṃvedī = 「心行を感受する者として」（paṭisaṃvedī；paṭi-saṃ-√vid＋in、主格男性単数）
-  * assāsavasena = 「出息によって」
-  * … = （中略）（peyyāla 省略）
-  * passāsavasena = 「入息によって」
-  * saññā ca vedanā ca cetasikā… = 「想と受、これら心所…」（以下、第3チャンクに同じ）
+* Cittasaṅkhārapaṭisaṃvedī = 「心行を感受する者として」（paṭisaṃvedī；paṭi-saṃ-√vid＋in、主格男性単数）
+* assāsavasena = 「出息によって」
+* … = （中略）（peyyāla 省略）
+* passāsavasena = 「入息によって」
+* saññā ca vedanā ca cetasikā… = 「想と受、これら心所…」（以下、第3チャンクに同じ）
 
 →「『心行を感受する者として』出息によって（中略）『心行を感受する者として』入息によって生ずる想と受、これら心所――これらの諸法は心に結びついており、心行である。」
 
 8. Te cittasaṅkhāre passambhento nirodhento vūpasamento sikkhati.
 
-  * （第4チャンクに同じ）
+* （第4チャンクに同じ）
 
 →「彼はそれらの心行を静め、滅し、寂静にさせつつ修学する。」
 
 9. Passambhayaṃ cittasaṅkhāraṃ assāsapassāsavasena vedanā upaṭṭhānaṃ sati anupassanā ñāṇaṃ.
 
-  * Passambhayaṃ cittasaṅkhāraṃ = 「心行を静めつつ」
-  * assāsapassāsavasena = 「出息・入息によって」（assāsa＋passāsa＋vasa、具格）
-  * vedanā = 「受は」（主格）
-  * upaṭṭhānaṃ = 「現前（＝対象として立ち現れるもの）（である）」
-  * sati = 「念は」
-  * anupassanā = 「随観（であり）」
-  * ñāṇaṃ = 「智（である）」
+* Passambhayaṃ cittasaṅkhāraṃ = 「心行を静めつつ」
+* assāsapassāsavasena = 「出息・入息によって」（assāsa＋passāsa＋vasa、具格）
+* vedanā = 「受は」（主格）
+* upaṭṭhānaṃ = 「現前（＝対象として立ち現れるもの）（である）」
+* sati = 「念は」
+* anupassanā = 「随観（であり）」
+* ñāṇaṃ = 「智（である）」
 
 →「心行を静めつつ、出息・入息によって、受は現前であり、念は随観であり、智である。」
 
 10. Vedanā upaṭṭhānaṃ, no sati; sati upaṭṭhānañceva sati ca.
 
-  * Vedanā upaṭṭhānaṃ = 「受は現前（である）」
-  * no sati = 「念ではない」
-  * sati = 「念は」
-  * upaṭṭhānañceva = 「現前でもあり」（upaṭṭhānaṃ＋ca＋eva）
-  * sati ca = 「また念でもある」
+* Vedanā upaṭṭhānaṃ = 「受は現前（である）」
+* no sati = 「念ではない」
+* sati = 「念は」
+* upaṭṭhānañceva = 「現前でもあり」（upaṭṭhānaṃ＋ca＋eva）
+* sati ca = 「また念でもある」
 
 →「受は現前であって念ではない。念は現前であり、かつ念でもある。」
 
 11. Tāya satiyā tena ñāṇena taṃ vedanaṃ anupassati.
 
-  * Tāya satiyā = 「その念によって」（具格）
-  * tena ñāṇena = 「その智によって」（具格）
-  * taṃ vedanaṃ = 「その受を」（対格）
-  * anupassati = 「随観する」（anu-√paś 現在三人称単数）
+* Tāya satiyā = 「その念によって」（具格）
+* tena ñāṇena = 「その智によって」（具格）
+* taṃ vedanaṃ = 「その受を」（対格）
+* anupassati = 「随観する」（anu-√paś 現在三人称単数）
 
 →「その念によって、その智によって、彼はその受を随観する。」
 
 12. Tena vuccati – "vedanāsu vedanānupassanāsatipaṭṭhānabhāvanā"ti.
 
-  * Tena = 「それゆえに」（具格・原因）
-  * vuccati = 「言われる」（√vac 受動・三人称単数）
-  * vedanāsu = 「諸受において」（処格複数）
-  * vedanānupassanā = 「受随観」（vedanā＋anupassanā、tappurisa）
-  * satipaṭṭhāna = 「念処」（sati＋upaṭṭhāna）
-  * bhāvanā = 「修習」
-  * ti = 「と（いう）」
+* Tena = 「それゆえに」（具格・原因）
+* vuccati = 「言われる」（√vac 受動・三人称単数）
+* vedanāsu = 「諸受において」（処格複数）
+* vedanānupassanā = 「受随観」（vedanā＋anupassanā、tappurisa）
+* satipaṭṭhāna = 「念処」（sati＋upaṭṭhāna）
+* bhāvanā = 「修習」
+* ti = 「と（いう）」
 
 →「それゆえに『諸受における受随観・念処の修習』と言われる。」
 
@@ -6413,65 +6413,65 @@ Aṭṭha anupassanāñāṇāni aṭṭha ca upaṭṭhānānussatiyo cattāri 
 
 1. Anupassatī ti kathaṃ taṃ vedanaṃ anupassati…pe… evaṃ taṃ vedanaṃ anupassati.
 
-  * Anupassati = 「随観する」（anu-√paś、現在三人称単数；これが lemma として提示される）
-  * ti = 「とは」（引用・定義の標示）
-  * kathaṃ = 「いかにして」
-  * taṃ vedanaṃ = 「その受を」（対格単数）
-  * …pe… = （中略）（peyyāla 省略）
-  * evaṃ = 「このように」
-  * anupassati = 「随観する」
+* Anupassati = 「随観する」（anu-√paś、現在三人称単数；これが lemma として提示される）
+* ti = 「とは」（引用・定義の標示）
+* kathaṃ = 「いかにして」
+* taṃ vedanaṃ = 「その受を」（対格単数）
+* …pe… = （中略）（peyyāla 省略）
+* evaṃ = 「このように」
+* anupassati = 「随観する」
 
 →「『随観する』とは――いかにしてその受を随観するのか。（中略）このようにその受を随観する。」
 
 2. Bhāvanā ti catasso bhāvanā…pe… āsevanaṭṭhena bhāvanā.
 
-  * Bhāvanā ti = 「『修習』とは」
-  * catasso bhāvanā = 「四種の修習」（catasso＝四、女性主格）
-  * …pe… = （中略）
-  * āsevanaṭṭhena = 「習修という意味において」（āsevana＋attha、具格；反復実践の意）
-  * bhāvanā = 「修習（である）」
+* Bhāvanā ti = 「『修習』とは」
+* catasso bhāvanā = 「四種の修習」（catasso＝四、女性主格）
+* …pe… = （中略）
+* āsevanaṭṭhena = 「習修という意味において」（āsevana＋attha、具格；反復実践の意）
+* bhāvanā = 「修習（である）」
 
 →「『修習』とは――四種の修習（中略）習修（反復実践）という意味において修習（である）。」
 
 3. Passambhayaṃ cittasaṅkhāraṃ assāsapassāsānaṃ saṃvaraṭṭhena sīlavisuddhi…pe… passambhayaṃ cittasaṅkhāraṃ assāsapassāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato…pe… pajānanto indriyāni samodhāneti.
 
-  * Passambhayaṃ cittasaṅkhāraṃ = 「心行を静めつつ」
-  * assāsapassāsānaṃ = 「出息・入息の」（属格複数）
-  * saṃvaraṭṭhena = 「防護（律儀）という意味において」（saṃvara＋attha、具格）
-  * sīlavisuddhi = 「戒清浄」（sīla＋visuddhi）
-  * …pe… = （中略）
-  * assāsapassāsavasena = 「出息・入息によって」（具格）
-  * cittassa = 「心の」（属格単数）
-  * ekaggataṃ = 「一境性を」（eka＋agga＋tā、対格）
-  * avikkhepaṃ = 「無散乱を」（a＋vikkhepa、対格）
-  * pajānato = 「了知する者にとって」（pajānant の属格単数、独立属格）
-  * …pe… = （中略）
-  * pajānanto = 「了知しつつ」（pajānant 現在分詞・主格単数）
-  * indriyāni = 「諸根を」（対格複数）
-  * samodhāneti = 「統合する」（saṃ-ava-√dhā 使役、現在三人称単数）
+* Passambhayaṃ cittasaṅkhāraṃ = 「心行を静めつつ」
+* assāsapassāsānaṃ = 「出息・入息の」（属格複数）
+* saṃvaraṭṭhena = 「防護（律儀）という意味において」（saṃvara＋attha、具格）
+* sīlavisuddhi = 「戒清浄」（sīla＋visuddhi）
+* …pe… = （中略）
+* assāsapassāsavasena = 「出息・入息によって」（具格）
+* cittassa = 「心の」（属格単数）
+* ekaggataṃ = 「一境性を」（eka＋agga＋tā、対格）
+* avikkhepaṃ = 「無散乱を」（a＋vikkhepa、対格）
+* pajānato = 「了知する者にとって」（pajānant の属格単数、独立属格）
+* …pe… = （中略）
+* pajānanto = 「了知しつつ」（pajānant 現在分詞・主格単数）
+* indriyāni = 「諸根を」（対格複数）
+* samodhāneti = 「統合する」（saṃ-ava-√dhā 使役、現在三人称単数）
 
 →「心行を静めつつ、出息・入息の防護（律儀）という意味において戒清浄（があり）（中略）、心行を静めつつ、出息・入息によって心の一境性・無散乱を了知する者にとって（中略）、了知しつつ彼は諸根を統合する。」
 
 4. Tena vuccati – "samatthañca paṭivijjhatī"ti.
 
-  * Tena = 「それゆえに」（具格・原因）
-  * vuccati = 「言われる」（√vac 受動・三人称単数）
-  * samatthaṃ ca = 「均衡（平等）の目的をも」（sama＋attha、対格）
-  * paṭivijjhati = 「洞察する」（paṭi-√vyadh、現在三人称単数）
-  * ti = 「と」
+* Tena = 「それゆえに」（具格・原因）
+* vuccati = 「言われる」（√vac 受動・三人称単数）
+* samatthaṃ ca = 「均衡（平等）の目的をも」（sama＋attha、対格）
+* paṭivijjhati = 「洞察する」（paṭi-√vyadh、現在三人称単数）
+* ti = 「と」
 
 →「それゆえに『（彼は）均衡（平等）の目的をも洞察する』と言われる。」
 
 5. Aṭṭha anupassanāñāṇāni aṭṭha ca upaṭṭhānānussatiyo cattāri suttantikavatthūni vedanāsu vedanānupassanāya.
 
-  * Aṭṭha = 「八つの」
-  * anupassanāñāṇāni = 「随観智」（anupassanā＋ñāṇa、主格中性複数）
-  * aṭṭha ca = 「また八つの」
-  * upaṭṭhānānussatiyo = 「現前随念」（upaṭṭhāna＋anussati、主格女性複数）
-  * cattāri = 「四つの」（中性複数）
-  * suttantikavatthūni = 「経分別的事項・経に基づく基盤」（suttantika＋vatthu、主格中性複数）
-  * vedanāsu = 「諸受における」（処格複数）
-  * vedanānupassanāya = 「受随観の（ために）」（属格／与格単数）
+* Aṭṭha = 「八つの」
+* anupassanāñāṇāni = 「随観智」（anupassanā＋ñāṇa、主格中性複数）
+* aṭṭha ca = 「また八つの」
+* upaṭṭhānānussatiyo = 「現前随念」（upaṭṭhāna＋anussati、主格女性複数）
+* cattāri = 「四つの」（中性複数）
+* suttantikavatthūni = 「経分別的事項・経に基づく基盤」（suttantika＋vatthu、主格中性複数）
+* vedanāsu = 「諸受における」（処格複数）
+* vedanānupassanāya = 「受随観の（ために）」（属格／与格単数）
 
 →「受随観においては、諸受における受随観のために、八つの随観智と、八つの現前随念と、四つの経分別的事項（がある）。」
 
@@ -6921,147 +6921,147 @@ Anupassatīti kathaṃ taṃ cittaṃ anupassati…pe… evaṃ taṃ cittaṃ a
 
 1. Kathaṃ ‘‘samādahaṃ cittaṃ assasissāmī’’ti sikkhati, ‘‘samādahaṃ cittaṃ passasissāmī’’ti sikkhati?
 
-  * kathaṃ = 「いかにして」
+* kathaṃ = 「いかにして」
 
-  * samādahaṃ = 「統一しつつ、定置しつつ」（samādahati < sam-ā-√dhā の現在分詞・主格単数）
+* samādahaṃ = 「統一しつつ、定置しつつ」（samādahati < sam-ā-√dhā の現在分詞・主格単数）
 
-  * cittaṃ = 「心を」（対格単数）
+* cittaṃ = 「心を」（対格単数）
 
-  * assasissāmī = 「出息しよう」（assasati の未来一人称単数）〔Paṭisambhidāmagga 慣例：assāsa=出息〕
+* assasissāmī = 「出息しよう」（assasati の未来一人称単数）〔Paṭisambhidāmagga 慣例：assāsa=出息〕
 
-  * ti = 「と」（引用辞）
+* ti = 「と」（引用辞）
 
-  * sikkhati = 「学ぶ」（現在三人称単数）
+* sikkhati = 「学ぶ」（現在三人称単数）
 
-  * passasissāmī = 「入息しよう」（passasati の未来一人称単数）〔passāsa=入息〕
+* passasissāmī = 「入息しよう」（passasati の未来一人称単数）〔passāsa=入息〕
 
 → 「いかにして『心を統一しつつ出息しよう』と学び、『心を統一しつつ入息しよう』と学ぶのか。」
 
 2. Katamo samādhi [katamañca samādhindriyaṃ (syā.)]?
 
-  * katamo = 「どのような」（疑問代名詞・主格単数男性）
+* katamo = 「どのような」（疑問代名詞・主格単数男性）
 
-  * samādhi = 「定（samādhi）」
+* samādhi = 「定（samādhi）」
 
-  * katamañca = 「また、どのような～か」（異読）
+* katamañca = 「また、どのような～か」（異読）
 
-  * samādhindriyaṃ = 「定根」（異読 syā.）
+* samādhindriyaṃ = 「定根」（異読 syā.）
 
 → 「（その）定とは、どのようなものか。〔異読：また定根とは、どのようなものか。〕」
 
 3. Dīghaṃ assāsavasena cittassa ekaggatā avikkhepo samādhi,
 
-  * dīghaṃ = 「長く」（副詞的対格）
+* dīghaṃ = 「長く」（副詞的対格）
 
-  * assāsa-vasena = 「出息を通じて、出息のゆえに」（具格／tappurisa；vasa=力・自在）
+* assāsa-vasena = 「出息を通じて、出息のゆえに」（具格／tappurisa；vasa=力・自在）
 
-  * cittassa = 「心の」（属格単数）
+* cittassa = 「心の」（属格単数）
 
-  * ekaggatā = 「一境性」
+* ekaggatā = 「一境性」
 
-  * avikkhepo = 「不散乱」
+* avikkhepo = 「不散乱」
 
-  * samādhi = 「定」
+* samādhi = 「定」
 
 → 「長き出息を通じての心の一境性・不散乱が定である。」
 
 4. yā cittassa ṭhiti saṇṭhiti avaṭṭhiti [adhiṭṭiti (syā.)] avisāhāro avikkhepo avisāhaṭamānasatā [avisāhatamānasatā (syā. ka.)] samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi.
 
-  * yā = 「～であるところの」（関係代名詞・主格単数女性）
+* yā = 「～であるところの」（関係代名詞・主格単数女性）
 
-  * cittassa ṭhiti = 「心の住（停住）」
+* cittassa ṭhiti = 「心の住（停住）」
 
-  * saṇṭhiti = 「等住」
+* saṇṭhiti = 「等住」
 
-  * avaṭṭhiti = 「近住、確立」〔異読 adhiṭṭiti=増住〕
+* avaṭṭhiti = 「近住、確立」〔異読 adhiṭṭiti=増住〕
 
-  * avisāhāro = 「不動乱（散らされざること）」
+* avisāhāro = 「不動乱（散らされざること）」
 
-  * avikkhepo = 「不散乱」
+* avikkhepo = 「不散乱」
 
-  * avisāhaṭamānasatā = 「心が散乱せざる状態（意の不散乱性）」〔異読 avisāhatamānasatā〕
+* avisāhaṭamānasatā = 「心が散乱せざる状態（意の不散乱性）」〔異読 avisāhatamānasatā〕
 
-  * samatho = 「止（サマタ）」
+* samatho = 「止（サマタ）」
 
-  * samādhindriyaṃ = 「定根」
+* samādhindriyaṃ = 「定根」
 
-  * samādhibalaṃ = 「定力」
+* samādhibalaṃ = 「定力」
 
-  * sammāsamādhi = 「正定」
+* sammāsamādhi = 「正定」
 
 → 「すなわち、心の住・等住・近住・不動乱・不散乱・心の不散乱性・止・定根・定力・正定（がそれである）。」
 
 5. Dīghaṃ passāsavasena cittassa ekaggatā avikkhepo samādhi…pe… samādahaṃ cittaṃ assāsavasena…pe… samādahaṃ cittaṃ passāsavasena cittassa ekaggatā avikkhepo samādhi.
 
-  * dīghaṃ passāsavasena = 「長き入息を通じて」
+* dīghaṃ passāsavasena = 「長き入息を通じて」
 
-  * …pe… = 「（中略）」（聖典の省略標記 peyyāla）
+* …pe… = 「（中略）」（聖典の省略標記 peyyāla）
 
-  * samādahaṃ cittaṃ assāsavasena = 「出息を通じて心を統一しつつ」
+* samādahaṃ cittaṃ assāsavasena = 「出息を通じて心を統一しつつ」
 
-  * samādahaṃ cittaṃ passāsavasena = 「入息を通じて心を統一しつつ」
+* samādahaṃ cittaṃ passāsavasena = 「入息を通じて心を統一しつつ」
 
-  * cittassa ekaggatā avikkhepo samādhi = 「心の一境性・不散乱が定である」
+* cittassa ekaggatā avikkhepo samādhi = 「心の一境性・不散乱が定である」
 
 → 「長き入息を通じての心の一境性・不散乱が定である（中略）出息を通じて心を統一しつつ（中略）入息を通じて心を統一しつつ――心の一境性・不散乱が定である。」
 
 6. Yā cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – ayaṃ samādhi.
 
-  * yā … sammāsamādhi = （前掲第4項に同じ定型列挙）
+* yā … sammāsamādhi = （前掲第4項に同じ定型列挙）
 
-  * ayaṃ samādhi = 「これが（その）定である」（指示代名詞・主格単数男性）
+* ayaṃ samādhi = 「これが（その）定である」（指示代名詞・主格単数男性）
 
 → 「すなわち、心の住・等住・近住・不動乱・不散乱・心の不散乱性・止・定根・定力・正定――これが（その）定である。」
 
 7. Samādahaṃ cittaṃ assāsapassāsavasena viññāṇaṃ cittaṃ upaṭṭhānaṃ sati anupassanā ñāṇaṃ.
 
-  * samādahaṃ cittaṃ assāsapassāsavasena = 「出息・入息を通じて心を統一しつつ」
+* samādahaṃ cittaṃ assāsapassāsavasena = 「出息・入息を通じて心を統一しつつ」
 
-  * viññāṇaṃ cittaṃ = 「識は心（である）」（所縁としての心；viññāṇa=識）
+* viññāṇaṃ cittaṃ = 「識は心（である）」（所縁としての心；viññāṇa=識）
 
-  * upaṭṭhānaṃ sati = 「現前は念（である）」（upaṭṭhāna=現前／sati=念、ここでは ñāṇasampayuttā たる念）
+* upaṭṭhānaṃ sati = 「現前は念（である）」（upaṭṭhāna=現前／sati=念、ここでは ñāṇasampayuttā たる念）
 
-  * anupassanā ñāṇaṃ = 「随観は智（である）」（anupassanā=随観／ñāṇa=智）
+* anupassanā ñāṇaṃ = 「随観は智（である）」（anupassanā=随観／ñāṇa=智）
 
 → 「出息・入息を通じて心を統一しつつ――識は心であり、現前は念であり、随観は智である。」
 
 8. Cittaṃ upaṭṭhānaṃ, no sati; sati upaṭṭhānañceva sati ca.
 
-  * cittaṃ upaṭṭhānaṃ = 「心は現前（＝立ち現れる所縁）である」
+* cittaṃ upaṭṭhānaṃ = 「心は現前（＝立ち現れる所縁）である」
 
-  * no sati = 「（しかし）念ではない」
+* no sati = 「（しかし）念ではない」
 
-  * sati upaṭṭhānañceva sati ca = 「念は現前でもあり、かつ念でもある」（upaṭṭhānaṃ + ca eva … sati ca の連辞）
+* sati upaṭṭhānañceva sati ca = 「念は現前でもあり、かつ念でもある」（upaṭṭhānaṃ + ca eva … sati ca の連辞）
 
 → 「心は現前であって、念ではない。念は現前でもあり、かつ念でもある。」
 
 9. Tāya satiyā tena ñāṇena taṃ cittaṃ anupassati.
 
-  * tāya satiyā = 「その念によって」（具格単数女性）
+* tāya satiyā = 「その念によって」（具格単数女性）
 
-  * tena ñāṇena = 「その智によって」（具格単数中性）
+* tena ñāṇena = 「その智によって」（具格単数中性）
 
-  * taṃ cittaṃ = 「その心を」（対格単数）
+* taṃ cittaṃ = 「その心を」（対格単数）
 
-  * anupassati = 「随観する」（現在三人称単数）
+* anupassati = 「随観する」（現在三人称単数）
 
 → 「その念によって、その智によって、その心を随観する。」
 
 10. Tena vuccati – ‘‘citte cittānupassanāsatipaṭṭhānabhāvanā’’ti.
 
-  * tena vuccati = 「それゆえに～と言われる」（受動・現在三人称単数）
+* tena vuccati = 「それゆえに～と言われる」（受動・現在三人称単数）
 
-  * citte = 「心において」（処格単数）
+* citte = 「心において」（処格単数）
 
-  * cittānupassanā-satipaṭṭhāna-bhāvanā = 「心随観念処の修習」（複合語）
+* cittānupassanā-satipaṭṭhāna-bhāvanā = 「心随観念処の修習」（複合語）
 
-    * cittānupassanā = 「心随観」
+  * cittānupassanā = 「心随観」
 
-    * satipaṭṭhāna = 「念処」
+  * satipaṭṭhāna = 「念処」
 
-    * bhāvanā = 「修習」
+  * bhāvanā = 「修習」
 
-  * ti = 「と」（引用辞）
+* ti = 「と」（引用辞）
 
 → 「それゆえに『心において心随観念処の修習（がある）』と言われる。」
 
@@ -7073,83 +7073,83 @@ Anupassatīti kathaṃ taṃ cittaṃ anupassati…pe… evaṃ taṃ cittaṃ a
 
 1. Anupassatīti kathaṃ taṃ cittaṃ anupassati…pe… evaṃ taṃ cittaṃ anupassati.
 
-  * anupassati ti = 「『随観する』とは」（anupassati の引用）
+* anupassati ti = 「『随観する』とは」（anupassati の引用）
 
-  * kathaṃ = 「いかにして」
+* kathaṃ = 「いかにして」
 
-  * taṃ cittaṃ = 「その心を」（指示代名詞＋対格単数）
+* taṃ cittaṃ = 「その心を」（指示代名詞＋対格単数）
 
-  * anupassati = 「随観する」（現在三人称単数；anu-√paś）
+* anupassati = 「随観する」（現在三人称単数；anu-√paś）
 
-  * …pe… = 「（中略）」（聖典省略標記 peyyāla）
+* …pe… = 「（中略）」（聖典省略標記 peyyāla）
 
-  * evaṃ = 「このように」
+* evaṃ = 「このように」
 
-  * taṃ cittaṃ anupassati = 「その心を随観する」
+* taṃ cittaṃ anupassati = 「その心を随観する」
 
 → 「『随観する』とは――いかにしてその心を随観するのか（中略）このようにその心を随観する。」
 
 2. Bhāvanāti catasso bhāvanā…pe… āsevanaṭṭhena bhāvanā.
 
-  * bhāvanā ti = 「『修習』とは」（bhāvanā の引用）
+* bhāvanā ti = 「『修習』とは」（bhāvanā の引用）
 
-  * catasso = 「四つの」（主格複数女性；catu）
+* catasso = 「四つの」（主格複数女性；catu）
 
-  * bhāvanā = 「修習（がある）」（主格複数女性）
+* bhāvanā = 「修習（がある）」（主格複数女性）
 
-  * …pe… = 「（中略）」
+* …pe… = 「（中略）」
 
-  * āsevana-ṭṭhena = 「習行という意味において」（具格／tappurisa；āsevana=習行・親近／aṭṭha=意味）
+* āsevana-ṭṭhena = 「習行という意味において」（具格／tappurisa；āsevana=習行・親近／aṭṭha=意味）
 
-  * bhāvanā = 「修習（である）」
+* bhāvanā = 「修習（である）」
 
 → 「『修習』とは――四つの修習（がある）（中略）習行という意味において修習である。」
 
 3. Samādahaṃ cittaṃ assāsapassāsānaṃ saṃvaraṭṭhena sīlavisuddhi…pe…
 
-  * samādahaṃ cittaṃ = 「心を統一しつつ」（samādahati の現在分詞・主格単数＋対格 cittaṃ）
+* samādahaṃ cittaṃ = 「心を統一しつつ」（samādahati の現在分詞・主格単数＋対格 cittaṃ）
 
-  * assāsapassāsānaṃ = 「出息・入息の」（属格複数；dvanda）
+* assāsapassāsānaṃ = 「出息・入息の」（属格複数；dvanda）
 
-  * saṃvara-ṭṭhena = 「防護（律儀）という意味において」（具格／tappurisa；saṃvara=防護・律儀／aṭṭha=意味）
+* saṃvara-ṭṭhena = 「防護（律儀）という意味において」（具格／tappurisa；saṃvara=防護・律儀／aṭṭha=意味）
 
-  * sīla-visuddhi = 「戒清浄」（戒の清浄）
+* sīla-visuddhi = 「戒清浄」（戒の清浄）
 
-  * …pe… = 「（中略）」
+* …pe… = 「（中略）」
 
 → 「出息・入息の防護という意味において戒清浄（がある）（中略）」
 
 4. samādahaṃ cittaṃ assāsapassāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato…pe… pajānanto indriyāni samodhāneti.
 
-  * samādahaṃ cittaṃ assāsapassāsavasena = 「出息・入息を通じて心を統一しつつ」
+* samādahaṃ cittaṃ assāsapassāsavasena = 「出息・入息を通じて心を統一しつつ」
 
-  * cittassa = 「心の」（属格単数）
+* cittassa = 「心の」（属格単数）
 
-  * ekaggataṃ = 「一境性を」（対格単数）
+* ekaggataṃ = 「一境性を」（対格単数）
 
-  * avikkhepaṃ = 「不散乱を」（対格単数）
+* avikkhepaṃ = 「不散乱を」（対格単数）
 
-  * pajānato = 「了知する者にとって」（pajānāti の現在分詞・属格／与格単数）
+* pajānato = 「了知する者にとって」（pajānāti の現在分詞・属格／与格単数）
 
-  * …pe… = 「（中略）」
+* …pe… = 「（中略）」
 
-  * pajānanto = 「了知しつつ」（現在分詞・主格単数）
+* pajānanto = 「了知しつつ」（現在分詞・主格単数）
 
-  * indriyāni = 「諸根を」（対格複数）
+* indriyāni = 「諸根を」（対格複数）
 
-  * samodhāneti = 「統合する、結合させる」（使役・現在三人称単数；saṃ-o-√dhā）
+* samodhāneti = 「統合する、結合させる」（使役・現在三人称単数；saṃ-o-√dhā）
 
 → 「出息・入息を通じて心を統一しつつ、心の一境性・不散乱を了知する者にとって（中略）了知しつつ、諸根を統合する。」
 
 5. Tena vuccati – ‘‘samatthañca paṭivijjhatī’’ti.
 
-  * tena vuccati = 「それゆえに～と言われる」（受動・現在三人称単数）
+* tena vuccati = 「それゆえに～と言われる」（受動・現在三人称単数）
 
-  * samatthañca = 「そして均衡（平等）の目的を」（sama＋atthaṃ＋ca；sama=均衡・平等／attha=目的）
+* samatthañca = 「そして均衡（平等）の目的を」（sama＋atthaṃ＋ca；sama=均衡・平等／attha=目的）
 
-  * paṭivijjhati = 「洞察する」（現在三人称単数；paṭi-√vyadh）
+* paṭivijjhati = 「洞察する」（現在三人称単数；paṭi-√vyadh）
 
-  * ti = 「と」（引用辞）
+* ti = 「と」（引用辞）
 
 → 「それゆえに『そして均衡（平等）の目的を洞察する』と言われる。」
 
@@ -7746,87 +7746,87 @@ Katamehi aṭṭhahākārehi avijjā nirujjhati? Nidānanirodhena avijjā nirujj
 
 1. Katihākārehi avijjāya ādīnavo hoti? Katihākārehi avijjā nirujjhati?
 
-  * Katihākārehi = kati(幾つ)+ ākāra(相・仕方) の具格複数 =「幾種の相によって」
-  * avijjāya = avijjā の属格単数 =「無明の」
-  * ādīnavo = 男性名詞 nom.sg. =「過患・危難」
-  * hoti = √bhū 現在三単 =「ある」
-  * nirujjhati = ni-√rudh の受動現在三単 =「滅する」
+* Katihākārehi = kati(幾つ)+ ākāra(相・仕方) の具格複数 =「幾種の相によって」
+* avijjāya = avijjā の属格単数 =「無明の」
+* ādīnavo = 男性名詞 nom.sg. =「過患・危難」
+* hoti = √bhū 現在三単 =「ある」
+* nirujjhati = ni-√rudh の受動現在三単 =「滅する」
 
 →「幾種の相によって無明の過患があるのか。幾種の相によって無明は滅するのか。」
 
 2. Pañcahākārehi avijjāya ādīnavo hoti. Aṭṭhahākārehi avijjā nirujjhati.
 
-  * Pañcahākārehi = pañca + ākāra 具格複数 =「五種の相によって」
-  * Aṭṭhahākārehi = aṭṭha + ākāra 具格複数 =「八種の相によって」
+* Pañcahākārehi = pañca + ākāra 具格複数 =「五種の相によって」
+* Aṭṭhahākārehi = aṭṭha + ākāra 具格複数 =「八種の相によって」
 
 →「五種の相によって無明の過患がある。八種の相によって無明は滅する。」
 
 3. Katamehi pañcahākārehi avijjāya ādīnavo hoti?
 
-  * Katamehi = katama の具格複数 =「いずれの(五種)によって」
+* Katamehi = katama の具格複数 =「いずれの(五種)によって」
 
 →「いずれの五種の相によって無明の過患があるのか。」
 
 4. Aniccaṭṭhena avijjāya ādīnavo hoti, dukkhaṭṭhena avijjāya ādīnavo hoti, anattaṭṭhena avijjāya ādīnavo hoti, santāpaṭṭhena avijjāya ādīnavo hoti, vipariṇāmaṭṭhena avijjāya ādīnavo hoti –
 
-  * Aniccaṭṭhena = anicca(無常)+ aṭṭha(意味)tappurisa 具格単数 =「無常という意味において」
-  * dukkhaṭṭhena =「苦という意味において」
-  * anattaṭṭhena =「無我という意味において」
-  * santāpaṭṭhena = santāpa(熱悩・焦熱)=「熱悩という意味において」
-  * vipariṇāmaṭṭhena = vipariṇāma(変易・変壊)=「変壊という意味において」
+* Aniccaṭṭhena = anicca(無常)+ aṭṭha(意味)tappurisa 具格単数 =「無常という意味において」
+* dukkhaṭṭhena =「苦という意味において」
+* anattaṭṭhena =「無我という意味において」
+* santāpaṭṭhena = santāpa(熱悩・焦熱)=「熱悩という意味において」
+* vipariṇāmaṭṭhena = vipariṇāma(変易・変壊)=「変壊という意味において」
 
 →「無常という意味において無明の過患があり、苦という意味において無明の過患があり、無我という意味において無明の過患があり、熱悩という意味において無明の過患があり、変壊という意味において無明の過患がある。」
 
 5. imehi pañcahākārehi avijjāya ādīnavo hoti.
 
-  * imehi pañcahākārehi =「これら五種の相によって」
+* imehi pañcahākārehi =「これら五種の相によって」
 
 →「これら五種の相によって無明の過患がある。」
 
 6. Katamehi aṭṭhahākārehi avijjā nirujjhati?
 
-  * Katamehi aṭṭhahākārehi =「いずれの八種の相によって」
+* Katamehi aṭṭhahākārehi =「いずれの八種の相によって」
 
 →「いずれの八種の相によって無明は滅するのか。」
 
 7. Nidānanirodhena avijjā nirujjhati, samudayanirodhena avijjā nirujjhati, jātinirodhena avijjā nirujjhati, pabhavanirodhena [āhāranirodhena (syā.)] avijjā nirujjhati, hetunirodhena avijjā nirujjhati, paccayanirodhena avijjā nirujjhati, ñāṇuppādena avijjā nirujjhati, nirodhupaṭṭhānena avijjā nirujjhati –
 
-  * Nidānanirodhena = nidāna(因縁)+ nirodha(滅)tappurisa 具格 =「因縁の滅によって」
-  * samudayanirodhena = samudaya(集・生起の源)=「集の滅によって」
-  * jātinirodhena = jāti(生)=「生の滅によって」
-  * pabhavanirodhena = pabhava(発生・出生)=「発生の滅によって」(異読 āhāranirodhena = āhāra「食」=「食の滅によって」)
-  * hetunirodhena = hetu(因)=「因の滅によって」
-  * paccayanirodhena = paccaya(縁)=「縁の滅によって」
-  * ñāṇuppādena = ñāṇa(智)+ uppāda(生起)=「智の生起によって」
-  * nirodhupaṭṭhānena = nirodha + upaṭṭhāna(現前)=「滅の現前によって」
+* Nidānanirodhena = nidāna(因縁)+ nirodha(滅)tappurisa 具格 =「因縁の滅によって」
+* samudayanirodhena = samudaya(集・生起の源)=「集の滅によって」
+* jātinirodhena = jāti(生)=「生の滅によって」
+* pabhavanirodhena = pabhava(発生・出生)=「発生の滅によって」(異読 āhāranirodhena = āhāra「食」=「食の滅によって」)
+* hetunirodhena = hetu(因)=「因の滅によって」
+* paccayanirodhena = paccaya(縁)=「縁の滅によって」
+* ñāṇuppādena = ñāṇa(智)+ uppāda(生起)=「智の生起によって」
+* nirodhupaṭṭhānena = nirodha + upaṭṭhāna(現前)=「滅の現前によって」
 
 →「因縁の滅によって無明は滅し、集の滅によって無明は滅し、生の滅によって無明は滅し、発生の滅によって(異読:食の滅によって)無明は滅し、因の滅によって無明は滅し、縁の滅によって無明は滅し、智の生起によって無明は滅し、滅の現前によって無明は滅する。」
 
 8. imehi aṭṭhahākārehi avijjā nirujjhati.
 
-  * imehi aṭṭhahākārehi =「これら八種の相によって」
+* imehi aṭṭhahākārehi =「これら八種の相によって」
 
 →「これら八種の相によって無明は滅する。」
 
 9. Imehi pañcahākārehi avijjāya ādīnavaṃ disvā – imehi aṭṭhahākārehi avijjānirodhe chandajāto hoti saddhādhimutto, cittañcassa svādhiṭṭhitaṃ.
 
-  * disvā = √dis(見る)の連続体(absolutive)=「見て」
-  * avijjāya ādīnavaṃ = ādīnava acc.sg. =「無明の過患を」
-  * avijjānirodhe = avijjā + nirodha loc.sg. =「無明の滅において」
-  * chandajāto = chanda(志欲)+ jāta(生じた)bahubbīhi =「志欲を生じた者」
-  * hoti =「～となる」
-  * saddhādhimutto = saddhā(信)+ adhimutta(信解した・勝解した)=「信によって信解した者」
-  * cittañcassa = cittaṃ ca assa =「そして彼の心は」
-  * svādhiṭṭhitaṃ = su + adhiṭṭhita(住立した・確立された)=「善く確立されている」
+* disvā = √dis(見る)の連続体(absolutive)=「見て」
+* avijjāya ādīnavaṃ = ādīnava acc.sg. =「無明の過患を」
+* avijjānirodhe = avijjā + nirodha loc.sg. =「無明の滅において」
+* chandajāto = chanda(志欲)+ jāta(生じた)bahubbīhi =「志欲を生じた者」
+* hoti =「～となる」
+* saddhādhimutto = saddhā(信)+ adhimutta(信解した・勝解した)=「信によって信解した者」
+* cittañcassa = cittaṃ ca assa =「そして彼の心は」
+* svādhiṭṭhitaṃ = su + adhiṭṭhita(住立した・確立された)=「善く確立されている」
 
 →「これら五種の相によって無明の過患を見て、これら八種の相によって無明の滅において志欲を生じた者となり、信によって信解した者となる。そして彼の心は善く確立されている。」
 
 10. ‘‘Avijjāya nirodhānupassī assasissāmī’’ti sikkhati, ‘‘avijjāya nirodhānupassī passasissāmī’’ti sikkhati.
 
-  * avijjāya nirodhānupassī = avijjā(属格)+ nirodha + anupassin(随観する者)nom.sg. =「無明の滅を随観しつつ」
-  * assasissāmi = ā-√śvas 未来一人称単数 =「出息しよう」(本書の慣例により assāsa = 出息)
-  * ti sikkhati = iti +√sikkh 現在三単 =「と(いって)学ぶ」
-  * passasissāmi = pa-√śvas 未来一人称単数 =「入息しよう」(passāsa = 入息)
+* avijjāya nirodhānupassī = avijjā(属格)+ nirodha + anupassin(随観する者)nom.sg. =「無明の滅を随観しつつ」
+* assasissāmi = ā-√śvas 未来一人称単数 =「出息しよう」(本書の慣例により assāsa = 出息)
+* ti sikkhati = iti +√sikkh 現在三単 =「と(いって)学ぶ」
+* passasissāmi = pa-√śvas 未来一人称単数 =「入息しよう」(passāsa = 入息)
 
 →「『無明の滅を随観しつつ出息しよう』と学び、『無明の滅を随観しつつ入息しよう』と学ぶ。」
 
@@ -7840,114 +7840,114 @@ Katamehi pañcahākārehi jarāmaraṇe ādīnavo hoti? Aniccaṭṭhena jarā
 
 1. Katihākārehi saṅkhāresu ādīnavo hoti, katihākārehi saṅkhārā nirujjhanti…pe…
 
-  * Katihākārehi = kati(幾つ)+ ākāra(相・仕方) 具格複数 =「幾種の相によって」
-  * saṅkhāresu = saṅkhāra(行)loc.pl. =「諸行において」
-  * ādīnavo = nom.sg. =「過患」
-  * hoti =「ある」
-  * saṅkhārā = nom.pl. =「諸行は」
-  * nirujjhanti = ni-√rudh 受動現在三複 =「滅する」
-  * …pe… = peyyāla 省略記号 =「（中略）」
+* Katihākārehi = kati(幾つ)+ ākāra(相・仕方) 具格複数 =「幾種の相によって」
+* saṅkhāresu = saṅkhāra(行)loc.pl. =「諸行において」
+* ādīnavo = nom.sg. =「過患」
+* hoti =「ある」
+* saṅkhārā = nom.pl. =「諸行は」
+* nirujjhanti = ni-√rudh 受動現在三複 =「滅する」
+* …pe… = peyyāla 省略記号 =「（中略）」
 
 →「幾種の相によって諸行において過患があるのか、幾種の相によって諸行は滅するのか……（中略）……」
 
 2. katihākārehi viññāṇe ādīnavo hoti, katihākārehi viññāṇaṃ nirujjhati…
 
-  * viññāṇe = viññāṇa(識)loc.sg. =「識において」
-  * viññāṇaṃ = nom.sg. =「識は」
-  * nirujjhati = 受動現在三単 =「滅する」
+* viññāṇe = viññāṇa(識)loc.sg. =「識において」
+* viññāṇaṃ = nom.sg. =「識は」
+* nirujjhati = 受動現在三単 =「滅する」
 
 →「幾種の相によって識において過患があるのか、幾種の相によって識は滅するのか……」
 
 3. katihākārehi nāmarūpe ādīnavo hoti, katihākārehi nāmarūpaṃ nirujjhati…
 
-  * nāmarūpe = nāmarūpa(名色)loc.sg. =「名色において」
-  * nāmarūpaṃ = nom.sg. =「名色は」
+* nāmarūpe = nāmarūpa(名色)loc.sg. =「名色において」
+* nāmarūpaṃ = nom.sg. =「名色は」
 
 →「幾種の相によって名色において過患があるのか、幾種の相によって名色は滅するのか……」
 
 4. katihākārehi saḷāyatane ādīnavo hoti, katihākārehi saḷāyatanaṃ nirujjhati…
 
-  * saḷāyatane = saḷāyatana(六処)loc.sg. =「六処において」
-  * saḷāyatanaṃ = nom.sg. =「六処は」
+* saḷāyatane = saḷāyatana(六処)loc.sg. =「六処において」
+* saḷāyatanaṃ = nom.sg. =「六処は」
 
 →「幾種の相によって六処において過患があるのか、幾種の相によって六処は滅するのか……」
 
 5. katihākārehi phasse ādīnavo hoti, katihākārehi phasso nirujjhati…
 
-  * phasse = phassa(触)loc.sg. =「触において」
-  * phasso = nom.sg. =「触は」
+* phasse = phassa(触)loc.sg. =「触において」
+* phasso = nom.sg. =「触は」
 
 →「幾種の相によって触において過患があるのか、幾種の相によって触は滅するのか……」
 
 6. katihākārehi vedanāya ādīnavo hoti, katihākārehi vedanā nirujjhati…
 
-  * vedanāya = vedanā(受)loc.sg. =「受において」
-  * vedanā = nom.sg. =「受は」
+* vedanāya = vedanā(受)loc.sg. =「受において」
+* vedanā = nom.sg. =「受は」
 
 →「幾種の相によって受において過患があるのか、幾種の相によって受は滅するのか……」
 
 7. katihākārehi taṇhāya ādīnavo hoti, katihākārehi taṇhā nirujjhati…
 
-  * taṇhāya = taṇhā(愛)loc.sg. =「愛において」
-  * taṇhā = nom.sg. =「愛は」
+* taṇhāya = taṇhā(愛)loc.sg. =「愛において」
+* taṇhā = nom.sg. =「愛は」
 
 →「幾種の相によって愛において過患があるのか、幾種の相によって愛は滅するのか……」
 
 8. katihākārehi upādāne ādīnavo hoti, katihākārehi upādānaṃ nirujjhati…
 
-  * upādāne = upādāna(取)loc.sg. =「取において」
-  * upādānaṃ = nom.sg. =「取は」
+* upādāne = upādāna(取)loc.sg. =「取において」
+* upādānaṃ = nom.sg. =「取は」
 
 →「幾種の相によって取において過患があるのか、幾種の相によって取は滅するのか……」
 
 9. katihākārehi bhave ādīnavo hoti, katihākārehi bhavo nirujjhati…
 
-  * bhave = bhava(有)loc.sg. =「有において」
-  * bhavo = nom.sg. =「有は」
+* bhave = bhava(有)loc.sg. =「有において」
+* bhavo = nom.sg. =「有は」
 
 →「幾種の相によって有において過患があるのか、幾種の相によって有は滅するのか……」
 
 10. katihākārehi jātiyā ādīnavo hoti, katihākārehi jāti nirujjhati…
 
-  * jātiyā = jāti(生)loc.sg. =「生において」
-  * jāti = nom.sg. =「生は」
+* jātiyā = jāti(生)loc.sg. =「生において」
+* jāti = nom.sg. =「生は」
 
 →「幾種の相によって生において過患があるのか、幾種の相によって生は滅するのか……」
 
 11. katihākārehi jarāmaraṇe ādīnavo hoti, katihākārehi jarāmaraṇaṃ nirujjhati?
 
-  * jarāmaraṇe = jarā(老)+ maraṇa(死)dvanda loc.sg. =「老死において」
-  * jarāmaraṇaṃ = nom.sg. =「老死は」
+* jarāmaraṇe = jarā(老)+ maraṇa(死)dvanda loc.sg. =「老死において」
+* jarāmaraṇaṃ = nom.sg. =「老死は」
 
 →「幾種の相によって老死において過患があるのか、幾種の相によって老死は滅するのか。」
 
 12. Pañcahākārehi jarāmaraṇe ādīnavo hoti, aṭṭhahākārehi jarāmaraṇaṃ nirujjhati.
 
-  * Pañcahākārehi = pañca + ākāra 具格複数 =「五種の相によって」
-  * aṭṭhahākārehi = aṭṭha + ākāra 具格複数 =「八種の相によって」
+* Pañcahākārehi = pañca + ākāra 具格複数 =「五種の相によって」
+* aṭṭhahākārehi = aṭṭha + ākāra 具格複数 =「八種の相によって」
 
 →「五種の相によって老死において過患があり、八種の相によって老死は滅する。」
 
 13. Katamehi pañcahākārehi jarāmaraṇe ādīnavo hoti?
 
-  * Katamehi = katama の具格複数 =「いずれの五種によって」
+* Katamehi = katama の具格複数 =「いずれの五種によって」
 
 →「いずれの五種の相によって老死において過患があるのか。」
 
 14. Aniccaṭṭhena jarāmaraṇe ādīnavo hoti, dukkhaṭṭhena…pe… anattaṭṭhena…pe… santāpaṭṭhena…pe… vipariṇāmaṭṭhena jarāmaraṇe ādīnavo hoti –
 
-  * Aniccaṭṭhena = anicca(無常)+ aṭṭha(意味)tappurisa 具格 =「無常という意味において」
-  * dukkhaṭṭhena =「苦という意味において」
-  * anattaṭṭhena =「無我という意味において」
-  * santāpaṭṭhena = santāpa(熱悩・焦熱)=「熱悩という意味において」
-  * vipariṇāmaṭṭhena = vipariṇāma(変壊・変易)=「変壊という意味において」
-  * …pe… = peyyāla 省略記号 =「（中略）」
+* Aniccaṭṭhena = anicca(無常)+ aṭṭha(意味)tappurisa 具格 =「無常という意味において」
+* dukkhaṭṭhena =「苦という意味において」
+* anattaṭṭhena =「無我という意味において」
+* santāpaṭṭhena = santāpa(熱悩・焦熱)=「熱悩という意味において」
+* vipariṇāmaṭṭhena = vipariṇāma(変壊・変易)=「変壊という意味において」
+* …pe… = peyyāla 省略記号 =「（中略）」
 
 →「無常という意味において老死において過患があり、苦という意味において……（中略）……無我という意味において……（中略）……熱悩という意味において……（中略）……変壊という意味において老死において過患がある。」
 
 15. imehi pañcahākārehi jarāmaraṇe ādīnavo hoti.
 
-  * imehi pañcahākārehi =「これら五種の相によって」
+* imehi pañcahākārehi =「これら五種の相によって」
 
 →「これら五種の相によって老死において過患がある。」
 
@@ -7961,135 +7961,135 @@ Anupassatīti kathaṃ te dhamme anupassati…pe… evaṃ te dhamme anupassati
 
 1. Katamehi aṭṭhahākārehi jarāmaraṇaṃ nirujjhati?
 
-  * Katamehi aṭṭhahākārehi = katama 具格複数 + aṭṭha + ākāra =「いずれの八種の相によって」
-  * jarāmaraṇaṃ = jarā(老)+ maraṇa(死)dvanda nom.sg. =「老死は」
-  * nirujjhati = ni-√rudh 受動現在三単 =「滅する」
+* Katamehi aṭṭhahākārehi = katama 具格複数 + aṭṭha + ākāra =「いずれの八種の相によって」
+* jarāmaraṇaṃ = jarā(老)+ maraṇa(死)dvanda nom.sg. =「老死は」
+* nirujjhati = ni-√rudh 受動現在三単 =「滅する」
 
 →「いずれの八種の相によって老死は滅するのか。」
 
 2. Nidānanirodhena jarāmaraṇaṃ nirujjhati, samudayanirodhena…pe… jātinirodhena…pe… pabhavanirodhena [bhavanirodhena (syā.)] … hetunirodhena… paccayanirodhena… ñāṇuppādena…pe… nirodhupaṭṭhānena jarāmaraṇaṃ nirujjhati –
 
-  * Nidānanirodhena = nidāna(因縁)+ nirodha(滅)tappurisa 具格 =「因縁の滅によって」
-  * samudayanirodhena = samudaya(集)=「集の滅によって」
-  * jātinirodhena = jāti(生)=「生の滅によって」
-  * pabhavanirodhena = pabhava(発生)=「発生の滅によって」(異読 bhavanirodhena = bhava「有」=「有の滅によって」)
-  * hetunirodhena = hetu(因)=「因の滅によって」
-  * paccayanirodhena = paccaya(縁)=「縁の滅によって」
-  * ñāṇuppādena = ñāṇa(智)+ uppāda(生起)=「智の生起によって」
-  * nirodhupaṭṭhānena = nirodha + upaṭṭhāna(現前)=「滅の現前によって」
-  * …pe… = peyyāla 省略記号 =「（中略）」
+* Nidānanirodhena = nidāna(因縁)+ nirodha(滅)tappurisa 具格 =「因縁の滅によって」
+* samudayanirodhena = samudaya(集)=「集の滅によって」
+* jātinirodhena = jāti(生)=「生の滅によって」
+* pabhavanirodhena = pabhava(発生)=「発生の滅によって」(異読 bhavanirodhena = bhava「有」=「有の滅によって」)
+* hetunirodhena = hetu(因)=「因の滅によって」
+* paccayanirodhena = paccaya(縁)=「縁の滅によって」
+* ñāṇuppādena = ñāṇa(智)+ uppāda(生起)=「智の生起によって」
+* nirodhupaṭṭhānena = nirodha + upaṭṭhāna(現前)=「滅の現前によって」
+* …pe… = peyyāla 省略記号 =「（中略）」
 
 →「因縁の滅によって老死は滅し、集の滅によって……（中略）……生の滅によって……（中略）……発生の滅によって(異読:有の滅によって)……因の滅によって……縁の滅によって……智の生起によって……（中略）……滅の現前によって老死は滅する。」
 
 3. imehi aṭṭhahākārehi jarāmaraṇaṃ nirujjhati.
 
-  * imehi aṭṭhahākārehi =「これら八種の相によって」
+* imehi aṭṭhahākārehi =「これら八種の相によって」
 
 →「これら八種の相によって老死は滅する。」
 
 4. Imehi pañcahākārehi jarāmaraṇe ādīnavaṃ disvā imehi aṭṭhahākārehi jarāmaraṇanirodhe chandajāto hoti saddhādhimutto, cittañcassa svādhiṭṭhitaṃ.
 
-  * disvā = √dis(見る)連続体(absolutive)=「見て」
-  * jarāmaraṇe ādīnavaṃ = ādīnava acc.sg. =「老死における過患を」
-  * jarāmaraṇanirodhe = nirodha loc.sg. =「老死の滅において」
-  * chandajāto = chanda(志欲)+ jāta(生じた)bahubbīhi =「志欲を生じた者」
-  * saddhādhimutto = saddhā(信)+ adhimutta(信解した)=「信によって信解した者」
-  * cittañcassa = cittaṃ ca assa =「そして彼の心は」
-  * svādhiṭṭhitaṃ = su + adhiṭṭhita(善く確立された)=「善く確立されている」
+* disvā = √dis(見る)連続体(absolutive)=「見て」
+* jarāmaraṇe ādīnavaṃ = ādīnava acc.sg. =「老死における過患を」
+* jarāmaraṇanirodhe = nirodha loc.sg. =「老死の滅において」
+* chandajāto = chanda(志欲)+ jāta(生じた)bahubbīhi =「志欲を生じた者」
+* saddhādhimutto = saddhā(信)+ adhimutta(信解した)=「信によって信解した者」
+* cittañcassa = cittaṃ ca assa =「そして彼の心は」
+* svādhiṭṭhitaṃ = su + adhiṭṭhita(善く確立された)=「善く確立されている」
 
 →「これら五種の相によって老死における過患を見て、これら八種の相によって老死の滅において志欲を生じた者となり、信によって信解した者となる。そして彼の心は善く確立されている。」
 
 5. ‘‘Jarāmaraṇe nirodhānupassī assasissāmī’’ti sikkhati, ‘‘jarāmaraṇe nirodhānupassī passasissāmī’’ti sikkhati.
 
-  * jarāmaraṇe nirodhānupassī = jarāmaraṇa(処格)+ nirodha + anupassin(随観する者)nom.sg. =「老死の滅を随観しつつ」
-  * assasissāmi = ā-√śvas 未来一人称単数 =「出息しよう」(本書の慣例により assāsa = 出息)
-  * sikkhati = √sikkh 現在三単 =「学ぶ」
-  * passasissāmi = pa-√śvas 未来一人称単数 =「入息しよう」(passāsa = 入息)
+* jarāmaraṇe nirodhānupassī = jarāmaraṇa(処格)+ nirodha + anupassin(随観する者)nom.sg. =「老死の滅を随観しつつ」
+* assasissāmi = ā-√śvas 未来一人称単数 =「出息しよう」(本書の慣例により assāsa = 出息)
+* sikkhati = √sikkh 現在三単 =「学ぶ」
+* passasissāmi = pa-√śvas 未来一人称単数 =「入息しよう」(passāsa = 入息)
 
 →「『老死の滅を随観しつつ出息しよう』と学び、『老死の滅を随観しつつ入息しよう』と学ぶ。」
 
 6. Nirodhānupassī assāsapassāsavasena dhammā upaṭṭhānaṃ sati anupassanā ñāṇaṃ.
 
-  * Nirodhānupassī = nirodha + anupassin =「滅を随観する者にとって」
-  * assāsapassāsavasena = assāsa + passāsa + vasa(力・故)具格 =「出息入息によって・出入息のゆえに」
-  * dhammā = nom.pl. =「諸法は」
-  * upaṭṭhānaṃ = nom.sg. =「現前(として現れるもの)」
-  * sati = nom.sg. =「念は」
-  * anupassanā = nom.sg. =「随観は」
-  * ñāṇaṃ = nom.sg. =「智(である)」
+* Nirodhānupassī = nirodha + anupassin =「滅を随観する者にとって」
+* assāsapassāsavasena = assāsa + passāsa + vasa(力・故)具格 =「出息入息によって・出入息のゆえに」
+* dhammā = nom.pl. =「諸法は」
+* upaṭṭhānaṃ = nom.sg. =「現前(として現れるもの)」
+* sati = nom.sg. =「念は」
+* anupassanā = nom.sg. =「随観は」
+* ñāṇaṃ = nom.sg. =「智(である)」
 
 →「滅を随観する者にとって、出入息のゆえに諸法は現前であり、念は、随観は智である。」
 
 7. Dhammā upaṭṭhānaṃ, no sati; sati upaṭṭhānañceva sati ca.
 
-  * Dhammā upaṭṭhānaṃ, no sati =「諸法は現前であるが、念ではない」
-  * sati upaṭṭhānañceva sati ca = upaṭṭhānaṃ ca eva sati ca =「念は現前であり、かつ念でもある」
+* Dhammā upaṭṭhānaṃ, no sati =「諸法は現前であるが、念ではない」
+* sati upaṭṭhānañceva sati ca = upaṭṭhānaṃ ca eva sati ca =「念は現前であり、かつ念でもある」
 
 →「諸法は現前であって、念ではない。念は現前であり、かつ念でもある。」
 
 8. Tāya satiyā tena ñāṇena te dhamme anupassati.
 
-  * Tāya satiyā = sati 具格単数 =「その念によって」
-  * tena ñāṇena = ñāṇa 具格単数 =「その智によって」
-  * te dhamme = dhamma acc.pl. =「それらの諸法を」
-  * anupassati = anu-√dis 現在三単 =「随観する」
+* Tāya satiyā = sati 具格単数 =「その念によって」
+* tena ñāṇena = ñāṇa 具格単数 =「その智によって」
+* te dhamme = dhamma acc.pl. =「それらの諸法を」
+* anupassati = anu-√dis 現在三単 =「随観する」
 
 →「その念によって、その智によって、それらの諸法を随観する。」
 
 9. Tena vuccati – ‘‘dhammesu dhammānupassanāsatipaṭṭhānabhāvanā’’ti.
 
-  * Tena vuccati =「それゆえに説かれる」
-  * dhammesu = dhamma loc.pl. =「諸法において」
-  * dhammānupassanā = dhamma + anupassanā =「法随観」
-  * satipaṭṭhānabhāvanā = sati + upaṭṭhāna + bhāvanā =「念処の修習」
+* Tena vuccati =「それゆえに説かれる」
+* dhammesu = dhamma loc.pl. =「諸法において」
+* dhammānupassanā = dhamma + anupassanā =「法随観」
+* satipaṭṭhānabhāvanā = sati + upaṭṭhāna + bhāvanā =「念処の修習」
 
 →「それゆえに『諸法における法随観念処の修習』と説かれる。」
 
 10. Anupassatīti kathaṃ te dhamme anupassati…pe… evaṃ te dhamme anupassati.
 
-  * Anupassati ti =「『随観する』とは」
-  * kathaṃ =「いかにして」
-  * te dhamme anupassati =「それらの諸法を随観するのか」
-  * …pe… = peyyāla =「（中略）」
-  * evaṃ =「このように」
+* Anupassati ti =「『随観する』とは」
+* kathaṃ =「いかにして」
+* te dhamme anupassati =「それらの諸法を随観するのか」
+* …pe… = peyyāla =「（中略）」
+* evaṃ =「このように」
 
 →「『随観する』とは——いかにしてそれらの諸法を随観するのか……（中略）……このようにそれらの諸法を随観する。」
 
 11. Bhāvanāti catasso bhāvanā…pe… āsevanaṭṭhena bhāvanā.
 
-  * Bhāvanā ti =「『修習』とは」
-  * catasso bhāvanā = catasso(四つの・女性)+ bhāvanā =「四つの修習(がある)」
-  * āsevanaṭṭhena = āsevana(習熟・反復実践)+ aṭṭha(意味)具格 =「修練という意味において」
+* Bhāvanā ti =「『修習』とは」
+* catasso bhāvanā = catasso(四つの・女性)+ bhāvanā =「四つの修習(がある)」
+* āsevanaṭṭhena = āsevana(習熟・反復実践)+ aṭṭha(意味)具格 =「修練という意味において」
 
 →「『修習』とは——四つの修習が(ある)……（中略）……修練という意味において修習(である)。」
 
 12. Nirodhānupassī assāsapassāsānaṃ saṃvaraṭṭhena sīlavisuddhi…pe…
 
-  * Nirodhānupassī =「滅を随観する者の」
-  * assāsapassāsānaṃ = gen.pl. =「出入息の」
-  * saṃvaraṭṭhena = saṃvara(防護・律儀)+ aṭṭha 具格 =「防護という意味において」
-  * sīlavisuddhi = sīla(戒)+ visuddhi(清浄)=「戒清浄(である)」
+* Nirodhānupassī =「滅を随観する者の」
+* assāsapassāsānaṃ = gen.pl. =「出入息の」
+* saṃvaraṭṭhena = saṃvara(防護・律儀)+ aṭṭha 具格 =「防護という意味において」
+* sīlavisuddhi = sīla(戒)+ visuddhi(清浄)=「戒清浄(である)」
 
 →「滅を随観する者にとって、出入息の防護という意味において戒清浄(である)……（中略）……」
 
 13. nirodhānupassī assāsapassāsavasena cittassa ekaggataṃ avikkhepaṃ pajānato…pe… pajānanto indriyāni samodhāneti.
 
-  * assāsapassāsavasena =「出入息によって・出入息のゆえに」
-  * cittassa = gen.sg. =「心の」
-  * ekaggataṃ = eka + agga + tā acc.sg. =「一境性を」
-  * avikkhepaṃ = a + vikkhepa(散乱)acc.sg. =「不散乱を」
-  * pajānato = pa-√jñā 現在分詞 属格/与格単数 =「了知する者にとって」
-  * pajānanto = 現在分詞 nom.sg. =「了知しつつ」
-  * indriyāni = acc.pl. =「諸根を」
-  * samodhāneti = saṃ-ava-√dhā 使役現在三単 =「統合する」
+* assāsapassāsavasena =「出入息によって・出入息のゆえに」
+* cittassa = gen.sg. =「心の」
+* ekaggataṃ = eka + agga + tā acc.sg. =「一境性を」
+* avikkhepaṃ = a + vikkhepa(散乱)acc.sg. =「不散乱を」
+* pajānato = pa-√jñā 現在分詞 属格/与格単数 =「了知する者にとって」
+* pajānanto = 現在分詞 nom.sg. =「了知しつつ」
+* indriyāni = acc.pl. =「諸根を」
+* samodhāneti = saṃ-ava-√dhā 使役現在三単 =「統合する」
 
 →「滅を随観する者にとって、出入息のゆえに心の一境性・不散乱を了知する者にとって……（中略）……了知しつつ諸根を統合する。」
 
 14. Tena vuccati – ‘‘samatthañca paṭivijjhatī’’ti.
 
-  * Tena vuccati =「それゆえに説かれる」
-  * samatthañca = sama(均衡・平等)+ attha(目的)acc.sg. + ca =「そして均衡（平等）の目的を」
-  * paṭivijjhati = paṭi-√vidh 現在三単 =「洞察する」
+* Tena vuccati =「それゆえに説かれる」
+* samatthañca = sama(均衡・平等)+ attha(目的)acc.sg. + ca =「そして均衡（平等）の目的を」
+* paṭivijjhati = paṭi-√vidh 現在三単 =「洞察する」
 
 →「それゆえに『そして均衡（平等）の目的を洞察する』と説かれる。」
 
