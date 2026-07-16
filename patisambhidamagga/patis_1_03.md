@@ -146,7 +146,7 @@ Nīvaraṇāti, katame te nīvaraṇā? Kāmacchando nīvaraṇaṃ, byāpādo n
 * ñāṇa = 「智」
 * niddesa = 「解説、釈」（ni + √dis、指し示すこと）
 
-  → 「十六智の解説」
+→ 「十六智の解説」
 
 1. Imehi soḷasahi ākārehi uducittaṃ cittaṃ samuducitaṃ cittaṃ ekatte santiṭṭhati, nīvaraṇehi visujjhati.
 
@@ -161,7 +161,7 @@ Nīvaraṇāti, katame te nīvaraṇā? Kāmacchando nīvaraṇaṃ, byāpādo n
 * nīvaraṇehi = 「諸蓋から」（nīvaraṇa、奪格・複数）
 * visujjhati = 「清浄になる、浄まる」（vi + √sudh、現在・三人称・単数）
 
-  → 「これら十六の行相によって、積み調えられた心、よく積み調えられた心は、一性において安立し、諸蓋から清浄になる。」
+→ 「これら十六の行相によって、積み調えられた心、よく積み調えられた心は、一性において安立し、諸蓋から清浄になる。」
 
 2. Katame te ekattā?
 
@@ -169,7 +169,7 @@ Nīvaraṇāti, katame te nīvaraṇā? Kāmacchando nīvaraṇaṃ, byāpādo n
 * te = 「それらの」（主格・複数）
 * ekattā = 「一性（の諸相）」（ekatta、主格・複数）
 
-  → 「それらの一性とは何か。」
+→ 「それらの一性とは何か。」
 
 3. Nekkhammaṃ ekattaṃ, abyāpādo ekattaṃ, ālokasaññā ekattaṃ, avikkhepo ekattaṃ, dhammavavatthānaṃ ekattaṃ, ñāṇaṃ ekattaṃ, pāmojjaṃ ekattaṃ, sabbepi kusalā dhammā ekattā.
 
@@ -184,7 +184,7 @@ Nīvaraṇāti, katame te nīvaraṇā? Kāmacchando nīvaraṇaṃ, byāpādo n
 * kusalā dhammā = 「善なる諸法」（主格・複数・男性）
 * ekattā = 「一性（の諸相）」（主格・複数）
 
-  → 「出離は一性であり、無瞋は一性であり、光明想は一性であり、不散乱は一性であり、法の見極めは一性であり、智は一性であり、悦びは一性であり、すべての善法もまた一性である。」
+→ 「出離は一性であり、無瞋は一性であり、光明想は一性であり、不散乱は一性であり、法の見極めは一性であり、智は一性であり、悦びは一性であり、すべての善法もまた一性である。」
 
 4. Nīvaraṇāti, katame te nīvaraṇā?
 
@@ -193,7 +193,7 @@ Nīvaraṇāti, katame te nīvaraṇā? Kāmacchando nīvaraṇaṃ, byāpādo n
 * te = 「それらの」（主格・複数）
 * nīvaraṇā = 「諸蓋」（nīvaraṇa、主格・複数）
 
-  → 「『諸蓋』とは、それらの蓋とは何か。」
+→ 「『諸蓋』とは、それらの蓋とは何か。」
 
 5. Kāmacchando nīvaraṇaṃ, byāpādo nīvaraṇaṃ, thinamiddhaṃ nīvaraṇaṃ, uddhaccakukkuccaṃ nīvaraṇaṃ, vicikicchā nīvaraṇaṃ, avijjā nīvaraṇaṃ, arati nīvaraṇaṃ, sabbepi akusalā dhammā nīvaraṇā.
 
@@ -208,7 +208,7 @@ Nīvaraṇāti, katame te nīvaraṇā? Kāmacchando nīvaraṇaṃ, byāpādo n
 * akusalā dhammā = 「不善なる諸法」（主格・複数・男性）
 * nīvaraṇā = 「諸蓋」（主格・複数）
 
-  → 「欲貪は蓋であり、瞋恚は蓋であり、惛沈睡眠は蓋であり、掉挙悪作は蓋であり、疑は蓋であり、無明は蓋であり、嫌気は蓋であり、すべての不善法もまた蓋である。」
+→ 「欲貪は蓋であり、瞋恚は蓋であり、惛沈睡眠は蓋であり、掉挙悪作は蓋であり、疑は蓋であり、無明は蓋であり、嫌気は蓋であり、すべての不善法もまた蓋である。」
 
 ## 153 (2)
 
@@ -233,7 +233,7 @@ Soḷasañāṇaniddeso dutiyo.
 * niyyānāvaraṇaṭṭhena = 「出要をさえぎるという意味によって」（niyyānāvaraṇa + aṭṭha、具格・単数）
 * nīvaraṇā = 「諸蓋（である）」（主格・複数）
 
-  → 「『諸蓋』とは、いかなる意味で蓋なのか。出要をさえぎるという意味で蓋なのである。」
+→ 「『諸蓋』とは、いかなる意味で蓋なのか。出要をさえぎるという意味で蓋なのである。」
 
 2. Katame te niyyānā?
 
@@ -241,7 +241,7 @@ Soḷasañāṇaniddeso dutiyo.
 * te = 「それらの」（主格・複数）
 * niyyānā = 「出要（の諸相）」（主格・複数）
 
-  → 「それらの出要とは何か。」
+→ 「それらの出要とは何か。」
 
 3. Nekkhammaṃ ariyānaṃ niyyānaṃ. Tena ca nekkhammena ariyā niyyanti. Kāmacchando niyyānāvaraṇaṃ. Tena ca kāmacchandena nivutattā nekkhammaṃ ariyānaṃ niyyānaṃ nappajānātīti – kāmacchando niyyānāvaraṇaṃ.
 
@@ -255,7 +255,7 @@ Soḷasañāṇaniddeso dutiyo.
 * tena ... kāmacchandena nivutattā = 「その欲貪によって覆われているがゆえに」
 * nappajānāti ti = 「了知しない、というわけで」
 
-  → 「出離は聖者たちの出要である。その出離によって聖者たちは導き出される。欲貪は出要をさえぎるものである。その欲貪に覆われているがゆえに、聖者たちの出要である出離を了知しない――それゆえ欲貪は出要をさえぎるものである。」
+→ 「出離は聖者たちの出要である。その出離によって聖者たちは導き出される。欲貪は出要をさえぎるものである。その欲貪に覆われているがゆえに、聖者たちの出要である出離を了知しない――それゆえ欲貪は出要をさえぎるものである。」
 
 4. Abyāpādo ariyānaṃ niyyānaṃ. Tena ca abyāpādena ariyā niyyanti. Byāpādo niyyānāvaraṇaṃ. Tena ca byāpādena nivutattā abyāpādaṃ ariyānaṃ niyyānaṃ nappajānātīti – byāpādo niyyānāvaraṇaṃ.
 
@@ -263,7 +263,7 @@ Soḷasañāṇaniddeso dutiyo.
 * byāpādo = 「瞋恚」（主格・単数・男性）
   （枠組みは上に同じ。具格は男性 tena ... byāpādena）
 
-  → 「無瞋は聖者たちの出要である。その無瞋によって聖者たちは導き出される。瞋恚は出要をさえぎるものである。その瞋恚に覆われているがゆえに、聖者たちの出要である無瞋を了知しない――それゆえ瞋恚は出要をさえぎるものである。」
+→ 「無瞋は聖者たちの出要である。その無瞋によって聖者たちは導き出される。瞋恚は出要をさえぎるものである。その瞋恚に覆われているがゆえに、聖者たちの出要である無瞋を了知しない――それゆえ瞋恚は出要をさえぎるものである。」
 
 5. Ālokasaññā ariyānaṃ niyyānaṃ. Tāya ca ālokasaññāya ariyā niyyanti. Thinamiddhaṃ niyyānāvaraṇaṃ. Tena ca thinamiddhena nivutattā ālokasaññaṃ ariyānaṃ niyyānaṃ nappajānātīti – thinamiddhaṃ niyyānāvaraṇaṃ.
 
@@ -271,14 +271,14 @@ Soḷasañāṇaniddeso dutiyo.
 * tāya ... ālokasaññāya = 「その光明想によって」（女性名詞ゆえ具格は tāya）
 * thinamiddhaṃ = 「惛沈睡眠」（相違釈、主格・単数・中性）
 
-  → 「光明想は聖者たちの出要である。その光明想によって聖者たちは導き出される。惛沈睡眠は出要をさえぎるものである。その惛沈睡眠に覆われているがゆえに、聖者たちの出要である光明想を了知しない――それゆえ惛沈睡眠は出要をさえぎるものである。」
+→ 「光明想は聖者たちの出要である。その光明想によって聖者たちは導き出される。惛沈睡眠は出要をさえぎるものである。その惛沈睡眠に覆われているがゆえに、聖者たちの出要である光明想を了知しない――それゆえ惛沈睡眠は出要をさえぎるものである。」
 
 6. Avikkhepo ariyānaṃ niyyānaṃ. Tena ca avikkhepena ariyā niyyanti. Uddhaccaṃ niyyānāvaraṇaṃ. Tena ca uddhaccena nivutattā avikkhepaṃ ariyānaṃ niyyānaṃ nappajānātīti – uddhaccaṃ niyyānāvaraṇaṃ.
 
 * avikkhepo = 「不散乱」（a + vikkhepa、主格・単数・男性）
 * uddhaccaṃ = 「掉挙（落ち着きのなさ）」（主格・単数・中性）
 
-  → 「不散乱は聖者たちの出要である。その不散乱によって聖者たちは導き出される。掉挙は出要をさえぎるものである。その掉挙に覆われているがゆえに、聖者たちの出要である不散乱を了知しない――それゆえ掉挙は出要をさえぎるものである。」
+→ 「不散乱は聖者たちの出要である。その不散乱によって聖者たちは導き出される。掉挙は出要をさえぎるものである。その掉挙に覆われているがゆえに、聖者たちの出要である不散乱を了知しない――それゆえ掉挙は出要をさえぎるものである。」
 
 7. Dhammavavatthānaṃ ariyānaṃ niyyānaṃ. Tena ca dhammavavatthānena ariyā niyyanti. Vicikicchā niyyānāvaraṇaṃ. Tāya ca vicikicchāya nivutattā dhammavavatthānaṃ ariyānaṃ niyyānaṃ nappajānātīti – vicikicchā niyyānāvaraṇaṃ.
 
@@ -286,7 +286,7 @@ Soḷasañāṇaniddeso dutiyo.
 * vicikicchā = 「疑」（主格・単数・女性）
 * tāya ... vicikicchāya = 「その疑によって」（女性名詞ゆえ具格は tāya）
 
-  → 「法の見極めは聖者たちの出要である。その法の見極めによって聖者たちは導き出される。疑は出要をさえぎるものである。その疑に覆われているがゆえに、聖者たちの出要である法の見極めを了知しない――それゆえ疑は出要をさえぎるものである。」
+→ 「法の見極めは聖者たちの出要である。その法の見極めによって聖者たちは導き出される。疑は出要をさえぎるものである。その疑に覆われているがゆえに、聖者たちの出要である法の見極めを了知しない――それゆえ疑は出要をさえぎるものである。」
 
 8. Ñāṇaṃ ariyānaṃ niyyānaṃ. Tena ca ñāṇena ariyā niyyanti. Avijjā niyyānāvaraṇaṃ. Tāya ca avijjāya nivutattā ñāṇaṃ ariyānaṃ niyyānaṃ nappajānātīti – avijjā niyyānāvaraṇaṃ.
 
@@ -294,7 +294,7 @@ Soḷasañāṇaniddeso dutiyo.
 * avijjā = 「無明」（主格・単数・女性）
 * tāya ... avijjāya = 「その無明によって」（女性名詞ゆえ具格は tāya）
 
-  → 「智は聖者たちの出要である。その智によって聖者たちは導き出される。無明は出要をさえぎるものである。その無明に覆われているがゆえに、聖者たちの出要である智を了知しない――それゆえ無明は出要をさえぎるものである。」
+→ 「智は聖者たちの出要である。その智によって聖者たちは導き出される。無明は出要をさえぎるものである。その無明に覆われているがゆえに、聖者たちの出要である智を了知しない――それゆえ無明は出要をさえぎるものである。」
 
 9. Pāmojjaṃ ariyānaṃ niyyānaṃ. Tena ca pāmojjena ariyā niyyanti. Arati niyyānāvaraṇaṃ. Tāya ca aratiyā nivutattā pāmojjaṃ ariyānaṃ niyyānaṃ nappajānātīti – arati niyyānāvaraṇaṃ.
 
@@ -302,7 +302,7 @@ Soḷasañāṇaniddeso dutiyo.
 * arati = 「嫌気（倦み）」（主格・単数・女性）
 * tāya ... aratiyā = 「その嫌気によって」（女性名詞ゆえ具格は tāya）
 
-  → 「悦びは聖者たちの出要である。その悦びによって聖者たちは導き出される。嫌気は出要をさえぎるものである。その嫌気に覆われているがゆえに、聖者たちの出要である悦びを了知しない――それゆえ嫌気は出要をさえぎるものである。」
+→ 「悦びは聖者たちの出要である。その悦びによって聖者たちは導き出される。嫌気は出要をさえぎるものである。その嫌気に覆われているがゆえに、聖者たちの出要である悦びを了知しない――それゆえ嫌気は出要をさえぎるものである。」
 
 10. Sabbepi kusalā dhammā ariyānaṃ niyyānaṃ. Tehi ca kusalehi dhammehi ariyā niyyanti. Sabbepi akusalā dhammā niyyānāvaraṇā. Tehi ca akusalehi dhammehi nivutattā kusale dhamme ariyānaṃ niyyānaṃ nappajānātīti – sabbepi akusalā dhammā niyyānāvaraṇā.
 
@@ -313,7 +313,7 @@ Soḷasañāṇaniddeso dutiyo.
 * tehi ... akusalehi dhammehi nivutattā = 「それらの不善法によって覆われているがゆえに」
 * kusale dhamme = 「諸善法を」（対格・複数）
 
-  → 「すべての善法もまた聖者たちの出要である。それらの善法によって聖者たちは導き出される。すべての不善法もまた出要をさえぎるものである。それらの不善法に覆われているがゆえに、聖者たちの出要である諸善法を了知しない――それゆえすべての不善法もまた出要をさえぎるものである。」
+→ 「すべての善法もまた聖者たちの出要である。それらの善法によって聖者たちは導き出される。すべての不善法もまた出要をさえぎるものである。それらの不善法に覆われているがゆえに、聖者たちの出要である諸善法を了知しない――それゆえすべての不善法もまた出要をさえぎるものである。」
 
 11. Imehi ca pana nīvaraṇehi visuddhacittassa soḷasavatthukaṃ ānāpānassatisamādhiṃ bhāvayato khaṇikasamodhānā.
 
@@ -324,14 +324,14 @@ Soḷasañāṇaniddeso dutiyo.
 * bhāvayato = 「修習する者の」（√bhū 使役 bhāveti の現在分詞、属格・単数）
 * khaṇikasamodhānā = 「刹那ごとの結びつき（諸要素が瞬間瞬間にまとまり集まること）」（khaṇika 刹那的な + samodhāna 結合・集約、主格・複数。次節の主題へと続く導入句）
 
-  → 「そしてさらに、これらの諸蓋から心が清浄になった者が、十六の事項からなる出入息念三昧を修習するとき、その者には刹那ごとの結びつき（諸要素の瞬間的な集約）がある。」
+→ 「そしてさらに、これらの諸蓋から心が清浄になった者が、十六の事項からなる出入息念三昧を修習するとき、その者には刹那ごとの結びつき（諸要素の瞬間的な集約）がある。」
 
 【結尾】Soḷasañāṇaniddeso dutiyo.
 
 * soḷasañāṇaniddeso = 「十六智の解説」（主格・単数・男性）
 * dutiyo = 「第二（の）」（序数、主格・単数・男性）
 
-  → 「十六智の解説、第二〔章おわり〕。」
+→ 「十六智の解説、第二〔章おわり〕。」
 
 # 3. Upakkilesañāṇaniddeso
 
@@ -3013,7 +3013,7 @@ Bhāṇavāro.
 
     → 「それ故に『idha（ここに）』と説かれる」
 
-  →「『idha（ここに）』とは、この見解において、この忍（信受）において、この楽欲において、この受持において、この法において、この律において、この法と律において、この聖教において、この梵行において、この師の教えにおいて、という意味である。それ故に『ここに』と説かれるのである。」
+→「『idha（ここに）』とは、この見解において、この忍（信受）において、この楽欲において、この受持において、この法において、この律において、この法と律において、この聖教において、この梵行において、この師の教えにおいて、という意味である。それ故に『ここに』と説かれるのである。」
 
 2. Bhikkhū ti
 
@@ -3024,7 +3024,7 @@ Bhāṇavāro.
   * arahā vā = arahant「阿羅漢であるか」
   * akuppadhammo = a-kuppa「動じない」＋ dhamma「性質」→「不動法者（解脱が揺るがぬ性質の阿羅漢）」
 
-  →「『比丘』とは、善凡夫（賢善なる凡夫）である比丘か、あるいは有学か、あるいは阿羅漢である不動法者をいう。」
+→「『比丘』とは、善凡夫（賢善なる凡夫）である比丘か、あるいは有学か、あるいは阿羅漢である不動法者をいう。」
 
 3. Araññan ti
 
@@ -3034,7 +3034,7 @@ Bhāṇavāro.
   * sabbam etaṃ araññaṃ = sabba「すべて」＋ etaṃ「これ（その範囲）」＋ araññaṃ「森である」
     ※村境の標柱の外側を一切「阿蘭若」とする広義（律・対法的）の定義。
 
-  →「『阿蘭若（森）』とは、（村を）出てインダキーラ（境界の門柱）の外、それらすべてが阿蘭若である。」
+→「『阿蘭若（森）』とは、（村を）出てインダキーラ（境界の門柱）の外、それらすべてが阿蘭若である。」
 
 4. Rukkhamūlan ti
 
@@ -3055,7 +3055,7 @@ Bhāṇavāro.
   * nisīdati vā =「座るか」
   * seyyaṃ vā kappeti = seyya「臥処」＋ kappeti「設える」→「臥処を設ける（横臥する）」
 
-  →「『樹下』とは、比丘のために座が設けられているところ――寝台か、椅子か、敷物か、ござか、皮の切れ端か、草の敷物か、葉の敷物か、藁の敷物か――そこで比丘が経行し、あるいは立ち、あるいは座り、あるいは臥処を設ける（横たわる）、その場所をいう。」
+→「『樹下』とは、比丘のために座が設けられているところ――寝台か、椅子か、敷物か、ござか、皮の切れ端か、草の敷物か、葉の敷物か、藁の敷物か――そこで比丘が経行し、あるいは立ち、あるいは座り、あるいは臥処を設ける（横たわる）、その場所をいう。」
 
 5. Suññan ti
 
@@ -3064,7 +3064,7 @@ Bhāṇavāro.
   * gahaṭṭhehi vā = gahaṭṭha〔具格・複数〕「在家者によってか」
   * pabbajitehi vā = pabbajita〔具格・複数〕「出家者によってか」
 
-  →「『空なる（人気のない）』とは、在家者によっても出家者によっても、誰によっても混み合っていない（空閑である）ことをいう。」
+→「『空なる（人気のない）』とは、在家者によっても出家者によっても、誰によっても混み合っていない（空閑である）ことをいう。」
 
 6. Agāran ti
 
@@ -3075,7 +3075,7 @@ Bhāṇavāro.
   * hammiyaṃ =「平屋根の家（上に居室を備えた建物）」
   * guhā =「洞窟」
 
-  →「『住処（建物）』とは、精舎、片屋根の家屋、高楼、平屋根家、洞窟をいう。」
+→「『住処（建物）』とは、精舎、片屋根の家屋、高楼、平屋根家、洞窟をいう。」
 
 7. Nisīdati pallaṅkaṃ ābhujitvā ti
 
@@ -3084,7 +3084,7 @@ Bhāṇavāro.
   * ābhujitvā = ābhujati の連続体「曲げて・組んで」
   * nisinno hoti = nisinna〔過去分詞〕「座して」＋ hoti「いる」
 
-  →「『結跏趺坐を組んで座る』とは、結跏趺坐を組んで座っている、ということである。」
+→「『結跏趺坐を組んで座る』とは、結跏趺坐を組んで座っている、ということである。」
 
 8. Ujuṃ kāyaṃ paṇidhāya ti
 
@@ -3095,7 +3095,7 @@ Bhāṇavāro.
   * ṭhito = ṭhita〔過去分詞〕「安定して立てられた」
   * supaṇihito = su「善く」＋ paṇihita〔過去分詞〕「据えられた」→「善く据えられた」
 
-  →「『身を真っ直ぐに据えて』とは、身が真っ直ぐであり、安定し、善く据えられている、ということである。」
+→「『身を真っ直ぐに据えて』とは、身が真っ直ぐであり、安定し、善く据えられている、ということである。」
 
 9. Parimukhaṃ satiṃ upaṭṭhapetvā ti
 
@@ -3109,7 +3109,7 @@ Bhāṇavāro.
 
     → 「それ故に『面前に念を確立して』と説かれる」
 
-  →「『面前に念を確立して』とは――『pari』は遍（あまね）く把握するという意味、『mukha』は出離するという意味、『sati』は現前・確立するという意味である。それ故に『面前に念を確立して』と説かれるのである。」
+→「『面前に念を確立して』とは――『pari』は遍（あまね）く把握するという意味、『mukha』は出離するという意味、『sati』は現前・確立するという意味である。それ故に『面前に念を確立して』と説かれるのである。」
 
 ## 165
 

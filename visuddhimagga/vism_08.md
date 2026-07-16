@@ -2698,7 +2698,7 @@ Ayaṃ tāvettha kāyānupassanāvasena vuttassa paṭhamacatukkassa anupubbapa
 * kammaṭṭhāna-vasena = 「業処として、業処の点から」（具格。kammaṭṭhāna は kamma+ṭhāna＝「業の処」、依主釈／vasena＝「〜の力により、〜として」）
 * vuttaṃ = 「説かれた」（vac の過去分詞・受動、主格単数中性、catukkaṃ に一致）
 
-  → 「ところで、ここ（十六事）では、この第一の四法のみが初心者に対して業処（瞑想主題）として説かれたのであって」
+→ 「ところで、ここ（十六事）では、この第一の四法のみが初心者に対して業処（瞑想主題）として説かれたのであって」
 
 2. Itarāni pana tīṇi catukkāni ettha pattajjhānassa vedanācittadhammānupassanāvasena vuttāni.
 
@@ -2711,7 +2711,7 @@ Ayaṃ tāvettha kāyānupassanāvasena vuttassa paṭhamacatukkassa anupubbapa
 * vedanā-citta-dhamma-anupassanā-vasena = 「受・心・法の随観として」（具格。vedanā+citta+dhamma は相違釈／+anupassanā は依主釈、anupassanā＝随観）
 * vuttāni = 「説かれた」（過去分詞・受動、主格複数中性）
 
-  → 「しかし、他の三つの四法は、ここでは、禅を得た者に対して、受随観・心随観・法随観として説かれた。」
+→ 「しかし、他の三つの四法は、ここでは、禅を得た者に対して、受随観・心随観・法随観として説かれた。」
 
 3. Tasmā idaṃ kammaṭṭhānaṃ bhāvetvā ānāpānacatutthajjhānapadaṭṭhānāya vipassanāya saha paṭisambhidāhi arahattaṃ pāpuṇitukāmena ādikammikena kulaputtena pubbe vuttanayeneva sīlaparisodhanādīni sabbakiccāni katvā vuttappakārassa ācariyassa santike pañcasandhikaṃ kammaṭṭhānaṃ uggahetabbaṃ.
 
@@ -2736,7 +2736,7 @@ Ayaṃ tāvettha kāyānupassanāvasena vuttassa paṭhamacatukkassa anupubbapa
 * kammaṭṭhānaṃ = 「業処を」（対格単数中性）
 * uggahetabbaṃ = 「学得すべきである」（uggaṇhāti の未来受動分詞／義務分詞、主格単数中性）
 
-  → 「それゆえ、この業処を修習して、出入息の第四禅を近因とする観（ヴィパッサナー）とともに、また諸無礙解をそなえて阿羅漢果に達することを願う初心の良家の子は、前に説かれた方法のとおりに、戒の浄化をはじめとする一切の務めをなして、上述のごとき阿闍梨のもとで、五つの段階からなる業処を学得すべきである。」
+→ 「それゆえ、この業処を修習して、出入息の第四禅を近因とする観（ヴィパッサナー）とともに、また諸無礙解をそなえて阿羅漢果に達することを願う初心の良家の子は、前に説かれた方法のとおりに、戒の浄化をはじめとする一切の務めをなして、上述のごとき阿闍梨のもとで、五つの段階からなる業処を学得すべきである。」
 
 ## 222 (2)
 
@@ -2756,7 +2756,7 @@ Evaṃ pañcasandhikaṃ kammaṭṭhānaṃ uggaṇhanto attanāpi na kilamati,
 * appanā = 「安止」（主格単数女性。心を対象に固定する禅定の集中）
 * lakkhaṇaṃ ti = 「特相、と」（主格単数中性 + iti 引用辞）
 
-  → 「そこにおいて、これら五つの段階がある。すなわち、学得・質問・現前・安止・特相である。」
+→ 「そこにおいて、これら五つの段階がある。すなわち、学得・質問・現前・安止・特相である。」
 
 2. Tattha uggaho nāma kammaṭṭhānassa uggaṇhanaṃ.
 
@@ -2765,7 +2765,7 @@ Evaṃ pañcasandhikaṃ kammaṭṭhānaṃ uggaṇhanto attanāpi na kilamati,
 * kammaṭṭhānassa = 「業処の」（属格単数中性）
 * uggaṇhanaṃ = 「学び取ること」（中性動作名詞。uggaṇhāti より）
 
-  → 「そのうち、学得とは、業処を学び取ることである。」
+→ 「そのうち、学得とは、業処を学び取ることである。」
 
 3. Paripucchā nāma kammaṭṭhānassa paripucchanā.
 
@@ -2773,7 +2773,7 @@ Evaṃ pañcasandhikaṃ kammaṭṭhānaṃ uggaṇhanto attanāpi na kilamati,
 * kammaṭṭhānassa = 「業処の」（属格単数中性）
 * paripucchanā = 「問い質すこと」（女性動作名詞）
 
-  → 「質問とは、業処を問い質すことである。」
+→ 「質問とは、業処を問い質すことである。」
 
 4. Upaṭṭhānaṃ nāma kammaṭṭhānassa upaṭṭhānaṃ.
 
@@ -2781,7 +2781,7 @@ Evaṃ pañcasandhikaṃ kammaṭṭhānaṃ uggaṇhanto attanāpi na kilamati,
 * kammaṭṭhānassa = 「業処の」（属格単数中性）
 * upaṭṭhānaṃ = 「（心に）現れ立つこと」（中性動作名詞）
 
-  → 「現前とは、業処が（心に）現れ立つことである。」
+→ 「現前とは、業処が（心に）現れ立つことである。」
 
 5. Appanā nāma kammaṭṭhānassa appanā.
 
@@ -2789,7 +2789,7 @@ Evaṃ pañcasandhikaṃ kammaṭṭhānaṃ uggaṇhanto attanāpi na kilamati,
 * kammaṭṭhānassa = 「業処の」（属格単数中性）
 * appanā = 「（心を対象に）固定し入定すること」（女性動作名詞）
 
-  → 「安止とは、業処への（心の）固定・入定である。」
+→ 「安止とは、業処への（心の）固定・入定である。」
 
 6. Lakkhaṇaṃ nāma kammaṭṭhānassa lakkhaṇaṃ.
 
@@ -2797,7 +2797,7 @@ Evaṃ pañcasandhikaṃ kammaṭṭhānaṃ uggaṇhanto attanāpi na kilamati,
 * kammaṭṭhānassa = 「業処の」（属格単数中性）
 * lakkhaṇaṃ = 「特徴、しるし」（中性）
 
-  → 「特相とは、業処の特徴である。」
+→ 「特相とは、業処の特徴である。」
 
 7. ‘‘Evaṃlakkhaṇamidaṃ kammaṭṭhāna’’nti kammaṭṭhānasabhāvūpadhāraṇanti vuttaṃ hoti.
 
@@ -2806,7 +2806,7 @@ Evaṃ pañcasandhikaṃ kammaṭṭhānaṃ uggaṇhanto attanāpi na kilamati,
 * kammaṭṭhāna-sabhāva-upadhāraṇaṃ = 「業処の本性を見極めること」（中性。kammaṭṭhāna＋sabhāva「自性・本性」依主釈／＋upadhāraṇa「確かめ・見極め」依主釈）
 * ti vuttaṃ hoti = 「という意味である」（vuttaṃ hoti「説かれている＝意味する」慣用句）
 
-  → 「『この業処はこのような特徴をもつ』という仕方で、業処の本性を見極めることである、という意味である。」
+→ 「『この業処はこのような特徴をもつ』という仕方で、業処の本性を見極めることである、という意味である。」
 
 8. Evaṃ pañcasandhikaṃ kammaṭṭhānaṃ uggaṇhanto attanāpi na kilamati, ācariyampi na viheseti.
 
@@ -2818,7 +2818,7 @@ Evaṃ pañcasandhikaṃ kammaṭṭhānaṃ uggaṇhanto attanāpi na kilamati,
 * ācariyaṃ pi = 「阿闍梨をも」（対格単数 + pi）
 * na viheseti = 「悩ませない」（viheseti「悩ます」の否定。使役的他動詞）
 
-  → 「このように五段階からなる業処を学び取る者は、自らも疲れず、阿闍梨をも悩ませない。」
+→ 「このように五段階からなる業処を学び取る者は、自らも疲れず、阿闍梨をも悩ませない。」
 
 9. Tasmā thokaṃ uddisāpetvā bahukālaṃ sajjhāyitvā evaṃ pañcasandhikaṃ kammaṭṭhānaṃ uggahetvā ācariyassa santike vā aññatra vā pubbe vuttappakāre senāsane vasantena upacchinnakhuddakapalibodhena katabhattakiccena bhattasammadaṃ paṭivinodetvā sukhanisinnena ratanattayaguṇānussaraṇena cittaṃ sampahaṃsetvā ācariyuggahato ekapadampi asammuyhantena idaṃ ānāpānassatikammaṭṭhānaṃ manasi kātabbaṃ.
 
@@ -2844,14 +2844,14 @@ Evaṃ pañcasandhikaṃ kammaṭṭhānaṃ uggaṇhanto attanāpi na kilamati,
 * idaṃ ānāpānassati-kammaṭṭhānaṃ = 「この出入息念の業処を」（対格単数中性）
 * manasi kātabbaṃ = 「作意すべきである」（manasi karoti「心に作す＝作意する」の未来受動分詞）
 
-  → 「それゆえ、少しだけ（師に）誦し示させ、長い間読誦し、このように五段階からなる業処を学得した上で、阿闍梨のもとで、あるいは他のところで、前に説かれた種類の坐臥処に住み、小さな障碍を断ち切り、食事の務めを終え、食後の倦怠を除き去り、安楽に坐し、三宝の徳の随念によって心を喜ばせ、阿闍梨から学び取ったところから一句をも取り違えずに、この出入息念の業処を作意すべきである。」
+→ 「それゆえ、少しだけ（師に）誦し示させ、長い間読誦し、このように五段階からなる業処を学得した上で、阿闍梨のもとで、あるいは他のところで、前に説かれた種類の坐臥処に住み、小さな障碍を断ち切り、食事の務めを終え、食後の倦怠を除き去り、安楽に坐し、三宝の徳の随念によって心を喜ばせ、阿闍梨から学び取ったところから一句をも取り違えずに、この出入息念の業処を作意すべきである。」
 
 10. Tatrāyaṃ manasikāravidhi –
 
 * tatra ayaṃ = 「そこにおいて、これが」（tatra 副詞「そこに」＋ ayaṃ 主格単数男性「これが」）
 * manasikāra-vidhi = 「作意の方法」（主格単数男性。manasikāra「作意」＋vidhi「方法・規定」依主釈）
 
-  → 「そこにおいて、これが作意の方法である――」
+→ 「そこにおいて、これが作意の方法である――」
 
 ## 223 (1)
 
