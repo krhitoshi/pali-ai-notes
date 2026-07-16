@@ -640,7 +640,7 @@ Vuttasseva atthassa anuvaṇṇanatthaṃ vuttesu gāthābandhesu anugacchanā
   * niddesa =「解説・釈」
   * vaṇṇanā =「註釈・解説」
 
-    → upakkilesa-ñāṇa-niddesa-vaṇṇanā =「随煩悩智の解説に対する註釈」（依主釈）
+    * upakkilesa-ñāṇa-niddesa-vaṇṇanā =「随煩悩智の解説に対する註釈」（依主釈）
 
   * paṭhamacchakkaṃ =「第一の六法」（paṭhama 第一＋chakka 六つ一組）
 

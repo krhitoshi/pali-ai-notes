@@ -5511,7 +5511,7 @@ Bhāṇavāro.
 * catukka =「四つ一組（四法・四句一組）」
 * niddesa =「解説、詳説」
 
-  → 複合語：dutiya-catukka-niddesa（限定複合）
+  * 複合語：dutiya-catukka-niddesa（限定複合）
 
 →「第二の四法句の解説」
 
@@ -5741,7 +5741,7 @@ Anupassatīti kathaṃ taṃ vedanaṃ anupassati? Aniccato anupassati…pe… e
 * sati-paṭṭhāna =「念処（念の確立・住立）」
 * bhāvanā =「修習」
 
-  → 複合語：vedanā-anupassanā-satipaṭṭhāna-bhāvanā「受随観念処の修習」
+  * 複合語：vedanā-anupassanā-satipaṭṭhāna-bhāvanā「受随観念処の修習」
 
 * ti =「と（引用詞）」
 
@@ -6298,7 +6298,7 @@ Anupassatīti kathaṃ taṃ vedanaṃ anupassati? Aniccato anupassati…pe… 
   * passasissāmi = 「入息しよう」（passasati の未来・一人称単数）
   * ti sikkhati = 「と修学する」（√śikṣ 現在三人称単数）
 
-    → 引用文＋「学ぶ」
+    * 引用文＋「学ぶ」
 
 →「いかにして『心行を静めつつ出息しよう』と修学し、『心行を静めつつ入息しよう』と修学するのか。」
 
