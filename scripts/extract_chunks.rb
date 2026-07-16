@@ -1,20 +1,24 @@
 # VRI XML から経を抽出しチャンクに分割するスクリプト
 #
 # 使い方:
-#   ruby scripts/extract_chunks.rb <xml> <subhead> <outdir> <chunkspec>
+#   ruby scripts/extract_chunks.rb <xml> <subhead> [<outdir> <chunkspec>]
 #
 # 例:
 #   ruby scripts/extract_chunks.rb _tmp/s0305m.mul9.xml "10. Kimilasuttaṃ" work "1-3,4,5-6,7-8,9"
+#   ruby scripts/extract_chunks.rb _tmp/s0305m.mul9.xml "10. Kimilasuttaṃ"   # 段落一覧のみ
 #
 # - <subhead> は <p rend="subhead"> の見出しテキストと完全一致させる
 # - <chunkspec> は段落番号 (1 始まり) のグループ指定. 例 "1-3,4,5-9"
+# - <outdir> と <chunkspec> を省略すると, チャンク境界を決めるための
+#   段落一覧 (連番, VRI 段落番号, 文字数, 冒頭) を表示して終了する
 # - 出力: <outdir>/source.txt (正本, read-only) と <outdir>/chunk_NN.txt
 # - チャンク先頭 (chunk_01) には経題行を含める
 # - 全チャンクを連結すると source.txt と一致することを assert する
 
 # ARGV はロケールによって binary になるため UTF-8 を強制する
 xml_path, subhead, outdir, chunkspec = ARGV.map { |a| a.dup.force_encoding("UTF-8") }
-abort "usage: extract_chunks.rb <xml> <subhead> <outdir> <chunkspec>" unless chunkspec
+abort "usage: extract_chunks.rb <xml> <subhead> [<outdir> <chunkspec>]" unless subhead
+abort "usage: extract_chunks.rb <xml> <subhead> [<outdir> <chunkspec>]" if outdir && !chunkspec
 
 # VRI XML は UTF-16LE (BOM 付き)
 raw = File.read(xml_path, mode: "rb", encoding: "UTF-16LE:UTF-8")
@@ -57,6 +61,16 @@ end
 
 blocks = [subhead] + paras.map { |p| to_plain(p) }
 
+# chunkspec 省略時は段落一覧を表示して終了する (チャンク境界の検討用)
+unless chunkspec
+  puts subhead
+  blocks[1..].each_with_index do |b, i|
+    num = b[/\A(\d+)\./, 1]
+    puts format("%3d | para %-4s | %5d chars | %s", i + 1, num.to_s, b.size, b[0, 60])
+  end
+  exit
+end
+
 # 正本を書き出し read-only にする
 require "fileutils"
 FileUtils.mkdir_p(outdir)
@@ -78,6 +92,13 @@ abort "chunkspec mismatch: covers #{covered.inspect}, expected #{expected.inspec
 
 chunk_paths = []
 groups.each_with_index do |nums, i|
+  # チャンク途中から始まる VRI 段落番号は組み立て時に自分のセクション
+  # 見出しを持てず, 後続チャンクの見出しラベルも誤解を招くため警告する
+  nums[1..].each do |n|
+    pn = blocks[n][/\A(\d+)\./, 1]
+    warn "WARN: chunk #{i + 1}: 段落 #{n} (VRI #{pn}) がチャンク途中にある. " \
+         "番号の先頭で新チャンクを始めることを検討" if pn
+  end
   body = nums.map { |n| blocks[n] }
   # 先頭チャンクには経題行を含める
   body.unshift(blocks[0]) if i.zero?

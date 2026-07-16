@@ -14,6 +14,13 @@
 #              文字と語順は保たれており, 引用符の省略・…pe… 前後の空白付加・
 #              連声の分かち書きなど再掲時の編集的な揺れだけがある状態
 #   NG         いずれにも一致しない (要確認)
+#
+# あわせて見出しの検査を行う (NG-HEADING):
+#   - 見出しは「# 経題」「## <段落番号>」「## <段落番号> (連番)」
+#     「### Meta」「### 対訳」のみ (生成が作った余計な見出しの検出)
+#   - 正本に現れる VRI 段落番号がすべて ## 見出しに存在する (欠番の検出.
+#     チャンク途中から始まった番号は見出しを持てないため, ここで露見する)
+#   - 同一番号の連番 (N) は 1 から始まり連続する
 
 source_path, *md_paths = ARGV
 abort "usage: verify_taiyaku.rb <source.txt> <md...>" if md_paths.empty?
@@ -47,6 +54,40 @@ md_paths.each do |md|
       ng += 1
       puts "NG #{md}:#{lineno}: #{pali}"
     end
+  end
+end
+
+# 見出しの検査. 正本の段落先頭に現れる VRI 段落番号を期待値とし,
+# md の ## 見出しと突き合わせる. 先頭ブロックは経題 ("10. Apaṇṇakasuttaṃ"
+# など番号で始まる) のため段落番号の対象から除く
+source_raw = File.read(source_path, encoding: "UTF-8")
+expected_nums = source_raw.split(/\r?\n\r?\n/)[1..].map { |b| b[/\A(\d+)\./, 1] }.compact
+md_paths.each do |md|
+  seq = Hash.new(0)
+  found_nums = []
+  File.read(md, encoding: "UTF-8").each_line.with_index(1) do |line, lineno|
+    next unless line =~ /\A\#+ /
+    heading = line.chomp
+    case heading
+    when /\A# ./, /\A### (Meta|対訳)\z/
+      # 経題と定型見出しは許可
+    when /\A## (\d+)(?: \((\d+)\))?\z/
+      n, k = $1, $2
+      found_nums << n
+      seq[n] += 1
+      unless (k ? k.to_i : 1) == seq[n]
+        ng += 1
+        puts "NG-HEADING #{md}:#{lineno}: 連番が不連続: #{heading}"
+      end
+    else
+      ng += 1
+      puts "NG-HEADING #{md}:#{lineno}: 想定外の見出し: #{heading}"
+    end
+  end
+  missing = expected_nums - found_nums
+  unless missing.empty?
+    ng += 1
+    puts "NG-HEADING #{md}: ## 見出しにない段落番号: #{missing.join(', ')}"
   end
 end
 

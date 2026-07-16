@@ -30,13 +30,17 @@ bodies = chunk_paths.each_with_index.map do |path, i|
   i.zero? ? body.partition(/\n\n/).last : body
 end
 
-# 見出し用の段落番号: チャンク先頭の段落から取り, なければ直前を引き継ぐ.
+# 見出し用の段落番号: チャンク先頭の段落から取り, なければ直前チャンクまでに
+# 最後に現れた番号を引き継ぐ (チャンク途中で番号が進む場合があるため,
+# チャンク先頭の番号ではなく本文中の最後の番号を引き継ぎ元にする).
 # 同じ番号が複数チャンクにまたがる場合のみ連番 (N) を付ける
 last = nil
 paranums = bodies.map do |body|
-  n = body[/\A(\d+)\./, 1]
-  last = n if n
-  last or abort "paranum not found in first chunk"
+  n = body[/\A(\d+)\./, 1] || last
+  abort "paranum not found in first chunk" unless n
+  nums = body.scan(/(?:\A|\n\n)(\d+)\./).flatten
+  last = nums.last || last
+  n
 end
 # tally は Ruby 2.7+ のため手動で数える
 counts = Hash.new(0)
