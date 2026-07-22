@@ -29,14 +29,19 @@ lines = raw.split(/\r?\n/)
 start = lines.index { |l| l =~ %r{<p rend="subhead">#{Regexp.escape(subhead)}</p>} }
 abort "subhead not found: #{subhead}" unless start
 
+# 本文段落として取り込む rend. bodytext のほか, 註釈書に現れる
+# unindented (続き段落), indent, 偈 (gatha1..gathalast) を含める
+BODY_RENDS = %w[bodytext unindented indent gatha1 gatha2 gatha3 gathalast].freeze
+
 paras = []
 lines[(start + 1)..].each do |line|
   line = line.strip
   next if line.empty?
-  unless line.start_with?('<p rend="bodytext"')
+  rend = line[/\A<p rend="([^"]+)"/, 1]
+  unless BODY_RENDS.include?(rend)
     # 経の結び (MN などの "... niṭṭhitaṃ ..." centre 段落) は含める.
     # vagga の結び ("...vaggo paṭhamo." など) は niṭṭhitaṃ を含まないので除外される
-    paras << line if line.start_with?('<p rend="centre"') && line.include?("niṭṭhitaṃ")
+    paras << line if rend == "centre" && line.include?("niṭṭhitaṃ")
     break
   end
   paras << line
@@ -45,6 +50,10 @@ abort "no bodytext paragraphs found" if paras.empty?
 
 # タグ処理: LLM を通さず決定論的に平文へ変換する
 # - 段落番号 <hi rend="paranum">986</hi><hi rend="dot">.</hi> -> "986."
+#   (直後に空白がなければ 1 個補う. 既存の手動対訳の表記に合わせる)
+# - 太字 <hi rend="bold">X</hi> -> "X". 註釈書の語句引用の強調は平文化する
+#   (既存の手動対訳 patis_a_1_03.md, vism_08.md が太字マーカーを使わない
+#   表記のため)
 # - 異読 <note>X</note> -> "[X]"
 # - 頁番号 <pb ... /> -> 削除
 # - 連続スペースは 1 個に集約 (pb 除去に伴う "bhāsati ," 型の空白は残る)
@@ -53,10 +62,13 @@ def to_plain(p)
   s.sub!(/\A<p[^>]*>/, "")
   s.sub!(%r{</p>\z}, "")
   s.gsub!(%r{<hi rend="paranum">([^<]*)</hi><hi rend="dot">\.</hi>}, '\1.')
+  s.gsub!(%r{<hi rend="bold">([^<]*)</hi>}, '\1')
   s.gsub!(%r{<note>([^<]*)</note>}, '[\1]')
   s.gsub!(%r{<pb [^>]*/>}, "")
   s.gsub!(/ {2,}/, " ")
-  s.strip
+  s.strip!
+  s.sub!(/\A(\d+)\.(?=\S)/, '\1. ')
+  s
 end
 
 blocks = [subhead] + paras.map { |p| to_plain(p) }

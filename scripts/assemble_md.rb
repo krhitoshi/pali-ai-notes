@@ -17,8 +17,15 @@ workdir, out_md, date, model_label = ARGV.map { |a| a&.dup&.force_encoding("UTF-
 abort "usage: assemble_md.rb <workdir> <out_md> <date> <model_label>" unless model_label
 
 chunk_paths = Dir[File.join(workdir, "chunk_*.txt")].sort
-gen_paths = Dir[File.join(workdir, "out_*.md")].sort
-abort "chunk/out count mismatch (#{chunk_paths.size}/#{gen_paths.size})" if chunk_paths.size != gen_paths.size
+gen_paths = chunk_paths.map { |p| p.sub(/chunk_(\d+)\.txt\z/, 'out_\1.md') }
+# 生成結果が揃っていないチャンクはスキップして部分組み立てにする
+# (長いテキストを数回に分けて生成する運用のため). 欠けを警告する
+missing = gen_paths.reject { |p| File.exist?(p) }
+abort "no generation outputs in #{workdir}" if missing.size == chunk_paths.size
+unless missing.empty?
+  warn "WARN: partial assembly, missing #{missing.size}/#{chunk_paths.size}: " +
+       missing.map { |p| File.basename(p) }.join(", ")
+end
 
 # 先頭チャンクの 1 行目は経題
 first = File.read(chunk_paths[0], encoding: "UTF-8")
@@ -64,14 +71,17 @@ def unfence(s)
 end
 
 out = +"\n# #{title}\n"
+assembled = 0
 bodies.each_with_index do |body, i|
+  next unless File.exist?(gen_paths[i])
   gen = unfence(File.read(gen_paths[i], encoding: "UTF-8"))
   warn "WARN: #{gen_paths[i]} does not start with '### 対訳'" unless gen.start_with?("### 対訳")
   out << "\n## #{headings[i]}\n\n"
   out << body << "\n\n"
   out << "### Meta\n\n- #{date}\n- #{model_label}\n\n"
   out << gen << "\n"
+  assembled += 1
 end
 
 File.write(out_md, out)
-puts "wrote #{out_md} (#{out.bytesize} bytes, #{chunk_paths.size} chunks)"
+puts "wrote #{out_md} (#{out.bytesize} bytes, #{assembled}/#{chunk_paths.size} chunks)"
