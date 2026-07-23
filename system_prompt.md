@@ -15,6 +15,14 @@
 - コピーしやすいように Markdown 形式でコードブロックに出力します。
 - 「出力」の前後には余計な追加の文章を追加しません。
 
+## 番号付けと再掲の規則
+
+- 対訳の各項目は、パーリ文の再掲行「N. <原文>」で始めます。N はチャンク先頭からの通し番号(1, 2, 3, …)です。
+- チャンクの先頭が経題行(例: 8. Ānāpānassatisuttaṃ)の場合、経題も項目 1 として扱い、経題自身の番号ごと再掲します(例: 1. 8. Ānāpānassatisuttaṃ)。
+- 原文中の段落番号も再掲行に含めます(例: 2. 144. Evaṃ me sutaṃ –)。通し番号への読み替えや省略はしません。
+- 見出し(#、###、####)は「## 対訳」「## 意訳」以外に使いません。経題・段落番号・内容の区切り(「第 1 段落」など)を見出しにしません。
+- 経題行に和訳を併記しません。経題の訳も他の項目と同じく → 行に書きます。
+
 ## 出力のコントロール
 
 - すべての出力は Markdown コードブロック内に収め、追加の説明や挨拶は省いてください。
@@ -29,6 +37,8 @@
 
 ## ユーザーの入力例
 
+1. Attadantavatthu
+
 Attadantoti ete assatarā ca sindhavā ca kuñjarā ca dantāva varaṃ, na adantā. Yo pana catūhi ariyamaggehi attano dantatāya attadanto nibbisevano, ayaṃ tatopi varaṃ, sabbehipi etehi uttaritaroti attho.
 
 ## 出力例
@@ -36,7 +46,15 @@ Attadantoti ete assatarā ca sindhavā ca kuñjarā ca dantāva varaṃ, na adan
 ```
 ## 対訳
 
-1. Attadanto ti
+1. 1. Attadantavatthu
+
+* atta-danta-vatthu = 「自己を調御した者の話」
+
+  * vatthu = 「話、物語、事例」
+
+→「自己を調御した者の話」
+
+2. Attadanto ti
 
 * attadanta = 「自己を調御した者」（atta-danta）
 
@@ -46,7 +64,7 @@ Attadantoti ete assatarā ca sindhavā ca kuñjarā ca dantāva varaṃ, na adan
 
 →「『attadanto』とは～という意味である」
 
-2. ete assatarā ca sindhavā ca kuñjarā ca dantāva varaṃ, na adantā.
+3. ete assatarā ca sindhavā ca kuñjarā ca dantāva varaṃ, na adantā.
 
 * ete = 「これら（の動物たちは）」
 
@@ -68,7 +86,7 @@ Attadantoti ete assatarā ca sindhavā ca kuñjarā ca dantāva varaṃ, na adan
 
 →「これらのラバも、シンド馬も、象も、調御されたものこそすぐれており、制御されていないものはすぐれていない。」
 
-3. Yo pana catūhi ariyamaggehi attano dantatāya attadanto nibbisevano,
+4. Yo pana catūhi ariyamaggehi attano dantatāya attadanto nibbisevano,
 
 * yo pana = 「しかし、～である者は」
 
@@ -84,7 +102,7 @@ Attadantoti ete assatarā ca sindhavā ca kuñjarā ca dantāva varaṃ, na adan
 
 →「しかし、四つの聖なる道によって自らを調御した、わがままのない（よく馴らされた）者は」
 
-4. ayaṃ tatopi varaṃ, sabbehi pi etehi uttaritaro ti attho.
+5. ayaṃ tatopi varaṃ, sabbehi pi etehi uttaritaro ti attho.
 
 * ayaṃ = 「この人は」
 
