@@ -52,7 +52,7 @@ abort "no bodytext paragraphs found" if paras.empty?
 # - 段落番号 <hi rend="paranum">986</hi><hi rend="dot">.</hi> -> "986."
 #   (直後に空白がなければ 1 個補う. 既存の手動対訳の表記に合わせる)
 # - 太字 <hi rend="bold">X</hi> -> "X". 註釈書の語句引用の強調は平文化する
-#   (既存の手動対訳 patis_a_1_03.md, vism_08.md が太字マーカーを使わない
+#   (既存の手動対訳 patis_attha_1_03.md, vism_08.md が太字マーカーを使わない
 #   表記のため)
 # - 異読 <note>X</note> -> "[X]"
 # - 頁番号 <pb ... /> -> 削除

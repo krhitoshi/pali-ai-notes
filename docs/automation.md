@@ -111,7 +111,7 @@ CLI で再現する構成になる.
   - 取り込む段落 rend は bodytext のほか unindented (続き段落), indent,
     偈 (gatha1..gathalast). bodytext だけだと途中で抽出が止まる
   - 語句引用の強調 `<hi rend="bold">X</hi>` は平文化する (既存の手動対訳
-    vism_08.md, patis_a_1_03.md が太字マーカーを使わない表記のため)
+    vism_08.md, patis_attha_1_03.md が太字マーカーを使わない表記のため)
   - 段落番号直後に空白がない場合 ("216.Kathanti") は 1 個補う
   - 出典略号 "(dī. ni. 1.190)" は原文にそのまま残す. 再掲時の省略は
     verify_taiyaku.rb が OK-LOOSE で許容する (数字を含む括弧のみ対象)

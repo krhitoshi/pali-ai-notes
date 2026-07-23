@@ -3,7 +3,7 @@
 Paṭisambhidāmagga に現れる yathattha (yathā + attha) を「真実の目的」と訳す
 根拠と, 検討の経緯をまとめる. 該当箇所は patisambhidamagga/patis_1_03.md の
 §161(2) (yathā の語義解説段), §162(1) (Desitā 句), §162(2) (Pabhāseti 句) と,
-註 (patisambhidamagga/patis_a_1_03.md) の対応箇所.
+註 (patisambhidamagga/patis_attha_1_03.md) の対応箇所.
 
 ## 訳語
 

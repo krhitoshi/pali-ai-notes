@@ -216,7 +216,7 @@ vism_08.md (Visuddhimagga 第8章 安般念) の改訂記録.
 - 根拠: nissāya は多義 (Main/PTS/村上: によって・頼りにして・にもとづいて・の故に).
   文脈依存のため一律置換せず, 手段は「頼りに」, 名詞は「よりどころ」, paṭibaddha の
   語釈は「依存」に分けた. 同語根 sannissaya は既に 所依->依りどころ に平易化済み
-- 範囲: まず vism_08 のみ. patis_a_1_03 等 他ファイルの「依拠」(nissāya/nissita) は未着手
+- 範囲: まず vism_08 のみ. patis_attha_1_03 等 他ファイルの「依拠」(nissāya/nissita) は未着手
 - 改訂: Claude Opus 4.8 + MCP (pali-dict)
 
 ### 2026/07/01 translation_terms.md の残存置換語を統一
@@ -288,7 +288,7 @@ vism_08.md (Visuddhimagga 第8章 安般念) の改訂記録.
 - 内容: §229 の atthavasa 語釈「道理、理由、意義の力」から「意義の力」を
   削除し「道理、理由」に. 訳文は元から「理由（道理）」で変更なし
 - 経緯: attha の訳語から「意義」を廃した同日改訂 (patis_1_03_history.md
-  参照) に合わせた語釈の整理. patis_a_1_03 の同語の語釈とも一致
+  参照) に合わせた語釈の整理. patis_attha_1_03 の同語の語釈とも一致
 - 改訂: Claude Fable 5
 
 ### 2026/07/13 nimitta 語釈の誤った読み仮名「にっそう」を削除
