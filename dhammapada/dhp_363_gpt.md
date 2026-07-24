@@ -9,7 +9,7 @@ Tattha mukhasaṃyatoti dāsacaṇḍālādayopi ‘‘tvaṃ dujjāto, tvaṃ d
 
 ### Meta
 
-- GPT?
+- GPT 5.1 (Web)
 
 ### 対訳
 
