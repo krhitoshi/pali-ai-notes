@@ -74,3 +74,4 @@ git diff --cached --name-only -- docs/
 - `insert_blank_lines.md` — 空行スタイル改訂 (リスト前・訳文行前の空行挿入) の手順
 - `unify_list_indent.md` — 対訳リストのインデント正書法と統一改訂の記録
 - `commentary_file_naming.md` — 註釈・復註ファイルの命名規則 (attha / tika)
+- `verify_legacy_taiyaku.md` — 自動化以前の対訳ファイルへの後追い検証手順
