@@ -14,3 +14,6 @@
 !/docs/unify_list_indent.md
 !/docs/commentary_file_naming.md
 !/docs/verify_legacy_taiyaku.md
+# public/ はビルド生成物を除外しディレクトリだけ追跡する
+/public/*
+!/public/.gitkeep
