@@ -44,7 +44,7 @@ CSS = <<~CSS
     max-width: 46rem;
     margin: 0 auto;
     padding: 0 1rem 4rem;
-    font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
+    font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
     line-height: 1.8;
     color: #222;
     background: #fdfcf7;
