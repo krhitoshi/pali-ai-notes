@@ -30,8 +30,9 @@ start = lines.index { |l| l =~ %r{<p rend="subhead">#{Regexp.escape(subhead)}</p
 abort "subhead not found: #{subhead}" unless start
 
 # 本文段落として取り込む rend. bodytext のほか, 註釈書に現れる
-# unindented (続き段落), indent, 偈 (gatha1..gathalast) を含める
-BODY_RENDS = %w[bodytext unindented indent gatha1 gatha2 gatha3 gathalast].freeze
+# unindented (続き段落), indent, 偈 (gatha1..gathalast) を含める.
+# hangnum は偈の前に段落番号だけが独立段落になる形 (Vism 8 章 §223 など)
+BODY_RENDS = %w[bodytext unindented indent gatha1 gatha2 gatha3 gathalast hangnum].freeze
 
 paras = []
 lines[(start + 1)..].each do |line|

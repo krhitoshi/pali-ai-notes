@@ -109,7 +109,9 @@ CLI で再現する構成になる.
   本文中の最後の番号を引き継ぐ
 - 註釈書 (Vism-mhṭ の Ānāpānassatikathāvaṇṇanā で対応済み) の扱い:
   - 取り込む段落 rend は bodytext のほか unindented (続き段落), indent,
-    偈 (gatha1..gathalast). bodytext だけだと途中で抽出が止まる
+    偈 (gatha1..gathalast), hangnum. bodytext だけだと途中で抽出が止まる
+  - hangnum は偈の前に段落番号だけが独立段落になる形 (Vism 8 章 §223 の
+    "223." など. mūla 側にも現れる)
   - 語句引用の強調 `<hi rend="bold">X</hi>` は平文化する (既存の手動対訳
     vism_08.md, patis_attha_1_03.md が太字マーカーを使わない表記のため)
   - 段落番号直後に空白がない場合 ("216.Kathanti") は 1 個補う
