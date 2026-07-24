@@ -34,9 +34,8 @@ TARGET_RE = /\A(mn|sn|vism|patis|dhp)(_attha|_tika)?(_[\d-]+)+\z/
 
 KIND_LABELS = { main: "本文", attha: "註", tika: "復註" }.freeze
 
-# 生成メタデータの見出しテキスト
-# "Meta" のほか, 旧形式 (dhammapada) ではモデル名が直接見出しになっている
-META_TITLE_RE = /\A(Meta|GPT( .+)?|gpt-\S+|Gemini( .+)?|Claude( .+)?)\z/
+# 生成メタデータの見出しテキスト. 全コーパスで "Meta" に統一済み
+META_HEADING = "Meta"
 
 CSS = <<~CSS
   html { background: #fdfcf7; }
@@ -123,7 +122,7 @@ def extract_titles(path)
     text = line[/\A# (.+?)\s*\z/, 1]
     next unless text
     next if text.match?(/\A\d+( \(\d+\))?\z/)
-    next if text.match?(META_TITLE_RE)
+    next if text == META_HEADING
 
     text
   end
@@ -137,7 +136,7 @@ def preprocess(md)
   in_meta = false
   lines.each do |line|
     heading_text = line[/\A#+ (.+?)\s*\z/, 1]
-    if heading_text&.match?(META_TITLE_RE)
+    if heading_text == META_HEADING
       in_meta = true
       next
     end
