@@ -345,3 +345,35 @@ vism_08.md (Visuddhimagga 第8章 安般念) の改訂記録.
 - 検証: diff の全変更行が先頭空白のみの差であることを機械的に確認し,
   文脈付き diff を全読
 - 改訂: Claude Fable 5
+
+### 2026/07/24 自動化手順の検証を適用しパーリ行を VRI 正本に整合
+
+- 内容: 本ファイルは自動化手順 (docs/automation.md) 以前の運用
+  (チャンク化, Claude Web への入力, 出力の md への貼り付けを手動で行う.
+  原文段落自体は VRI テキストのコピーで LLM の打ち直しではない) で
+  作成されたため, 同手順の検証 (scripts/verify_taiyaku.rb) を VRI XML
+  (e0101n.mul8.xml, Ānāpānassatikathā §215-238) 由来の正本に対して適用し,
+  以下を改訂
+  - パーリ行に混入していた NBSP (U+00A0) 186 個を通常スペースに置換.
+    ブラウザからのコピー由来 (tipitaka.org の HTML が &nbsp; を使用).
+    和文には NBSP なし. 文字・語順の変更なし
+  - VRI 原文で段落番号直後に空白がない 3 段落 (§219 Sosatova, §220
+    Sabbakāyapaṭisaṃvedī, §227 Kakacūpamā) に空白を 1 個補い正本の
+    表記に統一
+  - 対訳の再掲行 3 箇所を VRI の綴りに復元し, 語釈に注記を追加
+    - §223 sīghaṃ sīyaṃ (再掲は sīghaṃ sīghaṃ に直されていた. sīyaṃ は
+      VRI 版のみの綴りで誤植とみられる. PTS 版は sīghaṃ sīghaṃ)
+    - §229 āhiṇḍahi (再掲は āhiṇḍati. VRI 版のみの綴りで誤植とみられる.
+      PTS 版と並行箇所の律註・Paṭis 註は āhiṇḍati. 既存の
+      「語形は要確認」注記をこの事実で置換)
+    - §234 Idampanettha (再掲は Idaṃpanettha. VRI は m 表記)
+- 検証: 原文段落 126 のうち 124 が正本と完全一致 (文字差ゼロ).
+  残り 2 は §217 Tenāhu porāṇā と §218 Ujuṃ kāyaṃ paṇidhāyāti の
+  セクション境界による段落分割で, 意図的な編集として保持.
+  再掲行 553 行中 NG 14 行が残るが, いずれも注記 (〔第三歩〕,
+  （偈・第一句）等), 連声・複合語の分解 (pan' ettha, ti-ādim āha 等),
+  偈の半行連結といった意図的な編集手法によるもの.
+  HEAD との全差分 71 行が上記変更のみであることを機械的に確認
+- 付随: scripts/extract_chunks.rb の取り込み対象 rend に hangnum を追加
+  (§223 で段落番号のみが独立段落になる形. 従来は §222 で抽出が停止)
+- 改訂: Claude Fable 5
