@@ -13,9 +13,10 @@
 #              句読点前の空白を詰めても一致. 出典略号は註釈書の
 #              "(dī. ni. 1.190)" のような括弧で, 数字を含む括弧のみ対象
 #              (再掲時に異読注・出典を省くのは許容されるドリフト)
-#   OK-NOSPACE さらに引用符 (‘ ’) と空白をすべて除いても一致.
-#              文字と語順は保たれており, 引用符の省略・…pe… 前後の空白付加・
-#              連声の分かち書きなど再掲時の編集的な揺れだけがある状態
+#   OK-NOSPACE さらに引用符 (‘ ’ と編集表記の ") と空白をすべて除いても一致.
+#              文字と語順は保たれており, 引用符の省略・変形・…pe… 前後の
+#              空白付加・連声の分かち書きなど再掲時の編集的な揺れだけが
+#              ある状態. ASCII の " は対訳の語句引用の編集表記として許容する
 #   NG         いずれにも一致しない (要確認)
 #
 # あわせて見出しの検査を行う (NG-HEADING):
@@ -45,7 +46,7 @@ end
 source = collapse(File.read(source_path, encoding: "UTF-8"))
 source_loose = loosen(source)
 # 引用符と空白をすべて除いた版. 文字化けや脱字は残らず検出できる
-source_nospace = source_loose.gsub(/[‘’]/, "").gsub(/\s/, "")
+source_nospace = source_loose.gsub(/[‘’"]/, "").gsub(/\s/, "")
 
 ng = 0
 checked = 0
@@ -60,7 +61,7 @@ md_paths.each do |md|
     loose = loosen(pali)
     if source_loose.include?(loose)
       puts "OK-LOOSE #{md}:#{lineno}: #{pali[0, 60]}"
-    elsif source_nospace.include?(loose.gsub(/[‘’]/, "").gsub(/\s/, ""))
+    elsif source_nospace.include?(loose.gsub(/[‘’"]/, "").gsub(/\s/, ""))
       puts "OK-NOSPACE #{md}:#{lineno}: #{pali[0, 60]}"
     else
       ng += 1
