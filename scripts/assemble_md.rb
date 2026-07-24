@@ -49,9 +49,7 @@ paranums = bodies.map do |body|
   last = nums.last || last
   n
 end
-# tally は Ruby 2.7+ のため手動で数える
-counts = Hash.new(0)
-paranums.each { |n| counts[n] += 1 }
+counts = paranums.tally
 seen = Hash.new(0)
 headings = paranums.map do |n|
   seen[n] += 1
