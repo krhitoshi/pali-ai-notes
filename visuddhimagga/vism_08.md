@@ -1709,9 +1709,7 @@ Tattha sikkhatīti evaṃ ghaṭati vāyamati. Yo vā tathābhūtassa saṃvaro,
 
 ### 対訳
 
-220.
-
-1. Sabbakāyapaṭisaṃvedī assasissāmi …pe… passasissāmīti sikkhatī ti
+1. 220. Sabbakāyapaṭisaṃvedī assasissāmi …pe… passasissāmīti sikkhatī ti
 
 * sabba = 「すべての」
 * kāya = 「身体」(ここでは「息の集まり＝呼吸の全体」)
@@ -6227,9 +6225,8 @@ Visuddhimagga Ānāpānassatikathā §238（続き・兄弟長老の逸話と結
 
 →「長老は言った。──『私は今、そなたたちに、経行しつつまさに般涅槃する者（としての私自身）を見せよう』と。それから経行処に線（しるし）を引き、『私はこの経行処の（こちらの）端から向こうの端へ行き、引き返してきて、この線に達するや、まさに般涅槃するであろう』と言って、経行処に下り立って向こう側へ行き、引き返してきて、片足で線を踏んだ、まさにその瞬間に、般涅槃した。」
 
-6.
-Tasmā have appamatto, anuyuñjetha paṇḍito;
-Evaṃ anekānisaṃsaṃ, ānāpānassatiṃ sadāti.
+6. Tasmā have appamatto, anuyuñjetha paṇḍito;
+   Evaṃ anekānisaṃsaṃ, ānāpānassatiṃ sadāti.
 
 （偈：第一句）
 
