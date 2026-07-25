@@ -9,11 +9,16 @@
 #
 # - <subhead> は <p rend="subhead"> の見出しテキストと完全一致させる
 # - <chunkspec> は段落番号 (1 始まり) のグループ指定. 例 "1-3,4,5-9"
+#   セクション一部だけを対訳する用途のため "6-11" のような途中範囲も
+#   指定できる. ただし連続した昇順であること (歯抜けや逆順は誤指定として弾く)
 # - <outdir> と <chunkspec> を省略すると, チャンク境界を決めるための
 #   段落一覧 (連番, VRI 段落番号, 文字数, 冒頭) を表示して終了する
 # - 出力: <outdir>/source.txt (正本, read-only) と <outdir>/chunk_NN.txt
+#   source.txt は chunkspec の範囲によらず常にセクション全体を書く
+#   (verify_taiyaku.rb は正本の部分文字列照合のため広い分には問題ない)
 # - チャンク先頭 (chunk_01) には経題行を含める
-# - 全チャンクを連結すると source.txt と一致することを assert する
+# - 全チャンクを連結すると正本の該当範囲 (経題 + 指定段落) と一致することを
+#   assert する. 全段落指定なら正本全体との一致になる
 
 # ARGV はロケールによって binary になるため UTF-8 を強制する
 xml_path, subhead, outdir, chunkspec = ARGV.map { |a| a.dup.force_encoding("UTF-8") }
@@ -94,14 +99,16 @@ File.write(source_path, source)
 File.chmod(0444, source_path)
 
 # chunkspec を解釈してチャンクを書き出す
-# 段落番号は経題を除いた bodytext 段落の 1 始まり
+# 段落番号は経題を除いた bodytext 段落の 1 始まり.
+# セクション一部だけを対訳する用途のため 1 から始まらない範囲も許可する
 groups = chunkspec.split(",").map do |spec|
   a, b = spec.split("-").map(&:to_i)
   (a..(b || a)).to_a
 end
 covered = groups.flatten
-expected = (1..paras.size).to_a
-abort "chunkspec mismatch: covers #{covered.inspect}, expected #{expected.inspect}" unless covered == expected
+abort "chunkspec が空か逆順: #{chunkspec.inspect}" if covered.empty?
+abort "chunkspec が連続した昇順でない: #{covered.inspect}" unless covered == (covered.first..covered.last).to_a
+abort "chunkspec が段落範囲 1..#{paras.size} を超えている: #{covered.inspect}" unless covered.first >= 1 && covered.last <= paras.size
 
 chunk_paths = []
 groups.each_with_index do |nums, i|
@@ -120,11 +127,14 @@ groups.each_with_index do |nums, i|
   chunk_paths << path
 end
 
-# 連結一致 assert: 全チャンク連結 == 正本
+# 連結一致 assert: 全チャンク連結 == 正本の該当範囲 (経題 + 指定段落).
+# 全段落指定なら正本全体との一致になる.
 # ロケールが C でも比較が壊れないよう UTF-8 を明示して読み込む
+expected = ([blocks[0]] + covered.map { |n| blocks[n] }).join("\n\n") + "\n"
 joined = chunk_paths.map { |p| File.read(p, encoding: "UTF-8").chomp }.join("\n\n") + "\n"
-if joined == source
-  puts "OK: #{chunk_paths.size} chunks, concat == source (#{source.bytesize} bytes)"
+if joined == expected
+  label = covered.size == paras.size ? "source" : "source slice (para #{covered.first}-#{covered.last})"
+  puts "OK: #{chunk_paths.size} chunks, concat == #{label} (#{expected.bytesize} bytes)"
   chunk_paths.each { |p| puts "  #{p} (#{File.read(p).bytesize} bytes)" }
 else
   abort "ASSERT FAILED: concatenated chunks differ from source"
