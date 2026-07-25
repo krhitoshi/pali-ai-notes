@@ -12,6 +12,8 @@
 # - 見出しは "## <段落番号>". 段落番号はチャンク先頭の本文段落から取り,
 #   番号のないチャンクは直前の番号を引き継ぐ. 同じ番号が複数チャンクに
 #   またがる場合のみ "## <段落番号> (N)" と連番を付ける
+# - 先頭チャンクに段落番号がない場合 (Dhp-a の vatthu 導入部など, 最初の
+#   番号より前に本文がある形) は後続で最初に現れる番号を引き継ぐ
 
 workdir, out_md, date, model_label = ARGV.map { |a| a&.dup&.force_encoding("UTF-8") }
 abort "usage: assemble_md.rb <workdir> <out_md> <date> <model_label>" unless model_label
@@ -44,11 +46,14 @@ end
 last = nil
 paranums = bodies.map do |body|
   n = body[/\A(\d+)\./, 1] || last
-  abort "paranum not found in first chunk" unless n
   nums = body.scan(/(?:\A|\n\n)(\d+)\./).flatten
   last = nums.last || last
   n
 end
+# 先頭チャンクに番号がない場合は後続で最初に現れる番号を引き継ぐ
+first_num = paranums.compact.first
+abort "paranum not found in any chunk" unless first_num
+paranums = paranums.map { |n| n || first_num }
 counts = paranums.tally
 seen = Hash.new(0)
 headings = paranums.map do |n|
