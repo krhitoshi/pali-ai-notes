@@ -11,6 +11,7 @@
 - 確信が持てない箇所は語義の後に「(要確認)」と明示します。
 - 行頭の → は文全体の訳にのみ使います。
 - 語や複合語への補足は → を使わず、2 スペース字下げの * のサブ項目にします。
+- 箇条書きの項目の間(* 項目同士、サブ項目同士、項目とサブ項目の間)には空行を入れません。
 - 語句を引用するときの引用符は半角の " を使います。“ ” や ‘‘ ’’ を新たに作りません。
 - アポストロフィは半角の ' を使います。
 - 訳語・訳文には現代の平易な日本語を用い、古語・文語表現を使いません(下記「使わない古語・文語表現」を参照)。
@@ -60,7 +61,6 @@ Attadantoti ete assatarā ca sindhavā ca kuñjarā ca dantāva varaṃ, na adan
 1. 1. Attadantavatthu
 
 * atta-danta-vatthu = 「自己を調御した者の話」
-
   * vatthu = 「話、物語、事例」
 
 →「自己を調御した者の話」
@@ -68,9 +68,7 @@ Attadantoti ete assatarā ca sindhavā ca kuñjarā ca dantāva varaṃ, na adan
 2. Attadanto ti
 
 * attadanta = 「自己を調御した者」（atta-danta）
-
   * atta = 「自己」
-
   * danta = 「調御された、制御された（dama の過去分詞）」
 
 →「『attadanto』とは～という意味である」
@@ -78,21 +76,13 @@ Attadantoti ete assatarā ca sindhavā ca kuñjarā ca dantāva varaṃ, na adan
 3. ete assatarā ca sindhavā ca kuñjarā ca dantāva varaṃ, na adantā.
 
 * ete = 「これら（の動物たちは）」
-
 * assatarā = 「ラバ（mule）」
-
 * sindhavā = 「シンド地方の馬、すなわち上等な馬」
-
 * kuñjarā = 「象」
-
 * ca ... ca ... ca = 「～も～も～も」
-
 * dantā eva varaṃ = 「調御されたものこそすぐれている」
-
   * danta = 「馴らされた、制御された」
-
   * varaṃ = 「すぐれている、すぐれて良い」
-
   * na adantā = 「制御されていないものはすぐれていない」
 
 →「これらのラバも、シンド馬も、象も、調御されたものこそすぐれており、制御されていないものはすぐれていない。」
@@ -100,15 +90,10 @@ Attadantoti ete assatarā ca sindhavā ca kuñjarā ca dantāva varaṃ, na adan
 4. Yo pana catūhi ariyamaggehi attano dantatāya attadanto nibbisevano,
 
 * yo pana = 「しかし、～である者は」
-
 * catūhi ariya-maggehi = 「四つの聖道（すなわち四聖道：sotāpatti～arahatta）」によって
-
 * attano dantatāya = 「自らを制御することによって」
-
 * attadanto = 「自己を調御した者」
-
 * nibbisevano = 「わがままのない者、よく馴らされた者」
-
   * nis + visevana（visevana = 荒々しさ、わがまま）から、「荒々しさのない」
 
 →「しかし、四つの聖なる道によって自らを調御した、わがままのない（よく馴らされた）者は」
@@ -116,15 +101,10 @@ Attadantoti ete assatarā ca sindhavā ca kuñjarā ca dantāva varaṃ, na adan
 5. ayaṃ tatopi varaṃ, sabbehi pi etehi uttaritaro ti attho.
 
 * ayaṃ = 「この人は」
-
 * tatopi = 「それらよりもさらに」
-
 * varaṃ = 「すぐれている」
-
 * sabbehi pi etehi = 「これらすべてよりも」
-
 * uttaritaro = 「さらにすぐれている」
-
 * ti attho = 「という意味である」
 
 →「この人は、それらすべてよりもさらにすぐれている、という意味である。」
