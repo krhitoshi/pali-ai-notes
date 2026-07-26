@@ -65,8 +65,6 @@ Tato naṃ dukkhamanvetīti tato tividhaduccaritato taṃ puggalaṃ dukkhaṃ a
 
 →「その結果として、その人を苦しみが、車輪が車を牽く牛の足跡に従うように、追い従うのである。」
 
----
-
 4. Tattha manoti kāmāvacarakusalādibhedaṃ sabbampi catubhūmikacittaṃ.
 
 - tattha = 「ここで、この偈において」
@@ -183,8 +181,6 @@ Ayaṃ guṇadhammo nāma.
 
 →「これらには心が先行するので、それらは『心を先駆とするもの』と呼ばれる。」
 
----
-
 15. Kathaṃ panetehi saddhiṃ ekavatthuko ekārammaṇo apubbaṃ acarimaṃ ekakkhaṇe uppajjamāno mano pubbaṅgamo nāma hotīti?
 
 - kathaṃ pana = 「では、どのような意味で」
@@ -277,8 +273,6 @@ Ayaṃ guṇadhammo nāma.
 
 →「また、さまざまな器物が木などから作られれば『木製』などと呼ばれるように、これらも心から生じたものであるから、『心によって作られた（心造である）』と呼ばれる。」
 
----
-
 24. Paduṭṭhenāti āgantukehi abhijjhādīhi dosehi paduṭṭhena.
 
 - paduṭṭhena ti = 「『汚れた（paduṭṭha）心によって』とは」
@@ -365,8 +359,6 @@ Ayaṃ guṇadhammo nāma.
 
 →「このようにして、その者には十の不善業道が満ち満ちて成就するのである。」
 
----
-
 33. Tato naṃ dukkhamanvetīti tato tividhaduccaritato taṃ puggalaṃ dukkhaṃ anveti,
 
 - tato … ti = 「『それゆえに、彼に苦が追随する』とは、」
@@ -440,8 +432,6 @@ Ayaṃ guṇadhammo nāma.
 - anubandhati ti = 「つき従うのである」
 
 →「同じように、汚れた心によって三種の不善行を満たしている人には、地獄などにおいて、赴く先々で、不善行を根とする身体的・精神的な苦しみがつき従うのである。」
-
----
 
 ### 意訳
 

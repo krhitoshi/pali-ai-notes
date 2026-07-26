@@ -36,8 +36,6 @@ Tattha sabbasoti sabbasmimpi vedanādīnaṃ catunnaṃ, rūpakkhandhassa cāti 
 
 → 「あらゆる点で名色について、『わたしのものだ』という執着がない者には」
 
----
-
 2. Asatā ca na socati, sa ve bhikkhūti vuccatī’’ti.
 
 * asatā = 「存在しないものについて、なくなったものについて」
@@ -62,8 +60,6 @@ Tattha sabbasoti sabbasmimpi vedanādīnaṃ catunnaṃ, rūpakkhandhassa cāti 
 * vuccati = 「呼ばれる、言われる」
 
 → 「すでに無くなったものについても嘆くことがない。その人こそ、まさに『比丘』と呼ばれるのである。」
-
----
 
 3. Tattha sabbaso ti sabbasmimpi vedanādīnaṃ catunnaṃ, rūpakkhandhassa cāti pañcannaṃ khandhānaṃ vasena pavatte nāmarūpe.
 
@@ -99,8 +95,6 @@ Tattha sabbasoti sabbasmimpi vedanādīnaṃ catunnaṃ, rūpakkhandhassa cāti 
 
 → 「ここで『すべてにおいて（sabbaso）』とは、受など四つの名蘊と、さらに色蘊との、五蘊という観点で成り立っている名色すべてにおいて、という意味である。」
 
----
-
 4. Mamāyitanti yassa ahanti vā mamanti vā gāho natthi.
 
 * mamāyitaṃ ti = 「『mamāyitaṃ』とは」
@@ -122,8 +116,6 @@ Tattha sabbasoti sabbasmimpi vedanādīnaṃ catunnaṃ, rūpakkhandhassa cāti 
 * natthi = 「ない」
 
 → 「『mamāyitaṃ（我が物視）』とは、あるものについて、それを『これは私だ』とか『これは私のものだ』ととらえる執着が、その人にはない、ということである。」
-
----
 
 5. Asatā ca na socatīti tasmiñca nāmarūpe khayavayaṃ patte ‘‘mama rūpaṃ khīṇaṃ…pe… mama viññāṇaṃ khīṇa’’nti na socati na vihaññati, ‘‘khayavayadhammaṃ me khīṇa’’nti passati.
 
@@ -167,8 +159,6 @@ Tattha sabbasoti sabbasmimpi vedanādīnaṃ catunnaṃ, rūpakkhandhassa cāti 
 
 → 「すなわち、その名色が滅び・壊滅に至ったときに、『わたしの色が滅んでしまった……わたしの識が滅んでしまった』と嘆き苦しむこともなく、『わたしの（うちにある）、本来滅び壊滅する性質をもつものが滅したのだ』と見ている、という意味である。」
 
----
-
 6. Sa veti so evarūpo vijjamānepi nāmarūpe mamāyitarahitopi asatāpi tena asocanto bhikkhūti vuccatīti attho.
 
 * Sa ve ti = 「『sa ve（その人こそまさに）』とは」
@@ -198,8 +188,6 @@ Tattha sabbasoti sabbasmimpi vedanādīnaṃ catunnaṃ, rūpakkhandhassa cāti 
 * ti attho = 「という意味である」
 
 → 「そのような人は、名色が存在しているときであっても、それを我が物とする執着を持たず、またそれが存在しなくなったときであっても、そのことによって嘆くことがない。かかる者を『比丘』と呼ぶのである、という意味である。」
-
----
 
 ### 意訳
 

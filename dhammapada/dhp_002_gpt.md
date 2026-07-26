@@ -33,8 +33,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 
 →「心が最上であり、心によって作られている。」
 
----
-
 2. Manasā ce pasannena, bhāsati vā karoti vā;
 
 * manasā = 「心によって（心をもって）」  
@@ -48,8 +46,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 
 →「語るにせよ、行うにせよ」
 
----
-
 3. Tato naṃ sukhamanveti, chāyāva anapāyinī’’ti.
 
 * tato = 「そのとき／それゆえに（そのような心からの行為の結果として）」  
@@ -62,8 +58,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 * anapāyinī = 「離れ去らない・つねに付き従う」  
 
 →「ちょうど影が離れないように。」
-
----
 
 ### 2. 註釈：Manopubbaṅgamā dhammā, manoseṭṭhā manomayā.
 
@@ -79,8 +73,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 
 →「さて、『心（mano）』という語は、一般に、四つの地に属するすべての心を指して用いられるが、」
 
----
-
 2. imasmiṃ pana pade niyamiyamānaṃ vavatthāpiyamānaṃ paricchijjiyamānaṃ aṭṭhavidhaṃ kāmāvacarakusalacittaṃ labbhati.
 
 * imasmiṃ pana pade = 「しかし、この（偈の）句においては」  
@@ -89,8 +81,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 * labbhati = 「得られる（それを意味することになる）」
 
 →「ここでは意味を限定して捉えると、八種の欲界善心を指すことになる。」
-
----
 
 3. Vatthuvasena panāhariyamānaṃ tatopi somanassasahagataṃ ñāṇasampayuttacittameva labbhati.
 
@@ -102,8 +92,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 
 →「さらに心の基盤という観点から絞れば、その八種の中でも、喜を伴い、智慧と相応した心だけを指すと見ることができる。」
 
----
-
 4. Pubbaṅgamāti tena paṭhamagāminā hutvā samannāgatā.
 
 * pubbaṅgamā ti = 「『pubbaṅgamā（先行するもの）』とは」  
@@ -112,16 +100,12 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 
 →「『先頭に立つ』とは、心が最初に生起するものとして備わっている、という意味である。」
 
----
-
 5. Dhammāti vedanādayo tayo khandhā.
 
 * dhammā ti = 「『dhammā（法）』とは」  
 * vedanā-ādayo tayo khandhā = 「受などの三つの蘊（受・想・行）」  
 
 →「『諸法』とは、受などの三つの蘊をいう。」
-
----
 
 6. Ete hi uppādapaccayaṭṭhena somanassasampayuttamano pubbaṅgamo etesanti manopubbaṅgamā nāma.
 
@@ -132,8 +116,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 * mano-pubbaṅgamā nāma = 「それゆえ『心を先頭とする』と呼ばれる」
 
 →「これら三蘊にとっては、生起の条件という意味で、喜と相応した心がその先行因となるから、『心を先頭とする』と呼ばれるのである。」
-
----
 
 7. Yathā hi bahūsu ekato hutvā mahābhikkhusaṅghassa cīvaradānādīni vā uḷārapūjādhammassavanādīni vā mālāgandhasakkārakaraṇādīni vā puññāni karontesu ‘‘ko etesaṃ pubbaṅgamo’’ti vutte
 
@@ -148,8 +130,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 
 →「たとえば、多くの人々が集まって、大きな僧団に衣の布施をしたり、盛大な供養や法の聴聞をしたり、花や香で礼遇するなどの功徳を行なっているとき、『この人々の先導者は誰か』と問われたなら、」
 
----
-
 8. yo tesaṃ paccayo hoti, yaṃ nissāya te tāni puññāni karonti, so tisso vā phusso vā tesaṃ pubbaṅgamoti vuccati, evaṃsampadamidaṃ veditabbaṃ.
 
 * yo tesaṃ paccayo hoti = 「彼らにとって条件となった者（原因をつくった人）」  
@@ -161,8 +141,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 
 →「その行いの原因となり、それに依って人々が功徳をしている者、たとえばティッサであれプッサであれ、その人が先導者と呼ばれる。これと同じように理解すべきである。」
 
----
-
 9. Iti uppādapaccayaṭṭhena mano pubbaṅgamo etesanti manopubbaṅgamā.
 
 * iti = 「このようにして」  
@@ -171,8 +149,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 * manopubbaṅgamā = 「『心を先頭とする』と（再び）言うのである」
 
 →「したがって、生起因という意味において、心がこれらに先立つゆえに、『心を先頭とする』と言うのである。」
-
----
 
 10. Na hi te mane anuppajjante uppajjituṃ sakkonti, mano pana ekaccesu cetasikesu anuppajjantesupi uppajjatiyeva.
 
@@ -185,8 +161,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 
 →「というのも、それら（三蘊）は心が生じなければ生じることができないが、心は、ある種の心所が生じていなくても生起しうるからである。」
 
----
-
 11. Evaṃ adhipativasena pana mano seṭṭho etesanti manoseṭṭhā.
 
 * evaṃ = 「このように」  
@@ -195,8 +169,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 * manoseṭṭhā = 「だから『心が最上である』というのである」
 
 →「このように、支配者としての観点から言えば、心はこれらに対して最上であるから、『心が最上である』と言うのである。」
-
----
 
 12. Yathā hi gaṇādīnaṃ adhipati puriso gaṇaseṭṭho seṇiseṭṭhoti vuccati, tathā tesampi manova seṭṭho.
 
@@ -207,8 +179,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 * mano va seṭṭho = 「心こそが最上である」
 
 →「たとえば集団の支配者たる人が『集団の長』などと呼ばれるように、これらにとっても心こそが最上なのである。」
-
----
 
 13. Yathā pana suvaṇṇādīhi nipphāditāni bhaṇḍāni suvaṇṇamayādīni nāma honti, tathā etepi manato nipphannattā manomayā nāma.
 
@@ -221,8 +191,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 
 →「また、金などから作られた器物が『金製』などと呼ばれるように、これらも心から生じ出たものであるから、『心から成ったもの』と呼ばれるのである。」
 
----
-
 ### 3. 註釈：Manasā ce pasannena, bhāsati vā karoti vā; …
 
 1. Pasannenāti anabhijjhādīhi guṇehi pasannena.
@@ -233,8 +201,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 
 →「『清浄な』とは、無貪などの徳によって澄みきった（清らかになった）心のことである。」
 
----
-
 2. Bhāsati vā karoti vāti evarūpena manena bhāsanto catubbidhaṃ vacīsucaritameva bhāsati,
 
 * bhāsati vā karoti vā ti = 「『語るにせよ、行うにせよ』とは」  
@@ -244,16 +210,12 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 
 →「このような心で語るときには、四種の言葉の善行為だけを語るのであり、」
 
----
-
 3. karonto tividhaṃ kāyasucaritameva karoti,
 
 * karonto = 「行為するときには」  
 * tividhaṃ kāya-sucaritaṃ eva karoti = 「三種の身の善行為だけを行う」
 
 →「行為するときには、三種の身の善行為だけを行い、」
-
----
 
 4. abhāsanto akaronto tāya anabhijjhādīhi pasannamānasatāya tividhaṃ manosucaritaṃ pūreti.
 
@@ -265,8 +227,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 
 →「たとえ口に出して語らず、身で行わなくても、その無貪などによって澄んだ心のゆえに、三種の心の善行為を満たしている。」
 
----
-
 5. Evamassa dasa kusalakammapathā pāripūriṃ gacchanti.
 
 * evaṃ assa = 「このように、その人には」  
@@ -274,8 +234,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 * pāripūriṃ gacchanti = 「充満し・完全に満たされる」
 
 →「このようにして、その人には十種の善業道が完全に満たされるのである。」
-
----
 
 ### 4. 註釈：Tato naṃ sukhamanveti …
 
@@ -288,8 +246,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 
 →「『それゆえその人には楽が伴う』とは、三種の善行為のゆえに、その人に楽が追随する、ということである。」
 
----
-
 2. Idha tebhūmikampi kusalaṃ adhippetaṃ,
 
 * idha = 「ここでは」  
@@ -298,8 +254,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 
 →「ここでは、三界にわたるあらゆる善が意図されている。」
 
----
-
 3. tasmā tebhūmikasucaritānubhāvena sugatibhave nibbattaṃ puggalaṃ,
 
 * tasmā = 「それゆえ」  
@@ -307,8 +261,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 * sugati-bhave nibbattaṃ puggalaṃ = 「善趣の生存に生まれた有情に」
 
 →「それゆえ、三界にわたる善行為の力によって善趣に生まれた有情には、」
-
----
 
 4. duggatiyaṃ vā sukhānubhavanaṭṭhāne ṭhitaṃ kāyavatthukampi itaravatthukampi avatthukampīti kāyikacetasikaṃ vipākasukhaṃ anugacchati, na vijahatīti attho veditabbo.
 
@@ -324,8 +276,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 
 →「あるいは悪趣にあっても、楽を経験すべき状態にあるときには、身体をもつ者にも、他の基盤をもつ者にも、あるいは基盤なき者にも、身と心の果報としての楽が伴い、離れないのである、と理解すべきである。」
 
----
-
 ### 5. 註釈：Yathā kiṃ? Chāyāva anapāyinī …
 
 1. Yathā kiṃ? Chāyāva anapāyinīti yathā hi chāyā nāma sarīrappaṭibaddhā
@@ -337,8 +287,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 
 →「どのようかと言えば、『影のように離れない』とは、ちょうど影というものが身体に結びついていて、」
 
----
-
 2. sarīre gacchante gacchati, tiṭṭhante tiṭṭhati , nisīdante nisīdati,
 
 * sarīre gacchante gacchati = 「身体が行けば（歩けば）、影も行き」  
@@ -346,8 +294,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 * nisīdante nisīdati = 「座れば影も座る」
 
 →「身体が歩けば影も歩き、立てば影も立ち、座れば影も座り、」
-
----
 
 3. na sakkoti, ‘‘saṇhena vā pharusena vā nivattāhī’’ti vatvā vā pothetvā vā nivattāpetuṃ.
 
@@ -358,16 +304,12 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 
 →「『柔らかくなれ』『荒くなれ』と言ったり、殴ったりして影だけを引き返らせることはできない。」
 
----
-
 4. Kasmā? Sarīrappaṭibaddhattā.
 
 * kasmā? = 「なぜか。」  
 * sarīra-paṭibaddhattā = 「身体に結びついているからである。」
 
 →「なぜかと言えば、身体に結びついているからである。」
-
----
 
 5. Evameva imesaṃ dasannaṃ kusalakammapathānaṃ āciṇṇasamāciṇṇakusalamūlikaṃ kāmāvacarādibhedaṃ kāyikacetasikasukhaṃ gatagataṭṭhāne anapāyinī chāyā viya hutvā na vijahatīti.
 
@@ -381,8 +323,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 * na vijahati ti = 「（その有情を）離れない」  
 
 →「同様に、これら十種の善業道にとって、繰り返し培われた善を根とする、欲界などさまざまな領域における身と心の楽は、生まれ行くどのようなところにおいても、離れない影のように付き従って離れないのである。」
-
----
 
 ### 意訳
 

@@ -19,8 +19,6 @@ Tattha makkaṭakova jālanti yathā nāma makkaṭako suttajālaṃ katvā majj
 > Etampi chetvāna vajanti dhīrā,  
 > Anapekkhino sabbadukkhaṃ pahāyā’’ti.
 
----
-
 ## 1. 偈文の解説
 
 ### 1-1. 第1句「Ye rāgarattānupatanti sotaṃ」
@@ -42,8 +40,6 @@ Tattha makkaṭakova jālanti yathā nāma makkaṭako suttajālaṃ katvā majj
 **意訳**
 
 > 「愛欲に染まった者たちが、渇愛の流れを追い続ける。」
-
----
 
 ### 1-2. 第2句「Sayaṃ kataṃ makkaṭakova jālaṃ」
 
@@ -67,8 +63,6 @@ Tattha makkaṭakova jālanti yathā nāma makkaṭako suttajālaṃ katvā majj
 
 したがって、ここでの **makkaṭako** は「蜘蛛」と理解するのが妥当です。
 
----
-
 - **sayaṃ kataṃ**  
   - *sayaṃ* = 「自ら」  
   - *kataṃ* = 「作られた」  
@@ -90,8 +84,6 @@ Tattha makkaṭakova jālanti yathā nāma makkaṭako suttajālaṃ katvā majj
 
 ここでは、「愛欲に染まった者が、自分で作り出した渇愛の流れにからめ取られている」ことを、「自分の巣に獲物を引っかける蜘蛛」という比喩で示している。
 
----
-
 ### 1-3. 第3句「Etampi chetvāna vajanti dhīrā」
 
 - **etam pi** = 「この（流れ／束縛）さえも」
@@ -107,8 +99,6 @@ Tattha makkaṭakova jālanti yathā nāma makkaṭako suttajālaṃ katvā majj
 > 「しかし賢者たちは、この流れ（この束縛）さえも断ち切って、進み去る。」
 
 ここでの「これ（etam）」は、註釈では「渇愛の流れ＝バンダナ（束縛）」として解釈される。
-
----
 
 ### 1-4. 第4句「Anapekkhino sabbadukkhaṃ pahāyā」
 
@@ -130,15 +120,11 @@ Tattha makkaṭakova jālanti yathā nāma makkaṭako suttajālaṃ katvā majj
 > しかし賢者たちは、この渇愛の束縛を断ち切り、  
 > いかなるものにも執着しない者となって、一切の苦を捨て去り、（涅槃へと）進み去る。」
 
----
-
 ## 註釈本文
 
 **Pāli（Dhp-a）**
 
 > Tattha makkaṭakova jālanti yathā nāma makkaṭako suttajālaṃ katvā majjhe ṭhāne nābhimaṇḍale nipanno pariyante patitaṃ paṭaṅgaṃ vā makkhikaṃ vā vegena gantvā vijjhitvā tassa rasaṃ pivitvā puna gantvā tasmiṃyeva ṭhāne nipajjati, evameva ye sattā rāgarattā dosapaduṭṭhā mohamūḷhā sayaṃkataṃ taṇhāsotaṃ anupatanti, te taṃ samatikkamituṃ na sakkonti, evaṃ duratikkamaṃ. Etampi chetvāna vajanti dhīrāti paṇḍitā etaṃ bandhanaṃ chetvā anapekkhino nirālayā hutvā arahattamaggena sabbadukkhaṃ pahāya vajanti, gacchantīti attho.
-
----
 
 ## 2. 註釈の逐語解説
 
@@ -149,8 +135,6 @@ Tattha makkaṭakova jālanti yathā nāma makkaṭako suttajālaṃ katvā majj
 
 - **tattha** = 「ここで、この句において」  
 - **makkaṭako va jālaṃ** の句を取り上げる、という導入。
-
----
 
 ### 2-2. 蜘蛛の行動の描写
 
@@ -184,8 +168,6 @@ Tattha makkaṭakova jālanti yathā nāma makkaṭako suttajālaṃ katvā majj
 
 蜘蛛が自分で糸の巣を張り、その中央部分にじっと身をひそめている様子を描写している。
 
----
-
 > **pariyante patitaṃ paṭaṅgaṃ vā makkhikaṃ vā vegena gantvā vijjhitvā tassa rasaṃ pivitvā…**
 
 - **pariyante**  
@@ -217,8 +199,6 @@ Tattha makkaṭakova jālanti yathā nāma makkaṭako suttajālaṃ katvā majj
 
 巣の周辺に引っかかった虫・ハエに、蜘蛛が素早く駆け寄って刺し、その体液を吸う行動が描かれる。
 
----
-
 > **puna gantvā tasmiṃyeva ṭhāne nipajjati…**
 
 - **puna** = 「再び」
@@ -231,8 +211,6 @@ Tattha makkaṭakova jālanti yathā nāma makkaṭako suttajālaṃ katvā majj
 **説明**
 
 獲物を処理した後、蜘蛛はまた元の巣の中心へ戻って、同じ位置にじっと身を潜める。
-
----
 
 ### 2-3. 比喩の当てはめ
 
@@ -274,8 +252,6 @@ Tattha makkaṭakova jālanti yathā nāma makkaṭako suttajālaṃ katvā majj
 蜘蛛が自分で作った巣に獲物を引き寄せ、それに飛びかかってはまた元の場所に戻るように、  
 愛欲・瞋恚・愚痴に染まった有情は、自ら作り出した「渇愛の激流」を絶えず追い求めてやまない、と説明している。
 
----
-
 > **te taṃ samatikkamituṃ na sakkonti, evaṃ duratikkamaṃ.**
 
 - **te** = 「彼らは」
@@ -297,8 +273,6 @@ Tattha makkaṭakova jālanti yathā nāma makkaṭako suttajālaṃ katvā majj
 自らの渇愛の流れを追い続ける者は、その流れを自力では越えられない。  
 その渇愛の流れは、このように「きわめて渡りがたい・越えがたいものだ」と註釈は強調する。
 
----
-
 ### 2-4. 賢者の側の説明
 
 > **Etampi chetvāna vajanti dhīrāti paṇḍitā etaṃ bandhanaṃ chetvā…**
@@ -316,8 +290,6 @@ Tattha makkaṭakova jālanti yathā nāma makkaṭako suttajālaṃ katvā majj
 
 賢者とは、この渇愛の流れという束縛そのものを断ち切る者だ、と定義づけている。
 
----
-
 > **anapekkhino nirālayā hutvā…**
 
 - **anapekkhino**  
@@ -330,8 +302,6 @@ Tattha makkaṭakova jālanti yathā nāma makkaṭako suttajālaṃ katvā majj
 **説明**
 
 賢者は、何ものをも心の拠り所・よりどころとせず、どこにも執着しない存在となる。
-
----
 
 > **arahattamaggena sabbadukkhaṃ pahāya vajanti, gacchantīti attho.**
 
@@ -347,8 +317,6 @@ Tattha makkaṭakova jālanti yathā nāma makkaṭako suttajālaṃ katvā majj
 
 阿羅漢に至る聖なる道によって渇愛の束縛を断ち切り、一切の苦しみを捨て去り、  
 涅槃へと進みゆく者こそが「賢者」である、という意味だと註釈はまとめている。
-
----
 
 ## 3. まとめ（makkaṭako の訳について）
 

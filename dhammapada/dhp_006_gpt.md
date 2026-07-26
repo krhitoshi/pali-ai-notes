@@ -26,8 +26,6 @@ Tattha pareti paṇḍite ṭhapetvā tato aññe bhaṇḍanakārakā pare nām
 
 →「他人たちは理解していない。『わたしたちはここで争っているのだ』と。」
 
----
-
 2. Ye ca tattha vijānanti, tato sammanti medhagā’’ti.
 
 * ye ca = 「そして、～である者たちは」
@@ -40,8 +38,6 @@ Tattha pareti paṇḍite ṭhapetvā tato aññe bhaṇḍanakārakā pare nām
   * medhaga = 「争い、諍い」を複数（medhagā）
 
 →「そして、その場で（事の次第を）理解している者たちがいるときには、そのおかげで争いは鎮まるのである。」
-
----
 
 3. Tattha pareti paṇḍite ṭhapetvā tato aññe bhaṇḍanakārakā pare nāma.
 
@@ -57,8 +53,6 @@ Tattha pareti paṇḍite ṭhapetvā tato aññe bhaṇḍanakārakā pare nām
 * pare nāma = 「『pare（他人たち）』と呼ばれる」
 
 →「ここで『他人たち（pare）』とは、賢者たちを除いたそのほかの争いを起こす者たちを言うのである。」
-
----
 
 4. Te tattha saṅghamajjhe kolāhalaṃ karontā ‘‘mayaṃ yamāmase uparamāma vinassāma satataṃ samitaṃ maccusantikaṃ gacchāmā’’ti na vijānanti.
 
@@ -86,8 +80,6 @@ Tattha pareti paṇḍite ṭhapetvā tato aññe bhaṇḍanakārakā pare nām
 
 →「彼らは、そこで僧団のただなかで騒ぎを起こしながらも、『わたしたちは争い、やがて止み、ついには滅び、つねに絶えず死のもとへと向かっているのだ』ということを理解していない。」
 
----
-
 5. Ye ca tattha vijānantīti ye tattha paṇḍitā ‘‘mayaṃ maccusantikaṃ gacchāmā’’ti vijānanti.
 
 * ye ca tattha vijānanti ti = 「『そしてそこで理解している者たち』とは」
@@ -96,8 +88,6 @@ Tattha pareti paṇḍite ṭhapetvā tato aññe bhaṇḍanakārakā pare nām
 * vijānanti = 「理解している（者たち）」
 
 →「『そしてそこで理解している者たち』とは、そこで『わたしたちは死のもとへと向かっているのだ』と理解している賢者たちのことである。」
-
----
 
 6. Tato sammanti medhagāti evañhi te jānantā yonisomanasikāraṃ uppādetvā medhagānaṃ kalahānaṃ vūpasamāya paṭipajjanti.
 
@@ -119,8 +109,6 @@ Tattha pareti paṇḍite ṭhapetvā tato aññe bhaṇḍanakārakā pare nām
 
 →「『それゆえに争いは鎮まる』とは、というのは、彼らはこのように知り、正しい作意を起こして、争いという諍いを鎮めるために実践するからである。」
 
----
-
 7. Atha nesaṃ tāya paṭipattiyā te medhagā sammantīti.
 
 * atha = 「そして、その結果」
@@ -131,8 +119,6 @@ Tattha pareti paṇḍite ṭhapetvā tato aññe bhaṇḍanakārakā pare nām
 * sammanti ti = 「鎮まるのである」
 
 →「そして、彼らのそのような実践によって、その争いは鎮まるのである。」
-
----
 
 8. Atha vā pare cāti pubbe mayā ‘‘mā, bhikkhave, bhaṇḍana’’ntiādīni vatvā ovadiyamānāpi mama ovādassa apaṭiggahaṇena atikkamanena amāmakā pare nāma.
 
@@ -154,8 +140,6 @@ Tattha pareti paṇḍite ṭhapetvā tato aññe bhaṇḍanakārakā pare nām
 * pare nāma = 「『他人たち（pare）』と呼ばれる」
 
 →「あるいはまた、『pare（他人たち）』とは、かつてわたしが『比丘たちよ、争うな』等と言って教誡したにもかかわらず、わたしの教誡を受け容れず、それを破ることによって、もはやわたしの弟子とは言えない者たちを指すのである。」
-
----
 
 9. ‘‘Mayaṃ chandādivasena micchāgāhaṃ gahetvā ettha saṅghamajjhe yamāmase bhaṇḍanādīnaṃ vuddhiyā vāyamāmā’’ti na vijānanti.
 
@@ -182,8 +166,6 @@ Tattha pareti paṇḍite ṭhapetvā tato aññe bhaṇḍanakārakā pare nām
 
 →「『わたしたちは好みや欲望などに支配されて誤った執着をつかみ取り、ここ僧団の中で争い合い、争いなどを増大させるために励んでいるのだ』ということを、彼らは理解していない。」
 
----
-
 10. Idāni pana yoniso paccavekkhamānā tattha tumhākaṃ antare ye ca paṇḍitapurisā ‘‘pubbe mayaṃ chandādivasena vāyamantā ayoniso paṭipannā’’ti vijānanti,
 
 * idāni pana = 「しかし今になっては、いま現在は」
@@ -204,8 +186,6 @@ Tattha pareti paṇḍite ṭhapetvā tato aññe bhaṇḍanakārakā pare nām
 
 →「しかし今は、道理に即してよく省察しつつ、あなたがたの中の賢明な人々は、『以前のわたしたちは、欲望などに支配されて励みながら、道理にそわないしかたで行っていたのだ』と理解する。」
 
----
-
 11. tato tesaṃ santikā te paṇḍitapurise nissāya ime dāni kalahasaṅkhātā medhagā sammantīti ayamettha atthoti.
 
 * tato = 「それゆえに、それを契機として」
@@ -223,8 +203,6 @@ Tattha pareti paṇḍite ṭhapetvā tato aññe bhaṇḍanakārakā pare nām
   * ayaṃ … attho = 「これはこのような意味である」
 
 →「それゆえに、彼ら賢明な人々のもとにより頼むことによって、今や『諍い』と名づけられるこれらの争いは鎮まるのである、というのがここでの意味である。」
-
----
 
 ### 意訳
 

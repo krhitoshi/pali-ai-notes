@@ -51,8 +51,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 
 → 「その人に楽が従い行く、離れることのない影のように。」
 
----
-
 ### 註釈（Aṭṭhakathā）
 
 4. Tattha kiñcāpi manoti avisesena sabbampi catubhūmikacittaṃ vuccati,
@@ -349,8 +347,6 @@ Tato naṃ sukhamanvetīti tato tividhasucaritato naṃ puggalaṃ sukha manveti
 * ti = 「ということである」
 
 → 「まさにそのように、これら十善業道の、繰り返し積み重ねられた善根に基づく、欲界などの種類に分かれた身体的・精神的な楽が、行く先々において離れることのない影のようになって離れないのである。」
-
----
 
 ### 意訳
 

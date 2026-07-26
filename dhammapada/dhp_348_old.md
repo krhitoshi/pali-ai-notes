@@ -12,8 +12,6 @@ Pacchatoti anāgatesupi khandhesu ālayādīni muñca.
 Majjheti paccuppannesupi tāni muñca.  
 Bhavassa pāragūti evaṃ sante tividhassāpi bhavassa abhiññāpariññāpahānabhāvanāsacchikiriyavasena pāragū pāraṅgato hutvā khandhadhātuāyatanādibhede sabbasaṅkhate vimuttamānaso viharanto puna jātijarāmaraṇāni na upagacchatīti attho.  
 
----
-
 ## 語句分解と文法（偈）
 
 ### 1) Muñca pure muñca pacchato
@@ -31,8 +29,6 @@ Bhavassa pāragūti evaṃ sante tividhassāpi bhavassa abhiññāpariññāpah�
   - ここでは時間的に「未来に（おいて）」
 
 → 全体：「過去において捨てよ、未来においても捨てよ」
-
----
 
 ### 2) Majjhe muñca bhavassa pāragū
 
@@ -54,8 +50,6 @@ Bhavassa pāragūti evaṃ sante tividhassāpi bhavassa abhiññāpariññāpah�
 
 → 「今この現在においても捨てよ、有の彼岸に到る者よ」
 
----
-
 ### 3) Sabbattha vimuttamānaso
 
 - **sabbattha**  
@@ -68,8 +62,6 @@ Bhavassa pāragūti evaṃ sante tividhassāpi bhavassa abhiññāpariññāpah�
   - 複合して「心が解放された者」「解脱の心を持つ人」
 
 → 「あらゆる点において心が解放された人は」
-
----
 
 ### 4) Na punaṃ jātijaraṃ upehisi
 
@@ -91,14 +83,10 @@ Bhavassa pāragūti evaṃ sante tividhassāpi bhavassa abhiññāpariññāpah�
 
 → 「あなたは再び、生老（生老死）に至ることはないであろう」
 
----
-
 ## 語句分解と文法（註釈）
 
 註釈は、偈文の各部分を順に解説している。  
 ここではそれぞれの文ごとに分けて解説する。
-
----
 
 ### A) 「Tattha muñca pureti atītesu khandhesu ālayaṃ nikantiṃ ajjhosānaṃ patthanaṃ pariyuṭṭhānaṃ gāhaṃ parāmāsaṃ taṇhaṃ muñca.」
 
@@ -146,8 +134,6 @@ Bhavassa pāragūti evaṃ sante tividhassāpi bhavassa abhiññāpariññāpah�
 
 → 過去の五蘊に対して抱く、あらゆる形の執着・しがみつき・渇愛を捨てよ、という説明。
 
----
-
 ### B) 「Pacchatoti anāgatesupi khandhesu ālayādīni muñca.」
 
 - **pacchatoti**  
@@ -167,8 +153,6 @@ Bhavassa pāragūti evaṃ sante tividhassāpi bhavassa abhiññāpariññāpah�
 
 → 「『pacchato』とは、未来の諸蘊においても、同様の ālaya など（すべての執着・渇愛）を捨てよ、という意味である。」
 
----
-
 ### C) 「Majjheti paccuppannesupi tāni muñca.」
 
 - **majjheti**  
@@ -186,8 +170,6 @@ Bhavassa pāragūti evaṃ sante tividhassāpi bhavassa abhiññāpariññāpah�
   - 「捨てよ」
 
 → 「『majjhe』とは、現在に存在する諸蘊についても、同じくそれらの執着を捨てよ、という意味である。」
-
----
 
 ### D) 「Bhavassa pāragūti evaṃ sante tividhassāpi bhavassa abhiññāpariññāpahānabhāvanāsacchikiriyavasena pāragū pāraṅgato hutvā khandhadhātuāyatanādibhede sabbasaṅkhate vimuttamānaso viharanto puna jātijarāmaraṇāni na upagacchatīti attho.」
 
@@ -223,8 +205,6 @@ Bhavassa pāragūti evaṃ sante tividhassāpi bhavassa abhiññāpariññāpah�
 
 → 三種の有を、知り・理解し・断ち・修習し・証悟することによって、有の「彼岸に到った者」という意味だと説明している。
 
----
-
 #### (2) 「khandhadhātuāyatanādibhede sabbasaṅkhate vimuttamānaso viharanto」
 
 - **khandha-dhātu-āyatana-ādi-bhede**  
@@ -248,8 +228,6 @@ Bhavassa pāragūti evaṃ sante tividhassāpi bhavassa abhiññāpariññāpah�
 
 → 「諸蘊・諸界・諸処など、一切の有為法の区別においても、心が解き放たれた状態で住している者は」
 
----
-
 #### (3) 「puna jātijarāmaraṇāni na upagacchatīti attho.」
 
 - **puna**  
@@ -268,8 +246,6 @@ Bhavassa pāragūti evaṃ sante tividhassāpi bhavassa abhiññāpariññāpah�
 
 → 「もはや再び、生老死という現象に至ることはない、という意味である」と結論づけている。
 
----
-
 ## 逐語訳（偈）
 
 「過去において捨てよ、未来において捨てよ、  
@@ -277,8 +253,6 @@ Bhavassa pāragūti evaṃ sante tividhassāpi bhavassa abhiññāpariññāpah�
 
 あらゆるところで心が解放されている者は、  
 もはや再び、生と老い（生老死）に至ることはないであろう。」
-
----
 
 ## 逐語訳（註釈）
 
@@ -299,8 +273,6 @@ Bhavassa pāragūti evaṃ sante tividhassāpi bhavassa abhiññāpariññāpah�
 諸蘊・界・処などに分類される一切の有為法に対して  
 心が解き放たれた状態で住している者は、  
 もはや再び、生老死というものを受けることはない、という意味である。」
-
----
 
 ## 自然な日本語訳（全体）
 

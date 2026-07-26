@@ -11,8 +11,6 @@ Eko santusito tamāhu bhikkhu’’nti.
 
 Tattha hatthasaṃyatoti hatthakīḷāpanādīnaṃ vā hatthena paresaṃ paharaṇādīnaṃ vā abhāvena hatthasaṃyato. Dutiyapadepi eseva nayo. Vācāya pana musāvādādīnaṃ akaraṇato vācāya saṃyato. Saṃyatuttamoti saṃyatattabhāvo, kāyacalanasīsukkhipanabhamukavikārādīnaṃ akārakoti attho. Ajjhattaratoti gocarajjhattasaṅkhātāya kammaṭṭhānabhāvanāya rato. Samāhitoti suṭṭhu ṭhapito. Eko santusitoti ekavihārī hutvā suṭṭhu tusito vipassanācārato paṭṭhāya attano adhigamena tuṭṭhamānaso. Puthujjanakalyāṇakañhi ādiṃ katvā sabbepi sekhā attano adhigamena santussantīti santusitā, arahā pana ekantasantusitova. Taṃ sandhāyetaṃ vuttaṃ.
 
----
-
 語句分解と文法（偈文）
 
 ① Hatthasaṃyato pādasaṃyato,
@@ -25,8 +23,6 @@ Tattha hatthasaṃyatoti hatthakīḷāpanādīnaṃ vā hatthena paresaṃ paha
 * pādasaṃyato = 「足を制御している者」
 
 → 「手をよく制御し、足をよく制御している者は」
-
----
 
 ② Vācāsaṃyato saṃyatuttamo;
 
@@ -41,8 +37,6 @@ Tattha hatthasaṃyatoti hatthakīḷāpanādīnaṃ vā hatthena paresaṃ paha
 
 → 「言葉を制御し、自制の面で最も優れた者であり」
 
----
-
 ③ Ajjhattarato samāhito,
 
 * ajjhattā = 「内なる、内側の、自分の内面」
@@ -54,8 +48,6 @@ Tattha hatthasaṃyatoti hatthakīḷāpanādīnaṃ vā hatthena paresaṃ paha
   * 「心が定まっている」「よく集中している」
 
 → 「内面を喜びとし、心がよく定まっている者であり」
-
----
 
 ④ Eko santusito tamāhu bhikkhu’’nti.
 
@@ -71,8 +63,6 @@ Tattha hatthasaṃyatoti hatthakīḷāpanādīnaṃ vā hatthena paresaṃ paha
 * tam āhu bhikkhuṃ → sandhi で tamāhu bhikkhu
 
 → 「一人でいて満ち足りている、そのような者を、賢者たちは『比丘』と呼ぶのである。」
-
----
 
 語句分解と文法（註釈）
 
@@ -96,16 +86,12 @@ Tattha hatthasaṃyatoti hatthakīḷāpanādīnaṃ vā hatthena paresaṃ paha
 →
 「ここで『手を制御した者』とは、手遊びなどを行わないこと、また手で他人を打つなどの行為を行わないことによって、手を制御した者である、という意味である。」
 
----
-
 ② Dutiyapadepi eseva nayo.
 
 * dutiyapade pi = 「第二の句（pāda）についてもまた」
 * eseva nayo = 「同じ道理である、同様に理解すべきである」
 
 → 「第二句（pādasaṃyato）についても、同じ理解の仕方である。」
-
----
 
 ③ Vācāya pana musāvādādīnaṃ akaraṇato vācāya saṃyato.
 
@@ -117,8 +103,6 @@ Tattha hatthasaṃyatoti hatthakīḷāpanādīnaṃ vā hatthena paresaṃ paha
 * vācāya saṃyato = 「言葉を制御した者である」
 
 → 「言葉については、嘘をつくなどの（悪しき）言葉を用いないことによって、言葉を制御した者である。」
-
----
 
 ④ Saṃyatuttamoti saṃyatattabhāvo, kāyacalanasīsukkhipanabhamukavikārādīnaṃ akārakoti attho.
 
@@ -143,8 +127,6 @@ Tattha hatthasaṃyatoti hatthakīḷāpanādīnaṃ vā hatthena paresaṃ paha
 →
 「『最上に自制された者』とは、自制された状態を備え、身体をむやみに動かすことや、頭を振り上げること、眉や口をゆがめるような表情の変化などを行わない者、という意味である。」
 
----
-
 ⑤ Ajjhattaratoti gocarajjhattasaṅkhātāya kammaṭṭhānabhāvanāya rato.
 
 * ajjhattarato ti = 「『ajjhattarata』とは～という意味である」
@@ -158,8 +140,6 @@ Tattha hatthasaṃyatoti hatthakīḷāpanādīnaṃ vā hatthena paresaṃ paha
 →
 「『内面を喜びとする者』とは、内面を対象領域とする禅定の修習（内観の瞑想）を喜びとしている者のことである。」
 
----
-
 ⑥ Samāhitoti suṭṭhu ṭhapito.
 
 * samāhito ti = 「『samāhita』とは～という意味である」
@@ -167,8 +147,6 @@ Tattha hatthasaṃyatoti hatthakīḷāpanādīnaṃ vā hatthena paresaṃ paha
 * ṭhapito = 「置かれている、確立している」
 
 → 「『よく定まった者』とは、心がよく確立している者である。」
-
----
 
 ⑦ Eko santusitoti ekavihārī hutvā suṭṭhu tusito vipassanācārato paṭṭhāya attano adhigamena tuṭṭhamānaso.
 
@@ -189,8 +167,6 @@ Tattha hatthasaṃyatoti hatthakīḷāpanādīnaṃ vā hatthena paresaṃ paha
 →
 「『一人で満足している者』とは、独りで住む者となり、観（vipassanā）の実践から始めて、自らの悟り（到達）によって心がよく満ち足りている者のことである。」
 
----
-
 ⑧ Puthujjanakalyāṇakañhi ādiṃ katvā sabbepi sekhā attano adhigamena santussantīti santusitā, arahā pana ekantasantusitova.
 
 * puthujjana-kalyāṇakaṃ hi = 「凡夫であっても善性を持つ者（善良な凡夫）は」
@@ -210,16 +186,12 @@ Tattha hatthasaṃyatoti hatthakīḷāpanādīnaṃ vā hatthena paresaṃ paha
 →
 「実際、善良な凡夫を初めとして、一切の『学びの身』である聖者たちも、それぞれ自らの到達によって満足しているので『満足した者たち』と言える。しかし阿羅漢は、他と比べものにならない、完全な満足そのものである。」
 
----
-
 ⑨ Taṃ sandhāyetaṃ vuttaṃ.
 
 * taṃ sandhāya = 「そのことを指して、そのことを念頭に置いて」
 * etaṃ vuttaṃ = 「このように説かれたのである」
 
 → 「このことをふまえて、この偈が説かれたのである。」
-
----
 
 逐語訳（偈文）
 
@@ -228,8 +200,6 @@ Tattha hatthasaṃyatoti hatthakīḷāpanādīnaṃ vā hatthena paresaṃ paha
 内面を喜びとし、よく定まった者であり、
 一人でいて満足している、そのような者を、
 賢者たちは『比丘』と言う。」
-
----
 
 逐語訳（註釈の要旨）
 
@@ -245,8 +215,6 @@ Tattha hatthasaṃyatoti hatthakīḷāpanādīnaṃ vā hatthena paresaṃ paha
 
 善良な凡夫をはじめとして、一切の学びの身（聖者たち）は、それぞれ自らの到達によって満足しているので『満足した者たち』と言える。しかし阿羅漢は、他と比較にならない、完全な満足そのものである。そのことをふまえて、この偈が説かれたのである。」
 
----
-
 自然な日本語訳（偈文）
 
 「手を慎み、足を慎み、
@@ -254,8 +222,6 @@ Tattha hatthasaṃyatoti hatthakīḷāpanādīnaṃ vā hatthena paresaṃ paha
 内なるものを喜びとし、心の定まった者で、
 ひとり静かに暮らし、満ち足りている人――
 賢者たちは、その人こそを『比丘』と呼ぶ。」
-
----
 
 自然な日本語訳（註釈）
 

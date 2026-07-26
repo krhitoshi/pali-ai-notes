@@ -26,8 +26,6 @@ Tattha mukhasaṃyatoti dāsacaṇḍālādayopi ‘‘tvaṃ dujjāto, tvaṃ d
 
 →「口（言葉）をよく抑制している比丘である者は」
 
----
-
 2. mantabhāṇī anuddhato;
 
 * mantabhāṇī = manta + bhāṇin
@@ -43,8 +41,6 @@ Tattha mukhasaṃyatoti dāsacaṇḍālādayopi ‘‘tvaṃ dujjāto, tvaṃ d
 
 →「智慧をもって語り、心が浮ついていない者であり」
 
----
-
 3. Atthaṃ dhammañca dīpeti,
 
 * atthaṃ
@@ -59,8 +55,6 @@ Tattha mukhasaṃyatoti dāsacaṇḍālādayopi ‘‘tvaṃ dujjāto, tvaṃ d
 
 →「その（語の）意味と法（教え）とを解き明かし」
 
----
-
 4. madhuraṃ tassa bhāsita’’nti.
 
 * madhuraṃ = 「甘い、ここでは『心地よい・耳に快い』」
@@ -69,8 +63,6 @@ Tattha mukhasaṃyatoti dāsacaṇḍālādayopi ‘‘tvaṃ dujjāto, tvaṃ d
 * ’nti = iti = 「～である、と」
 
 →「その人の語ることは『甘美である（心地よい）』と言われる。」
-
----
 
 5. Tattha mukhasaṃyatoti dāsacaṇḍālādayopi ‘‘tvaṃ dujjāto, tvaṃ dussīlo’’tiādīnaṃ avacanatāya mukhena saṃyato.
 
@@ -95,8 +87,6 @@ Tattha mukhasaṃyatoti dāsacaṇḍālādayopi ‘‘tvaṃ dujjāto, tvaṃ d
 
 →「ここで『口を抑制した者』とは、奴隷や賤民などに対してさえも『お前は卑しい生まれだ』『お前は悪行の人だ』などといった悪口を決して口にしないことによって、言葉の上で自らを抑制している者、という意味である。」
 
----
-
 6. Mantabhāṇīti mantā vuccati paññā, tāya bhaṇanasīlo.
 
 * mantabhāṇī ti = 「mantabhāṇī とは…という意味である」
@@ -115,8 +105,6 @@ Tattha mukhasaṃyatoti dāsacaṇḍālādayopi ‘‘tvaṃ dujjāto, tvaṃ d
 
 →「『mantabhāṇī』とは、‘manta’ すなわち智慧と呼ばれるものによって語ることを習いとしている者、という意味である。」
 
----
-
 7. Anuddhatoti nibbutacitto.
 
 * anuddhato ti = 「anuddhata とは…という意味である」
@@ -127,8 +115,6 @@ Tattha mukhasaṃyatoti dāsacaṇḍālādayopi ‘‘tvaṃ dujjāto, tvaṃ d
   * 「心が鎮まっている、静まった心の者」
 
 →「『anuddhato』とは、心が鎮まって静まり返っている者、という意味である。」
-
----
 
 8. Atthaṃ dhammañca dīpetīti bhāsitatthañceva desanādhammañca katheti.
 
@@ -150,8 +136,6 @@ Tattha mukhasaṃyatoti dāsacaṇḍālādayopi ‘‘tvaṃ dujjāto, tvaṃ d
 
 →「『意味と法とを明らかにする』とは、語られた文句の意味そのものと、説法としての教えの内容とを、きちんと語り明かすことである。」
 
----
-
 9. Madhuranti evarūpassa bhikkhuno bhāsitaṃ madhuraṃ nāma.
 
 * madhuraṃ ti = 「madhuraṃ とは…という意味である」
@@ -160,8 +144,6 @@ Tattha mukhasaṃyatoti dāsacaṇḍālādayopi ‘‘tvaṃ dujjāto, tvaṃ d
 * madhuraṃ nāma = 「『甘美である』と呼ばれる」
 
 →「『madhuraṃ（甘美である）』とは、このような比丘の語ることを『甘美である』と呼ぶ、ということである。」
-
----
 
 10. Yo pana atthameva sampādeti, na pāḷiṃ, pāḷiṃyeva sampādeti, na atthaṃ, ubhayaṃ vā pana na sampādeti, tassa bhāsitaṃ madhuraṃ nāma na hotīti.
 
@@ -189,8 +171,6 @@ Tattha mukhasaṃyatoti dāsacaṇḍālādayopi ‘‘tvaṃ dujjāto, tvaṃ d
 * madhuraṃ nāma na hoti = 「『甘美である』とは言われない」
 
 →「しかし、意味だけをよく説明してパーリ（原文）の扱いを整えない者、あるいはパーリの文句だけをうまく整えて唱えるが意味をきちんと示さない者、さらにはその両方とも十分に整えない者――そのような者の語るところは、『甘美である』とは決して呼ばれないのである。」
-
----
 
 ### 意訳
 

@@ -54,8 +54,6 @@ Tato naṃ dukkhamanvetīti tato tividhaduccaritato taṃ puggalaṃ dukkhaṃ a
 　もし汚れた意をもって語り、あるいは行うならば、
 　そこから苦がその者に従う——荷を引く牛の足に車輪が従うように。」
 
----
-
 ### 註釈
 
 2. Tattha mano ti kāmāvacarakusalādibhedaṃ sabbam pi catubhūmikacittaṃ.
@@ -487,8 +485,6 @@ Tato naṃ dukkhamanvetīti tato tividhaduccaritato taṃ puggalaṃ dukkhaṃ a
 → 「まさにそのように、汚れた意によって三種の悪行を満たした人を、
 　地獄などのあちこちの赴いた先において、
 　悪行を根本とする身体的・精神的な苦が追随し続けるのである。」
-
----
 
 ### 意訳
 

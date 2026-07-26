@@ -8,8 +8,6 @@ Bhogataṇhāya dummedho, hanti aññeva attana’’nti.
 Tattha no ca pāragavesinoti ye pana nibbānapāragavesino puggalā, na te bhogā hananti.
 Aññeva attananti bhoge nissāya uppannāya taṇhāya duppañño puggalo pare viya attānameva hanatīti attho.
 
----
-
 偈文（Dhp 355）語句分解と文法
 
 1) Hananti bhogā dummedhaṃ, no ca pāragavesino;
@@ -35,8 +33,6 @@ Aññeva attananti bhoge nissāya uppannāya taṇhāya duppañño puggalo pare 
 → 文意：
 「財への渇愛によって、愚かな者は、（他人を害するかのように）実は自分自身を害する。」
 
----
-
 偈文 逐語訳
 
 「財（bhogā）は愚かな者（dummedhaṃ）を破滅させる（hananti）。
@@ -45,14 +41,10 @@ Aññeva attananti bhoge nissāya uppannāya taṇhāya duppañño puggalo pare 
 財への渇愛（bhogataṇhāya）によって、愚かな者（dummedho）は、
 他人を（害するかのように）（aññeva）、自分自身（attanaṃ）を害する（hanti）。」
 
----
-
 偈文 自然な日本語訳
 
 「財は、愚かな人を破滅へ導く。しかし涅槃という彼岸を求める人を破滅させはしない。
 財を欲しがる渇愛のせいで、愚かな人は、他人を害するつもりで結局は自分自身を害してしまう。」
-
----
 
 註釈 語句分解と文法・解説
 
@@ -81,8 +73,6 @@ B) Aññeva attananti bhoge nissāya uppannāya taṇhāya duppañño puggalo pa
 → 註釈の要点：
 「財を縁として生じた渇愛のために、智慧の乏しい者は、他人を害するかのように振る舞いながら、実際には自分自身を破滅させる、という意味だと述べている。」
 
----
-
 註釈 逐語訳
 
 「ここで『しかし彼岸を求める者たち（を財は害さない）』とは、
@@ -91,8 +81,6 @@ B) Aññeva attananti bhoge nissāya uppannāya taṇhāya duppañño puggalo pa
 また『他人を（害するかのように）自分自身を』とは、
 財を縁として生じた渇愛によって、智慧の乏しい人は、
 他人を害するかのように（見えて）、実は自分自身をこそ害する、という意味である。」
-
----
 
 註釈を踏まえた自然な日本語訳
 

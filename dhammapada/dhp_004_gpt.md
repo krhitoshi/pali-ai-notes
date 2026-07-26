@@ -25,8 +25,6 @@ Ye ca taṃ nupanayhantīti asatiyā amanasikāravasena vā kammapaccavekkhaṇ�
 
 →「『私を罵った、私を打った、私に勝った、私の物を奪った』と（思い続ける者は…）」
 
----
-
 2. Ye ca taṃ nupanayhanti, veraṃ tesūpasammatī’’ti.
 
 * ye = 「…する者たちは」  
@@ -38,8 +36,6 @@ Ye ca taṃ nupanayhantīti asatiyā amanasikāravasena vā kammapaccavekkhaṇ�
 * upasammati = 「鎮まる、静まる、収まる」
 
 →「そして、そのことを心に抱きつづけない者たちには、怨みは静まるのである。」
-
----
 
 3. Ye ca taṃ nupanayhantīti asatiyā amanasikāravasena vā kammapaccavekkhaṇādivasena vā
 
@@ -59,8 +55,6 @@ Ye ca taṃ nupanayhantīti asatiyā amanasikāravasena vā kammapaccavekkhaṇ�
 
 →「『そのことを恨みとして抱き続けない者たち』とは、忘れてしまう／意識的に取り上げないという仕方、あるいは自らの業を省察するなどという仕方によって、（そうする）者たちのことである。」
 
----
-
 4. ye taṃ akkosādivatthukaṃ kodhaṃ
 
 * ye = 「…する者たちは」  
@@ -73,8 +67,6 @@ Ye ca taṃ nupanayhantīti asatiyā amanasikāravasena vā kammapaccavekkhaṇ�
 
 →「（すなわち）その、罵倒などを根拠とする怒りを」
 
----
-
 5. tayāpi koci niddoso purimabhave akkuṭṭho bhavissati,
 
 * tayā pi = 「お前によってもまた」  
@@ -86,16 +78,12 @@ Ye ca taṃ nupanayhantīti asatiyā amanasikāravasena vā kammapaccavekkhaṇ�
 
 →「『お前自身もまた、前世において、罪のない誰かを罵っていたであろう』」
 
----
-
 6. pahaṭo bhavissati,
 
 * pahaṭo = 「打たれた／傷つけたであろう」〔paṭhati／pahāreti系のaor.分詞。「打つ・傷つける」の意〕  
 * bhavissati = 「～であったのであろう」
 
 →「『（罪のない誰かを）打ったり傷つけたりしていたであろう』」
-
----
 
 7. kūṭasakkhiṃ otāretvā jito bhavissati,
 
@@ -108,8 +96,6 @@ Ye ca taṃ nupanayhantīti asatiyā amanasikāravasena vā kammapaccavekkhaṇ�
 
 →「『偽証人を引き入れて（裁きの場に立たせ）、勝訴したこともあったであろう』」
 
----
-
 8. kassaci te pasayha kiñci acchinnaṃ bhavissati,
 
 * kassaci = 「誰かの、ある人の」  
@@ -120,8 +106,6 @@ Ye ca taṃ nupanayhantīti asatiyā amanasikāravasena vā kammapaccavekkhaṇ�
 * bhavissati = 「～であったのであろう」
 
 →「『また、誰かのものを、お前が力ずくで何か奪い取ったこともあったであろう』」
-
----
 
 9. tasmā niddoso hutvāpi akkosādīni pāpuṇāsīti evaṃ na upanayhanti.
 
@@ -137,8 +121,6 @@ Ye ca taṃ nupanayhantīti asatiyā amanasikāravasena vā kammapaccavekkhaṇ�
 
 →「『だからこそ、今は罪がなくても、罵倒などを受けるのだ』とこのように考えて、（その仕打ちを）恨みとして抱き続けないのである。」
 
----
-
 10. Tesu pamādena uppannampi veraṃ
 
 * Tesu = 「そのような人たちの中において」  
@@ -147,8 +129,6 @@ Ye ca taṃ nupanayhantīti asatiyā amanasikāravasena vā kammapaccavekkhaṇ�
 * veraṃ = 「怨みが、敵意が」
 
 →「そのような人たちにおいては、不注意からいったん起こってしまった怨みでさえも」
-
----
 
 11. iminā anupanayhanena nirindhano viya jātavedo vūpasammatīti.
 
@@ -162,8 +142,6 @@ Ye ca taṃ nupanayhantīti asatiyā amanasikāravasena vā kammapaccavekkhaṇ�
 * ti = 「と」
 
 →「この、恨みを抱え込まないというあり方によって、燃料のない火のように、（その怨みは）静まり、消え去るのである。」
-
----
 
 ### 意訳
 
