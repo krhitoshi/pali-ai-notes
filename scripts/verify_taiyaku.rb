@@ -24,10 +24,12 @@
 #
 # あわせて見出しの検査を行う (NG-HEADING):
 #   - 見出しは「# 経題」「## <段落番号>」「## <段落番号> (連番)」
-#     「### Meta」「### 対訳」のみ (生成が作った余計な見出しの検出)
+#     「### Meta」「### 対訳」のみ (生成が作った余計な見出しの検出).
+#     assemble_md.rb の headings 上書きによる範囲形式
+#     「## <番号>-<番号>」も許可する (欠番検査では範囲を展開して数える)
 #   - 正本に現れる VRI 段落番号がすべて ## 見出しに存在する (欠番の検出.
 #     チャンク途中から始まった番号は見出しを持てないため, ここで露見する)
-#   - 同一番号の連番 (N) は 1 から始まり連続する
+#   - 同一番号 (同一ラベル) の連番 (N) は 1 から始まり連続する
 
 source_path, *md_paths = ARGV
 abort "usage: verify_taiyaku.rb <source.txt> <md...>" if md_paths.empty?
@@ -87,11 +89,18 @@ md_paths.each do |md|
     case heading
     when /\A# ./, /\A### (Meta|対訳)\z/
       # 経題と定型見出しは許可
-    when /\A## (\d+)(?: \((\d+)\))?\z/
-      n, k = $1, $2
-      found_nums << n
-      seq[n] += 1
-      unless (k ? k.to_i : 1) == seq[n]
+    when /\A## (\d+)(?:-(\d+))?(?: \((\d+)\))?\z/
+      n1, n2, k = $1, $2, $3
+      if n2 && n2.to_i <= n1.to_i
+        ng += 1
+        puts "NG-HEADING #{md}:#{lineno}: 範囲が不正: #{heading}"
+        next
+      end
+      # 範囲見出しは含まれる番号をすべて充足したとみなす
+      found_nums.concat(n2 ? (n1.to_i..n2.to_i).map(&:to_s) : [n1])
+      label = n2 ? "#{n1}-#{n2}" : n1
+      seq[label] += 1
+      unless (k ? k.to_i : 1) == seq[label]
         ng += 1
         puts "NG-HEADING #{md}:#{lineno}: 連番が不連続: #{heading}"
       end

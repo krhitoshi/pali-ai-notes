@@ -2,7 +2,11 @@
 # 対訳作成パイプライン: 抽出 -> 生成 (claude -p) -> 組み立て -> 検証
 #
 # 使い方:
-#   scripts/taiyaku.sh <xml|url> <subhead> <chunkspec> <workdir> <out_md> [model] [effort] [label]
+#   scripts/taiyaku.sh <xml|url> <subhead> <chunkspec> <workdir> <out_md> \
+#     [model] [effort] [label] [headings]
+#
+# [headings] は assemble_md.rb にそのまま渡す見出しラベルの上書き指定
+# (例 "1:345-346,4:345-346")
 #
 # 例:
 #   scripts/taiyaku.sh _tmp/s0305m.mul9.xml "10. Kimilasuttaṃ" "1-3,4,5-6,7-8,9" \
@@ -23,6 +27,7 @@ xml=$1; subhead=$2; chunkspec=$3; workdir=$4; out_md=$5
 model=${6:-claude-fable-5}
 effort=${7:-high}
 label=${8:-"Claude Fable 5 High"}
+headings=${9:-}
 
 repo_root=$(cd "$(dirname "$0")/.." && pwd)
 
@@ -76,7 +81,8 @@ fi
 [ "$fail" -eq 0 ] || exit 1
 
 # 3. md 組み立て (原文ブロックはチャンクから byte-exact コピー)
-ruby "$repo_root/scripts/assemble_md.rb" "$workdir" "$out_md" "$(date +%Y/%m/%d)" "$label"
+ruby "$repo_root/scripts/assemble_md.rb" "$workdir" "$out_md" "$(date +%Y/%m/%d)" "$label" \
+  ${headings:+"$headings"}
 
 # 4. 対訳中のパーリ再掲行を正本と照合
 ruby "$repo_root/scripts/verify_taiyaku.rb" "$workdir/source.txt" "$out_md"

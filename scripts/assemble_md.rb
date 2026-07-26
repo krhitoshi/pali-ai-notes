@@ -1,10 +1,12 @@
 # チャンクと生成結果から対訳 md を組み立てるスクリプト
 #
 # 使い方:
-#   ruby scripts/assemble_md.rb <workdir> <out_md> <date> <model_label>
+#   ruby scripts/assemble_md.rb <workdir> <out_md> <date> <model_label> [headings]
 #
 # 例:
 #   ruby scripts/assemble_md.rb work sn/sn_54_1_10_fable5.md 2026/07/12 "Claude Fable 5 High"
+#   ruby scripts/assemble_md.rb work dhammapada/dhp_attha_345-346.md 2026/07/26 \
+#     "Claude Fable 5 High" "1:345-346,4:345-346,5:345-346"
 #
 # - <workdir> には extract_chunks.rb の chunk_NN.txt と生成結果 out_NN.md を置く
 # - 原文ブロックは chunk_NN.txt から byte-exact でコピーする (LLM 出力を使わない)
@@ -14,9 +16,22 @@
 #   またがる場合のみ "## <段落番号> (N)" と連番を付ける
 # - 先頭チャンクに段落番号がない場合 (Dhp-a の vatthu 導入部など, 最初の
 #   番号より前に本文がある形) は後続で最初に現れる番号を引き継ぐ
+# - [headings] は "チャンク番号:ラベル" のカンマ区切りで見出しラベルを
+#   上書きする (例 "1:345-346,4:345-346"). 番号規則で決まらない編集判断
+#   (物語導入部や複数偈にまたがる語句註を偈の範囲でラベル付けする等) を
+#   組み立て段階で明示するためのもの. 省略時は完全に従来動作
 
-workdir, out_md, date, model_label = ARGV.map { |a| a&.dup&.force_encoding("UTF-8") }
-abort "usage: assemble_md.rb <workdir> <out_md> <date> <model_label>" unless model_label
+workdir, out_md, date, model_label, headings_spec = ARGV.map { |a| a&.dup&.force_encoding("UTF-8") }
+abort "usage: assemble_md.rb <workdir> <out_md> <date> <model_label> [headings]" unless model_label
+
+overrides = {}
+if headings_spec
+  headings_spec.split(",").each do |pair|
+    i, label = pair.split(":", 2)
+    abort "invalid headings spec: #{pair}" unless label && !label.empty? && i =~ /\A\d+\z/
+    overrides[i.to_i] = label
+  end
+end
 
 chunk_paths = Dir[File.join(workdir, "chunk_*.txt")].sort
 gen_paths = chunk_paths.map { |p| p.sub(/chunk_(\d+)\.txt\z/, 'out_\1.md') }
@@ -50,6 +65,11 @@ paranums = bodies.map do |body|
   last = nums.last || last
   n
 end
+# 見出しラベルの上書きを適用する (番号の引き継ぎ計算には影響しない)
+bad = overrides.keys.reject { |i| (1..paranums.size).cover?(i) }
+abort "headings spec: chunk #{bad.join(', ')} not found" unless bad.empty?
+paranums = paranums.each_with_index.map { |n, i| overrides[i + 1] || n }
+
 # 先頭チャンクに番号がない場合は後続で最初に現れる番号を引き継ぐ
 first_num = paranums.compact.first
 abort "paranum not found in any chunk" unless first_num
