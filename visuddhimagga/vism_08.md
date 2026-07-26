@@ -1678,8 +1678,6 @@ Nāsikaggeva bhikkhunoti. (pārā. aṭṭha. 2.165);
 
 → 「そして、このように了知する彼には――」
 
----
-
 【偈文】(pārā. aṭṭha. 2.165 / 律蔵註・波羅夷註 2.165)
 
 6. Dīgho rasso ca assāso, passāso pi ca tādiso;

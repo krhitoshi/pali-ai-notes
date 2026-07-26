@@ -1385,8 +1385,6 @@ Katame te ekattāti idha yujjamānāyujjamānepi ekatte ekato katvā pucchati. D
 
 ### 対訳
 
----
-
 1. Katame te ekattāti idha yujjamānāyujjamānepi ekatte ekato katvā pucchati.
 
 * katame te ekattā = 「それらの単一性とは何か」（本文の語）
@@ -1618,8 +1616,6 @@ Katame te ekattāti idha yujjamānāyujjamānepi ekatte ekato katvā pucchati. D
 Cāgādhimuttānanti dāne adhimuttānaṃ. Adhicittanti vipassanāpādakasamādhi. Vipassakānanti bhaṅgānupassanato paṭṭhāya tīhi anupassanāhi saṅkhāre vipassantānaṃ. Ariyapuggalānanti aṭṭhannaṃ. Dutiyādīni tīṇi ekattāni ānāpānassativasena sesakammaṭṭhānavasena ca yujjanti. Catūhi ṭhānehīti catūhi kāraṇehi. Samādhivipassanāmaggaphalānaṃ vasena ‘‘ekattagataṃ cittaṃ paṭipadāvisuddhipakkhandañceva hoti upekkhānubrūhitañca ñāṇena ca sampahaṃsita’’nti uddesapadāni. ‘‘Paṭhamassa jhānassa ko ādī’’tiādīni tesaṃ uddesapadānaṃ vitthāretukamyatāpucchāpubbaṅgamāni niddesapadāni. Tattha paṭipadāvisuddhipakkhandanti paṭipadā eva nīvaraṇamalavisodhanato visuddhi, taṃ paṭipadāvisuddhiṃ pakkhandaṃ paviṭṭhaṃ. Upekkhānubrūhitanti tatramajjhattupekkhāya brūhitaṃ vaḍḍhitaṃ. Ñāṇena ca sampahaṃsitanti pariyodāpakena ñāṇena sampahaṃsitaṃ pariyodāpitaṃ visodhitaṃ. Paṭipadāvisuddhi nāma sasambhāriko upacāro, upekkhānubrūhanā nāma appanā, sampahaṃsanā nāma paccavekkhaṇāti evameke vaṇṇayanti. Yasmā pana ‘‘ekattagataṃ cittaṃ paṭipadāvisuddhipakkhandañceva hotī’’tiādi vuttaṃ, tasmā antoappanāyameva āgamanavasena paṭipadāvisuddhi, tatramajjhattupekkhāya kiccavasena upekkhānubrūhanā, dhammānaṃ anativattanādibhāvasādhanena pariyodāpakassa ñāṇassa kiccanipphattivasena sampahaṃsanā veditabbā. Kathaṃ? Yasmiñhi vāre appanā uppajjati, tasmiṃ yo nīvaraṇasaṅkhāto kilesagaṇo tassa jhānassa paripantho, tato cittaṃ visujjhati, visuddhattā āvaraṇavirahitaṃ hutvā majjhimaṃ samathanimittaṃ paṭipajjati. Majjhimaṃ samathanimittaṃ nāma samappavatto appanāsamādhiyeva. Tadanantaraṃ pana purimacittaṃ ekasantatipariṇāmanayena tathattaṃ upagacchamānaṃ majjhimaṃ samathanimittaṃ paṭipajjati nāma. Evaṃ paṭipannattā tathattupagamanena tattha pakkhandati nāma. Evaṃ tāva purimacitte vijjamānākāranipphādikā paṭhamassa jhānassa uppādakkhaṇeyeva āgamanavasena paṭipadāvisuddhi veditabbā. Evaṃ visuddhassa pana tassa puna visodhetabbābhāvato visodhane byāpāraṃ akaronto visuddhaṃ cittaṃ ajjhupekkhati nāma. Samathabhāvūpagamanena samathapaṭipannassa puna samādāne byāpāraṃ akaronto samathapaṭipannaṃ ajjhupekkhati nāma. Samathapaṭipannabhāvato eva cassa kilesasaṃsaggaṃ pahāya ekattena upaṭṭhitassa puna ekattupaṭṭhāne byāpāraṃ akaronto ekattupaṭṭhānaṃ ajjhupekkhati nāma. Evaṃ tatramajjhattupekkhāya kiccavasena upekkhānubrūhanā veditabbā.
 
 ### 対訳
-
----
 
 1. Cāgādhimuttānanti dāne adhimuttānaṃ.
 
@@ -1888,8 +1884,6 @@ Evaṃ tivattagatantiādīni tasseva cittassa thomanavacanāni. Tattha evaṃ ti
 
 ### 対訳
 
----
-
 1. Ye panete evaṃ upekkhānubrūhite tattha jātā samādhipaññāsaṅkhātā yuganaddhadhammā aññamaññaṃ anativattamānā hutvā pavattā,
 
 * ye pana ete = 「しかし、これら～であるところのものは」（関係代名詞・男性複数）
@@ -2141,8 +2135,6 @@ Evaṃ tivattagatantiādīni tasseva cittassa thomanavacanāni. Tattha evaṃ ti
 Aniccānupassanādīsu aṭṭhārasasu mahāvipassanāsu vitakkādayo paripuṇṇāyeva tāsaṃ kāmāvacarattā. Etāsu ca appanāya abhāvato paṭipadāvisuddhiādayo khaṇikasamādhivasena yojetabbā. Catūsu maggesu paṭhamajjhānikavasena vitakkādīnaṃ labbhanato labbhamānakavaseneva vitakkādayo paripuṇṇā vuttā. Dutiyajjhānikādīsu hi maggesu vitakkādayo jhānesu viya parihāyantīti. Ettāvatā terasa vodānañāṇāni vitthārato niddiṭṭhāni honti. Kathaṃ? Ekaṭṭhāne samādahanena tattheva adhimuccanena kosajjappajahanena uddhaccappajahanena rāgappajahanena byāpādappajahanena sampayuttāni cha ñāṇāni, catūhi ekattehi sampayuttāni cattāri ñāṇāni, paṭipadāvisuddhiupekkhānubrūhanāsampahaṃsanāhi sampayuttāni tīṇi ñāṇānīti evaṃ terasa ñāṇāni niddiṭṭhāni.
 
 ### 対訳
-
----
 
 1. Aniccānupassanādīsu aṭṭhārasasu mahāvipassanāsu vitakkādayo paripuṇṇāyeva tāsaṃ kāmāvacarattā.
 
