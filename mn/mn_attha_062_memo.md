@@ -1,6 +1,6 @@
-# mn_attha_062_splited.md についてのメモ
+# mn_attha_062_split.md についてのメモ
 
-mn_attha_062_splited.md (MN62 Mahārāhulovādasutta 註 §118-121 の対訳)
+mn_attha_062_split.md (MN62 Mahārāhulovādasutta 註 §118-121 の対訳)
 の品質評価の記録 (2026/07/24).
 
 ## mn_attha_062.md との関係
@@ -8,7 +8,7 @@ mn_attha_062_splited.md (MN62 Mahārāhulovādasutta 註 §118-121 の対訳)
 - mn_attha_062.md (2026/03/19 生成) は §113-121 全体の対訳を持ち,
   §118-121 はこのファイルと重複する. 訳は別生成で異なる
 - 形式も異なる: mn_attha_062.md は複数文を 1 ユニットにまとめる旧形式,
-  062_splited (2026/03/23-24 生成) は一文一釈の新形式
+  062_split (2026/03/23-24 生成) は一文一釈の新形式
 - §118-121 について統合するか併存させるかは未決. 同一本文での訳し比べは
   この範囲で可能だが未実施
 
