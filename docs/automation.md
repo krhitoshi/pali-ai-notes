@@ -1,41 +1,14 @@
 # 対訳作成の自動化メモ
 
 Claude Code を使って対訳作成プロセスを自動化する際の設計方針をまとめる.
-実装ステップ 1-3 (分割・生成・検証) は `scripts/` に実装済み.
-スキル化 (ステップ 4) は未着手.
+実装ステップ 1-4 (分割・生成・検証・スキル化) は実装済み.
 
 ## 実行手順
 
-```bash
-# チャンク境界の検討用: chunkspec を省略すると段落一覧 (連番, VRI 段落番号,
-# 文字数, 冒頭) を表示して終了する
-ruby scripts/extract_chunks.rb _tmp/s0202m.mul0.xml "10. Apaṇṇakasuttaṃ"
+taiyaku スキル (`.claude/skills/taiyaku/SKILL.md`) に移行した.
+コマンド例, チャンク境界の決め方, 失敗時・検証 NG 時の対応はそちらを参照.
+本ドキュメントには設計方針と実装知見を残す.
 
-# URL 指定 (未取得なら _tmp/ にダウンロード, 取得済みならそれを正本に再利用)
-scripts/taiyaku.sh https://www.tipitaka.org/romn/cscd/s0202m.mul0.xml \
-  "9. Bahuvedanīyasuttaṃ" "1,2,3-5,6-11,12,13-15" _tmp/work_mn059 mn/mn_059.md
-
-# ローカルの XML を直接指定してもよい
-scripts/taiyaku.sh _tmp/s0305m.mul9.xml "10. Kimilasuttaṃ" "1-3,4,5-6,7-8,9" \
-  _tmp/work_kimila sn/sn_54_1_10.md
-```
-
-- 第 3 引数はチャンク分割の指定. bodytext 段落番号 (1 始まり) のグループを
-  カンマ区切りで書く. 境界は編集判断のため人が決める
-  (上記の段落一覧モードで構造を見てから決める)
-- セクション一部だけを対訳する場合は "6-11" のような途中範囲を指定できる
-  (Dhp-a の vatthu で偈と語句註のみ対訳する場合など). 範囲は連続した
-  昇順のみ (歯抜けや逆順は誤指定として弾く). source.txt は範囲によらず
-  常にセクション全体を正本として書き, 連結一致 assert は該当範囲
-  (経題 + 指定段落) との比較になる. 経題行は従来どおり先頭チャンクに
-  含まれるため対訳対象になる
-- 境界の規則: 各チャンクは「VRI 段落番号付きの段落で始まる」か「直前
-  チャンクと同一番号の継続」とする. 1 チャンクに異なる VRI 番号を 2 つ
-  含めると, 途中から始まる番号がセクション見出しを持てない
-  (MN 60 で §105-106 を 1 チャンクにして発生. extract_chunks.rb が
-  該当時に警告を出す)
-- workdir (`_tmp/work_kimila`) に source.txt (read-only の正本), chunk_NN.txt,
-  生成結果 out_NN.md, err_NN.log が残る
 - 個別ステップは scripts/extract_chunks.rb (分割 + 連結一致 assert),
   scripts/assemble_md.rb (md 組み立て), scripts/verify_taiyaku.rb (再掲行照合)
 
@@ -181,6 +154,10 @@ cat chunk.txt | claude -p \
   再ログイン後は Claude Code セッション内からのネスト実行も通る)
 - `--exclude-dynamic-system-prompt-sections` は `--system-prompt` 併用時は
   無視されるため不要
+- Claude Code セッションの Bash からバックグラウンド (detach) で実行すると,
+  claude -p が数分走った後 exit 0 のまま stdout/stderr とも空になる事象が
+  あった (2026/07/28, dhp_345-346 で 2 回再現. 同じコマンドの前面実行では
+  成功). 原因未特定. 生成は前面実行で timeout を長めに取って行う
 
 ### プロンプトに含まれる Claude 関連の内容 (実測)
 
@@ -299,4 +276,5 @@ cat chunk.txt | claude -p \
    保たれることを確認する -> scripts/extract_chunks.rb
 2. [済] `claude -p` 生成を繋ぐ -> scripts/taiyaku.sh
 3. [済] 生成後の diff 検証を加える -> scripts/verify_taiyaku.rb
-4. 一連の処理を `.claude/commands/` のスキルにまとめる
+4. [済] 一連の処理をスキルにまとめる -> .claude/skills/taiyaku/SKILL.md
+   (`.claude/commands/` ではなくスキル形式を採用)
