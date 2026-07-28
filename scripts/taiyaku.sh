@@ -45,6 +45,9 @@ case "$xml" in
     ;;
 esac
 
+# 原文 URL. ローカル xml 指定でもファイル名は VRI 名のため URL を復元できる
+src_url="https://www.tipitaka.org/romn/cscd/$(basename "$xml")"
+
 # 1. 抽出 + チャンク分割 (連結一致 assert 込み)
 ruby "$repo_root/scripts/extract_chunks.rb" "$xml" "$subhead" "$workdir" "$chunkspec"
 
@@ -82,7 +85,7 @@ fi
 
 # 3. md 組み立て (原文ブロックはチャンクから byte-exact コピー)
 ruby "$repo_root/scripts/assemble_md.rb" "$workdir" "$out_md" "$(date +%Y/%m/%d)" "$label" \
-  ${headings:+"$headings"}
+  ${headings:+"$headings"} --source "$src_url"
 
 # 4. 対訳中のパーリ再掲行を正本と照合
 ruby "$repo_root/scripts/verify_taiyaku.rb" "$workdir/source.txt" "$out_md"

@@ -1,7 +1,8 @@
 # チャンクと生成結果から対訳 md を組み立てるスクリプト
 #
 # 使い方:
-#   ruby scripts/assemble_md.rb <workdir> <out_md> <date> <model_label> [headings]
+#   ruby scripts/assemble_md.rb <workdir> <out_md> <date> <model_label> [headings] \
+#     [--source <url>]
 #
 # 例:
 #   ruby scripts/assemble_md.rb work sn/sn_54_1_10_fable5.md 2026/07/12 "Claude Fable 5 High"
@@ -20,9 +21,18 @@
 #   上書きする (例 "1:345-346,4:345-346"). 番号規則で決まらない編集判断
 #   (物語導入部や複数偈にまたがる語句註を偈の範囲でラベル付けする等) を
 #   組み立て段階で明示するためのもの. 省略時は完全に従来動作
+# - --source は原文 XML の URL. 出力 md 先頭の frontmatter
+#   (source, generated, updated) に書く. 省略時は source 行なし
 
-workdir, out_md, date, model_label, headings_spec = ARGV.map { |a| a&.dup&.force_encoding("UTF-8") }
-abort "usage: assemble_md.rb <workdir> <out_md> <date> <model_label> [headings]" unless model_label
+args = ARGV.map { |a| a&.dup&.force_encoding("UTF-8") }
+source_url = nil
+if (i = args.index("--source"))
+  args.delete_at(i)
+  source_url = args.delete_at(i)
+  abort "usage: assemble_md.rb ... --source <url>" unless source_url
+end
+workdir, out_md, date, model_label, headings_spec = args
+abort "usage: assemble_md.rb <workdir> <out_md> <date> <model_label> [headings] [--source <url>]" unless model_label
 
 overrides = {}
 if headings_spec
@@ -93,7 +103,13 @@ def unfence(s)
   s
 end
 
-out = +"\n# #{title}\n"
+# 先頭にファイル単位のメタ情報 (frontmatter) を置く. updated は改訂時に手動更新する
+out = +"---\n"
+out << "source: #{source_url}\n" if source_url
+out << "generated: #{date}\n"
+out << "updated: #{date}\n"
+out << "---\n"
+out << "\n# #{title}\n"
 assembled = 0
 bodies.each_with_index do |body, i|
   next unless File.exist?(gen_paths[i])
