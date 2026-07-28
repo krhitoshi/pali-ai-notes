@@ -1,3 +1,8 @@
+---
+source: https://www.tipitaka.org/romn/cscd/s0203a.att1.xml
+generated: 2026/07/23
+updated: 2026/07/23
+---
 
 # 8. Ānāpānassatisuttavaṇṇanā
 

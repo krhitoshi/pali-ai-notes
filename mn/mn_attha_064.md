@@ -1,3 +1,8 @@
+---
+source: https://www.tipitaka.org/romn/cscd/s0202a.att1.xml
+generated: 2026/03/31
+updated: 2026/07/23
+---
 
 # 4. Mahāmālukyasuttavaṇṇanā
 

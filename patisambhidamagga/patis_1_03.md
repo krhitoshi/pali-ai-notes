@@ -1,3 +1,9 @@
+---
+source: https://www.tipitaka.org/romn/cscd/s0517m.mul0.xml
+generated: 2026/06/20
+updated: 2026/07/24
+---
+
 - https://www.tipitaka.org/romn/cscd/s0517m.mul0.xml
 - Khuddakanikāye
 - Paṭisambhidāmaggapāḷi

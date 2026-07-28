@@ -1,3 +1,9 @@
+---
+source: https://www.tipitaka.org/romn/cscd/s0202a.att2.xml
+generated: 2026/06/05
+updated: 2026/07/23
+---
+
 # 5. Māgaṇḍiyasuttavaṇṇanā
 
 ## 207 (1)

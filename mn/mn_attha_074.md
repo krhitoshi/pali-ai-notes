@@ -1,3 +1,9 @@
+---
+source: https://www.tipitaka.org/romn/cscd/s0202a.att2.xml
+generated: 2026/06/01
+updated: 2026/07/23
+---
+
 # 4. Dīghanakhasuttavaṇṇanā
 
 ## 201 (1)

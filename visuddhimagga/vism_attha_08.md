@@ -1,3 +1,8 @@
+---
+source: https://www.tipitaka.org/romn/cscd/e0103n.att8.xml
+generated: 2026/07/22
+updated: 2026/07/22
+---
 
 # Ānāpānassatikathāvaṇṇanā
 

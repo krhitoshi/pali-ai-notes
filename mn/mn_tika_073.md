@@ -1,3 +1,8 @@
+---
+source: https://www.tipitaka.org/romn/cscd/s0202t.tik2.xml
+generated: 2026/05/31
+updated: 2026/07/23
+---
 
 ## 198
 
