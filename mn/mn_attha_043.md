@@ -1,3 +1,8 @@
+---
+source: https://www.tipitaka.org/romn/cscd/s0201a.att5.xml
+generated: 2026/07/26
+updated: 2026/07/26
+---
 
 # 3. Mahāvedallasuttavaṇṇanā
 

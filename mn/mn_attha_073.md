@@ -1,3 +1,9 @@
+---
+source: https://www.tipitaka.org/romn/cscd/s0202a.att2.xml
+generated: 2026/05/26
+updated: 2026/07/23
+---
+
 # 3. Mahāvacchasuttavaṇṇanā
 
 ## 193 (1)

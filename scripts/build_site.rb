@@ -6,6 +6,8 @@
 # - 対象は本体 + 註 (attha) + 復註 (tika) のみ. 派生ファイル (_check, _v1 など) は
 #   ファイル名のホワイトリスト正規表現で除外する
 # - ソース md は変更せず, 変換時にメモリ上で前処理する
+#   - 先頭の frontmatter (source, generated, updated) は本文から外し,
+#     ページ冒頭に原文リンクと日付の行として表示する
 #   - Meta ブロックの除去
 #   - 二重番号行 (例 "3. 107. Evaṃ...") の内側番号のピリオドをエスケープして
 #     CommonMark の入れ子リスト解釈を防ぐ (issue #1)
@@ -65,6 +67,12 @@ CSS = <<~CSS
     border-radius: 4px;
   }
   nav.site-nav span.sep { color: #999; margin: 0 0.4rem; }
+  p.page-meta {
+    font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+    font-size: 0.85rem;
+    color: #666;
+  }
+  p.page-meta span.sep { color: #bbb; margin: 0 0.4rem; }
   ol, ul { padding-left: 1.6rem; }
   li { margin: 0.2rem 0; }
   table { border-collapse: collapse; width: 100%; font-size: 0.95rem; }
@@ -127,6 +135,35 @@ def extract_titles(path)
     text
   end
   titles.uniq.join(" / ")
+end
+
+# 先頭の frontmatter (--- で囲まれた key: value 行) を分離する
+# 戻り値: [メタ情報の Hash, frontmatter を除いた本文]
+def split_front_matter(md)
+  m = md.match(/\A---\n(.*?)\n---\n/m)
+  return [{}, md] unless m
+
+  meta = {}
+  m[1].each_line do |line|
+    key, value = line.chomp.split(/:\s+/, 2)
+    meta[key] = value if value && !value.empty?
+  end
+  [meta, m.post_match]
+end
+
+# frontmatter の内容をページ冒頭の一行として表示する
+def front_matter_html(meta)
+  parts = []
+  if meta["source"]
+    href = CGI.escapeHTML(meta["source"])
+    name = CGI.escapeHTML(File.basename(meta["source"]))
+    parts << %(原文: <a href="#{href}">#{name}</a>)
+  end
+  parts << "生成: #{CGI.escapeHTML(meta['generated'])}" if meta["generated"]
+  parts << "更新: #{CGI.escapeHTML(meta['updated'])}" if meta["updated"]
+  return "" if parts.empty?
+
+  %(<p class="page-meta">#{parts.join('<span class="sep">|</span>')}</p>\n)
 end
 
 # md テキストの前処理. ソースファイルは変更しない
@@ -206,13 +243,14 @@ def write_page(page, section, pages)
     items << [KIND_LABELS[other.kind], other.html_name]
   end
 
-  md = preprocess(File.read(page.md_path, encoding: "UTF-8"))
+  meta, body_md = split_front_matter(File.read(page.md_path, encoding: "UTF-8"))
+  md = preprocess(body_md)
   title = page.titles.empty? ? page.stem : page.titles
   html = render_layout(
     title: "#{title} - #{section[:name]}",
     css_href: "../style.css",
     nav: nav_html(items),
-    body: to_html(md)
+    body: front_matter_html(meta) + to_html(md)
   )
   File.write(File.join(OUT_DIR, page.dir, page.html_name), html)
 end

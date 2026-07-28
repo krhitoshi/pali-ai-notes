@@ -27,6 +27,14 @@
 - `scripts/` などのツールを新規作成する際は, 特定の言語に固定せず用途に最適な
   言語を選択する. 既存ツールが Ruby であることは新規ツールの言語を縛らない
 
+## 対訳ファイルのメタ情報
+
+- 対訳 md の先頭には YAML frontmatter を置く (source = 原文 VRI XML の URL,
+  generated = 初回生成日, updated = 最終改訂日)
+- 対訳を改訂したら frontmatter の updated を当日の日付に更新する
+  (対応する `_history.md` の更新と合わせて行う)
+- build_site.rb が frontmatter をページ冒頭の原文リンクと日付表示に変換する
+
 ## 翻訳の方針
 
 - assāsa / assasati は「出息 (外へ出る息)」, passāsa / passasati は「入息

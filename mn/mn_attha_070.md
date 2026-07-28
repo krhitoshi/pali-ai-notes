@@ -1,3 +1,9 @@
+---
+source: https://www.tipitaka.org/romn/cscd/s0202a.att1.xml
+generated: 2026/05/11
+updated: 2026/07/23
+---
+
 # 10. Kīṭāgirisuttavaṇṇanā
 
 ## 174

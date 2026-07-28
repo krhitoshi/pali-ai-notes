@@ -126,6 +126,8 @@ ruby scripts/verify_taiyaku.rb <workdir>/source.txt <out_md>
 
 ## 出力 md の構造
 
+- 先頭に YAML frontmatter (source = 原文 XML の URL, generated = 生成日,
+  updated = 最終改訂日. assemble_md.rb が書き, 改訂時は updated を手動更新)
 - `# 経題` の下に `## <段落番号>` ごとのセクション. 各セクションは
   原文段落 (正本から byte-exact コピー) -> `### 対訳` -> 番号付き対訳行
 - 対訳の通し番号は経題行から始め, 経題・段落番号は番号ごと再掲する

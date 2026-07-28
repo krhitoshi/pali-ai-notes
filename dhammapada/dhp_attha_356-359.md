@@ -1,3 +1,8 @@
+---
+source: https://www.tipitaka.org/romn/cscd/s0502a.att24.xml
+generated: 2026/07/26
+updated: 2026/07/26
+---
 
 # 12. Aṅkuravatthu
 

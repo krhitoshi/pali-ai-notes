@@ -1,3 +1,9 @@
+---
+source: https://www.tipitaka.org/romn/cscd/s0517a.att4.xml
+generated: 2026/06/20
+updated: 2026/07/26
+---
+
 - https://www.tipitaka.org/romn/cscd/s0517a.att4.xml
 
 # 3. Ānāpānassatikathā

@@ -1,3 +1,9 @@
+---
+source: https://www.tipitaka.org/romn/cscd/e0101n.mul8.xml
+generated: 2026/06/20
+updated: 2026/07/26
+---
+
 # 8. Anussatikammaṭṭhānaniddeso
 
 # Ānāpānassatikathā
