@@ -27,6 +27,13 @@
 - `scripts/` などのツールを新規作成する際は, 特定の言語に固定せず用途に最適な
   言語を選択する. 既存ツールが Ruby であることは新規ツールの言語を縛らない
 
+## PR のマージ方式
+
+- PR のマージは squash を使わず, マージコミットを作る方式で行う
+  (GitHub の "Create a merge commit", gh では `gh pr merge --merge`)
+- squash はブランチ上の複数コミットを 1 つに潰すため, コミット単位の履歴を
+  残したい本リポジトリでは使わない
+
 ## 対訳ファイルのメタ情報
 
 - 対訳 md の先頭には YAML frontmatter を置く (source = 原文 VRI XML の URL,
