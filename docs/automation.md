@@ -110,7 +110,21 @@ CLI で再現する構成になる.
   - VRI 本文の綴りはそのまま正本とする ("Idaṃ vutta hoti" のような
     標準形でない綴りも保持. 生成が標準形に直した再掲は NG になるので
     原文の形に戻す)
-- 制限: 経の途中に内部 subhead がある場合 (MN 54 Potaliya の
+- title 起点セクション (Patis の kathā が `<p rend="title">` 直下に複数の
+  subhead を持つ形. Patis 1.3 Ānāpānassatikathā で対応) の扱い:
+  - 見出し指定が `<p rend="title">` に一致した場合は次の title までを
+    1 セクションとし, 内部の subhead / centre 段落も本文ブロックとして
+    取り込む (対訳対象になる). subhead 起点の従来動作は変えない
+  - 内部 subhead / centre の一覧を workdir/struct.txt に書き出す.
+    "1. Gaṇanavāra" のような数字で始まる subhead が VRI 段落番号と
+    誤認されるのを防ぐため, assemble_md.rb と verify_taiyaku.rb は
+    --struct でこの一覧を受け取り, 見出し用の段落番号の検出と欠番検査から
+    一致するブロックを除外する (taiyaku.sh は struct.txt があれば自動で渡す)
+  - チャンクは subhead ブロックから始めてよい (見出しの段落番号は
+    subhead をスキップした先頭の本文段落から取られる). セクション結びの
+    centre ("Gaṇanavāro paṭhamo." など) は直前セクションのチャンク末尾に
+    含める
+- 制限: subhead 起点で経の途中に内部 subhead がある場合 (MN 54 Potaliya の
   "Kāmādīnavakathā" など) はそこで抽出が止まる. 対象が vagga 全体などの
   場合も未対応. 必要になったら範囲指定の方法を拡張する
 - ロケールが C のシェルから Ruby を呼ぶと `File.read` が ASCII-8BIT に

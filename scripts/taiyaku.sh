@@ -51,6 +51,13 @@ src_url="https://www.tipitaka.org/romn/cscd/$(basename "$xml")"
 # 1. 抽出 + チャンク分割 (連結一致 assert 込み)
 ruby "$repo_root/scripts/extract_chunks.rb" "$xml" "$subhead" "$workdir" "$chunkspec"
 
+# title 起点セクションでは構造ブロック一覧 struct.txt が書き出される.
+# 組み立てと検証で段落番号の検出から除外するために渡す.
+# bash 3.2 の set -u は空配列の展開を unbound variable にするため,
+# ${arr[@]+...} の形で展開する
+struct_args=()
+[ -f "$workdir/struct.txt" ] && struct_args=(--struct "$workdir/struct.txt")
+
 # 2. 生成. チャンクごとに claude -p のクリーンな別プロセスを並列で呼ぶ
 for chunk in "$workdir"/chunk_*.txt; do
   n=$(basename "$chunk" .txt); n=${n#chunk_}
@@ -85,7 +92,8 @@ fi
 
 # 3. md 組み立て (原文ブロックはチャンクから byte-exact コピー)
 ruby "$repo_root/scripts/assemble_md.rb" "$workdir" "$out_md" "$(date +%Y/%m/%d)" "$label" \
-  ${headings:+"$headings"} --source "$src_url"
+  ${headings:+"$headings"} --source "$src_url" ${struct_args[@]+"${struct_args[@]}"}
 
 # 4. 対訳中のパーリ再掲行を正本と照合
-ruby "$repo_root/scripts/verify_taiyaku.rb" "$workdir/source.txt" "$out_md"
+ruby "$repo_root/scripts/verify_taiyaku.rb" ${struct_args[@]+"${struct_args[@]}"} \
+  "$workdir/source.txt" "$out_md"

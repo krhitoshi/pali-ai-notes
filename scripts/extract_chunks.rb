@@ -7,7 +7,11 @@
 #   ruby scripts/extract_chunks.rb _tmp/s0305m.mul9.xml "10. Kimilasuttaṃ" work "1-3,4,5-6,7-8,9"
 #   ruby scripts/extract_chunks.rb _tmp/s0305m.mul9.xml "10. Kimilasuttaṃ"   # 段落一覧のみ
 #
-# - <subhead> は <p rend="subhead"> の見出しテキストと完全一致させる
+# - <subhead> は <p rend="subhead"> または <p rend="title"> の見出しテキストと
+#   完全一致させる. title 起点の場合 (Patis の kathā など) は次の title までを
+#   1 セクションとし, 内部の subhead / centre 段落も本文ブロックとして含める.
+#   その構造ブロックの一覧を <outdir>/struct.txt に書き出す (assemble_md.rb と
+#   verify_taiyaku.rb が段落番号の検出・欠番検査から除外するために使う)
 # - <chunkspec> は段落番号 (1 始まり) のグループ指定. 例 "1-3,4,5-9"
 #   セクション一部だけを対訳する用途のため "6-11" のような途中範囲も
 #   指定できる. ただし連続した昇順であること (歯抜けや逆順は誤指定として弾く)
@@ -29,10 +33,20 @@ abort "usage: extract_chunks.rb <xml> <subhead> [<outdir> <chunkspec>]" if outdi
 raw = File.read(xml_path, mode: "rb", encoding: "UTF-16LE:UTF-8")
 raw.sub!(/\A﻿/, "")
 
-# 対象経の subhead から次の subhead/title/centre までの bodytext 段落を集める
+# 対象経の subhead から次の subhead/title/centre までの bodytext 段落を集める.
+# title 起点の場合は次の title までを 1 セクションとし, 内部の subhead / centre
+# も構造ブロックとして取り込む (Patis の kathā が title 直下に複数の subhead を
+# 持つ形に対応)
 lines = raw.split(/\r?\n/)
-start = lines.index { |l| l =~ %r{<p rend="subhead">#{Regexp.escape(subhead)}</p>} }
+start_rend = nil
+start = lines.index do |l|
+  if l =~ %r{<p rend="(subhead|title)">#{Regexp.escape(subhead)}</p>}
+    start_rend = $1
+    true
+  end
+end
 abort "subhead not found: #{subhead}" unless start
+title_mode = start_rend == "title"
 
 # 本文段落として取り込む rend. bodytext のほか, 註釈書に現れる
 # unindented (続き段落), indent, 偈 (gatha1..gathalast) を含める.
@@ -40,17 +54,34 @@ abort "subhead not found: #{subhead}" unless start
 BODY_RENDS = %w[bodytext unindented indent gatha1 gatha2 gatha3 gathalast hangnum].freeze
 
 paras = []
+# 構造ブロック (title 起点セクション内の subhead / centre) の paras 内での
+# 位置. 段落番号の検出から除外するために使う
+struct_flags = []
 lines[(start + 1)..].each do |line|
   line = line.strip
   next if line.empty?
   rend = line[/\A<p rend="([^"]+)"/, 1]
   unless BODY_RENDS.include?(rend)
+    if title_mode
+      # title 起点では内部の subhead / centre を構造ブロックとして含め,
+      # 次の title (または他の見出し rend) で終了する
+      if %w[subhead centre].include?(rend)
+        paras << line
+        struct_flags << true
+        next
+      end
+      break
+    end
     # 経の結び (MN などの "... niṭṭhitaṃ ..." centre 段落) は含める.
     # vagga の結び ("...vaggo paṭhamo." など) は niṭṭhitaṃ を含まないので除外される
-    paras << line if rend == "centre" && line.include?("niṭṭhitaṃ")
+    if rend == "centre" && line.include?("niṭṭhitaṃ")
+      paras << line
+      struct_flags << false
+    end
     break
   end
   paras << line
+  struct_flags << false
 end
 abort "no bodytext paragraphs found" if paras.empty?
 
@@ -79,11 +110,12 @@ end
 
 blocks = [subhead] + paras.map { |p| to_plain(p) }
 
-# chunkspec 省略時は段落一覧を表示して終了する (チャンク境界の検討用)
+# chunkspec 省略時は段落一覧を表示して終了する (チャンク境界の検討用).
+# 構造ブロック (subhead / centre) は para 欄に "strt" と表示する
 unless chunkspec
   puts subhead
   blocks[1..].each_with_index do |b, i|
-    num = b[/\A(\d+)\./, 1]
+    num = struct_flags[i] ? "strt" : b[/\A(\d+)\./, 1]
     puts format("%3d | para %-4s | %5d chars | %s", i + 1, num.to_s, b.size, b[0, 60])
   end
   exit
@@ -97,6 +129,17 @@ File.chmod(0644, source_path) if File.exist?(source_path)
 source = blocks.join("\n\n") + "\n"
 File.write(source_path, source)
 File.chmod(0444, source_path)
+
+# 構造ブロック (subhead / centre) の一覧を書き出す. assemble_md.rb と
+# verify_taiyaku.rb が段落番号の検出・欠番検査から除外するために使う
+# (数字で始まる subhead "1. Gaṇanavāra" が VRI 段落番号と誤認されるのを防ぐ)
+struct_blocks = blocks[1..].each_with_index.select { |_, i| struct_flags[i] }.map(&:first)
+struct_path = File.join(outdir, "struct.txt")
+if struct_blocks.empty?
+  File.delete(struct_path) if File.exist?(struct_path)
+else
+  File.write(struct_path, struct_blocks.join("\n") + "\n")
+end
 
 # chunkspec を解釈してチャンクを書き出す
 # 段落番号は経題を除いた bodytext 段落の 1 始まり.
@@ -113,8 +156,13 @@ abort "chunkspec が段落範囲 1..#{paras.size} を超えている: #{covered.
 chunk_paths = []
 groups.each_with_index do |nums, i|
   # チャンク途中から始まる VRI 段落番号は組み立て時に自分のセクション
-  # 見出しを持てず, 後続チャンクの見出しラベルも誤解を招くため警告する
-  nums[1..].each do |n|
+  # 見出しを持てず, 後続チャンクの見出しラベルも誤解を招くため警告する.
+  # 構造ブロック (subhead / centre) の先頭数字は段落番号でないため対象外.
+  # チャンク先頭の構造ブロック直後の番号段落は見出しの取得元になるため
+  # 対象外 (先頭の構造ブロックをスキップした位置を実質の先頭とみなす)
+  head = nums.index { |n| !struct_flags[n - 1] } || nums.size
+  nums[(head + 1)..].to_a.each do |n|
+    next if struct_flags[n - 1]
     pn = blocks[n][/\A(\d+)\./, 1]
     warn "WARN: chunk #{i + 1}: 段落 #{n} (VRI #{pn}) がチャンク途中にある. " \
          "番号の先頭で新チャンクを始めることを検討" if pn

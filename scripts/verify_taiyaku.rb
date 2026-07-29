@@ -1,7 +1,11 @@
 # 対訳中のパーリ再掲行を正本と照合するスクリプト
 #
 # 使い方:
-#   ruby scripts/verify_taiyaku.rb <source.txt> <md ファイル...>
+#   ruby scripts/verify_taiyaku.rb [--struct <file>] <source.txt> <md ファイル...>
+#
+# --struct は extract_chunks.rb が書き出した構造ブロック一覧 (struct.txt).
+# 一致するブロック (数字で始まる subhead "1. Gaṇanavāra" など) を
+# 欠番検査の VRI 段落番号の対象から除外する
 #
 # 対訳の番号付き行 (例 "3. Tena kho pana samayena ...") はパーリ原文の
 # 再掲であり, LLM 生成のためドリフトしうる. 各行が正本の連続部分文字列で
@@ -31,8 +35,16 @@
 #     チャンク途中から始まった番号は見出しを持てないため, ここで露見する)
 #   - 同一番号 (同一ラベル) の連番 (N) は 1 から始まり連続する
 
-source_path, *md_paths = ARGV
-abort "usage: verify_taiyaku.rb <source.txt> <md...>" if md_paths.empty?
+args = ARGV.map { |a| a.dup.force_encoding("UTF-8") }
+struct_blocks = []
+if (i = args.index("--struct"))
+  args.delete_at(i)
+  struct_path = args.delete_at(i)
+  abort "usage: verify_taiyaku.rb [--struct <file>] <source.txt> <md...>" unless struct_path
+  struct_blocks = File.read(struct_path, encoding: "UTF-8").split("\n").reject(&:empty?)
+end
+source_path, *md_paths = args
+abort "usage: verify_taiyaku.rb [--struct <file>] <source.txt> <md...>" if md_paths.empty?
 
 def collapse(s)
   s.gsub(/\s+/, " ").strip
@@ -77,9 +89,12 @@ end
 
 # 見出しの検査. 正本の段落先頭に現れる VRI 段落番号を期待値とし,
 # md の ## 見出しと突き合わせる. 先頭ブロックは経題 ("10. Apaṇṇakasuttaṃ"
-# など番号で始まる) のため段落番号の対象から除く
+# など番号で始まる) のため段落番号の対象から除く. 構造ブロック (--struct)
+# の先頭数字は段落番号でないため対象から除く
 source_raw = File.read(source_path, encoding: "UTF-8")
-expected_nums = source_raw.split(/\r?\n\r?\n/)[1..].map { |b| b[/\A(\d+)\./, 1] }.compact
+expected_nums = source_raw.split(/\r?\n\r?\n/)[1..]
+                          .reject { |b| struct_blocks.include?(b.chomp) }
+                          .map { |b| b[/\A(\d+)\./, 1] }.compact
 md_paths.each do |md|
   seq = Hash.new(0)
   found_nums = []

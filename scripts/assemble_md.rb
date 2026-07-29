@@ -2,7 +2,7 @@
 #
 # 使い方:
 #   ruby scripts/assemble_md.rb <workdir> <out_md> <date> <model_label> [headings] \
-#     [--source <url>]
+#     [--source <url>] [--struct <file>]
 #
 # 例:
 #   ruby scripts/assemble_md.rb work sn/sn_54_1_10_fable5.md 2026/07/12 "Claude Fable 5 High"
@@ -23,6 +23,9 @@
 #   組み立て段階で明示するためのもの. 省略時は完全に従来動作
 # - --source は原文 XML の URL. 出力 md 先頭の frontmatter
 #   (source, generated, updated) に書く. 省略時は source 行なし
+# - --struct は extract_chunks.rb が書き出した構造ブロック一覧 (struct.txt).
+#   一致するブロック (数字で始まる subhead "1. Gaṇanavāra" など) を
+#   見出し用の段落番号の検出から除外する
 
 args = ARGV.map { |a| a&.dup&.force_encoding("UTF-8") }
 source_url = nil
@@ -31,8 +34,15 @@ if (i = args.index("--source"))
   source_url = args.delete_at(i)
   abort "usage: assemble_md.rb ... --source <url>" unless source_url
 end
+struct_blocks = []
+if (i = args.index("--struct"))
+  args.delete_at(i)
+  struct_path = args.delete_at(i)
+  abort "usage: assemble_md.rb ... --struct <file>" unless struct_path
+  struct_blocks = File.read(struct_path, encoding: "UTF-8").split("\n").reject(&:empty?)
+end
 workdir, out_md, date, model_label, headings_spec = args
-abort "usage: assemble_md.rb <workdir> <out_md> <date> <model_label> [headings] [--source <url>]" unless model_label
+abort "usage: assemble_md.rb <workdir> <out_md> <date> <model_label> [headings] [--source <url>] [--struct <file>]" unless model_label
 
 overrides = {}
 if headings_spec
@@ -67,11 +77,14 @@ end
 # 見出し用の段落番号: チャンク先頭の段落から取り, なければ直前チャンクまでに
 # 最後に現れた番号を引き継ぐ (チャンク途中で番号が進む場合があるため,
 # チャンク先頭の番号ではなく本文中の最後の番号を引き継ぎ元にする).
-# 同じ番号が複数チャンクにまたがる場合のみ連番 (N) を付ける
+# 同じ番号が複数チャンクにまたがる場合のみ連番 (N) を付ける.
+# 構造ブロック (--struct) は番号の検出から除外する. チャンク先頭が
+# subhead の場合は直後の本文段落から番号を取る
 last = nil
 paranums = bodies.map do |body|
-  n = body[/\A(\d+)\./, 1] || last
-  nums = body.scan(/(?:\A|\n\n)(\d+)\./).flatten
+  paras = body.split(/\n\n/).reject { |b| struct_blocks.include?(b) }
+  n = paras.first&.[](/\A(\d+)\./, 1) || last
+  nums = paras.map { |b| b[/\A(\d+)\./, 1] }.compact
   last = nums.last || last
   n
 end
