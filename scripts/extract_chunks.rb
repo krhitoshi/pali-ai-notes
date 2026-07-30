@@ -7,9 +7,11 @@
 #   ruby scripts/extract_chunks.rb _tmp/s0305m.mul9.xml "10. Kimilasuttaṃ" work "1-3,4,5-6,7-8,9"
 #   ruby scripts/extract_chunks.rb _tmp/s0305m.mul9.xml "10. Kimilasuttaṃ"   # 段落一覧のみ
 #
-# - <subhead> は <p rend="subhead"> または <p rend="title"> の見出しテキストと
-#   完全一致させる. title 起点の場合 (Patis の kathā など) は次の title までを
-#   1 セクションとし, 内部の subhead / centre 段落も本文ブロックとして含める.
+# - <subhead> は <p rend="subhead"> / <p rend="title"> / <p rend="chapter"> の
+#   見出しテキストと完全一致させる. title 起点の場合 (Patis の kathā など) は
+#   次の title までを 1 セクションとし, 内部の subhead / centre 段落も
+#   本文ブロックとして含める. chapter 起点の場合 (Patis-a の kathā 註など) は
+#   次の chapter までとし, 内部の title / subhead / centre を含める.
 #   その構造ブロックの一覧を <outdir>/struct.txt に書き出す (assemble_md.rb と
 #   verify_taiyaku.rb が段落番号の検出・欠番検査から除外するために使う)
 # - <chunkspec> は段落番号 (1 始まり) のグループ指定. 例 "1-3,4,5-9"
@@ -36,17 +38,22 @@ raw.sub!(/\A﻿/, "")
 # 対象経の subhead から次の subhead/title/centre までの bodytext 段落を集める.
 # title 起点の場合は次の title までを 1 セクションとし, 内部の subhead / centre
 # も構造ブロックとして取り込む (Patis の kathā が title 直下に複数の subhead を
-# 持つ形に対応)
+# 持つ形に対応). chapter 起点の場合は次の chapter までとし, 内部の title /
+# subhead / centre を取り込む (Patis-a の kathā 註が chapter 直下に複数の
+# title を持つ形に対応)
 lines = raw.split(/\r?\n/)
 start_rend = nil
 start = lines.index do |l|
-  if l =~ %r{<p rend="(subhead|title)">#{Regexp.escape(subhead)}</p>}
+  if l =~ %r{<p rend="(subhead|title|chapter)">#{Regexp.escape(subhead)}</p>}
     start_rend = $1
     true
   end
 end
 abort "subhead not found: #{subhead}" unless start
-title_mode = start_rend == "title"
+# 起点見出しの階層より下位の見出し rend を構造ブロックとして取り込む
+struct_rends = { "chapter" => %w[title subhead centre],
+                 "title" => %w[subhead centre],
+                 "subhead" => [] }.fetch(start_rend)
 
 # 本文段落として取り込む rend. bodytext のほか, 註釈書に現れる
 # unindented (続き段落), indent, 偈 (gatha1..gathalast) を含める.
@@ -62,21 +69,20 @@ lines[(start + 1)..].each do |line|
   next if line.empty?
   rend = line[/\A<p rend="([^"]+)"/, 1]
   unless BODY_RENDS.include?(rend)
-    if title_mode
-      # title 起点では内部の subhead / centre を構造ブロックとして含め,
-      # 次の title (または他の見出し rend) で終了する
-      if %w[subhead centre].include?(rend)
-        paras << line
-        struct_flags << true
-        next
-      end
-      break
-    end
-    # 経の結び (MN などの "... niṭṭhitaṃ ..." centre 段落) は含める.
-    # vagga の結び ("...vaggo paṭhamo." など) は niṭṭhitaṃ を含まないので除外される
-    if rend == "centre" && line.include?("niṭṭhitaṃ")
+    # title / chapter 起点では下位の見出し rend を構造ブロックとして含め,
+    # 同位以上の見出し rend で終了する
+    if struct_rends.include?(rend)
       paras << line
-      struct_flags << false
+      struct_flags << true
+      next
+    end
+    if struct_rends.empty?
+      # 経の結び (MN などの "... niṭṭhitaṃ ..." centre 段落) は含める.
+      # vagga の結び ("...vaggo paṭhamo." など) は niṭṭhitaṃ を含まないので除外される
+      if rend == "centre" && line.include?("niṭṭhitaṃ")
+        paras << line
+        struct_flags << false
+      end
     end
     break
   end

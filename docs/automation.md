@@ -110,11 +110,18 @@ CLI で再現する構成になる.
   - VRI 本文の綴りはそのまま正本とする ("Idaṃ vutta hoti" のような
     標準形でない綴りも保持. 生成が標準形に直した再掲は NG になるので
     原文の形に戻す)
-- title 起点セクション (Patis の kathā が `<p rend="title">` 直下に複数の
-  subhead を持つ形. Patis 1.3 Ānāpānassatikathā で対応) の扱い:
+- title / chapter 起点セクション (Patis の kathā が `<p rend="title">` 直下に
+  複数の subhead を持つ形. Patis 1.3 Ānāpānassatikathā で対応. 註釈側は
+  さらに一段上の `<p rend="chapter">` 直下に複数の title を持つ形.
+  Patis-a 1.3 Ānāpānassatikathāvaṇṇanā で対応) の扱い:
   - 見出し指定が `<p rend="title">` に一致した場合は次の title までを
     1 セクションとし, 内部の subhead / centre 段落も本文ブロックとして
-    取り込む (対訳対象になる). subhead 起点の従来動作は変えない
+    取り込む (対訳対象になる). chapter に一致した場合は次の chapter までとし,
+    内部の title / subhead / centre を取り込む (起点見出しより下位の見出し
+    rend を構造ブロックとする一般化). subhead 起点の従来動作は変えない.
+    なお Patis-a 1.3 では同格の見出しに title と subhead が混在する
+    (Paṭhamacchakkaṃ のみ title で Dutiya/Tatiyacchakkaṃ は subhead) ため,
+    title 起点でなく chapter 起点で全体を 1 セクションとして扱うのが安全
   - 内部 subhead / centre の一覧を workdir/struct.txt に書き出す.
     "1. Gaṇanavāra" のような数字で始まる subhead が VRI 段落番号と
     誤認されるのを防ぐため, assemble_md.rb と verify_taiyaku.rb は
