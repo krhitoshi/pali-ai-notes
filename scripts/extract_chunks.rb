@@ -12,6 +12,11 @@
 #   次の title までを 1 セクションとし, 内部の subhead / centre 段落も
 #   本文ブロックとして含める. chapter 起点の場合 (Patis-a の kathā 註など) は
 #   次の chapter までとし, 内部の title / subhead / centre を含める.
+#   見出し rend で見つからない場合は bodytext 段落の完全一致 (前後空白を無視)
+#   も探す (Jātaka-a の各話見出し " [20] 10. Naḷapānajātakavaṇṇanā" のように
+#   見出しが bodytext で書かれている形に対応). bodytext 起点の場合は次の
+#   centre (各話の結び "...vaṇṇanā dasamā." など) までを 1 セクションとし,
+#   結びの centre も本文ブロックとして含める.
 #   その構造ブロックの一覧を <outdir>/struct.txt に書き出す (assemble_md.rb と
 #   verify_taiyaku.rb が段落番号の検出・欠番検査から除外するために使う)
 # - <chunkspec> は段落番号 (1 始まり) のグループ指定. 例 "1-3,4,5-9"
@@ -49,11 +54,20 @@ start = lines.index do |l|
     true
   end
 end
+# Jātaka-a の各話見出しは rend="bodytext" (先頭空白付き) のため,
+# 見出し rend で見つからない場合は bodytext の完全一致 (strip 後) を探す
+start ||= lines.index do |l|
+  if l =~ %r{<p rend="bodytext">\s*#{Regexp.escape(subhead)}\s*</p>}
+    start_rend = "bodytext"
+    true
+  end
+end
 abort "subhead not found: #{subhead}" unless start
 # 起点見出しの階層より下位の見出し rend を構造ブロックとして取り込む
 struct_rends = { "chapter" => %w[title subhead centre],
                  "title" => %w[subhead centre],
-                 "subhead" => [] }.fetch(start_rend)
+                 "subhead" => [],
+                 "bodytext" => [] }.fetch(start_rend)
 
 # 本文段落として取り込む rend. bodytext のほか, 註釈書に現れる
 # unindented (続き段落), indent, 偈 (gatha1..gathalast) を含める.
@@ -78,8 +92,10 @@ lines[(start + 1)..].each do |line|
     end
     if struct_rends.empty?
       # 経の結び (MN などの "... niṭṭhitaṃ ..." centre 段落) は含める.
-      # vagga の結び ("...vaggo paṭhamo." など) は niṭṭhitaṃ を含まないので除外される
-      if rend == "centre" && line.include?("niṭṭhitaṃ")
+      # vagga の結び ("...vaggo paṭhamo." など) は niṭṭhitaṃ を含まないので除外される.
+      # bodytext 起点 (Jātaka-a の各話) では直後の centre が各話の結び
+      # ("...vaṇṇanā dasamā." など) のため niṭṭhitaṃ がなくても含める
+      if rend == "centre" && (line.include?("niṭṭhitaṃ") || start_rend == "bodytext")
         paras << line
         struct_flags << false
       end
