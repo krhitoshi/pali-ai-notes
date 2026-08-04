@@ -19,6 +19,13 @@
 #   結びの centre も本文ブロックとして含める.
 #   その構造ブロックの一覧を <outdir>/struct.txt に書き出す (assemble_md.rb と
 #   verify_taiyaku.rb が段落番号の検出・欠番検査から除外するために使う)
+# - 環境変数 TAIYAKU_UNTIL に見出しテキスト (例 "8. Mārakathā") を指定すると,
+#   起点見出しから TAIYAKU_UNTIL の見出しの直前までを 1 セクションとし,
+#   間にある subhead / centre を構造ブロックとして取り込む. subhead 起点の
+#   セクションが内部に centre 区切りや番号なし subhead を持つ形 (Vinaya
+#   khandhaka の各 kathā など) に対応する. 結び行 ("...kathā niṭṭhitā." 等)
+#   も構造ブロックとして含まれる. 未指定時の挙動は従来どおり
+#   (最初の centre で終了. niṭṭhitaṃ を含む centre のみ本文に含める)
 # - <chunkspec> は段落番号 (1 始まり) のグループ指定. 例 "1-3,4,5-9"
 #   セクション一部だけを対訳する用途のため "6-11" のような途中範囲も
 #   指定できる. ただし連続した昇順であること (歯抜けや逆順は誤指定として弾く)
@@ -74,14 +81,38 @@ struct_rends = { "chapter" => %w[title subhead centre],
 # hangnum は偈の前に段落番号だけが独立段落になる形 (Vism 8 章 §223 など)
 BODY_RENDS = %w[bodytext unindented indent gatha1 gatha2 gatha3 gathalast hangnum].freeze
 
+# TAIYAKU_UNTIL: 終了見出しの明示指定 (詳細はヘッダコメント参照)
+until_text = ENV["TAIYAKU_UNTIL"]
+until_text = until_text.dup.force_encoding("UTF-8") if until_text && !until_text.empty?
+until_text = nil if until_text && until_text.empty?
+
 paras = []
 # 構造ブロック (title 起点セクション内の subhead / centre) の paras 内での
 # 位置. 段落番号の検出から除外するために使う
 struct_flags = []
+until_reached = false
 lines[(start + 1)..].each do |line|
   line = line.strip
   next if line.empty?
   rend = line[/\A<p rend="([^"]+)"/, 1]
+  if until_text
+    if line =~ %r{<p rend="(subhead|title|chapter)">#{Regexp.escape(until_text)}</p>}
+      until_reached = true
+      break
+    end
+    unless BODY_RENDS.include?(rend)
+      # 終了見出しまでの間の subhead / centre は構造ブロックとして取り込む
+      if %w[subhead centre].include?(rend)
+        paras << line
+        struct_flags << true
+        next
+      end
+      abort "TAIYAKU_UNTIL #{until_text.inspect} に到達する前に想定外の行: #{line[0, 80]}"
+    end
+    paras << line
+    struct_flags << false
+    next
+  end
   unless BODY_RENDS.include?(rend)
     # title / chapter 起点では下位の見出し rend を構造ブロックとして含め,
     # 同位以上の見出し rend で終了する
@@ -105,6 +136,7 @@ lines[(start + 1)..].each do |line|
   paras << line
   struct_flags << false
 end
+abort "TAIYAKU_UNTIL の見出しが見つからない: #{until_text}" if until_text && !until_reached
 abort "no bodytext paragraphs found" if paras.empty?
 
 # タグ処理: LLM を通さず決定論的に平文へ変換する
