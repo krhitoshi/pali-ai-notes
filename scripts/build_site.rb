@@ -159,7 +159,7 @@ def front_matter_html(meta)
     name = CGI.escapeHTML(File.basename(meta["source"]))
     parts << %(原文: <a href="#{href}">#{name}</a>)
   end
-  parts << "生成: #{CGI.escapeHTML(meta['generated'])}" if meta["generated"]
+  parts << "作成: #{CGI.escapeHTML(meta['generated'])}" if meta["generated"]
   parts << "更新: #{CGI.escapeHTML(meta['updated'])}" if meta["updated"]
   return "" if parts.empty?
 

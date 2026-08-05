@@ -1,3 +1,9 @@
+---
+generated: 2026/08/04
+updated: 2026/08/04
+models: Claude Opus 5
+---
+
 # 無礙解道の四句定型 — anativattana と ekarasa
 
 無礙解道 (Paṭisambhidāmagga) の初禅の記述にある `Tattha jātānaṃ dhammānaṃ anativattanaṭṭhena sampahaṃsanā` 以下の四句を読んで出た、次の三つの疑問を扱う。

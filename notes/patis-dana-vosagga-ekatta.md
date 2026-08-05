@@ -1,3 +1,9 @@
+---
+generated: 2026/08/04
+updated: 2026/08/04
+models: Claude Opus 5
+---
+
 # 無礙解道の四 ekatta に施 (dāna, cāga) が現れる理由
 
 Paṭisambhidāmagga 大品・出入息念論の浄化支の説示 (Vodānaṅganiddesa) §158 に、

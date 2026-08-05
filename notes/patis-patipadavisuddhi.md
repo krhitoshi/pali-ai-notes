@@ -1,3 +1,9 @@
+---
+generated: 2026/08/04
+updated: 2026/08/04
+models: Claude Opus 5
+---
+
 # 無礙解道の paṭipadāvisuddhi と paṭipadāvisuddhipakkhanda
 
 Paṭisambhidāmagga 安般念論 (Ānāpānassatikathā) の段落 158 に出る

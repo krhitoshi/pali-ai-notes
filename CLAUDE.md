@@ -42,6 +42,14 @@
   (対応する `_history.md` の更新と合わせて行う)
 - build_site.rb が frontmatter をページ冒頭の原文リンクと日付表示に変換する
 
+## 調査ノートのメタ情報
+
+- `notes/` の md の先頭には YAML frontmatter を置く (generated = 初回保存日,
+  updated = 最終改訂日, models = 作成にかかわったモデル名のカンマ区切り)
+- 対訳と違い source は置かない
+- ノートを改訂したら updated を当日の日付に更新し, 別モデルが関わった場合は
+  models に追記する
+
 ## 翻訳の方針
 
 - assāsa / assasati は「出息 (外へ出る息)」, passāsa / passasati は「入息

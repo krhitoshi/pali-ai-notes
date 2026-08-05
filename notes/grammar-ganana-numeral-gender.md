@@ -1,3 +1,9 @@
+---
+generated: 2026/08/05
+updated: 2026/08/05
+models: Claude Opus 5
+---
+
 # 数を数える言葉に出る数詞の性 (gaṇanā)
 
 Visuddhimagga の安般念で息を数える箇所に、次の数詞の列がある。
