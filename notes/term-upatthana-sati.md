@@ -62,10 +62,23 @@ Imehi navahākārehi dīghaṃ assāsapassāsā kāyo. Upaṭṭhānaṃ sati. A
 引用は `kāyo upaṭṭhānaṃ sati anupassanā ñāṇaṃ` と続けて印刷されている。
 同じ Be の中でも一定していない。
 
-DOP は用例欄に `Paṭis I 177,32 (kāyo ~aṃ sati)` と引くが、これは見出し語の
-前後を示す文脈引用であり、`kāyo upaṭṭhānaṃ sati` を一つの統語単位として
-読ませるものではない (本ノートの判断)。同じ箇所について DOP は Ee が
-`uppaṭṭhānaṃ` と誤るとし、Be・Ce・Se は `upaṭṭhānaṃ` とする。
+Ee (PTS 版) はこの箇所を句点なしで続けて印刷する。
+
+```
+Imehi navahākārehi dīghaṃ assāsapassāsā kāyo uppaṭṭhānaṃ sati anupassanā
+ñāṇaṃ, kāyo uppaṭṭhānaṃ no sati, ...   (Paṭis I 177.31-33)
+```
+
+DOP は用例欄に `Paṭis I 177,32 (kāyo ~aṃ sati)` と引くが、これはこの続け書き
+から見出し語の前後を切り出した文脈引用であり、`kāyo upaṭṭhānaṃ sati` を
+一つの統語単位として読ませるものではない (本ノートの判断)。
+
+ここで Ee が `uppaṭṭhānaṃ` と p を重ねているのは誤りである。正しい形は
+`upaṭṭhānaṃ` で、Be・Ce・Se はこちらを読む。DOP もこの Ee の読みに wr
+(wrong reading) と注記している。Ee 自身、p を重ねるのは 177 頁だけで、
+同じ定型句が出る 182 頁・184 頁も第 2 巻もすべて `upaṭṭhānaṃ` なので、
+この頁に限った誤植とみてよい。語としては同じものであり、意味の議論には
+影響しない。
 
 ## upaṭṭhāna の語義
 
@@ -209,10 +222,8 @@ Sīlakkhandhavagga-abhinavaṭīkā は同じ箇所に `Asammosanabhāvo upaṭ�
 
 ## 確認できていないこと
 
-- Ee (PTS 版) の `uppaṭṭhānaṃ` という読みは DOP の記述によるもので、
-  PTS 版の本文を直接確認してはいない
-- Ce・Se の句読点は確認していない。本ノートで数えた句点の有無は CSCD
-  (Be) の範囲にとどまる
+- Ce・Se の句読点は確認していない。本ノートで数えた句点の有無は CSCD (Be)
+  と PTS 版の範囲にとどまる
 - 無礙解道註が第 4 句 `Kāyo upaṭṭhānaṃ, no sati` そのものを取り上げて説明して
   いる箇所は見つからなかった。第 4 句の語釈は律の復註に依存している
 - 漢訳・北伝側の対応箇所は参照していない
@@ -246,4 +257,5 @@ CSCD の該当ファイル。
 参照した資料。
 
 - Chaṭṭha Saṅgāyana 版テキスト https://tipitaka.org/
+- PTS 版 Paṭisambhidāmagga (Paṭis I 177、182、184、Paṭis II 232-234)
 - A Dictionary of Pāli (DOP), s.v. upaṭṭhāna
