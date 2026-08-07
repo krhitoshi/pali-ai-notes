@@ -1,7 +1,7 @@
 ---
 generated: 2026/08/07
 updated: 2026/08/07
-models: Claude Opus 5
+models: Claude Opus 5, Claude Fable 5
 ---
 
 # 「…なら」「…とき」はどこから来るか — ya-/ta- 相関構文と処格の訳し方
@@ -17,9 +17,9 @@ Paṭisambhidāmagga の Ānāpānassatikathā で `vatthukatā` を説明する
 
 ## 当該箇所
 
-Paṭisambhidāmagga の Ānāpānassatikathā で、`bhāvitā bahulīkatā yānīkatā
-vatthukatā anuṭṭhitā paricitā susamāraddhā` の各語を順に説明していく段の
-うち、`vatthukatā` の語釈にあたる。
+Paṭisambhidāmagga の Ānāpānassatikathā、VRI 段落番号 160。`bhāvitā
+bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā` の各語を
+順に説明していく段のうち、`vatthukatā` の語釈にあたる。
 
 ```
 Vatthukatāti yasmiṃ yasmiṃ vatthusmiṃ cittaṃ svādhiṭṭhitaṃ hoti, tasmiṃ
@@ -121,10 +121,6 @@ tasmiṃ tasmiṃ vatthusmiṃ sati supaṭṭhitā hoti.
 節の順序にも差が出る。英語は主節を先に置いて関係節を後ろに回せるが、
 日本語は修飾節が先に来るしかない。`yasmiṃ` 節が文頭に固定されるため、
 そこで従属節を作る必要が生じ、その形として条件形が選ばれる。
-
-## 確認していない範囲
-
-- VRI の段落番号は確認していない
 
 ## 出典
 
