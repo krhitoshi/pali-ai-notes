@@ -4,7 +4,7 @@ updated: 2026/08/08
 models: Claude Opus 5, Claude Fable 5
 ---
 
-# yena … tena をどう読むか — `yena bhagavā tenupasaṅkami` との異同と「処格の意味の具格」という説明
+# yena … tena をどう読むか — `yena bhagavā tenupasaṅkami` と同じ型か、「処格の意味の具格」と言えるか
 
 Paṭisambhidāmagga の Ānāpānassatikathā で `anuṭṭhitā` を説明する一文
 `yena yena cittaṃ abhinīharati tena tena sati anuparivattati` は、
