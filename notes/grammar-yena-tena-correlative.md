@@ -1,7 +1,7 @@
 ---
 generated: 2026/08/08
 updated: 2026/08/08
-models: Claude Opus 5
+models: Claude Opus 5, Claude Fable 5
 ---
 
 # yena … tena をどう読むか — `yena bhagavā tenupasaṅkami` との異同と「処格の意味の具格」という説明
@@ -53,7 +53,7 @@ Yena yena cittaṃ abhinīharatīti pubbappavattito apanetvā yattha yattha
 bhāvanāvisese cittaṃ upaneti. Tena tena sati anuparivattatīti tasmiṃ
 tasmiṃyeva bhāvanāvisese sati anukūlā hutvā pubbappavattito nivattitvā
 pavattati. ‘‘Yena, tenā’’ti cettha ‘‘yena bhagavā tenupasaṅkamī’’tiādīsu
-viya bhummattho veditabbo.
+(khu. pā. 5.1; su. ni. maṅgalasutta) viya bhummattho veditabbo.
 ```
 
 「ここでの『yena, tena』は、『yena bhagavā tenupasaṅkami』等における
@@ -80,11 +80,11 @@ Tena vuccati anuṭṭhitāti evaṃ karaṇatoyeva taṃ taṃ bhāvanaṃ anug
 ## 「処格の意味」という説明の位置づけ
 
 `yena bhagavā tenupasaṅkami` の型に対する註釈の定型句は、各部にほぼ同文
-で現れる。
+で現れる。Mūlapaṇṇāsa-aṭṭhakathā では次のとおり。
 
 ```
-Yenāti bhummatthe karaṇavacanaṃ. Tasmā yattha bhagavā, tattha
-upasaṅkamīti evamettha attho daṭṭhabbo.
+Yena bhagavā tenupasaṅkamīti yenāti bhummatthe karaṇavacanaṃ, tasmā
+yattha bhagavā, tattha upasaṅkamīti evamettha attho daṭṭhabbo.
 ```
 
 ここで注意が要るのは、註釈書がこれを唯一の解としていない点である。
@@ -102,8 +102,8 @@ Cūḷaniddesa-aṭṭhakathā も同じ順序で、方向の具格を先に置�
 処格の意味を挙げる。
 
 ```
-Yena disābhāgena buddho upasaṅkamitabbo, tena disābhāgena na paleti.
-Atha vā bhummatthe karaṇavacanaṃ.
+Yena buddhoti yena disābhāgena buddho upasaṅkamitabbo, tena disābhāgena
+na paleti. Atha vā bhummatthe karaṇavacanaṃ.
 ```
 
 Mūlapaṇṇāsa-aṭṭhakathā などは、さらに原因の具格という第三の解を並べる。
@@ -132,8 +132,8 @@ Yenāti vā bhummatthe karaṇavacanaṃ. Tenāti pana upayogatthe.
 註が根拠として示すのは言い換えの一致だけである。
 
 - `yattha bhagavā, tattha upasaṅkami` という置き換え
-- Theragāthā-aṭṭhakathā の `Yena yenāti yattha yattha. Bhummatthe hi etaṃ
-  karaṇavacanaṃ, yasmiṃ yasmiṃ disābhāgeti attho.`
+- Theragāthā-aṭṭhakathā の `Tattha yena yenāti yattha yattha. Bhummatthe
+  hi etaṃ karaṇavacanaṃ, yasmiṃ yasmiṃ disābhāgeti attho.`
 - Paṭisambhidāmagga 内部で、同じ型の内容が `yasmiṃ yasmiṃ … tasmiṃ
   tasmiṃ` (処格) と `yena yena … tena tena` (具格) の両方で書かれている
   こと
@@ -151,7 +151,7 @@ Yenāti vā bhummatthe karaṇavacanaṃ. Tenāti pana upayogatthe.
 二重形についても、Suttanipāta-aṭṭhakathā は具格のまま処理している。
 
 ```
-Yenicchakaṃ gacchati gocarāyāti yena yena disābhāgena gantumicchati,
+Yenicchakaṃ gacchati gocarāyati yena yena disābhāgena gantumicchati,
 tena tena disābhāgena gocarāya gacchati.
 ```
 
@@ -177,11 +177,11 @@ PTSD の `ya˚` の項も、`yena` を「副詞的に用いられる格」の下
 `yena yena` / `tena tena` のように相関詞を重ねるのは配分の表現で、「どれ
 であれ、その一つ一つについて」を表す。PTSD は `ya˚` の項でこれを
 generalizing (distributive) use として立て、`ya˚` を繰り返す形として次の
-ような例を挙げる。
+例を挙げる (niggahita は PTSD の表記のまま)。
 
 ```
-yaṃ yaṃ passati taṃ taṃ pucchati
-yassaṃ yassaṃ disāyaṃ viharati, sakasmiṃ yeva vijite viharati
+yaŋ yaŋ passati taŋ taŋ pucchati
+yassaŋ yassaŋ disāyaŋ viharati, sakasmiŋ yeva vijite viharati
 ```
 
 Paṭisambhidāmagga の当該箇所を註が `yattha yattha bhāvanāvisese` /
