@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/vin02m2.mul0.xml
-generated: 2026/08/04
-updated: 2026/08/04
+generated: 2026/08/08
+updated: 2026/08/08
 ---
 
 # 5. Brahmayācanakathā
@@ -22,7 +22,7 @@ Itiha bhagavato paṭisañcikkhato appossukkatāya cittaṃ namati, no dhammades
 
 ### Meta
 
-- 2026/08/04
+- 2026/08/08
 - Claude Fable 5 High
 
 ### 対訳
@@ -251,7 +251,7 @@ Aññātāro bhavissantī’’ti.
 
 ### Meta
 
-- 2026/08/04
+- 2026/08/08
 - Claude Fable 5 High
 
 ### 対訳
@@ -434,7 +434,7 @@ Aññātāro bhavissantī’’ti.
 
 ### Meta
 
-- 2026/08/04
+- 2026/08/08
 - Claude Fable 5 High
 
 ### 対訳
@@ -728,7 +728,7 @@ Aññātāro bhavissantī’’ti.
 
 ### Meta
 
-- 2026/08/04
+- 2026/08/08
 - Claude Fable 5 High
 
 ### 対訳
@@ -981,178 +981,173 @@ Dhammaṃ paṇītaṃ manujesu brahme’’ti.
 
 Atha kho brahmā sahampati ‘‘katāvakāso khomhi bhagavatā dhammadesanāyā’’ti bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyi.
 
+Brahmayācanakathā niṭṭhitā.
+
 ### Meta
 
-- 2026/08/04
+- 2026/08/08
 - Claude Fable 5 High
 
 ### 対訳
 
 1. 9. Atha kho bhagavā brahmuno ca ajjhesanaṃ viditvā sattesu ca kāruññataṃ paṭicca buddhacakkhunā lokaṃ volokesi.
 
-* atha kho = 「そこで、さて」
+* atha kho = 「そこで」
 * bhagavā = 「世尊は」
-* brahmuno ca ajjhesanaṃ viditvā = 「梵天の懇請を知って」
-  * brahmuno = 「梵天の（brahmā の属格）」
-  * ajjhesana = 「懇請、要請」
-  * viditvā = 「知って（vindati/vid の連続体）」
-* sattesu ca kāruññataṃ paṭicca = 「衆生たちへの憐れみによって」
-  * sattesu = 「衆生たちに対して（処格）」
-  * kāruññatā = 「憐れみであること、悲愍」
-  * paṭicca = 「～によって、～を縁として」
+* brahmuno ca ajjhesanaṃ viditvā = 「梵天の要請を知って」
+  * brahmuno = 「梵天の (属格)」
+  * ajjhesana = 「要請、勧請」(adhi + √iṣ)
+  * viditvā = 「知って」(√vid の連続体)
+* sattesu ca kāruññataṃ paṭicca = 「そして衆生たちへの憐れみによって」
+  * sattesu = 「衆生たちに対して (処格)」
+  * kāruññatā = 「憐れみであること」
+  * paṭicca = 「〜によって、〜を縁として」
 * buddhacakkhunā = 「仏眼によって」
-  * buddha-cakkhu = 「仏の眼」
 * lokaṃ volokesi = 「世間を観察した」
-  * voloketi = 「見渡す、観察する（vi + ava + lok）」
+  * volokesi = 「観察した」(vi + ava + √lok のアオリスト)
 
-→「そこで世尊は、梵天の懇請を知り、また衆生たちへの憐れみによって、仏眼で世間を観察した。」
+→「そこで世尊は、梵天の要請を知り、また衆生たちへの憐れみによって、仏眼で世間を観察した。」
 
 2. Addasā kho bhagavā buddhacakkhunā lokaṃ volokento satte apparajakkhe mahārajakkhe tikkhindriye mudindriye svākāre dvākāre suviññāpaye duviññāpaye, appekacce paralokavajjabhayadassāvine [dassāvino (sī. syā. kaṃ.)] viharante, appekacce na paralokavajjabhayadassāvine viharante.
 
-* addasā = 「見た（dassati/dis のアオリスト）」
-* buddhacakkhunā lokaṃ volokento = 「仏眼で世間を観察しながら」
-  * volokento = 「観察している（現在分詞）」
-* satte = 「衆生たちを（対格複数）」
-* apparajakkhe = 「けがれ（塵）の少ない者たち」
-  * appa-rajakkha = 「少ない + 塵（raja）を眼に持つ」
-* mahārajakkhe = 「けがれの多い者たち」
-* tikkhindriye = 「鋭い根（能力）を持つ者たち」
-  * tikkha-indriya = 「鋭い + 根」
-* mudindriye = 「鈍い根を持つ者たち」
-  * mudu-indriya = 「柔らかい・鈍い + 根」
-* svākāre = 「良い性質の者たち」
-  * su-ākāra = 「良い + 行相・性質」
-* dvākāre = 「悪い性質の者たち」
-  * du-ākāra = 「悪い + 行相・性質」
-* suviññāpaye = 「教えやすい者たち」
-  * su-viññāpaya = 「容易に + 了解させられる」
-* duviññāpaye = 「教えにくい者たち」
-* appekacce = 「ある者たちは（api + ekacce）」
-* paralokavajjabhayadassāvine viharante = 「他世と罪過とに怖れを見て過ごしている者たちを」
-  * para-loka = 「他世、来世」
-  * vajja = 「罪過、とがめられるべきこと」
-  * bhaya = 「怖れ、危険」
-  * dassāvin = 「見る者」
-  * viharante = 「住している、過ごしている（現在分詞・対格複数）」
-* appekacce na ... viharante = 「ある者たちは～に怖れを見ずに過ごしている者たちを」
+* addasā = 「見た」(√dis のアオリスト)
+* lokaṃ volokento = 「世間を観察しながら」
+* satte = 「衆生たちを (対格複数)」
+* apparajakkhe = 「(眼に) 塵の少ない者たちを」
+  * appa-rajakkha = 「塵 (煩悩の塵) が少ない」
+* mahārajakkhe = 「塵の多い者たちを」
+* tikkhindriye = 「鋭い根 (機根) を持つ者たちを」
+* mudindriye = 「鈍い根を持つ者たちを」
+* svākāre = 「良い性質 (素質) を持つ者たちを」(su-ākāra)
+* dvākāre = 「悪い性質を持つ者たちを」(du-ākāra)
+* suviññāpaye = 「教えやすい者たちを」
+* duviññāpaye = 「教えにくい者たちを」
+* appekacce = 「ある者たちは」(api + ekacce)
+* paralokavajjabhayadassāvine viharante = 「来世と罪過への怖れを見て過ごしている (者たちを)」
+  * para-loka = 「来世、他世」
+  * vajja = 「罪過」
+  * bhaya-dassāvin = 「怖れを見る者」
+  * viharante = 「過ごしている (現在分詞・対格複数)」
+* na paralokavajjabhayadassāvine viharante = 「来世と罪過への怖れを見ずに過ごしている (者たちを)」
 
-→「実に世尊は、仏眼で世間を観察しながら、けがれの少ない者たち、けがれの多い者たち、鋭い根を持つ者たち、鈍い根を持つ者たち、良い性質の者たち、悪い性質の者たち、教えやすい者たち、教えにくい者たち、また、ある者たちは他世と罪過に怖れを見て過ごし、ある者たちは他世と罪過に怖れを見ずに過ごしているのを、衆生たちのうちに見た。」
+→「世尊は仏眼で世間を観察しながら、衆生たちを見た――塵の少ない者、塵の多い者、鋭い根を持つ者、鈍い根を持つ者、良い性質の者、悪い性質の者、教えやすい者、教えにくい者、ある者たちは来世と罪過への怖れを見て過ごし、ある者たちは来世と罪過への怖れを見ずに過ごしているのを。」
 
 3. Seyyathāpi nāma uppaliniyaṃ vā paduminiyaṃ vā puṇḍarīkiniyaṃ vā appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṃvaḍḍhāni udakānuggatāni anto nimuggaposīni,
 
-* seyyathāpi nāma = 「あたかも、たとえば」
-* uppaliniyaṃ vā = 「青蓮の池において、あるいは」
-  * uppalinī = 「青蓮（uppala）の茂る池」
-* paduminiyaṃ vā = 「紅蓮の池において、あるいは」
-* puṇḍarīkiniyaṃ vā = 「白蓮の池において、あるいは」
+* seyyathāpi nāma = 「たとえば、ちょうど」
+* uppaliniyaṃ vā paduminiyaṃ vā puṇḍarīkiniyaṃ vā = 「青蓮の池でも、紅蓮の池でも、白蓮の池でも」
+  * uppalinī = 「青蓮 (uppala) の池」
+  * paduminī = 「紅蓮 (paduma) の池」
+  * puṇḍarīkinī = 「白蓮 (puṇḍarīka) の池」
 * appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā = 「ある青蓮、紅蓮、白蓮は」
 * udake jātāni = 「水の中に生まれ」
-* udake saṃvaḍḍhāni = 「水の中で成長し」
-* udakānuggatāni = 「水面に出ることなく」
-  * udaka-anuggata = 「水 + 上に出ていない（an-uggata）」
+* udake saṃvaḍḍhāni = 「水の中で育ち」
+* udakānuggatāni = 「水面から出ずに」
+  * udaka-anuggata = 「水から上に出ていない」
 * anto nimuggaposīni = 「水中に沈んだまま養われる」
   * anto = 「内に、中に」
-  * nimugga = 「沈んだ（nimujjati の過去分詞）」
-  * posin = 「養われるもの、育つもの」
+  * nimugga-posin = 「沈んだままで育つもの」
 
-→「あたかも、青蓮の池、紅蓮の池、あるいは白蓮の池において、ある青蓮・紅蓮・白蓮は、水の中に生まれ、水の中で成長し、水面に出ることなく、水中に沈んだまま養われ、」
+→「たとえば、青蓮の池、紅蓮の池、白蓮の池において、ある青蓮・紅蓮・白蓮は、水の中に生まれ、水の中で育ち、水面から出ることなく、水中に沈んだまま養われている。」
 
 4. appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṃvaḍḍhāni samodakaṃ ṭhitāni,
 
-* appekaccāni ... vā = 「ある青蓮・紅蓮・白蓮は」
-* udake jātāni udake saṃvaḍḍhāni = 「水の中に生まれ、水の中で成長し」
-* samodakaṃ ṭhitāni = 「水面と同じ高さに立ち」
-  * sama-udaka = 「等しい + 水」→「水面と同じ高さ」
-  * ṭhita = 「立った、とどまった（tiṭṭhati の過去分詞）」
+* samodakaṃ ṭhitāni = 「水面と同じ高さに立っている」
+  * sama-udaka = 「水と等しい (高さ)」
+  * ṭhitāni = 「立っている、とどまっている」
 
-→「ある青蓮・紅蓮・白蓮は、水の中に生まれ、水の中で成長し、水面と同じ高さに立ち、」
+→「ある青蓮・紅蓮・白蓮は、水の中に生まれ、水の中で育ち、水面と同じ高さに立っている。」
 
 5. appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṃvaḍḍhāni udakaṃ accuggamma ṭhitāni [tiṭṭhanti (sī. syā.)] anupalittāni udakena,
 
-* udakaṃ accuggamma ṭhitāni = 「水面を高く超え出て立ち」
-  * accuggamma = 「高く超え出て（ati + ud + gam の連続体）」
-* anupalittāni udakena = 「水に汚されない」
-  * an-upalitta = 「汚されていない（upalimpati の過去分詞の否定）」
+* udakaṃ accuggamma = 「水を超え出て」
+  * accuggamma = 「超え出て」(ati + ud + √gam の連続体)
+* ṭhitāni = 「立っている」
+* anupalittāni udakena = 「水に汚されずに」
+  * an-upalitta = 「汚されていない、まみれていない」
 
-→「ある青蓮・紅蓮・白蓮は、水の中に生まれ、水の中で成長し、水面を高く超え出て立ち、水に汚されない。」
+→「ある青蓮・紅蓮・白蓮は、水の中に生まれ、水の中で育ち、水を超え出て立ち、水に汚されていない。」
 
 6. evamevaṃ bhagavā buddhacakkhunā lokaṃ volokento addasa satte apparajakkhe mahārajakkhe tikkhindriye mudindriye svākāre dvākāre suviññāpaye duviññāpaye, appekacce paralokavajjabhayadassāvine viharante, appekacce na paralokavajjabhayadassāvine viharante;
 
 * evamevaṃ = 「まさにそのように」
-* addasa = 「見た（アオリスト）」
-* 以下は項目 2 と同じ内容の反復
+* addasa = 「見た」(√dis のアオリスト)
+* 以下の語は項目 2 と同じ
 
-→「まさにそのように、世尊は仏眼で世間を観察しながら、けがれの少ない者たち、けがれの多い者たち、鋭い根を持つ者たち、鈍い根を持つ者たち、良い性質の者たち、悪い性質の者たち、教えやすい者たち、教えにくい者たち、また、ある者たちは他世と罪過に怖れを見て過ごし、ある者たちは他世と罪過に怖れを見ずに過ごしているのを、衆生たちのうちに見た。」
+→「まさにそのように、世尊は仏眼で世間を観察しながら、衆生たちを見た――塵の少ない者、塵の多い者、鋭い根を持つ者、鈍い根を持つ者、良い性質の者、悪い性質の者、教えやすい者、教えにくい者、ある者たちは来世と罪過への怖れを見て過ごし、ある者たちは来世と罪過への怖れを見ずに過ごしているのを。」
 
 7. disvāna brahmānaṃ sahampatiṃ gāthāya paccabhāsi –
 
-* disvāna = 「見て（dassati の連続体、disvā の異形）」
-* brahmānaṃ sahampatiṃ = 「梵天サハンパティに（対格）」
+* disvāna = 「見て」(√dis の連続体)
+* brahmānaṃ sahampatiṃ = 「梵天サハンパティに (対格)」
 * gāthāya = 「偈によって」
-* paccabhāsi = 「答えて語った（paṭi + bhāsati のアオリスト）」
+* paccabhāsi = 「答えて語った」(paṭi + √bhās のアオリスト)
 
-→「見て、梵天サハンパティに偈によって答えた。」
+→「見て、梵天サハンパティに偈によって答えた――」
 
 8. ‘‘Apārutā tesaṃ amatassa dvārā;
 
-* apārutā = 「開かれた（apāpurati「開く」の過去分詞）」
+* apārutā = 「開かれた」(apāruta)
 * tesaṃ = 「彼らのために」
 * amatassa dvārā = 「不死の門は」
-  * amata = 「不死（甘露）、すなわち涅槃」
-  * dvārā = 「門は（複数主格）」
+  * amata = 「不死 (甘露)、涅槃」
+  * dvārā = 「門は (複数)」
 
-→「彼らのために不死の門は開かれた。」
+→「不死の門は彼らのために開かれた。」
 
 9. Ye sotavanto pamuñcantu saddhaṃ;
 
-* ye = 「～である者たちは」
+* ye = 「〜である者たちは」
 * sotavanto = 「耳ある者たちは」
-  * sota-vant = 「耳 + を持つ者」
-* pamuñcantu saddhaṃ = 「信を放て、信を起こせ」
-  * pamuñcantu = 「放て（pamuñcati の命令法三人称複数）」
+  * sota-vant = 「耳を持つ者」
+* pamuñcantu saddhaṃ = 「信を放て (起こせ)」
+  * pamuñcantu = 「放て、解き放て (命令法 3 人称複数)」
   * saddhā = 「信」
-  * 註釈は「自らの信を解き放て、差し向けよ」と解する
+  * 註釈の伝統では「自らの信を差し向けよ (起こせ)」と解される. 「(誤った) 信を捨てよ」と解する現代の説もある (要確認)
 
-→「耳ある者たちは信を放て（信を起こせ）。」
+→「耳ある者たちは信を起こせ。」
 
 10. Vihiṃsasaññī paguṇaṃ na bhāsiṃ;
 
-* vihiṃsasaññī = 「煩わしさを予想して」
-  * vihiṃsā = 「害、悩まされること、疲労」
-  * saññin = 「～という想いを持つ者」
-  * 註釈では「説くことの疲労を想って」と解される (要確認)
-* paguṇaṃ = 「熟達した、よく通じた」
-* na bhāsiṃ = 「私は語らなかった（bhāsati のアオリスト一人称単数）」
+* vihiṃsasaññī = 「悩まされる (疲弊する) との想いを持って」
+  * vihiṃsā = 「害、悩まされること」
+  * saññin = 「〜の想いを持つ者」
+* paguṇaṃ = 「熟達した、よく通じた (法を)」
+* na bhāsiṃ = 「私は語らなかった」(√bhās のアオリスト 1 人称単数)
 
-→「煩わしさを予想して、私は熟達した（法を）語らなかった。」
+→「(説いても) 悩まされるだけだとの想いから、私はよく通じた (法を) 語らなかった、」
 
 11. Dhammaṃ paṇītaṃ manujesu brahme’’ti.
 
 * dhammaṃ paṇītaṃ = 「すぐれた法を」
-  * paṇīta = 「すぐれた、勝れて妙なる → すぐれた」
-* manujesu = 「人々の間で（処格複数）」
-* brahme = 「梵天よ（呼格）」
-* ti = 「～と（引用の終わり）」
+  * paṇīta = 「すぐれた、勝れて妙なる」
+* manujesu = 「人々の中で」
+* brahme = 「梵天よ (呼格)」
+* ti = 「〜と (引用)」
 
-→「梵天よ、すぐれた法を人々の間で（語らなかった）、と。」
+→「梵天よ、人々の中で、すぐれた法を (語らなかったのだ) と。」
 
 12. Atha kho brahmā sahampati ‘‘katāvakāso khomhi bhagavatā dhammadesanāyā’’ti bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyi.
 
 * atha kho = 「そこで」
 * brahmā sahampati = 「梵天サハンパティは」
-* katāvakāso khomhi = 「私は実に機会を作ってもらった」
-  * kata-avakāsa = 「作られた + 機会」
-  * kho + amhi = 「実に + 私は～である」
-* bhagavatā = 「世尊によって（具格）」
-* dhammadesanāya = 「法の説示のための」
-  * dhamma-desanā = 「法 + 説示」
-* ti = 「～と（考えて）」
-* bhagavantaṃ abhivādetvā = 「世尊を礼拝して」
-  * abhivādetvā = 「礼拝して（連続体）」
+* katāvakāso khomhi bhagavatā dhammadesanāyā ti = 「『私は世尊によって法の説示のための機会を作ってもらった』と」
+  * kata-avakāsa = 「機会が作られた (者)」
+  * khomhi = kho + amhi = 「実に私は〜である」
+  * dhammadesanāya = 「法の説示のために」
+* bhagavantaṃ abhivādetvā = 「世尊に礼拝して」
 * padakkhiṇaṃ katvā = 「右繞して」
-  * padakkhiṇa = 「右回り（相手を右に見て回る敬礼）」
-* tatthevantaradhāyi = 「まさにその場で姿を消した」
+  * padakkhiṇa = 「右回り (敬意を表す作法)」
+* tatthevantaradhāyi = 「その場で姿を消した」
   * tattha eva = 「まさにそこで」
-  * antaradhāyi = 「消えた（antaradhāyati のアオリスト）」
+  * antaradhāyi = 「姿を消した」(アオリスト)
 
-→「そこで梵天サハンパティは、『私は世尊によって法の説示のための機会を作ってもらった』と（考えて）、世尊を礼拝し、右繞して、まさにその場で姿を消した。」
+→「そこで梵天サハンパティは、『私は世尊によって法の説示の機会を作ってもらった』と、世尊に礼拝し、右繞して、その場で姿を消した。」
+
+13. Brahmayācanakathā niṭṭhitā.
+
+* brahma-yācana-kathā = 「梵天勧請の話」
+  * yācana = 「懇願、勧請」
+* niṭṭhitā = 「終わった」
+
+→「梵天勧請の話、終わり。」
