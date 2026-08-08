@@ -74,19 +74,27 @@ for chunk in "$workdir"/chunk_*.txt; do
 done
 wait
 
-# 生成失敗 (空出力や API エラー) の検出
+# 生成失敗 (空出力や API エラー, 利用上限) の検出.
+# 利用上限時は出力が "You've reached your ... limit" のメッセージだけになり
+# exit 0 のまま通過するため, 文字列で検出する (2026/08/04 に 17/20 チャンクが
+# このメッセージのまま組み立てられた実例あり)
 fail=0
 auth_fail=0
+limit_fail=0
 for out in "$workdir"/out_*.md; do
-  if [ ! -s "$out" ] || grep -q "API Error" "$out"; then
+  if [ ! -s "$out" ] || grep -q "API Error" "$out" || grep -q "You've reached your" "$out"; then
     echo "generation failed: $out" >&2
     sed -n '1p' "$out" >&2
     fail=1
     grep -q "401" "$out" && auth_fail=1
+    grep -q "You've reached your" "$out" && limit_fail=1
   fi
 done
 if [ "$auth_fail" -eq 1 ]; then
   echo "CLI の認証トークンが失効しています. claude login で再ログインしてください" >&2
+fi
+if [ "$limit_fail" -eq 1 ]; then
+  echo "モデルの利用上限に達しています. 回復後に失敗チャンクのみ再生成してください" >&2
 fi
 [ "$fail" -eq 0 ] || exit 1
 
