@@ -91,7 +91,7 @@ CLI で再現する構成になる.
   で対応) は後続で最初に現れる番号を引き継ぎ, "## 347 (1)" のように
   連番付きになる
 - 番号規則で決まらない見出しは assemble_md.rb の第 5 引数 (taiyaku.sh の
-  第 9 引数) "チャンク番号:ラベル" で組み立て段階で上書きできる
+  第 8 引数) "チャンク番号:ラベル" で組み立て段階で上書きできる
   (Bandhanāgāravatthu で "1:345-346,4:345-346,5:345-346" を使用. 物語
   導入部と複数偈にまたがる語句註を偈の範囲でラベル付けする編集判断).
   見出しは表示の編集判断であり抽出やチャンクには存在しないため,
@@ -148,7 +148,7 @@ API を使わない方針のため `--bare` は使えない.
 
 ```bash
 cat chunk.txt | claude -p \
-  --model claude-fable-5 \
+  --model claude-fable-5-1 \
   --effort high \
   --system-prompt "$(cat system_prompt_no_paraphrase.md)" \
   --disable-slash-commands \
@@ -156,9 +156,11 @@ cat chunk.txt | claude -p \
   > out.md
 ```
 
-- `--model claude-fable-5`: 利用できる最高モデルをフル ID で固定する. Fable が
-  使えない環境では claude-opus-4-8 を使う. エイリアス (`opus` 等) は将来
-  別モデルを指す可能性があるため避ける
+- `--model`: 呼び出し元セッション (対訳を作っているセッション自身) と同じ
+  モデルをフル ID で指定する. taiyaku.sh では model 引数が必須で既定値はなく,
+  Meta ブロックのラベル ("Claude Fable 5.1 High" など) は ID と effort から
+  組み立てる. エイリアス (`opus` 等) は将来別モデルを指す可能性があるため
+  避ける (taiyaku.sh はフル ID 以外を abort する)
 - `--effort high`: 品質を上げる. さらに上は `xhigh` / `max`
 - `--system-prompt`: 既定の Claude Code システムプロンプトを自前のファイルで
   完全置換する
