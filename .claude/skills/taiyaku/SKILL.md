@@ -83,19 +83,27 @@ ruby scripts/extract_chunks.rb _tmp/s0202m.mul0.xml "10. Apaṇṇakasuttaṃ"
 
 ```bash
 scripts/taiyaku.sh <xml|url> <subhead> <chunkspec> <workdir> <out_md> \
-  [model] [effort] [label] [headings]
+  <model> [effort] [headings]
 ```
 
 例:
 
 ```bash
 scripts/taiyaku.sh https://www.tipitaka.org/romn/cscd/s0202m.mul0.xml \
-  "9. Bahuvedanīyasuttaṃ" "1,2,3-5,6-11,12,13-15" _tmp/work_mn059 mn/mn_059.md
+  "9. Bahuvedanīyasuttaṃ" "1,2,3-5,6-11,12,13-15" _tmp/work_mn059 mn/mn_059.md \
+  claude-fable-5-1
 ```
 
-- 既定値: model `claude-fable-5`, effort `high`, label `"Claude Fable 5 High"`.
-  モデルはフル ID で固定する (エイリアスは将来別モデルを指すため避ける).
-  Fable が使えない環境では `claude-opus-4-8`
+- model は必須で既定値はない. 呼び出し元セッション (この対訳を作っている
+  セッション自身) のモデル ID をそのまま渡す. ID はシステムプロンプトの
+  「The exact model ID is ...」に書かれているフル ID (claude-fable-5-1 など)
+  を使い, エイリアス (opus 等) は将来別モデルを指すため使わない (taiyaku.sh
+  がフル ID 以外を abort する). Opus のセッションなら Opus, Fable なら
+  Fable で生成される
+- effort の既定値は `high`. 呼び出し元と揃えるなら環境変数 CLAUDE_EFFORT の
+  値を渡す
+- Meta ブロックのモデルラベルは taiyaku.sh が model と effort から組み立てる
+  (claude-fable-5-1 + high -> "Claude Fable 5.1 High"). 手入力しない
 - workdir はリポジトリ内 `_tmp/work_...` とする (プロジェクト CLAUDE.md の
   「翻訳の方針」が生成プロンプトに入るのは意図した動作)
 - out_md のファイル名にモデル名サフィックス (_fable5 など) は付けない.
