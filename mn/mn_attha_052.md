@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0202a.att0.xml
 generated: 2026/07/23
-updated: 2026/07/23
+updated: 2026/09/04
 ---
 
 # 2. Aṭṭhakanāgarasuttavaṇṇanā
@@ -701,10 +701,15 @@ Ayaṃ kho gahapati…pe… ekadhammo akkhātoti ekadhammaṃ pucchitena ayampi 
 
 Kimaṅgaṃ panāhanti bāhirakā tāva aniyyānikepi sāsane sippamattadāyakassa dhanaṃ pariyesanti; ahaṃ pana evaṃvidhe niyyānikasāsane ekādasavidhaṃ amatuppattipaṭipadaṃ desentassa ācariyassa pūjaṃ kiṃ na karissāmi, karissāmiyevāti vadati. Paccekadussayugenaacchādesīti ekamekassa bhikkhuno ekekaṃ dussayugamadāsīti attho. Samudācāravacanaṃ panettha evarūpaṃ hoti, tasmā acchādesīti vuttaṃ. Pañcasatavihāranti pañcasatagghanikaṃ paṇṇasālaṃ kāresīti attho. Sesaṃ sabbattha uttānamevāti.
 
+Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
+
+Aṭṭhakanāgarasuttavaṇṇanā niṭṭhitā.
+
 ### Meta
 
 - 2026/07/23
 - Claude Fable 5 High
+- 結び 2 行 (Papañcasūdaniyā ... / ... niṭṭhitā.) の原文と対訳は 2026/09/04 に Claude Fable 5.1 High で追加
 
 ### 対訳
 
@@ -941,3 +946,24 @@ Kimaṅgaṃ panāhanti bāhirakā tāva aniyyānikepi sāsane sippamattadāyaka
 * uttānam evā ti = 「明白である、と」
 
 →「残りの語句は、すべての箇所で明白である。」
+
+16. Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
+
+* Papañcasūdaniyā = 「パパンチャスーダニー（『戯論の破砕』）の」（Papañcasūdanī の属格・処格）
+  * papañca = 「戯論、増広」
+  * sūdanī = 「破砕するもの、粉砕するもの」（sūdana から）
+* majjhimanikāya-aṭṭhakathāya = 「中部の註釈書の」（属格・処格）
+  * majjhimanikāya = 「中部（中部経典）」
+  * aṭṭhakathā = 「註釈書、義註」
+
+→「『中部』の註釈書であるパパンチャスーダニーにおいて、」
+
+17. Aṭṭhakanāgarasuttavaṇṇanā niṭṭhitā.
+
+* Aṭṭhakanāgara-sutta-vaṇṇanā = 「アッタカナーガラ経の解説」
+  * Aṭṭhakanāgara = 「アッタカ市の人（ダサマ居士の呼び名）」
+  * sutta = 「経」
+  * vaṇṇanā = 「解説、註釈」
+* niṭṭhitā = 「終わった、完結した」（niṭṭhāti の過去分詞、女性形）
+
+→「アッタカナーガラ経の解説は終わった。」

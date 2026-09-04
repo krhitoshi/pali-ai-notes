@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0202a.att1.xml
 generated: 2026/03/31
-updated: 2026/07/23
+updated: 2026/09/04
 ---
 
 # 4. Mahāmālukyasuttavaṇṇanā
@@ -655,10 +655,15 @@ Atha kiñcarahīti kiṃ pucchāmīti pucchati? Samathavasena gacchato cittekagg
 
 Indriyavemattataṃ vadāmīti indriyanānattataṃ vadāmi. Idaṃ vuttaṃ hoti, na tvaṃ, ānanda, dasa pāramiyo pūretvā sabbaññutaṃ paṭivijjhi, tena te etaṃ apākaṭaṃ. Ahaṃ pana paṭivijjhiṃ, tena me etaṃ pākaṭaṃ. Ettha hi indriyanānattatā kāraṇaṃ. Samathavaseneva hi gacchantesu ekassa bhikkhuno cittekaggatā dhuraṃ hoti, so cetovimutto nāma hoti. Ekassa paññā dhuraṃ hoti, so paññāvimutto nāma hoti. Vipassanāvaseneva ca gacchantesu ekassa paññā dhuraṃ hoti, so paññāvimutto nāma hoti. Ekassa cittekaggatā dhuraṃ hoti, so cetovimutto nāma hoti. Dve aggasāvakā samathavipassanādhurena arahattaṃ pattā. Tesu dhammasenāpati paññāvimutto jāto, mahāmoggallānatthero cetovimutto. Iti indriyavemattamettha kāraṇanti veditabbaṃ. Sesaṃ sabbattha uttānamevāti.
 
+Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
+
+Mahāmālukyasuttavaṇṇanā niṭṭhitā.
+
 ### Meta
 
 - 2026/04/03
 - gemini-3.1-pro-preview
+- 結び 2 行 (Papañcasūdaniyā ... / ... niṭṭhitā.) の原文と対訳は 2026/09/04 に Claude Fable 5.1 High で追加
 
 ### 対訳
 
@@ -899,3 +904,27 @@ Indriyavemattataṃ vadāmīti indriyanānattataṃ vadāmi. Idaṃ vuttaṃ hot
 * uttānamevā ti = 「全く明白である」
 
 → 「残りの部分は、すべての箇所において全く明白である。」
+
+23. Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
+
+* Papañcasūdaniyā = 「パパンチャスーダニー(戯論粉砕論)の」
+  * papañca-sūdanī = 「戯論を粉砕するもの」。中部註釈書の書名
+  * 属格・単数(Papañcasūdanī の属格形)
+* majjhima-nikāya-aṭṭhakathāya = 「中部註釈書の」
+  * majjhima-nikāya = 「中部(中部経典)」
+  * aṭṭhakathā = 「註釈書(義釈)」
+  * 属格・単数。前の Papañcasūdaniyā と同格
+
+→「中部註釈書パパンチャスーダニーの」
+
+24. Mahāmālukyasuttavaṇṇanā niṭṭhitā.
+
+* Mahā-mālukya-sutta-vaṇṇanā = 「大マールキヤ経註釈」
+  * mahā = 「大」
+  * Mālukya = 「マールキヤ(マールンキヤ)」。人名(Mālukyaputta 尊者)
+  * sutta = 「経」
+  * vaṇṇanā = 「註釈、解説」
+* niṭṭhitā = 「終わった、完結した」
+  * nis + √ṭhā の過去分詞 niṭṭhita の女性形(vaṇṇanā に一致)
+
+→「大マールキヤ経註釈が終わった。」

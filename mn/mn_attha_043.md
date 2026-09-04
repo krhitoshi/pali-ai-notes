@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0201a.att5.xml
 generated: 2026/07/26
-updated: 2026/07/26
+updated: 2026/09/04
 ---
 
 # 3. Mahāvedallasuttavaṇṇanā
@@ -4313,10 +4313,15 @@ Rāgo kho, āvuso, nimittakaraṇotiādīsu yathā nāma dvinnaṃ kulānaṃ sa
 
 Animittā cetovimutti nāma terasa dhammā – vipassanā, cattāro āruppā, cattāro maggā, cattāri ca phalānīti. Tattha vipassanā niccanimittaṃ sukhanimittaṃ attanimittaṃ ugghāṭetīti animittā nāma. Cattāro āruppā rūpanimittassa abhāvena animittā nāma. Maggaphalāni nimittakaraṇānaṃ kilesānaṃ abhāvena animittāni. Nibbānampi animittameva, taṃ pana cetovimutti na hoti, tasmā na gahitaṃ. Atha kasmā suññatā cetovimutti na gahitāti? Sā, ‘‘suññā rāgenā’’tiādivacanato sabbattha anupaviṭṭhāva, tasmā visuṃ na gahitā . Ekatthāti ārammaṇavasena ekatthā. Appamāṇaṃ ākiñcaññaṃ suññataṃ animittanti hi sabbānetāni nibbānasseva nāmāni. Iti iminā pariyāyena ekatthā. Aññasmiṃ pana ṭhāne appamāṇā honti, aññasmiṃ ākiñcaññā aññasmiṃ suññatā aññasmiṃ animittāti iminā pariyāyena nānābyañjanā. Iti thero yathānusandhināva desanaṃ niṭṭhapesīti.
 
+Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
+
+Mahāvedallasuttavaṇṇanā niṭṭhitā.
+
 ### Meta
 
 - 2026/07/26
 - Claude Fable 5 High
+- 結び 2 行 (Papañcasūdaniyā ... / ... niṭṭhitā.) の原文と対訳は 2026/09/04 に Claude Fable 5.1 High で追加
 
 ### 対訳
 
@@ -4756,3 +4761,24 @@ Animittā cetovimutti nāma terasa dhammā – vipassanā, cattāro āruppā, ca
   * niṭṭhapesi = 「終えた、完結させた(niṭṭhapeti のアオリスト)」
 
 →「このように長老は、まさに脈絡に従って教説を終えたのである。」
+
+41. Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
+
+* Papañcasūdaniyā = 「Papañcasūdanī(『戯論粉砕』)における」(女性・処格)
+  * papañca-sūdanī = 「戯論(papañca)を砕くもの(sūdanī)」. 中部註釈書の書名
+* majjhimanikāya-aṭṭhakathāya = 「中部の註釈書における」(処格)
+  * majjhima-nikāya = 「中部(中位の長さの経典の集成)」
+  * aṭṭhakathā = 「註釈書、義釈」
+
+→「中部註釈書『Papañcasūdanī』における」
+
+42. Mahāvedallasuttavaṇṇanā niṭṭhitā.
+
+* Mahāvedalla-sutta-vaṇṇanā = 「大有明経の解説」
+  * mahā = 「大きな」
+  * vedalla = 「有明、問答による解明(問答形式の教説)」
+  * sutta = 「経」
+  * vaṇṇanā = 「解説、註解」
+* niṭṭhitā = 「終わった、完結した」(nis + √ṭhā の過去分詞、女性形)
+
+→「大有明経の解説は終わった。」

@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0202a.att1.xml
 generated: 2026/04/28
-updated: 2026/07/23
+updated: 2026/09/04
 ---
 
 # 7. Cātumasuttavaṇṇanā
@@ -920,10 +920,15 @@ Uccāsaddā mahāsaddāti uddhaṃ uggatattā uccaṃ, patthaṭattā mahantaṃ
 
 Imāni pana cattāri bhayāni bhāyitvā yathā udakaṃ anorohantassa udakaṃ nissāya ānisaṃso natthi, udakapipāsāya pipāsito ca hoti rajojallena kiliṭṭhasarīro ca, evamevaṃ imāni cattāri bhayāni bhāyitvā sāsane apabbajantassāpi imaṃ sāsanaṃ nissāya ānisaṃso natthi, taṇhāpipāsāya pipāsito ca hoti kilesarajena saṃkiliṭṭhacitto ca. Yathā pana imāni cattāri bhayāni abhāyitvā udakaṃ orohantassa vuttappakāro ānisaṃso hoti, evaṃ imāni abhāyitvā sāsane pabbajitassāpi vuttappakāro ānisaṃso hoti. Thero panāha – ‘‘cattāri bhayāni bhāyitvā udakaṃ anotaranto sotaṃ chinditvā paratīraṃ pāpuṇituṃ na sakkoti, abhāyitvā otaranto sakkoti, evamevaṃ bhāyitvā sāsane apabbajantopi taṇhāsotaṃ chinditvā nibbānapāraṃ daṭṭhuṃ na sakkoti, abhāyitvā pabbajanto pana sakkotī’’ti. Sesaṃ sabbattha uttānameva. Ayaṃ pana desanā neyyapuggalassa vasena niṭṭhāpitāti.
 
+Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
+
+Cātumasuttavaṇṇanā niṭṭhitā.
+
 ### Meta
 
 - 2026/05/03
 - gemini-3.1-pro-preview
+- 結び 2 行 (Papañcasūdaniyā ... / ... niṭṭhitā.) の原文と対訳は 2026/09/04 に Claude Fable 5.1 High で追加
 
 ### 対訳
 
@@ -1057,3 +1062,24 @@ Imāni pana cattāri bhayāni bhāyitvā yathā udakaṃ anorohantassa udakaṃ
 * niṭṭhāpitā ti = 「完結されたのである、と」
 
 → 「そして、この説法は所導の者を対象として完結されたのである。」
+
+11. Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
+
+* Papañcasūdaniyā = 「パパンチャスーダニー（戯論を砕くもの）における」（Papañcasūdanī の処格）
+  * papañca = 「戯論、妄想」
+  * sūdanī = 「砕くもの、破壊するもの」
+* majjhimanikāya-aṭṭhakathāya = 「中部の註釈における」（処格）
+  * majjhima-nikāya = 「中部（中部経典）」
+  * aṭṭhakathā = 「註釈、義疏」
+
+→「パパンチャスーダニーという中部の註釈における」
+
+12. Cātumasuttavaṇṇanā niṭṭhitā.
+
+* Cātuma-sutta-vaṇṇanā = 「チャートゥマ経の解説」
+  * Cātuma = 「チャートゥマ（釈迦族の町の名）」
+  * sutta = 「経」
+  * vaṇṇanā = 「解説、註釈」
+* niṭṭhitā = 「終わった、完了した」（niṭṭhāti の過去分詞、女性形）
+
+→「チャートゥマ経の解説は終わった。」

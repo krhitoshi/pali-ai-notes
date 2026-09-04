@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0203a.att1.xml
 generated: 2026/07/23
-updated: 2026/07/23
+updated: 2026/09/04
 ---
 
 # 8. Ānāpānassatisuttavaṇṇanā
@@ -1811,10 +1811,15 @@ Evaṃ cuddasavidhena kāyapariggāhakassa bhikkhuno tasmiṃ kāye sati satisam
 
 152. Vivekanissitantiādīni vuttatthāneva. Ettha pana ānāpānapariggāhikā sati lokiyā hoti, lokiyā ānāpānā lokiyasatipaṭṭhānaṃ paripūrenti, lokiyā satipaṭṭhānā lokuttarabojjhaṅge paripūrenti, lokuttarā bojjhaṅgā vijjāvimuttiphalanibbānaṃ paripūrenti. Iti lokiyassa āgataṭṭhāne lokiyaṃ kathitaṃ, lokuttarassa āgataṭṭhāne lokuttaraṃ kathitanti. Thero panāha ‘‘aññattha evaṃ hoti, imasmiṃ pana sutte lokuttaraṃ upari āgataṃ, lokiyā ānāpānā lokiyasatipaṭṭhāne paripūrenti, lokiyā satipaṭṭhānā lokiye bojjhaṅge paripūrenti, lokiyā bojjhaṅgā lokuttaraṃ vijjāvimuttiphalanibbānaṃ paripūrenti, vijjāvimuttipadena hi idha vijjāvimuttiphalanibbānaṃ adhippeta’’nti.
 
+Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
+
+Ānāpānassatisuttavaṇṇanā niṭṭhitā.
+
 ### Meta
 
 - 2026/07/23
 - Claude Fable 5 High
+- 結び 2 行 (Papañcasūdaniyā ... / ... niṭṭhitā.) の原文と対訳は 2026/09/04 に Claude Fable 5.1 High で追加
 
 ### 対訳
 
@@ -1983,3 +1988,25 @@ Evaṃ cuddasavidhena kāyapariggāhakassa bhikkhuno tasmiṃ kāye sati satisam
   * adhippeta = 「意図された（adhi + pa + √i の過去分詞）」
 
 →「『なぜなら、ここでは「明と解脱」という語によって、明・解脱・果・涅槃が意図されているからである』と。」
+
+13. Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
+
+* Papañcasūdaniyā = 「パパンチャスーダニー(戯論を破砕するもの)における」(女性・処格)
+  * papañca = 「戯論、迷妄の拡がり」
+  * sūdanī = 「破砕するもの、粉砕するもの」
+* majjhimanikāya-aṭṭhakathāya = 「中部の註釈書における」(女性・処格)
+  * majjhima-nikāya = 「中部(中位の長さの経典の集成)」
+  * aṭṭhakathā = 「註釈書、義釈」
+
+→「中部の註釈書であるパパンチャスーダニーにおける」
+
+14. Ānāpānassatisuttavaṇṇanā niṭṭhitā.
+
+* ānāpānassati-sutta-vaṇṇanā = 「出入息念経の解説」
+  * ānāpāna = 「出入息(āna 出息 + apāna 入息)」
+  * sati = 「念」
+  * sutta = 「経」
+  * vaṇṇanā = 「解説、註釈」
+* niṭṭhitā = 「終わった、完結した」(niṭṭhāti の過去分詞・女性・単数)
+
+→「出入息念経の解説は終わった。」
