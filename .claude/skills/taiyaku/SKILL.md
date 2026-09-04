@@ -40,6 +40,12 @@ ruby scripts/extract_chunks.rb _tmp/s0202m.mul0.xml "10. Apaṇṇakasuttaṃ"
 
 - chunkspec は bodytext 段落番号 (1 始まり) のグループをカンマ区切りで書く
   (例 `"1,2,3-5,6-11,12,13-15"`)
+- 経や註釈の結び行 (MN の "...suttaṃ niṭṭhitaṃ chaṭṭhaṃ.", MN 註の
+  "Papañcasūdaniyā majjhimanikāyaṭṭhakathāya" と "...suttavaṇṇanā
+  niṭṭhitā." の 2 行など) は段落一覧の末尾に番号なしの行として出る.
+  対訳対象なので最終チャンクの範囲に必ず含める (例 最終段落が 29 で結びが
+  30-31 なら最終チャンクは `29-31`). 含め忘れると source.txt にはあるのに
+  対訳に結びが欠ける (mn_attha_076 で実例あり. issue #16)
 - チャンク方針はテキスト種別で異なる:
   - 経典 (mūla. DN/MN/SN など): 1 チャンク 1 VRI 番号が原則. 番号段落と
     それに続く偈行・直前の小見出し (strt) を 1 チャンクにする. 見出しは
