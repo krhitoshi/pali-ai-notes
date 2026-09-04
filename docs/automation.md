@@ -77,9 +77,13 @@ CLI で再現する構成になる.
 - 経の範囲は `<p rend="subhead">` から次の非 bodytext 段落までの bodytext 段落.
   経題行は先頭チャンクにのみ含める (経名も対訳対象のため)
 - 経の結び: MN などでは "...suttaṃ niṭṭhitaṃ navamaṃ." が rend="centre" の
-  独立段落になっている. 直後の centre 段落が `niṭṭhitaṃ` を含む場合のみ
-  段落として取り込む (既存 mn_061.md 等がこの行を訳出しているため).
-  SN の vagga 結び ("Ekadhammavaggo paṭhamo.") は niṭṭhitaṃ を含まず除外される
+  独立段落になっている. 直後に連続する centre 段落を先読みし, 最初に
+  `niṭṭhitaṃ` / `niṭṭhitā` を含む段落までを結びとして取り込む (既存
+  mn_061.md 等がこの行を訳出しているため). MN 註の結びは "Papañcasūdaniyā
+  majjhimanikāyaṭṭhakathāya" + "...suttavaṇṇanā niṭṭhitā." の 2 段落で,
+  2 段落とも取り込まれる (issue #16. 以前は 1 段落目で止まり結びが欠けていた).
+  SN の vagga 結び ("Ekadhammavaggo paṭhamo.") や MN の vagga 結び
+  ("...vaggo niṭṭhito tatiyo.") は niṭṭhitaṃ / niṭṭhitā を含まず除外される
 - 見出し "## <段落番号>" はチャンク先頭の段落番号から取り, 番号のない
   チャンクは直前チャンクまでに最後に現れた番号を引き継ぐ. 同じ番号が
   複数チャンクにまたがる場合のみ "(N)" の連番を付ける (MN 59 のように

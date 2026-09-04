@@ -25,7 +25,8 @@
 #   セクションが内部に centre 区切りや番号なし subhead を持つ形 (Vinaya
 #   khandhaka の各 kathā など) に対応する. 結び行 ("...kathā niṭṭhitā." 等)
 #   も構造ブロックとして含まれる. 未指定時の挙動は従来どおり
-#   (最初の centre で終了. niṭṭhitaṃ を含む centre のみ本文に含める)
+#   (最初の centre で終了. 連続する centre のうち niṭṭhitaṃ / niṭṭhitā を含む
+#   段落までを結びとして本文に含める)
 # - <chunkspec> は段落番号 (1 始まり) のグループ指定. 例 "1-3,4,5-9"
 #   セクション一部だけを対訳する用途のため "6-11" のような途中範囲も
 #   指定できる. ただし連続した昇順であること (歯抜けや逆順は誤指定として弾く)
@@ -91,7 +92,8 @@ paras = []
 # 位置. 段落番号の検出から除外するために使う
 struct_flags = []
 until_reached = false
-lines[(start + 1)..].each do |line|
+rest = lines[(start + 1)..]
+rest.each_with_index do |line, idx|
   line = line.strip
   next if line.empty?
   rend = line[/\A<p rend="([^"]+)"/, 1]
@@ -123,12 +125,26 @@ lines[(start + 1)..].each do |line|
     end
     if struct_rends.empty?
       # 経の結び (MN などの "... niṭṭhitaṃ ..." centre 段落) は含める.
-      # vagga の結び ("...vaggo paṭhamo." など) は niṭṭhitaṃ を含まないので除外される.
+      # vagga の結び ("...vaggo paṭhamo." "...vaggo niṭṭhito ..." など) は
+      # niṭṭhitaṃ / niṭṭhitā を含まないので除外される.
+      # MN 註のように結びが複数の centre 段落 ("Papañcasūdaniyā
+      # majjhimanikāyaṭṭhakathāya" + "...suttavaṇṇanā niṭṭhitā.") に分かれる
+      # 場合があるため, 連続する centre を先読みし, 最初に niṭṭhitaṃ /
+      # niṭṭhitā を含む段落までを結びとして含める. それ以降の vagga 結びや
+      # uddāna は含めない (issue #16).
       # bodytext 起点 (Jātaka-a の各話) では直後の centre が各話の結び
       # ("...vaṇṇanā dasamā." など) のため niṭṭhitaṃ がなくても含める
-      if rend == "centre" && (line.include?("niṭṭhitaṃ") || start_rend == "bodytext")
-        paras << line
-        struct_flags << false
+      if rend == "centre"
+        if start_rend == "bodytext"
+          paras << line
+          struct_flags << false
+        else
+          run = rest[idx..].map(&:strip)
+                           .take_while { |l| l.empty? || l.start_with?('<p rend="centre">') }
+                           .reject(&:empty?)
+          close = run.index { |l| l =~ /niṭṭhit(aṃ|ā)\b/ }
+          run[..close].each { |l| paras << l; struct_flags << false } if close
+        end
       end
     end
     break
