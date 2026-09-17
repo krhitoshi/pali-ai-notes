@@ -132,6 +132,8 @@ rest.each_with_index do |line, idx|
       # 場合があるため, 連続する centre を先読みし, 最初に niṭṭhitaṃ /
       # niṭṭhitā を含む段落までを結びとして含める. それ以降の vagga 結びや
       # uddāna は含めない (issue #16).
+      # 複註 (ṭīkā) の結びは "...suttavaṇṇanāya līnatthappakāsanā samattā."
+      # の形で niṭṭhitā を含まないため samattā も結びとして扱う
       # bodytext 起点 (Jātaka-a の各話) では直後の centre が各話の結び
       # ("...vaṇṇanā dasamā." など) のため niṭṭhitaṃ がなくても含める
       if rend == "centre"
@@ -142,7 +144,7 @@ rest.each_with_index do |line, idx|
           run = rest[idx..].map(&:strip)
                            .take_while { |l| l.empty? || l.start_with?('<p rend="centre">') }
                            .reject(&:empty?)
-          close = run.index { |l| l =~ /niṭṭhit(aṃ|ā)\b/ }
+          close = run.index { |l| l =~ /niṭṭhit(aṃ|ā)\b|samattā\b/ }
           run[..close].each { |l| paras << l; struct_flags << false } if close
         end
       end
