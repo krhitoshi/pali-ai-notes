@@ -170,10 +170,12 @@ def to_plain(p)
   s = p.dup
   s.sub!(/\A<p[^>]*>/, "")
   s.sub!(%r{</p>\z}, "")
+  # pb と note は太字の内側に入れ子になることがある (MN 78 註 §261 の
+  # "<hi rend="bold">Na <pb .../> karotī</hi>" など) ため, 太字より先に処理する
+  s.gsub!(%r{<pb [^>]*/>}, "")
+  s.gsub!(%r{<note>([^<]*)</note>}, '[\1]')
   s.gsub!(%r{<hi rend="paranum">([^<]*)</hi><hi rend="dot">\.</hi>}, '\1.')
   s.gsub!(%r{<hi rend="bold">([^<]*)</hi>}, '\1')
-  s.gsub!(%r{<note>([^<]*)</note>}, '[\1]')
-  s.gsub!(%r{<pb [^>]*/>}, "")
   s.gsub!(/ {2,}/, " ")
   s.strip!
   s.sub!(/\A(\d+)\.(?=\S)/, '\1. ')

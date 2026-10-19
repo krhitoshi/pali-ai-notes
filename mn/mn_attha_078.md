@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0202a.att2.xml
 generated: 2026/09/07
-updated: 2026/09/07
+updated: 2026/10/19
 ---
 
 # 8. Samaṇamuṇḍikasuttavaṇṇanā
@@ -269,7 +269,7 @@ updated: 2026/09/07
 
 ## 261
 
-261. Etadavocāti dandapañño ayaṃ gahapati, dhammakathāya naṃ saṅgaṇhitvā attano sāvakaṃ karissāmīti maññamāno etaṃ ‘‘catūhi kho’’tiādivacanaṃ avoca. Tattha paññapemīti dassemi ṭhapemi. Sampannakusalanti paripuṇṇakusalaṃ. Paramakusalanti uttamakusalaṃ. Ayojjhanti vādayuddhena yujjhitvā cāletuṃ asakkuṇeyyaṃ acalaṃ nikkampaṃ thiraṃ. <hi rend="bold">Na karotī</hi>ti akaraṇamattameva vadati, ettha pana saṃvarappahānaṃ vā paṭisevanappahānaṃ vā na vadati. Sesapadesupi eseva nayo.
+261. Etadavocāti dandapañño ayaṃ gahapati, dhammakathāya naṃ saṅgaṇhitvā attano sāvakaṃ karissāmīti maññamāno etaṃ ‘‘catūhi kho’’tiādivacanaṃ avoca. Tattha paññapemīti dassemi ṭhapemi. Sampannakusalanti paripuṇṇakusalaṃ. Paramakusalanti uttamakusalaṃ. Ayojjhanti vādayuddhena yujjhitvā cāletuṃ asakkuṇeyyaṃ acalaṃ nikkampaṃ thiraṃ. Na karotīti akaraṇamattameva vadati, ettha pana saṃvarappahānaṃ vā paṭisevanappahānaṃ vā na vadati. Sesapadesupi eseva nayo.
 
 Neva abhinandīti titthiyā nāma jānitvāpi ajānitvāpi yaṃ vā taṃ vā vadantīti maññamāno nābhinandi. Na paṭikkosīti sāsanassa anulomaṃ viya pasannākāraṃ viya vadatīti maññamāno na paṭisedheti.
 
@@ -335,7 +335,7 @@ Neva abhinandīti titthiyā nāma jānitvāpi ajānitvāpi yaṃ vā taṃ vā v
 
 →「『攻略できない者』とは、論争の戦いによって戦って動かすことができない、動かない、揺るがない、堅固な者(という意味である)。」
 
-6. <hi rend="bold">Na karotī</hi>ti akaraṇamattameva vadati, ettha pana saṃvarappahānaṃ vā paṭisevanappahānaṃ vā na vadati.
+6. Na karotīti akaraṇamattameva vadati, ettha pana saṃvarappahānaṃ vā paṭisevanappahānaṃ vā na vadati.
 
 * na karotī ti = 「『なさない』とは」
 * akaraṇa-mattam eva = 「ただなさないことだけを」
