@@ -19,7 +19,7 @@ MN 79 (Cūḷasakuludāyisutta) の `ayaṃ kho sā, udāyi, ākāravatī paṭi
   固定されている
 - kho は前の語に付く付帯の小辞で、文頭の語の直後に置かれる規則により
   ayaṃ と sā の間に入る。註釈は kho を「限定強調 (avadhāraṇa) か、単に
-  語を整える (padapūraṇa) か」の小辞と釈し、どちらかに決めていない
+  語を整える (padapūraṇa) か」の小辞と説明し、どちらかに決めていない
 
 ## ayaṃ と sā はなぜ一緒に使われるか
 
@@ -49,7 +49,8 @@ sacchikiriyāyā’’ti.
 
 | 箇所 | 句 | 先に挙がっていた項目 |
 |---|---|---|
-| MN 3 Dhammadāyāda、SN 56.11、Vin Mahāvagga など | `ayaṃ kho sā, bhikkhave, majjhimā paṭipadā` | 冒頭で名を挙げた中道 |
+| SN 56.11、Vin Mahāvagga など | `ayaṃ kho sā, bhikkhave, majjhimā paṭipadā` | 冒頭で名を挙げた中道 |
+| MN 3 Dhammadāyāda | `Ayaṃ kho sā, āvuso, majjhimā paṭipadā` | 冒頭で名を挙げた中道 |
 | DN 3 Ambaṭṭha | `Ayaṃ kho sā, ambaṭṭha, vijjā` | 問われていた vijjā |
 | SN 35.246 (琵琶の喩え) | `ayaṃ kho sā, bhante, vīṇā yassā eso saddo` | 話に出ていた音を出す琵琶 |
 | MN 79 (VRI 段落 274、275) | `ayaṃ kho sā … ākāravatī paṭipadā` | 問われていた ākāravatī paṭipadā |
@@ -61,7 +62,7 @@ sacchikiriyāyā’’ti.
 Idāni ayaṃ kho sā, āvusoti tameva paṭipadaṃ nigamento āha.
 ```
 
-(いま「ayaṃ kho sā, āvuso」と、まさにその道を結んで述べた) と釈す。
+(いま「ayaṃ kho sā, āvuso」と、まさにその道を結んで述べた) と説明する。
 `tameva paṭipadaṃ` (まさにその道) という言い方が、sā が既出の同じ道を
 指すことを示している。
 
@@ -70,7 +71,7 @@ ayaṃ + ta の組み合わせが同定を表すことは、他の註釈にも�
 - DN 9 Poṭṭhapāda (VRI 段落 432-437) の `ayaṃ vā so, āvuso, oḷāriko
   attapaṭilābho` について、Sumaṅgalavilāsinī は `Ayaṃ soti evaṃ
   vibhāvetvā pakāsetvā byākareyyāma` (「これがそれだ」と明らかにして
-  答える) と釈す
+  答える) と説明する
 - Jātaka-aṭṭhakathā に `Ayaṃ soti ayameva so tava sabhāvo` (「ayaṃ so」
   とは、これこそがその君の性質だ、の意) とある
 - ta と idaṃ が融合した tayidaṃ という語形があり、Ekakanipāta-ṭīkā
@@ -94,7 +95,12 @@ ayaṃ + ta の組み合わせが同定を表すことは、他の註釈にも�
 yaṃ yaṃ iriyāpathaṃ icchati, taṃ taṃ karoti.
 ```
 
-したがって `sā sā` と書けば、同定ではなくこの配分の読みに引かれる。
+男性でも同じで、経蔵では `yo yo … tassa tassa` (DN 26 Cakkavatti、VRI 段落
+92)、註釈では `yo yo upalabbhati, so so puggalo` (Kathāvatthu-aṭṭhakathā)
+のように、同じ代名詞の繰り返しは配分を表す。主格同士の `yo yo … so so` は
+CSCD の経蔵本文には見つからないが、註釈・後代の文法書には見られる。
+
+したがって `sā sā` と書くと、同定ではなく「それぞれの」という配分の意味に読まれてしまう。
 
 なお、ayaṃ を使わず `sā kho … paṭipadā` と書くこと自体は文として成り
 立つが、それは「その道は～である」という叙述で、いま述べた内容を問いの
@@ -110,8 +116,9 @@ DoP は kho を、前の語を強調する付帯 (enclitic) の小辞で「し�
 (`idaṃ kho pana`, `ayaṃ ca kho`, `so ca kho` など)。付帯語なので文頭の
 語の直後に付き、その結果 `ayaṃ kho sā` の形になる。
 
-註釈は kho の働きを二通りに釈す。Sumaṅgalavilāsinī (DN 1 の `assosi kho`)
-と Papañcasūdanī (MN 4 の `atha kho`) に
+註釈は kho の働きを二通りに説明する。Sumaṅgalavilāsinī (DN 3 Ambaṭṭha、VRI
+段落 255 の `assosi kho`) と Papañcasūdanī (MN 41 Sāleyyaka、VRI 段落 439 の
+`assosuṃ kho`) に
 
 ```
 Khoti avadhāraṇatthe padapūraṇamatte vā nipāto.
@@ -119,8 +126,10 @@ Khoti avadhāraṇatthe padapūraṇamatte vā nipāto.
 
 (kho とは、限定強調の意味か、単に語を整えるためかの小辞である) とあり、
 限定強調 (avadhāraṇa) なら eva と同じ「まさに」、語を整えるため
-(padapūraṇa) なら訳出は要らない、としている。DoP が引く Petavatthu 註は
-`ayaṃ ca kho dakkhiṇā` の kho を avadhāraṇa と釈す。
+(padapūraṇa) なら訳出は要らない、としている。一方、MN 4 Bhayabherava の
+`atha kho` については Papañcasūdanī は `Khoti avadhāraṇatthe` と限定強調の
+意味だけを挙げる。DoP が引く Petavatthu 註は `ayaṃ ca kho dakkhiṇā` の kho を
+avadhāraṇa と説明する。
 
 `ayaṃ kho sā` の kho がどちらかを決める根拠は個々の文にはなく、註釈自身
 が両案を併記している。対訳 mn/mn_079.md の語釈行「ayaṃ kho sā =
@@ -129,11 +138,9 @@ Khoti avadhāraṇatthe padapūraṇamatte vā nipāto.
 
 ## 確認できていない範囲
 
-- `ayaṃ kho sā` の kho を直接釈した註釈は CSCD の検索では見つからなかった。
+- `ayaṃ kho sā` の kho を直接説明した註釈は CSCD の検索では見つからなかった。
   上の avadhāraṇa / padapūraṇa の二分は、他の箇所の kho に対する註釈の
   一般的な説明を当てたもの
-- `yo yo … so so` (男性) の形は CSCD 本文の検索では確認できず、配分の例
-  として挙げたのは中性の `yaṃ yaṃ … taṃ taṃ` のみ
 
 ## 出典
 
@@ -144,6 +151,9 @@ Khoti avadhāraṇatthe padapūraṇamatte vā nipāto.
   `ayaṃ vā so` の用例 (CSCD 本文)
 - Visuddhimagga の `yaṃ yaṃ … taṃ taṃ` の用例 (CSCD `e0101n.mul.xml`,
   `e0102n.mul.xml`)
+- DN 26 Cakkavattisutta の `yo yo … tassa tassa` の用例 (CSCD `s0103m.mul.xml`)
+- Kathāvatthu-aṭṭhakathā (Pañcapakaraṇa-aṭṭhakathā) の `yo yo … so so` の
+  用例 (CSCD `abh03a.att.xml`)
 - Mūlapaṇṇāsa-aṭṭhakathā (Papañcasūdanī) (CSCD `s0201a.att.xml`)
 - Sīlakkhandhavaggaṭṭhakathā (Sumaṅgalavilāsinī) (CSCD `s0101a.att.xml`)
 - Ekakanipāta-ṭīkā (CSCD `s0401t.tik.xml`)

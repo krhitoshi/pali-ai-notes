@@ -15,8 +15,10 @@ antarāyamakāsi bhagavati brahmacariyeti.
 
 - DoP の antarāya の項にある「~aṃ karoti, hinders, prevents (+ gen. rei
   and personae or + acc. personae, loc. rei)」はこの文にそのまま当て
-  はまる。DoP はこの文 (M II 39,28) 自体を「acc. personae, loc. rei」型の
-  用例として引いている
+  はまる。DoP はこの文 (M II 39,28) 自体を antarāyaṃ karoti の用例として
+  引いている。どの用例がどちらの型かは DoP が明示しているのではなく、
+  語形 (対格 sakuludāyiṃ、処格 brahmacariye) から「acc. personae, loc.
+  rei」型と分かる
 - rei と personae はラテン語の文法用語で、「事柄の」「人の」の意。
   この文では sakuludāyiṃ paribbājakaṃ が人の対格、brahmacariye が事柄の
   処格にあたる
@@ -42,7 +44,7 @@ DoP が挙げる用例を型ごとに並べると次のようになる。
 
 | 型 | 人 | 事柄 | 用例 |
 |---|---|---|---|
-| gen. + gen. | 属格 | 属格 | Vin I 15 `mā Yasassa kulaputtassa koci antarāyaṃ akāsi … pabbajjāya` / Mil 156 `so bhagavato bhojanassa antarāyaṃ akāsi` / Ja VI 171 `uposathakammassa me antarāyaṃ pi kareyya` |
+| gen. + gen. | 属格 | 属格 | Vin I 15 `mā Yasassa kulaputtassa koci antarāyaṃ akāsi … pabbajjāyā ti` / Mil 156 `so bhagavato bhojanassa antarāyaṃ akāsi` / Ja VI 171 `uposathakammassa me antarāyaṃ pi kareyya` |
 | acc. + loc. | 対格 | 処格 | M II 39 `parisā Sakuludāyiṃ paribbājakaṃ antarāyaṃ akāsi bhagavati brahmacariye` |
 
 M II 39 は MN 79 のこの文である。したがって当てはめは次のとおり。
@@ -60,10 +62,10 @@ M II 39 は MN 79 のこの文である。したがって当てはめは次の�
 註釈 (Papañcasūdanī、VRI 段落 277) は
 
 ```
-Antarāyamakāsīti yathā pabbajjaṃ na labhati, evaṃ upaddutamakāsi
+Antarāyamakāsīti yathā pabbajjaṃ na labhati, evaṃ upaddutamakāsi …
 ```
 
-(出家を得られないように、そのように妨害をなした) と釈し、妨げられた
+(出家を得られないように、そのように妨害をなした) と説明し、妨げられた
 事柄を出家と言い換えている。これは註の解釈であるが、事柄が「世尊のもと
 での梵行 (出家)」であることと合う。
 
@@ -78,7 +80,7 @@ bhagavati は師の処格で、brahmacariya (carati) 側が要求する。「誰
 処格のままである。
 
 ```
-bhikkhū bhagavati brahmacariyaṃ caranti   (DN 6 Mahāli、VRI 段落 372)
+bhikkhū bhagavati brahmacariyaṃ carantī’’ti   (DN 6 Mahāli、VRI 段落 372)
 vipassimhi bhagavati brahmacariyaṃ caritvā   (DN 14 Mahāpadāna、VRI 段落 91)
 devā bhagavati brahmacariyaṃ caritvā adhunūpapannā   (DN 18 Janavasabha、VRI 段落 282)
 ```

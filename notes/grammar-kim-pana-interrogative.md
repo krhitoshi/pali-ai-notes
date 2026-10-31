@@ -62,13 +62,13 @@ SN 3.3 の答えは `Natthi kho, mahārāja, …` で、問いと答えで語順
 kiṃ pana は二つの小辞の組み合わせで、疑問の力は kiṃ にあり、pana は添え
 物である。
 
-**kiṃ**: DoP は ka の項末尾の「副詞的に用いられる形」で kiṃ の第一義を
-「疑問の不変化詞 (interrogative particle)」とし、用例に `kiṃ pana bhante
-taṃ jīvaṃ taṃ sarīraṃ` (DN I 188) を挙げる。PTSD も kiṃ の第二義を「疑問
-を導く不変化詞、ラテン語 nonne に当たる」とし、`kim pana` をその例として
-いる。この用法の kiṃ は「何」という内容を持たず、文全体を諾否疑問にする
-標識である。サンスクリットの kim、ラテン語の num と同じ働きで、日本語では
-文末の「か」に対応する。
+**kiṃ**: DoP は代名詞 ka の項の「副詞的に用いられる形 (forms used
+adverbially)」で kiṃ の第一義を「疑問の不変化詞 (interrogative particle)」
+とし、用例に `kiṃ pana bhante taṃ jīvaṃ taṃ sarīraṃ` (DN I 188) を挙げる。
+PTSD も kiṃ の第二義を「疑問を導く不変化詞、ラテン語 nonne に当たる」
+とし、`kim pana` をその例としている。この用法の kiṃ は「何」という内容を
+持たず、文全体を諾否疑問にする標識である。サンスクリットの kim、ラテン語の
+num と同じ働きで、日本語では文末の「か」に対応する。
 
 **pana**: DoP は pana の第一義を「疑問文に軽い強調を加える前接の小辞」と
 し、`kiṃ pana tvaṃ etarahi bāhulliko … adhigamissasi` (Vin I 9)、`kiṃ pana
@@ -127,14 +127,15 @@ kiṃ pana, bhikkhave, yaṃ tathāgato sabbaso āmisehi visaṃsaṭṭho vihar
 
 同じ働きで aṅga を挟んだ kimaṅga pana (kimaṅgaṃ pana) がある。DoP は
 kim aṅga を「how much more? how much less?」とし、`kim aṅga pana mayaṃ`
-(DN II 42、DN 14 Mahāpadānasutta) などを挙げる。CSCD では SN 55.24 の
-`Kimaṅgaṃ pana saraṇāniṃ sakkaṃ!`、AN 5.180 の `Kimaṅgaṃ pana maya’nti!`
-などが拾える。DoP はさらに `ko pana vādo` (…については言うまでもない) も
-同系の表現として挙げる。
+(DN II 42、DN 14 Mahāpadānasutta) などを挙げる。CSCD では DN 14 段落 78 の
+`kimaṅgaṃ pana maya’nti`、SN 55.24 の `Kimaṅgaṃ pana saraṇāniṃ sakkaṃ!`、
+AN 5.180 の `Kimaṅgaṃ pana maya’nti!` などが拾える。DoP はさらに
+`ko pana vādo` (…については言うまでもない) も同系の表現として挙げる。
 
 註釈には `paramatthe kiṃ pana vattabbaṃ` (勝義については何を言う必要が
-あろうか = 言うまでもない) という定型もある (Papañcasūdanī、Mūlapaṇṇāsa
-註)。
+あろうか = 言うまでもない) という言い方もある (Papañcasūdanī、Mūlapaṇṇāsa
+註)。ただし `kiṃ pana vattabbaṃ` の形は CSCD の註釈・復註ではこの箇所と
+Visuddhimagga 復註の 1 箇所にしか見つからず、定型と呼べるほど多くはない。
 
 ### 3. 「そうではなく」(否定のあとに正解を出す)
 
@@ -180,8 +181,10 @@ sabrahmacārīsu agāravo hoti appatisso’ti
 
 ## 対訳での kiṃ pana の訳し方 (現状)
 
-本リポジトリの対訳で kiṃ pana の語釈行がどう書かれているかを、段落番号
-つきで抜き出した (2026-10-31 時点、`* kiṃ pana =` で始まる語釈行を対象)。
+本ノートで参照した対訳の箇所について、kiṃ pana の語釈行を段落番号つきで
+抜き出した (2026-10-31 時点)。本リポジトリの対訳全体では `* kiṃ pana =`
+で始まる語釈行は 18 ファイルに 39 行あり (`_v1`、`_fable` の派生ファイル
+を除く)、下表はその一部である。
 
 | ファイル | 段落 | 語釈行の訳 | 用法 |
 |---|---|---|---|
@@ -194,6 +197,9 @@ sabrahmacārīsu agāravo hoti appatisso’ti
 | mn/mn_069.md | 173 | 「一体何の (役に立つのか)」 | 4 |
 
 同じ経の中でも用法 1 の訳が「では、どうか」「では～か」と揺れている。
+mn/mn_069.md 段落 173 には同じ型の `Kiṃ panimassāyasmato …` が 7 回あり、
+語釈行も「一体何の (役に立つのか)」「一体何になるのか」「いったい何の意味が
+あるのか」などと揺れている (表には最初のものを載せた)。
 いずれも kiṃ が疑問標識であることは訳からは読み取れないので、語釈行では
 kiṃ と pana を分けて書く方が構造が伝わる。ここでは指摘にとどめ、改訂は
 ユーザの判断を待つ。
@@ -202,9 +208,8 @@ kiṃ と pana を分けて書く方が構造が伝わる。ここでは指摘�
 
 - kiṃ pana の全出現を数えたわけではない。上の用法分類は DoP、PTSD の語義
   と、本リポジトリの対訳および CSCD の一部用例から立てたもので、これ以外
-  の用法がないとは言えない
-- DN 14 の `kimaṅgaṃ pana mayaṃ` は CSCD で確認したが、VRI 段落番号は
-  確認していない
+  の用法がないとは言えない。対訳の語釈行 39 行についても、上表に載せた
+  もの以外は用法を分類していない
 
 ## 出典
 
@@ -215,13 +220,12 @@ kiṃ と pana を分けて書く方が構造が伝わる。ここでは指摘�
 
 ### 原文 (CSCD)
 
-- `s0202m.mul.xml` MN 79 Cūḷasakuludāyisutta 段落 273-275、MN 80
-  Vekhanasasutta 段落 278
-- `s0201m.mul.xml` MN 69 Goliyānisutta 段落 173、MN 70 Kīṭāgirisutta
-  段落 184
+- `s0202m.mul.xml` MN 69 Goliyānisutta 段落 173、MN 70 Kīṭāgirisutta
+  段落 184、MN 79 Cūḷasakuludāyisutta 段落 273-275、MN 80 Vekhanasasutta
+  段落 278
 - `s0301m.mul.xml` SN 3.3 Jarāmaraṇasutta
 - `s0503m.mul.xml` Ud 8.3、`s0504m.mul.xml` Iti 43
-- `s0102m.mul.xml` DN 14 Mahāpadānasutta、`s0305m.mul.xml` SN 55.24、
+- `s0102m.mul.xml` DN 14 Mahāpadānasutta 段落 78、`s0305m.mul.xml` SN 55.24、
   `s0403m1.mul.xml` AN 5.180 (kimaṅgaṃ pana)
 - `s0201a.att.xml` Papañcasūdanī (paramatthe kiṃ pana vattabbaṃ)
 - `s0517a.att.xml` Paṭisambhidāmagga 註 段落 162
