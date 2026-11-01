@@ -1,5 +1,5 @@
 ---
-description: パーリ語句の用例を辞書 (DoP) 風に出典 (VRI 段落番号) + 原文 + 日本語訳の形で作る
+description: パーリ語句の用例を辞書の用例欄を参考に出典 (VRI 段落番号) + 原文 + 日本語訳の形で作る
 argument-hint: 箇所と語句 (例 "MN 79 appāṭihīrakataṃ bhāsitaṃ sampajjati") [他の文脈も, などの指示]
 disable-model-invocation: true
 ---
@@ -27,14 +27,14 @@ disable-model-invocation: true
 1 用例につき 2 行. 出典と原文を 1 行目に, 日本語訳を 2 行目に 「」 で書く.
 
 ```
-MN 79 (VRI §272) (nanu evaṃ sante tassa purisassa appāṭihīrakataṃ bhāsitaṃ sampajjatī ti)
-「そうであるなら, その男の発言は根拠のないものということになるのではないか」
+MN 79 (VRI §272) (‘‘Taṃ kiṃ maññasi, udāyi – nanu evaṃ sante, tassa purisassa appāṭihīrakataṃ bhāsitaṃ sampajjatī’’ti?)
+「ウダーイよ, これをどう思うか. そうであるなら, その男の発言は根拠のないものということになるのではないか」
 
-Vism VIII (VRI §223) (phuṭṭhaphuṭṭhokāse pana satiṃ ṭhapetvā bhāventass' eva bhāvanā sampajjati)
+Vism VIII (VRI §223) (Phuṭṭhaphuṭṭhokāse pana satiṃ ṭhapetvā bhāventasseva bhāvanā sampajjati.)
 「しかし, (息が) 触れるその都度の箇所に念を据えて修習する者にこそ, 修習は成就する」
 
-Dhp-a (ad Dhp 116, Cūḷekasāṭakabrāhmaṇavatthu) (dandhañ hi karoto ti yo pana ‘‘dassāmi, na dassāmi, sampajjissati nu kho me, no’’ti evaṃ cikkhallamaggena gacchanto viya dandhaṃ puññaṃ karoti)
-「『ぐずぐずと (福徳を) なす者には』とは, 『与えようか, 与えまいか, 私に (この施しは) うまくいくだろうか, いかないだろうか』と, このように泥道を行く者のようにぐずぐずと福徳をなす者 (のことである)」
+Dhp-a (ad Dhp 116, Cūḷekasāṭakabrāhmaṇavatthu) (Dandhañhi karototi yo pana ‘‘dassāmi, na dassāmi sampajjissati nu kho me, no’’ti evaṃ cikkhallamaggena gacchanto viya dandhaṃ puññaṃ karoti, tassa ekasāṭakassa viya maccherasahassaṃ pāpaṃ okāsaṃ labhati.)
+「『ぐずぐずと (福徳を) なす者には』とは, 『与えようか, 与えまいか, 私に (この施しは) うまくいくだろうか, いかないだろうか』と, このように泥道を行く者のようにぐずぐずと福徳をなす者 (のことである). その者には, 一枚衣の (バラモンの) 場合のように, 千もの物惜しみという悪が機会を得る」
 ```
 
 - 出典は VRI の段落番号で示す. 経典は `MN 79 (VRI §272)`, `DN 9 (VRI §425)`,
@@ -45,16 +45,17 @@ Dhp-a (ad Dhp 116, Cūḷekasāṭakabrāhmaṇavatthu) (dandhañ hi karoto ti y
 - PTS の巻・頁はユーザが求めたときだけ付ける. スクリプトが出す PTS 頁は
   XML の頁マーカーから取った推定で行番号がないため, DoP など辞書の記載で
   確認できたものだけを「M II 33,19」の形で使う. 未確認なら書かない
-- 原文は DoP の引用スタイルで書く. 語句を含む最小限の節を引き (文頭の
-  呼びかけや「taṃ kiṃ maññasi」などは落としてよい), 引用符 ‘‘ ’’ は外し,
-  引用の ti は前の語と離して書く (sampajjatī ti), 母音脱落の連声は
-  アポストロフィで示す (bhāventass' eva). 註の見出し語の ti も離す
-  (dandhañ hi karoto ti). 異読注 [..] は入れない
-- 訳は引いた範囲だけを訳す. 補った語は ( ) に入れる. 読点は ", " を使い
-  「、」「。」は使わない (プロジェクトの表記に合わせる)
+- 原文はスクリプトが出した文を原典 (VRI) の表記のまま使う. 引用符 ‘‘ ’’,
+  呼びかけ, 連声の続け書き (bhāventasseva, khvāssa, ākāravatītveva), ti の
+  続け書き (sampajjatī’’ti, karototi), 文末の句読点も変えない. 辞書式の
+  省音記号 (bhāventass' eva) や小辞の分離 (tv eva) はしない. 異読注 [..]
+  はスクリプトが外した状態 (--keep-notes なし) を使う
+- 長い文の一部だけを引くときは省いた箇所を ... で示し, 残した部分の表記は
+  変えない
+- 訳は引いた範囲だけを原文に即して訳す. 補った語は ( ) に入れる. 読点は
+  ", " を使い「、」「。」は使わない (プロジェクトの表記に合わせる)
 - 註の釈 (Ps などの語義説明) はユーザが求めたときだけ添える. 添えるときは
-  原文の後に DoP 風に「; Ps III 273,10 : ...」とするか, 別の用例として
-  `Ps (ad MN 79, VRI §272) (...)` の行を立てる
+  別の用例として `Ps (ad MN 79, VRI §272) (...)` の行を立てる
 - 複数の用例は経蔵 (DN, MN, SN, AN, KN), 律蔵, 論蔵, 註, 復註, Vism の順に
   並べる
 - 回答は本文に書く. notes/ への保存はユーザが指示したときだけ行う
@@ -91,8 +92,7 @@ python3 scripts/yorei.py --code s0202m.mul 'appāṭihīrakataṃ bhāsitaṃ sa
 ## 手順 3: 書式化と訳
 
 スクリプトの出力から用例に使う範囲を選び, 上の書式に整えて訳を付ける.
-原文の文字列はスクリプト出力から取り, 自分で打ち直さない (連声の
-アポストロフィと ti の分離だけを加える).
+原文の文字列はスクリプト出力から取り, 自分で打ち直さず表記も変えない.
 
 ## 出典略号の対応範囲と注意
 
