@@ -29,29 +29,35 @@ disable-model-invocation: true
 - 指定した範囲の切れ目が悪いとき (語の途中, 従属節だけで主節がない, 文末の
   ti が外れるなど) は, 直近の句読点や節の切れ目まで少し広げてよい. 広げる
   のは最小限にし, 指定範囲より大きく増やさない
-- 範囲の前後を省いたことは ... で示す. 文脈が無いと訳が通らない語 (tassa,
-  tāni などの指示語) は, 原文側を広げずに訳の ( ) で補う
+- 引用の前後を省いても ... は付けない (辞書の用例と同じく, 引用は文の途中
+  から始まり途中で終わってよい). ... で示すのは引用の途中を省いたときだけ.
+  文脈が無いと訳が通らない語 (tassa, tāni などの指示語) は, 原文側を
+  広げずに訳の ( ) で補う
+- 引用の端にある引用符 ‘‘ ’’ は, 対になる相手が引用の中にないなら落とす
+  (指定範囲の直前の ‘‘ だけを残すと閉じないまま終わる). 対が引用の中で
+  閉じるときはそのまま残す
 
 ## 出力書式
 
-1 用例につき 2 行. 出典と原文を 1 行目に, 日本語訳を 2 行目に 「」 で書く.
+1 用例につき 1 行. 出典と原文の後に空白を 1 つ置き, 日本語訳を 「」 で続ける.
+出典・原文と訳の間で改行しない. 用例が複数あるときは用例ごとに空行で区切る.
+用例は回答の中でコードブロック (```) に入れて出す. 用例以外の補足はブロックの
+外に書く.
 
 ```
-MN 79 (VRI §272) (‘‘Taṃ kiṃ maññasi, udāyi – nanu evaṃ sante, tassa purisassa appāṭihīrakataṃ bhāsitaṃ sampajjatī’’ti?)
-「ウダーイよ, これをどう思うか. そうであるなら, その男の発言は根拠のないものということになるのではないか」
+MN 79 (VRI §272) (‘‘Taṃ kiṃ maññasi, udāyi – nanu evaṃ sante, tassa purisassa appāṭihīrakataṃ bhāsitaṃ sampajjatī’’ti?) 「ウダーイよ, これをどう思うか. そうであるなら, その男の発言は根拠のないものということになるのではないか」
 
-Vism VIII (VRI §223) (Phuṭṭhaphuṭṭhokāse pana satiṃ ṭhapetvā bhāventasseva bhāvanā sampajjati.)
-「しかし, (息が) 触れるその都度の箇所に念を据えて修習する者にこそ, 修習は成就する」
+Vism VIII (VRI §223) (Phuṭṭhaphuṭṭhokāse pana satiṃ ṭhapetvā bhāventasseva bhāvanā sampajjati.) 「しかし, (息が) 触れるその都度の箇所に念を据えて修習する者にこそ, 修習は成就する」
 
-Dhp-a (ad Dhp 116, Cūḷekasāṭakabrāhmaṇavatthu) (Dandhañhi karototi yo pana ‘‘dassāmi, na dassāmi sampajjissati nu kho me, no’’ti evaṃ cikkhallamaggena gacchanto viya dandhaṃ puññaṃ karoti, tassa ekasāṭakassa viya maccherasahassaṃ pāpaṃ okāsaṃ labhati.)
-「『ぐずぐずと (福徳を) なす者には』とは, 『与えようか, 与えまいか, 私に (この施しは) うまくいくだろうか, いかないだろうか』と, このように泥道を行く者のようにぐずぐずと福徳をなす者 (のことである). その者には, 一枚衣の (バラモンの) 場合のように, 千もの物惜しみという悪が機会を得る」
+Dhp-a (ad Dhp 116, Cūḷekasāṭakabrāhmaṇavatthu) (Dandhañhi karototi yo pana ‘‘dassāmi, na dassāmi sampajjissati nu kho me, no’’ti evaṃ cikkhallamaggena gacchanto viya dandhaṃ puññaṃ karoti, tassa ekasāṭakassa viya maccherasahassaṃ pāpaṃ okāsaṃ labhati.) 「『ぐずぐずと (福徳を) なす者には』とは, 『与えようか, 与えまいか, 私に (この施しは) うまくいくだろうか, いかないだろうか』と, このように泥道を行く者のようにぐずぐずと福徳をなす者 (のことである). その者には, 一枚衣の (バラモンの) 場合のように, 千もの物惜しみという悪が機会を得る」
 ```
 
 - 出典は VRI の段落番号で示す. 経典は `MN 79 (VRI §272)`, `DN 9 (VRI §425)`,
   註は `Ps (ad MN 79, VRI §272)`, `Sv (ad DN 9, VRI §423)`, 復註は
   `Ps-pṭ (ad MN 79, VRI §272)`, 清浄道論は `Vism VIII (VRI §223)`,
   Dhp 註は `Dhp-a (ad Dhp 116, <vatthu 名>)`. AN は段落番号が経番号と同じ
-  なので `AN 4.127` だけでよい. SN は `SN 56.46 (VRI §1116)` の形
+  だが他と形を揃えて `AN 4.127 (VRI §127)` と書く. SN は
+  `SN 56.46 (VRI §1116)` の形
 - PTS の巻・頁はユーザが求めたときだけ付ける. スクリプトが出す PTS 頁は
   XML の頁マーカーから取った推定で行番号がないため, DoP など辞書の記載で
   確認できたものだけを「M II 33,19」の形で使う. 未確認なら書かない
@@ -60,8 +66,8 @@ Dhp-a (ad Dhp 116, Cūḷekasāṭakabrāhmaṇavatthu) (Dandhañhi karototi yo 
   続け書き (sampajjatī’’ti, karototi), 文末の句読点も変えない. 辞書式の
   省音記号 (bhāventass' eva) や小辞の分離 (tv eva) はしない. 異読注 [..]
   はスクリプトが外した状態 (--keep-notes なし) を使う
-- 長い文の一部だけを引くときは省いた箇所を ... で示し, 残した部分の表記は
-  変えない (どこまで引くかは上の「引用する範囲」による)
+- 長い文の一部だけを引くときは, 引用の途中で省いた箇所だけを ... で示し,
+  残した部分の表記は変えない (どこまで引くかは上の「引用する範囲」による)
 - 訳は引いた範囲だけを原文に即して訳す. 補った語は ( ) に入れる. 読点は
   ", " を使い「、」「。」は使わない (プロジェクトの表記に合わせる)
 - 註の釈 (Ps などの語義説明) はユーザが求めたときだけ添える. 添えるときは
@@ -89,9 +95,9 @@ MN なら s0201m / s0202m / s0203m の 3 巻のどれか). cscd-text MCP
 python3 scripts/yorei.py --code s0202m.mul 'appāṭihīrakataṃ bhāsitaṃ sampajjat'
 ```
 
-- 1 一致につき 2 行出る. 1 行目が出典の引用形 (そのまま用例の出典に使える)
-  と, 角括弧内にファイル名 / 見出しの連鎖 / VRI 段落番号 / PTS 頁 (推定).
-  2 行目が一致を含む文
+- 1 一致につき 1 行出る. 先頭が用例と同じ「出典の引用形 (一致を含む文)」で,
+  そのまま用例の先頭に使える. 末尾の角括弧内はファイル名 / 見出しの連鎖 /
+  VRI 段落番号 / PTS 頁 (推定) で, 用例には写さない
 - 分割ファイルは 404 になるまで順に tipitaka.org から取得し _tmp/ に
   キャッシュする. 初回は時間がかかる (AN の 1 集で 30-50 ファイル)
 - `--xml _tmp/e0101n.mul8.xml` でローカルファイルを直接指定できる
