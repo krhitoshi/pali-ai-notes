@@ -24,6 +24,17 @@
 # <xml|url> に URL を渡すと _tmp/ にダウンロードして使う.
 # 既に同名ファイルがあれば再ダウンロードせずそれを正本として使う
 #
+# 環境変数 TAIYAKU_CTX で参照文脈の付け方を指定する (issue #23).
+#   未指定 / none : 従来どおり chunk_NN.txt だけを stdin に流す
+#   all           : セクション全体を前後の文脈として付けた prompt_NN.txt を流す
+#   <N>           : 前後 N 段落を文脈として付ける
+# 文脈は extract_chunks.rb が prompt_NN.txt として組み立てる (訳出対象は
+# chunk_NN.txt と同一内容). 短い段落が多いテキストで文脈不足による誤訳を
+# 防ぐためのもの. 例:
+#   TAIYAKU_CTX=all scripts/taiyaku.sh _tmp/s0403m1.mul18.xml "(19) 4. Araññavaggo" \
+#     "1-3,4-5,6-7,8-9,10-11,12-13,14-15,16-17,18-19,20-26" _tmp/work_an_05_181-190 \
+#     an/an_05_181-190.md claude-fable-5-1
+#
 # 注意:
 # - 生成で 401 が出る場合は claude login で CLI の再ログインが必要
 # - 生成の cwd は workdir. リポジトリ内 workdir ではプロジェクト CLAUDE.md が
@@ -81,9 +92,14 @@ ruby "$repo_root/scripts/extract_chunks.rb" "$xml" "$subhead" "$workdir" "$chunk
 struct_args=()
 [ -f "$workdir/struct.txt" ] && struct_args=(--struct "$workdir/struct.txt")
 
-# 2. 生成. チャンクごとに claude -p のクリーンな別プロセスを並列で呼ぶ
+# 2. 生成. チャンクごとに claude -p のクリーンな別プロセスを並列で呼ぶ.
+# TAIYAKU_CTX 指定時は参照文脈付きの prompt_NN.txt を, 未指定時は
+# chunk_NN.txt をそのまま stdin に流す
+echo "generate: ctx=${TAIYAKU_CTX:-none}"
 for chunk in "$workdir"/chunk_*.txt; do
   n=$(basename "$chunk" .txt); n=${n#chunk_}
+  input="chunk_$n.txt"
+  [ -f "$workdir/prompt_$n.txt" ] && input="prompt_$n.txt"
   (
     cd "$workdir"
     claude -p \
@@ -92,7 +108,7 @@ for chunk in "$workdir"/chunk_*.txt; do
       --system-prompt "$(cat "$repo_root/system_prompt_no_paraphrase.md")" \
       --disable-slash-commands \
       --tools "" \
-      < "chunk_$n.txt" > "out_$n.md" 2> "err_$n.log"
+      < "$input" > "out_$n.md" 2> "err_$n.log"
   ) &
 done
 wait
