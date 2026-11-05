@@ -17,8 +17,9 @@
 #   _tmp/ にキャッシュする. 既にあるファイルはそのまま使う
 # - --xml はローカルの XML ファイルを直接指定する (複数可)
 # - --all-cached は _tmp/*.xml をすべて検索する (ダウンロードしない)
-# - 出力は一致ごとに 2 行: 出典行 (略号 + VRI 段落番号 + ファイル / 見出し /
-#   PTS 頁) と, 一致を含む文. --para で文の代わりに段落全体を出す
+# - 出力は一致ごとに 1 行: 出典の引用形 (略号 + VRI 段落番号) と一致を含む文を
+#   用例と同じ「出典 (文)」の形で出し, 末尾の角括弧にファイル / 見出し /
+#   PTS 頁を添える. --para で文の代わりに段落全体を出す
 # - 異読注 <note> は既定で落とす. --keep-notes で [..] として残す
 # - 出典略号は DN / MN / SN / AN / Dhp-a / Vism とその註・復註に対応し,
 #   それ以外はファイル名と見出し連鎖をそのまま出す (引用形は利用者が組む)
@@ -271,9 +272,8 @@ def citation(path, heads, n, n_next, own_n=None):
         if sutta is None:
             return None, code5, kind
         if kind == "mul":
-            if mul_abbr == "AN":
-                # AN の段落番号は集内の経番号と一致する
-                return sutta, code5, kind
+            # AN の段落番号は集内の経番号と一致するが, 他の経蔵と形を揃えて
+            # VRI § を併記する
             return f"{sutta} ({sec})", code5, kind
         abbr = att_abbr if kind == "att" else tik_abbr
         # 註・復註では経番号が見出しから取れるが, SN/AN の段落番号は経番号と
@@ -420,8 +420,7 @@ def main():
             extra = f"{h['file']} | {h['heads']} | §{h['n']}"
             if h["pts"]:
                 extra += f" | {h['pts']}"
-            print(f"{cite}  [{extra}]")
-            print(f"  {h['text']}")
+            print(f"{cite} ({h['text']})  [{extra}]")
     if total == 0:
         print("no match", file=sys.stderr)
         sys.exit(1)
