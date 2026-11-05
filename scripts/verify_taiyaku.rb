@@ -25,6 +25,10 @@
 #              全角の “ ” は編集表記ではなく生成出力の写し崩れのため
 #              許容せず NG で検出する
 #   NG         いずれにも一致しない (要確認)
+#   NG-SECTION 正本全体には一致するが, その行が属するセクション (## 見出し
+#              直後の原文ブロック + 経題) には一致しない. 参照文脈付き生成
+#              (TAIYAKU_CTX, issue #23) で文脈側の文を誤って訳出した場合や,
+#              隣のチャンクの文が混入した場合に出る
 #
 # あわせて見出しの検査を行う (NG-HEADING):
 #   - 見出しは「# 経題」「## <段落番号>」「## <段落番号> (連番)」
@@ -60,29 +64,80 @@ def loosen(s)
    .strip
 end
 
-source = collapse(File.read(source_path, encoding: "UTF-8"))
-source_loose = loosen(source)
-# 引用符と空白をすべて除いた版. 文字化けや脱字は残らず検出できる
-source_nospace = source_loose.gsub(/[‘’"']/, "").gsub(/\s/, "")
+# 照合用に 3 段階の正規化版をまとめて作る.
+# nospace は引用符と空白をすべて除いた版. 文字化けや脱字は残らず検出できる
+def prepare(text)
+  c = collapse(text)
+  l = loosen(c)
+  { collapsed: c, loose: l, nospace: l.gsub(/[‘’"']/, "").gsub(/\s/, "") }
+end
+
+# 再掲行 pali が正本 src に含まれる段階を返す. 含まれなければ nil
+def match_tier(pali, src)
+  return :ok if src[:collapsed].include?(pali)
+  loose = loosen(pali)
+  return :loose if src[:loose].include?(loose)
+  return :nospace if src[:nospace].include?(loose.gsub(/[‘’"']/, "").gsub(/\s/, ""))
+  nil
+end
+
+source = prepare(File.read(source_path, encoding: "UTF-8"))
 
 ng = 0
 checked = 0
 md_paths.each do |md|
+  # セクション (## 見出し) ごとの原文ブロック (見出し直後から ### Meta まで.
+  # assemble_md.rb が正本から byte-exact でコピーした部分) を集め, 再掲行が
+  # 正本全体には含まれるが自分のセクションの原文にはない場合を NG-SECTION
+  # として検出する. 参照文脈付き生成 (TAIYAKU_CTX, issue #23) で文脈側の
+  # 文を誤って訳出した場合は正本全体との照合では通ってしまうため.
+  # 経題 (# 見出し) は先頭チャンクの訳出対象に含まれるため, 各セクションの
+  # 原文に加えて照合する
+  title = nil
+  body_lines = nil
+  in_body = false
+  section = nil
   File.read(md, encoding: "UTF-8").each_line.with_index(1) do |line, lineno|
+    if line =~ /\A# (.+)/
+      title = $1.strip
+      next
+    end
+    if line.start_with?("## ")
+      body_lines = []
+      in_body = true
+      section = nil
+      next
+    end
+    if line.start_with?("### ")
+      in_body = false
+      next
+    end
+    if in_body
+      body_lines << line
+      next
+    end
     # 番号付き行 = パーリ再掲行. 見出しや訳文行 (→, *) は対象外
     next unless line =~ /\A(\d+)\.\s+(.+)\z/m
     pali = collapse($2)
     next if pali.empty?
     checked += 1
-    next if source.include?(pali)
-    loose = loosen(pali)
-    if source_loose.include?(loose)
-      puts "OK-LOOSE #{md}:#{lineno}: #{pali[0, 60]}"
-    elsif source_nospace.include?(loose.gsub(/[‘’"']/, "").gsub(/\s/, ""))
-      puts "OK-NOSPACE #{md}:#{lineno}: #{pali[0, 60]}"
-    else
+    tier = match_tier(pali, source)
+    if tier.nil?
       ng += 1
       puts "NG #{md}:#{lineno}: #{pali}"
+      next
+    end
+    if body_lines
+      section ||= prepare([title, *body_lines].compact.join("\n"))
+      unless match_tier(pali, section)
+        ng += 1
+        puts "NG-SECTION #{md}:#{lineno}: 正本にはあるがこのセクションの原文にない (参照文脈の訳出?): #{pali[0, 60]}"
+        next
+      end
+    end
+    case tier
+    when :loose then puts "OK-LOOSE #{md}:#{lineno}: #{pali[0, 60]}"
+    when :nospace then puts "OK-NOSPACE #{md}:#{lineno}: #{pali[0, 60]}"
     end
   end
 end

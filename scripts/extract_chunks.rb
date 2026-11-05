@@ -43,6 +43,10 @@
 xml_path, subhead, outdir, chunkspec = ARGV.map { |a| a.dup.force_encoding("UTF-8") }
 abort "usage: extract_chunks.rb <xml> <subhead> [<outdir> <chunkspec>]" unless subhead
 abort "usage: extract_chunks.rb <xml> <subhead> [<outdir> <chunkspec>]" if outdir && !chunkspec
+# 参照文脈の指定 (詳細は末尾の prompt_NN.txt 書き出し部を参照). 書き出し前に検査する
+ctx = ENV["TAIYAKU_CTX"].to_s.strip
+ctx = "none" if ctx.empty?
+abort "TAIYAKU_CTX は none / all / 正の整数のいずれか: #{ctx.inspect}" unless ctx =~ /\A(none|all|[1-9]\d*)\z/
 
 # VRI XML は UTF-16LE (BOM 付き)
 raw = File.read(xml_path, mode: "rb", encoding: "UTF-16LE:UTF-8")
@@ -260,4 +264,45 @@ if joined == expected
   chunk_paths.each { |p| puts "  #{p} (#{File.read(p).bytesize} bytes)" }
 else
   abort "ASSERT FAILED: concatenated chunks differ from source"
+end
+
+# 参照文脈付きプロンプトの書き出し (issue #23). 環境変数 TAIYAKU_CTX で指定する.
+#   未指定 / none : 書き出さない. taiyaku.sh の stdin は chunk_NN.txt だけになり,
+#                   参照範囲 = 訳出範囲の従来どおりの生成になる
+#   all           : セクション全体を前後の文脈として付ける
+#   <N>           : 前後 N 段落 (段落一覧の行単位) を文脈として付ける.
+#                   切れた側には "(中略)" を置く
+# チャンクごとに prompt_NN.txt を書き出す. 「前の文脈」「訳出対象」「後の文脈」の
+# 順に並べ, 訳出対象は chunk_NN.txt と同一内容にする (連結一致 assert の対象は
+# 引き続き chunk_NN.txt). 文脈は語義・指示語・…pe… 省略の判断材料で, 訳出も
+# 再掲もさせない. 経題行は先頭チャンク以外では前の文脈の先頭に置き, vagga 名や
+# 経名を全チャンクに見せる.
+# 古い prompt_*.txt が残って意図せず使われないよう, none のときは削除する
+Dir[File.join(outdir, "prompt_*.txt")].each { |p| File.delete(p) }
+exit if ctx == "none"
+
+PROMPT_HEADER = <<~TEXT
+  以下は 1 つのセクションの原文を「前の文脈」「訳出対象」「後の文脈」の順に並べたものです。対訳を作るのは「訳出対象」の部分だけです。前後の文脈は、語義・指示語・省略 (…pe…) の内容を判断するために参照するもので、訳出・再掲・言及の対象にしません。対訳の通し番号は訳出対象の先頭を 1 とします。訳出対象の先頭が経題行の場合は、経題を項目 1 として扱います。
+TEXT
+
+groups.each_with_index do |nums, i|
+  before = blocks[1...nums.first]
+  after = blocks[(nums.last + 1)..] || []
+  unless ctx == "all"
+    n = ctx.to_i
+    before = ["(中略)"] + before.last(n) if before.size > n
+    after = after.first(n) + ["(中略)"] if after.size > n
+  end
+  before.unshift(blocks[0]) unless i.zero?
+  target = File.read(chunk_paths[i], encoding: "UTF-8").chomp
+  prompt = +PROMPT_HEADER
+  prompt << "\n===== 前の文脈 (訳出しない) =====\n\n"
+  prompt << (before.empty? ? "(なし)" : before.join("\n\n")) << "\n\n"
+  prompt << "===== 訳出対象 (この部分だけ対訳する) =====\n\n"
+  prompt << target << "\n\n"
+  prompt << "===== 後の文脈 (訳出しない) =====\n\n"
+  prompt << (after.empty? ? "(なし)" : after.join("\n\n")) << "\n"
+  path = File.join(outdir, format("prompt_%02d.txt", i + 1))
+  File.write(path, prompt)
+  puts "  #{path} (ctx=#{ctx}, #{prompt.bytesize} bytes)"
 end
