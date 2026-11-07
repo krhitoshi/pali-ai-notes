@@ -2,6 +2,7 @@
 generated: 2026/11/05
 updated: 2026/11/05
 models: Claude Fable 5.1
+reviewed: none
 ---
 
 # upanissāya viharati の「依って住む」は何を意味するか

@@ -2,6 +2,7 @@
 generated: 2026/11/05
 updated: 2026/11/05
 models: Claude Fable 5.1
+reviewed: none
 ---
 
 # MN 81 の Vegaḷiṅgaṃ はなぜ nom. の位置で -aṃ なのか — 中性の地名と nāma がとる格
