@@ -1,8 +1,8 @@
 ---
 generated: 2026/11/05
-updated: 2026/11/05
+updated: 2026/11/07
 models: Claude Fable 5.1
-reviewed: none
+reviewed: 2026/11/07 (Claude Fable 5.1)
 ---
 
 # upanissāya viharati の「依って住む」は何を意味するか
@@ -37,7 +37,7 @@ upanissāya は upa-ni-√śri (寄りかかる、頼る) に由来する動詞 
 |---|---|
 | DOP (upanissayati の項) | 動詞は goes near to; clings to, depends upon。連続体 upanissāya は going near to; depending on; near (+ acc. or gen.) とし、用例に MN 81 §282 のこの文 (M II 45) を挙げる |
 | PTSD (Upanissāya) | near, close by (with acc.); depending on, by means of (acc.) |
-| CPD (upa-ni-ssāya) | 用法を二つに分ける。1. 動詞的な意味 clinging to, depending on, relying on。2. 対格の後に置かれ viharati などの動詞に続く後置詞で in, at, near, with (person)。2 の用例の筆頭に Vin III 70 = D II 119 = S V 321 の「bhikkhū Vesāliṃ upanissāya viharanti」と MN 81 のこの文を挙げる |
+| CPD (upa-ni-ssāya) | 用法を二つに分ける。1. 動詞的な意味 clinging to, depending on, relying on。2. 対格の後に置かれ viharati などの動詞に続く後置詞で in, at, near, with (person)。2 の用例の筆頭に Vin III 70 = D II 119 = S V 321 の「bhikkhū Vesāliṃ upanissāya viharanti」を挙げ、MN 81 のこの文 (M II 45) もその用例に含める |
 
 DOP と CPD がともに「近くに (near)」と「頼って (depending on)」の両方を
 挙げ、しかも MN 81 のこの文を「場所 + viharati」の用例に選んでいることが、
@@ -45,6 +45,12 @@ DOP と CPD がともに「近くに (near)」と「頼って (depending on)」�
 後置詞用法として立てている点も、この句が定型句であることを示している。
 
 ## 2. 場所を目的語とするときの意味
+
+CSCD の本文 (mūla) で upanissāya の直後に vihar- が続く段落を全文検索で
+数えると 100 件 (律蔵 9、長部 5、中部 40、相応部 9、増支部 36、小部 1) で
+あり、目的語を見るといずれも場所・物を取るもの (本節) か人・法を取るもの
+(第 3 節) である。アオリスト vihāsi の形 (MN 81 §282 のほか SN 6.14、
+AN 4.21、AN 5.180) はこの数に含めていない。
 
 ### 律の語義分析
 
@@ -62,6 +68,17 @@ cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārā.
 いることである」。つまり「依って」の内容は、生活の四資具をその村や町から
 得ていることである。これは原文 (律蔵本文) の記述であり、註釈の解釈ではない。
 
+律註 (Samantapāsādikā) はこの語義分析の upanissāya viharati に語釈を置いて
+いない。波羅提木叉の註釈 Kaṅkhāvitaraṇī は僧残 13 のこの句を次のように
+言い換え、律の語義分析と同じ理解を示す。
+
+```
+Upanissāya viharatīti tattha paṭibaddhacīvarādipaccayatāya taṃ nissāya vasati.
+```
+
+「依って住むとは、衣などの資具がそこに結びついているために、そこを頼りに
+して住むことである」。
+
 ### 註釈の読み
 
 註釈は、場所を目的語とする upanissāya に対して二つの説明を与えている。
@@ -71,12 +88,15 @@ cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārā.
    (ヴェーサーリーに依って住む比丘たちすべて)」という文は律蔵 Pārājika 3 の
    因縁譚 (Vin III 70)、SN 54.9 Vesālīsutta (S V 321)、DN 16
    Mahāparinibbānasutta (D II 119) に共通して現れる。律註 (Samantapāsādikā)
-   と相応部註 (Sāratthappakāsinī) はこれを同文で次のように言う。
+   はこれを次のように言う。
 
    ```
-   vesāliṃ upanissāyāti vesāliṃ upanissāya samantā gāvutepi aḍḍhayojanepi
-   yāvatikā bhikkhū viharanti
+   vesāliṃ upanissāyāti vesāliṃ upanissāya samantā gāvutepi addhayojanepi
+   yāvatikā bhikkhū viharanti, te sabbe sannipātehīti attho
    ```
+
+   相応部註 (Sāratthappakāsinī) も語形の細部 (vesāliyaṃ upanissāya、
+   aḍḍhayojanepi、bhikkhū を欠く) を除いて同じ説明である。
 
    「ヴェーサーリーの周囲 1 gāvuta ないし半 yojana のうちに住む比丘たち」。
    町の中ではなく、町を中心とした一定の範囲内に住んでいることを指す。
@@ -92,7 +112,9 @@ cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārā.
    註釈が経の冒頭定型「X-yaṃ viharati Y-e (X の町に住む、Y 園に)」を
    説明するときに繰り返し使う言い方 (taṃ nagaraṃ gocaragāmaṃ katvā) と
    同じであり、upanissāya viharati と「X の町に住む」の定型が同じ事態を
-   指すと註釈が見ていることが分かる。
+   指すと註釈が見ていることが分かる。gocaragāmaṃ katvā の句は CSCD の註釈
+   (aṭṭhakathā) 全体で 17 段落にあり、長部註 6、中部註 6、相応部註 2、
+   増支部註 1、ウダーナ註 2 と各部に広がる。
 
    相応部註が Gayā の例で「gayāya avidūre niviṭṭhagāmaṃ upanissāyāti attho
    (ガヤーから遠くないところにある村に依って、の意)」と言うのも同じ趣旨で
@@ -113,7 +135,10 @@ viharati.
 王子の林にアナータピンディカ長者が造った園、そこに住む」。DN 6 の註でも
 「bhagavā taṃ vesāliṃ upanissāya tasmiṃ saṅghārāme viharati. Tena vuttaṃ
 'vesāliyaṃ viharati mahāvane kūṭāgārasālāya'nti」と、同じ言い換えで
-処格の町名を説明している。
+処格の町名を説明している。同じ言い換えは中部註 (MN 90 Kaṇṇakatthalasutta
+註 §375「bhagavā uruññānagaraṃ upanissāya viharati」) と相応部註 (SN 4.1
+註 §137「uruvelāyaṃ viharatīti ... uruvelagāmaṃ upanissāya viharati」) に
+もある。
 
 DN 2 Sāmaññaphalasutta 註はさらに踏み込んで、園の名が何を示すかを言う。
 
@@ -127,8 +152,8 @@ viharati, tassa samīpanivāsanaṭṭhānaparidīpanaṃ.
 ここでは upanissāya の目的語が gocaragāma そのものであり、「依る」の内容が
 托鉢の村であることが註の言葉で明示されている。
 
-DN 16 の註は「kahaṃ nu kho bhagavā etarahi viharati」の説明で
-「kataraṃ nagaraṃ upanissāya kassa paccaye paribhuñjanto ... viharati
+DN 21 Sakkapañhasutta 註 (§344) は「kahaṃ nu kho bhagavā etarahi viharati」
+の説明で「kataraṃ nagaraṃ upanissāya kassa paccaye paribhuñjanto ... viharati
 (どの町に依って、誰の資具を受けて住んでいるのか)」と言い、「依る」と
 「資具を受ける」を並べている。律の語義分析 (四資具がそこに結びつく) と
 同じ理解である。
@@ -171,9 +196,9 @@ vā gehaṃ vā upanissāya vasituṃ na vaṭṭati (樹や山や家に依っ�
   nissaya (依止。新参比丘が師のもとで暮らす制度) と同系の意味である。
 - 法や徳目を目的語とするもの。「appamādaṃ upanissāya (不放逸に依って)」
   (SN 3.17)、「pañca sekhabalāni upanissāya viharati (五つの有学の力に依って
-  住む)」(AN 4.163)、「dhammaṃ sakkatvā garuṃ katvā upanissāya vihariṃsu
-  (法を敬い重んじて依って住んだ)」(SN 6.2)。これは「それを支えとして」の
-  意味である。
+  住む)」(AN 4.163)、「dhammaññeva sakkatvā garuṃ katvā upanissāya
+  vihariṃsu (法のみを敬い重んじて依って住んだ)」(SN 6.2)。これは「それを
+  支えとして」の意味である。
 
 人や法の場合は「近くに」の含みは薄れ、「頼る、支えとする」が前面に出る。
 長部註は DN 34 の「satthāraṃ upanissāya viharati」に関連して
@@ -196,7 +221,8 @@ bhikkhusaṅghaṃ ovadati.
 あり、そこに Kassapa 仏の園 (ārāma) があった、と言っている。つまり
 Kassapa 仏が住んだのは町の近くの園であり、町は托鉢の拠点である。
 「ヴェーガリンガの町に依って住んでいた」は「ヴェーガリンガの町を拠点に
-して (その近くに) 住んでいた」の意味で読む。
+して (その近くに) 住んでいた」の意味で読む。同じ型の文は SN 6.14 (Sikhī 仏と
+Aruṇavatī 王都) と AN 5.180 (Kassapa 仏と過去にあった町) にもある。
 
 中部註 (Papañcasūdanī) は MN 81 のこの文に対して upanissāya の語釈を
 置いていない (CSCD で確認)。
@@ -245,12 +271,9 @@ Kassapa 仏が住んだのは町の近くの園であり、町は托鉢の拠点
 
 ## 確認できていない範囲
 
-- CSCD 全文検索は mūla での upanissāya vihar- の出現を 100 件まで表示した
-  段階で打ち切っており、全出現数は数えていない。用法の分類 (場所・人・法)
-  は表示された範囲に基づく
-- 律註 (Samantapāsādikā) の僧残 13 語義分析への註釈は確認していない
-- 長部註の冒頭定型の語釈は DN 2、6、9、16 の箇所を見たのみで、中部註・
-  相応部註の同種の語釈 (gocaragāmaṃ katvā) は検索結果の範囲で確認した
+- 長部註の冒頭定型の語釈は DN 2、6、9、21 の箇所を見たのみで、中部註・
+  相応部註の同種の語釈は MN 90 註と SN 4.1 註の各 1 箇所と、gocaragāmaṃ
+  katvā の検索結果の範囲で確認した
 - BHS の upaniśritya / upaniśrāya との対応は辞書の記述 (PTSD、DOP) を
   引いたのみで、梵文の用例は見ていない
 
@@ -263,13 +286,16 @@ Kassapa 仏が住んだのは町の近くの園であり、町は托鉢の拠点
 - 「vesāliṃ upanissāya viharanti」の律註・相応部註 (CSCD vin01a.att.xml、
   s0305a.att.xml)、復註 (vin01t2.tik.xml、s0305t.tik.xml)。本文は律蔵
   Pārājika 3 因縁譚 (vin01m.mul.xml §164)、SN 54.9、DN 16 (s0102m.mul.xml
-  §136)
+  §183)
 - 長部註 (CSCD s0101a.att.xml) の DN 2、DN 6 §359、DN 9 §406 冒頭定型の
-  語釈、DN 16 註 (s0102a.att.xml)、DN 34 註 (s0103a.att.xml §358)
+  語釈、DN 21 註 (s0102a.att.xml §344)、DN 34 註 (s0103a.att.xml §358)
+- 中部註 MN 90 註 (CSCD s0202a.att.xml §375)、相応部註 SN 4.1 註
+  (s0301a.att.xml §137) の冒頭定型の語釈
 - 相応部註 Gayā の語釈 (CSCD s0301a.att.xml §237)
-- 律蔵 Pārājikapāḷi 僧残 13 の語義分析 (CSCD vin01m.mul.xml §436 付近)、
-  同 §344 (gaṅgaṃ nadiṃ upanissāya)、Cūḷavagga §311、§346
+- 律蔵 Pārājikapāḷi 僧残 13 の語義分析 (CSCD vin01m.mul.xml §437)、
+  同 §344 (gaṅgaṃ nadiṃ upanissāya)、Cūḷavagga §311、§346、
+  Kaṅkhāvitaraṇī の僧残 13 の句への語釈 (vin04t.nrf.xml)
 - DOP: upanissayati, upanissāya, upanissaya の項
 - PTSD: Upanissāya, Upanissaya の項
-- CPD: upa-ni-ssaya の項
+- CPD: upa-ni-ssāya の項
 - docs/translation_terms.md (nissāya の訳語方針)
