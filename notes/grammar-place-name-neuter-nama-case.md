@@ -1,8 +1,8 @@
 ---
 generated: 2026/11/05
-updated: 2026/11/05
+updated: 2026/11/07
 models: Claude Fable 5.1
-reviewed: none
+reviewed: 2026/11/07 (Claude Fable 5.1)
 ---
 
 # MN 81 の Vegaḷiṅgaṃ はなぜ nom. の位置で -aṃ なのか — 中性の地名と nāma がとる格
@@ -26,9 +26,9 @@ MN 81 と註 (Papañcasūdanī) での出現を格ごとに並べると、中性
 
 | 形 | 格 | 箇所 |
 |---|---|---|
-| vegaḷiṅgaṃ nāma gāmanigamo ahosi | nom. | 282、288、註 282 |
+| vegaḷiṅgaṃ nāma gāmanigamo ahosi / atthi, mahārāja, vegaḷiṅgaṃ nāma gāmanigamo | nom. | 282、註 282 / 288 |
 | vegaḷiṅgaṃ kho, ānanda, gāmanigamaṃ ... upanissāya vihāsi | acc. | 282 |
-| vegaḷiṅge kho, ānanda, gāmanigame / vegaḷiṅge nāma gāmanigame | loc. | 283、287、289-291 |
+| vegaḷiṅge kho, ānanda, gāmanigame / vegaḷiṅge (単独) / vegaḷiṅge nāma gāmanigame | loc. | 283 / 287 / 289-291 |
 | vegaḷiṅgato nikkhamanakāle | abl. | 註 288 |
 
 nom. で vegaḷiṅgaṃ (中性) と gāmanigamo (男性) の性が合わないのは、固有
@@ -49,7 +49,7 @@ MN 81 対訳の語釈行は、282 の vegaḷiṅgaṃ nāma を「ヴェーガ�
 Vegaḷiṅga と同じ型で、名前が -aṃ、同格の普通名詞が -o のもの。
 
 ```
-yena icchānaṅgalaṃ nāma kosalānaṃ brāhmaṇagāmo tadavasari   (DN 1 ほか)
+yena icchānaṅgalaṃ nāma kosalānaṃ brāhmaṇagāmo tadavasari   (DN 3 ほか)
 yena khāṇumataṃ nāma magadhānaṃ brāhmaṇagāmo tadavasari     (DN 5)
 yena manasākaṭaṃ nāma kosalānaṃ brāhmaṇagāmo tadavasari     (DN 13)
 atthi, mahārāja, medāḷupaṃ nāma sakyānaṃ nigamo              (MN 89)
@@ -70,7 +70,7 @@ Rājagaha や Kapilavatthu は同格の nagaraṃ も中性なので性の違い
 が、形容詞や指示代名詞の一致から中性と分かる。
 
 ```
-rājagahaṃ nāma ākiṇṇamanussaṃ avivittaṃ dasahi saddehi   (MN-a、形容詞が中性)
+rājagahaṃ nāma ākiṇṇamanussaṃ avivittaṃ dasahi saddehi   (MN 140 註、形容詞が中性)
 sakaṃ kho panetaṃ, ambaṭṭha, sakyānaṃ yadidaṃ kapilavatthuṃ   (DN 3、etaṃ と一致)
 kapilavatthu nāma nagaraṃ rājadhānī ahosi                  (DN 14)
 ```
@@ -102,9 +102,11 @@ bandhumassa rañño bandhumatī nāma nagaraṃ rājadhānī ahosi   (DN 14)
 
 ## 「〜という名の」の nāma は格を支配しない
 
-nāma は不変化詞である。PTSD は nāma の項で、acc. の nāma が「by name」の
-副詞として使われる古い用法 (Sk. nāma と同じ) を挙げる。名前の語はこの
-nāma に支配されるのではなく、同格に置かれる名詞と格・数を一致させる。
+nāma は不変化詞である。DOP は nāma を ind. として立項し、第 1 の意味に
+「by name; called」を挙げる。PTSD は nāma の項の格の用法のところで、
+acc. の nāma (nāmaṃ より古い形で Sk. nāma に相当) を「by name」の意味で
+挙げる。名前の語はこの nāma に支配されるのではなく、同格に置かれる名詞と
+格・数を一致させる。
 人名が nom. で現れるのは同格の名詞が nom. だからで、地名の -aṃ が acc.
 だからではない。
 
@@ -137,11 +139,12 @@ nāma gāmanigame が並んでおり、名前が頭の名詞の格に従って�
 ## 参照
 
 - MN 81 対訳: `mn/mn_081.md`、註: `mn/mn_attha_081.md`
-- CSCD 本文: s0101m.mul.xml (DN 1、3、5、13)、s0102m.mul.xml (DN 14、16)、
+- CSCD 本文: s0101m.mul.xml (DN 3、5、13)、s0102m.mul.xml (DN 14、16)、
   s0202m.mul.xml (MN 89)、s0203m.mul.xml (MN 101、122)、
   s0303m.mul.xml (SN 22.2)、s0304m.mul.xml (SN 42.11)、s0305m.mul.xml (SN 55.7)、
   s0402m1.mul.xml (AN 2)、s0402m2.mul.xml (AN 3)、s0402m3.mul.xml (AN 4)、
   s0403m1.mul.xml (AN 5)、s0403m2.mul.xml (AN 6)
 - CSCD 註: s0203a.att.xml (MN-a)、abh01a.att.xml (Dhs-a)
+- DOP: nāma の項
 - PTSD: nāma の項 (p. 350)
 - DPD: vegaḷiṅga (nt、name of an ancient town)
