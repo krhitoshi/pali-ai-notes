@@ -163,6 +163,7 @@ disable-model-invocation: true
   generated: 2026/08/04
   updated: 2026/08/04
   models: Claude Opus 5
+  reviewed: none
   ---
   ```
 
@@ -171,8 +172,12 @@ disable-model-invocation: true
     とは別)
   - `models` は作成にかかわったモデル名をカンマ区切りで 1 行に並べる.
     改訂に別モデルが関わったら置き換えずに追記する
+  - `reviewed` は `/review-note` による校閲の記録. 新規保存時は必ず `none`
+    と書く (校閲を経ていないことを明示するため, 行を省略しない). 校閲済み
+    の値の書式は `/review-note` が定める
   - 対訳と違い `source` は置かない
-- 既存ノートを改訂した場合は `updated` を当日の日付に更新する
+- 既存ノートを改訂した場合は `updated` を当日の日付に更新する. `reviewed`
+  は改訂では変更しない (校閲の記録であり, 改訂の記録ではない)
 - 同名ファイルが既に存在する場合は上書きせず, ユーザに確認する
 - 保存後, リポジトリ相対のファイルパスを markdown リンクで示し, 章構成と
   公開前提で調整した点を簡潔に報告する

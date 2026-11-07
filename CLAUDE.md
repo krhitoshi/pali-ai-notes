@@ -45,10 +45,13 @@
 ## 調査ノートのメタ情報
 
 - `notes/` の md の先頭には YAML frontmatter を置く (generated = 初回保存日,
-  updated = 最終改訂日, models = 作成にかかわったモデル名のカンマ区切り)
+  updated = 最終改訂日, models = 作成にかかわったモデル名のカンマ区切り,
+  reviewed = `/review-note` による校閲の記録)
 - 対訳と違い source は置かない
 - ノートを改訂したら updated を当日の日付に更新し, 別モデルが関わった場合は
   models に追記する
+- reviewed は新規保存時 `none`, 校閲後は `YYYY/MM/DD (モデル名)`. 改訂では
+  変更せず, `/review-note` だけが更新する. 行のないノートは未校閲とみなす
 
 ## 翻訳の方針
 
