@@ -75,3 +75,4 @@ git diff --cached --name-only -- docs/
 - `unify_list_indent.md` — 対訳リストのインデント正書法と統一改訂の記録
 - `commentary_file_naming.md` — 註釈・復註ファイルの命名規則 (attha / tika)
 - `verify_legacy_taiyaku.md` — 自動化以前の対訳ファイルへの後追い検証手順
+- `an_vagga_volume.md` — AN の vagga ごとの分量 (参照文脈の大きさの見積もり)
