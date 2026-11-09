@@ -1,8 +1,8 @@
 ---
 generated: 2026/11/07
-updated: 2026/11/07
+updated: 2026/11/09
 models: Claude Fable 5.1
-reviewed: none
+reviewed: 2026/11/09 (Claude Fable 5.1)
 ---
 
 # sādhusammata は「尊敬された」か「善いと見なされた」か (MN 81)
@@ -52,6 +52,17 @@ MN 30 註 (s0201a.att.xml)、SN 註、Sn 註も同趣旨で、Sn 註は
 `‘‘sādhavo ete santo sappurisā’’ti evaṃ bahujanassa sammatā` と、
 bahujanassa が「見なす側」であることを明示している。
 
+復註も同じ読みを取る。DN 2 の復註 (s0101t.tik.xml) は、sādhu を「見なす
+側」(具格) ではなく評価の内容と取ることを明言している。
+
+```
+Sādhusammatoti ‘‘sādhū’’ti sammato, na sādhūhi sammatoti āha ‘‘ayaṃ sādhū’’tiādi.
+```
+
+「sādhusammato とは『善い』と見なされた、の意であって、善い人々によって
+見なされた、の意ではない。だから (註は)『この人は善い』云々と言った」。
+SN 3.1 の復註 (s0301t.tik.xml) も同趣旨で説明する。
+
 つまり sammata の内容は「善いという評価」であり、「尊敬」はその評価を
 受けた人の社会的な立場を言い換えたものにすぎない。
 
@@ -73,7 +84,8 @@ me を判断の主体として訳している。
 | DN 2 など | pūraṇo kassapo (人) | bahujanassa | 多くの人に善人と見なされた (名声ある) |
 | MN 81 | dassanaṃ (見ること) | me | 私に善いことと見なされた (私は善いと思う) |
 
-MN 81 註 (mn/mn_attha_081.md) にはこの句への語釈がない。
+MN 81 註 (mn/mn_attha_081.md) にも復註 (mn/mn_tika_081.md) にもこの句への
+語釈がない。
 
 ## 三蔵での用例の分布
 
@@ -81,16 +93,20 @@ CSCD の本文 (mula) で sādhusammat を検索した結果は 31 箇所。内�
 とおり (何を数えたか: 検索でヒットした段落・偈の行数)。
 
 - 人 + bahujanassa の定型句: DN 2, DN 16 (Mahāparinibbāna の Subhadda の
-  問い), MN 30, MN 35 (saccaka), MN 77, SN 3.1, SN 44.9, Sn (Sabhiya, Sela)
+  問い), MN 30, MN 35 (saccaka), MN 77, SN 3.1, SN 44.9, Sn (Sabhiya)
   の 22 箇所。六師外道の紹介句と、saccaka の紹介句 (bhassappavādako
   paṇḍitavādo sādhusammato bahujanassa) が大半を占める
 - 人 + 他の属格 (isīnaṃ, kaññānaṃ) または属格なし: Ja (Saṃkicca),
   Ap (brāhmaṇo sādhusammato, sāvakaṃ sādhusammataṃ) の 7 箇所
-- 事柄 (dassanaṃ) + me: MN 81 の 2 段落 (283, 284 で各 3 回ずつ繰り返し、
-  284 末尾の Tathā hi pana me sādhusammataṃ … を含む)
+- 事柄 (dassanaṃ) + me: MN 81 の 2 段落 (定型句は 283 に 2 回、284 に 4 回
+  現れ、いずれも dutiyampi の箇所は …pe… で略されている。284 末尾の
+  Tathā hi pana me sādhusammataṃ … を含めると語の出現は計 7 回)
 
 主語が人でないのは MN 81 だけである。したがって辞書の「尊敬された」は
 MN 81 以外の用例から立てられた訳語であり、MN 81 には当てはまらない。
+PTSD が挙げる Milindapañha (Miln 4, 21) の用例も 2 箇所とも人 +
+bahujanassa の定型句 (六師の紹介句と nāgasena の紹介句) であり、上の
+31 箇所には含めていない。
 
 ## 現行の対訳の扱い
 
@@ -112,9 +128,3 @@ Tathā hi pana me sādhusammataṃ で「私にとって善いことと思われ
   ため、いずれも引けない
 - DPD: sādhusammata, adj, "well regarded; respected (by)", lit. "considered
   good" (参考)
-
-## 確認できていない範囲
-
-- CSCD の註釈・復註 (atthakatha, tika) での sādhusammata の用例は、本文の
-  定型句に対する語釈のみ確認した。MN 81 の復註は確認していない
-- Milindapañha (Miln 4, 21) の用例は確認していない
