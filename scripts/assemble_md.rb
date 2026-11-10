@@ -53,7 +53,9 @@ if headings_spec
   end
 end
 
-chunk_paths = Dir[File.join(workdir, "chunk_*.txt")].sort
+# チャンク番号の数値順に並べる. 文字列順では 100 チャンク以上のとき
+# chunk_100 が chunk_11 より前に来て順序が崩れる (MN 1 復註の 171 チャンクで該当)
+chunk_paths = Dir[File.join(workdir, "chunk_*.txt")].sort_by { |p| p[/chunk_(\d+)\.txt\z/, 1].to_i }
 gen_paths = chunk_paths.map { |p| p.sub(/chunk_(\d+)\.txt\z/, 'out_\1.md') }
 # 生成結果が揃っていないチャンクはスキップして部分組み立てにする
 # (長いテキストを数回に分けて生成する運用のため). 欠けを警告する
