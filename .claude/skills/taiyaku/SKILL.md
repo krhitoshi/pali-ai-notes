@@ -144,6 +144,14 @@ scripts/taiyaku.sh https://www.tipitaka.org/romn/cscd/s0202m.mul0.xml \
   が prompt_NN.txt に「前の文脈 / 訳出対象 / 後の文脈」の順で組み立て,
   訳出対象は chunk_NN.txt と同一. 文脈側は訳出も再掲もさせず, 参照した
   ことを語釈に書くときは経名や段落番号で示す指示を付ける
+- 生成の認証方法はコマンドで使い分ける. `scripts/taiyaku.sh` は従来どおり
+  CLI のログイン (サブスクリプション), `scripts/taiyaku_api.sh` は環境変数
+  `PALI_AI_NOTES_CLAUDE_API_KEY` のキーを使った API の従量課金で生成する.
+  引数は同じ. `taiyaku_api.sh` は `/taiyaku-api` コマンドで呼ばれたときか
+  ユーザが指示したときだけ使う. 中身は
+  `TAIYAKU_AUTH=api` を付けて taiyaku.sh を呼ぶだけで, `claude -p` の
+  引数はどちらも同じで, 認証だけが変わる (ただし API キー認証では CLI が
+  claude.ai コネクタを自動で無効にする)
 - workdir には source.txt (read-only の正本), chunk_NN.txt, 生成結果
   out_NN.md, err_NN.log が残る
 - taiyaku.sh はセッションの Bash から前面 (フォアグラウンド) で実行し,
@@ -155,8 +163,15 @@ scripts/taiyaku.sh https://www.tipitaka.org/romn/cscd/s0202m.mul0.xml \
 
 - `API Error: 401` は CLI の OAuth トークン失効. ユーザに `claude login`
   での再ログインを依頼する (再ログイン後はセッション内からの実行も通る)
+- `taiyaku_api.sh` での `Invalid API key` はキーが無効,
+  `Credit balance is too low` は API のクレジット残高不足. どちらも
+  ユーザに対応を依頼する
 - 一部チャンクだけ失敗した場合は, そのチャンクのみ taiyaku.sh 内と同じ
-  `claude -p` コマンドで再生成すればよい. assemble_md.rb は out がない
+  `claude -p` コマンドで再生成すればよい. `taiyaku_api.sh` で生成した
+  ものを再生成するときは
+  `env -u CLAUDE_CODE_ENTRYPOINT ANTHROPIC_API_KEY="$PALI_AI_NOTES_CLAUDE_API_KEY" claude -p ...`
+  の形にする (デスクトップアプリのセッションでは CLAUDE_CODE_ENTRYPOINT を
+  外さないとサブスクリプション側で生成される). assemble_md.rb は out がない
   チャンクをスキップして部分組み立てできる (欠けは警告され, verify の
   欠番検査が未生成分を報告する). 長いテキストを数回に分けて生成する
   運用もこの仕組みで行う
