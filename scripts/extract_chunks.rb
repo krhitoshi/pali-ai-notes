@@ -21,9 +21,10 @@
 #   verify_taiyaku.rb が段落番号の検出・欠番検査から除外するために使う)
 # - 環境変数 TAIYAKU_UNTIL に見出しテキスト (例 "8. Mārakathā") を指定すると,
 #   起点見出しから TAIYAKU_UNTIL の見出しの直前までを 1 セクションとし,
-#   間にある subhead / centre を構造ブロックとして取り込む. subhead 起点の
+#   間にある subhead / centre / title を構造ブロックとして取り込む. subhead 起点の
 #   セクションが内部に centre 区切りや番号なし subhead を持つ形 (Vinaya
-#   khandhaka の各 kathā など) に対応する. 結び行 ("...kathā niṭṭhitā." 等)
+#   khandhaka の各 kathā など) や, 内部に title 見出しを持つ形 (MN 1 復註の
+#   Nettinayavaṇṇanā など) に対応する. 結び行 ("...kathā niṭṭhitā." 等)
 #   も構造ブロックとして含まれる. 未指定時の挙動は従来どおり
 #   (最初の centre で終了. 連続する centre のうち niṭṭhitaṃ / niṭṭhitā を含む
 #   段落までを結びとして本文に含める)
@@ -107,8 +108,10 @@ rest.each_with_index do |line, idx|
       break
     end
     unless BODY_RENDS.include?(rend)
-      # 終了見出しまでの間の subhead / centre は構造ブロックとして取り込む
-      if %w[subhead centre].include?(rend)
+      # 終了見出しまでの間の subhead / centre は構造ブロックとして取り込む.
+      # title も同様に取り込む (MN 1 復註の Nettinayavaṇṇanā のように subhead
+      # 起点のセクション内に title 見出しが現れる形に対応)
+      if %w[subhead centre title].include?(rend)
         paras << line
         struct_flags << true
         next
