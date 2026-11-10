@@ -35,6 +35,16 @@
 #     "1-3,4-5,6-7,8-9,10-11,12-13,14-15,16-17,18-19,20-26" _tmp/work_an_05_181-190 \
 #     an/an_05_181-190.md claude-fable-5-1
 #
+# 環境変数 TAIYAKU_AUTH で生成の認証方法を指定する.
+#   未指定 / subscription : 従来どおり CLI のログイン (サブスクリプション) で生成する
+#   api                   : PALI_AI_NOTES_CLAUDE_API_KEY を ANTHROPIC_API_KEY として
+#                           渡し, API の従量課金で生成する
+# api でも claude -p の引数は変えず, 認証だけを切り替える.
+# api は直接指定せず, TAIYAKU_AUTH=api を付けてこのスクリプトを呼ぶ
+# scripts/taiyaku_api.sh を使う (引数は同じ). 例:
+#   scripts/taiyaku_api.sh _tmp/s0305m.mul9.xml "10. Kimilasuttaṃ" \
+#     "1-3,4,5-6,7-8,9" _tmp/work_kimila sn/sn_54_1_10.md claude-fable-5-1
+#
 # 注意:
 # - 生成で 401 が出る場合は claude login で CLI の再ログインが必要
 # - 生成の cwd は workdir. リポジトリ内 workdir ではプロジェクト CLAUDE.md が
@@ -64,6 +74,29 @@ ver=$(printf "%s" "${id#*-}" | sed -E "s/-[0-9]{8}$//; s/-/./g")
 label="Claude $(tr a-z A-Z <<<"${family:0:1}")${family:1} $ver $(tr a-z A-Z <<<"${effort:0:1}")${effort:1}"
 
 repo_root=$(cd "$(dirname "$0")/.." && pwd)
+
+# 認証方法. api では PALI_AI_NOTES_CLAUDE_API_KEY を ANTHROPIC_API_KEY として
+# claude -p に渡す
+auth=${TAIYAKU_AUTH:-subscription}
+case "$auth" in
+  subscription) ;;
+  api)
+    if [ -z "${PALI_AI_NOTES_CLAUDE_API_KEY:-}" ]; then
+      echo "TAIYAKU_AUTH=api には環境変数 PALI_AI_NOTES_CLAUDE_API_KEY が必要です" >&2
+      exit 1
+    fi
+    export ANTHROPIC_API_KEY=$PALI_AI_NOTES_CLAUDE_API_KEY
+    # デスクトップアプリのセッションから呼ぶと CLAUDE_CODE_ENTRYPOINT=claude-desktop
+    # が継承され, ANTHROPIC_API_KEY があってもサブスクリプション側の認証で
+    # 生成される (無効なキーでも生成が通り, 出力にサブスクリプションの
+    # rate_limit_event が出ることで確認. CLI 2.1.322). 外すとキーが使われる
+    unset CLAUDE_CODE_ENTRYPOINT
+    ;;
+  *)
+    echo "TAIYAKU_AUTH は subscription か api を指定. 指定: $auth" >&2
+    exit 1
+    ;;
+esac
 
 # 0. URL なら _tmp/ にダウンロードする. 既存ファイルは正本として再利用する
 case "$xml" in
@@ -95,7 +128,7 @@ struct_args=()
 # 2. 生成. チャンクごとに claude -p のクリーンな別プロセスを並列で呼ぶ.
 # TAIYAKU_CTX 指定時は参照文脈付きの prompt_NN.txt を, 未指定時は
 # chunk_NN.txt をそのまま stdin に流す
-echo "generate: ctx=${TAIYAKU_CTX:-none}"
+echo "generate: ctx=${TAIYAKU_CTX:-none} auth=$auth"
 for chunk in "$workdir"/chunk_*.txt; do
   n=$(basename "$chunk" .txt); n=${n#chunk_}
   input="chunk_$n.txt"
@@ -117,20 +150,35 @@ wait
 # 利用上限時は出力が "You've reached your ... limit" のメッセージだけになり
 # exit 0 のまま通過するため, 文字列で検出する (2026/08/04 に 17/20 チャンクが
 # このメッセージのまま組み立てられた実例あり)
+#
+# API キー認証 (TAIYAKU_AUTH=api) ではキー無効時に "Invalid API key",
+# 残高不足時に "Credit balance is too low" だけが出力になり, これらも
+# exit 0 のまま通過するため同様に文字列で検出する
 fail=0
 auth_fail=0
 limit_fail=0
+key_fail=0
+credit_fail=0
 for out in "$workdir"/out_*.md; do
-  if [ ! -s "$out" ] || grep -q "API Error" "$out" || grep -q "You've reached your" "$out"; then
+  if [ ! -s "$out" ] || grep -q "API Error" "$out" || grep -q "You've reached your" "$out" \
+    || grep -q "^Invalid API key" "$out" || grep -q "^Credit balance is too low" "$out"; then
     echo "generation failed: $out" >&2
     sed -n '1p' "$out" >&2
     fail=1
     grep -q "401" "$out" && auth_fail=1
     grep -q "You've reached your" "$out" && limit_fail=1
+    grep -q "^Invalid API key" "$out" && key_fail=1
+    grep -q "^Credit balance is too low" "$out" && credit_fail=1
   fi
 done
 if [ "$auth_fail" -eq 1 ]; then
   echo "CLI の認証トークンが失効しています. claude login で再ログインしてください" >&2
+fi
+if [ "$key_fail" -eq 1 ]; then
+  echo "API キーが無効です. PALI_AI_NOTES_CLAUDE_API_KEY を確認してください" >&2
+fi
+if [ "$credit_fail" -eq 1 ]; then
+  echo "API のクレジット残高が不足しています. 補充後に失敗チャンクのみ再生成してください" >&2
 fi
 if [ "$limit_fail" -eq 1 ]; then
   echo "モデルの利用上限に達しています. 回復後に失敗チャンクのみ再生成してください" >&2
