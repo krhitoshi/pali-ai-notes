@@ -45,6 +45,13 @@
 #   scripts/taiyaku_api.sh _tmp/s0305m.mul9.xml "10. Kimilasuttaṃ" \
 #     "1-3,4,5-6,7-8,9" _tmp/work_kimila sn/sn_54_1_10.md claude-fable-5-1
 #
+# 環境変数 TAIYAKU_JOBS で生成 (claude -p) の同時実行数の上限を指定する.
+#   未指定 : 50
+#   <N>    : 同時に N プロセスまで. 空きが出るたびに次のチャンクを起動する
+# チャンク数だけ一度に起動すると, 長い註釈書でマシンが高負荷になる
+# (2026/11/10 に MN 1 復註の 171 チャンクを同時に起動し, スワップをほぼ
+# 使い切った. 同日の 76 チャンク同時起動は問題なく完了している)
+#
 # 注意:
 # - 生成で 401 が出る場合は claude login で CLI の再ログインが必要
 # - 生成の cwd は workdir. リポジトリ内 workdir ではプロジェクト CLAUDE.md が
@@ -74,6 +81,13 @@ ver=$(printf "%s" "${id#*-}" | sed -E "s/-[0-9]{8}$//; s/-/./g")
 label="Claude $(tr a-z A-Z <<<"${family:0:1}")${family:1} $ver $(tr a-z A-Z <<<"${effort:0:1}")${effort:1}"
 
 repo_root=$(cd "$(dirname "$0")/.." && pwd)
+
+# 生成の同時実行数の上限 (詳細はヘッダコメント参照)
+jobs_max=${TAIYAKU_JOBS:-50}
+if [[ ! $jobs_max =~ ^[1-9][0-9]*$ ]]; then
+  echo "TAIYAKU_JOBS は正の整数を指定. 指定: $jobs_max" >&2
+  exit 1
+fi
 
 # 認証方法. api では PALI_AI_NOTES_CLAUDE_API_KEY を ANTHROPIC_API_KEY として
 # claude -p に渡す
@@ -127,12 +141,18 @@ struct_args=()
 
 # 2. 生成. チャンクごとに claude -p のクリーンな別プロセスを並列で呼ぶ.
 # TAIYAKU_CTX 指定時は参照文脈付きの prompt_NN.txt を, 未指定時は
-# chunk_NN.txt をそのまま stdin に流す
-echo "generate: ctx=${TAIYAKU_CTX:-none} auth=$auth"
+# chunk_NN.txt をそのまま stdin に流す.
+# 同時実行数は jobs_max までとし, 実行中のジョブが上限に達している間は
+# 空きが出るまで待ってから次のチャンクを起動する (bash 3.2 には wait -n が
+# ないため, 実行中ジョブ数を 1 秒ごとに数える)
+echo "generate: ctx=${TAIYAKU_CTX:-none} auth=$auth jobs=$jobs_max"
 for chunk in "$workdir"/chunk_*.txt; do
   n=$(basename "$chunk" .txt); n=${n#chunk_}
   input="chunk_$n.txt"
   [ -f "$workdir/prompt_$n.txt" ] && input="prompt_$n.txt"
+  while [ "$(jobs -rp | wc -l)" -ge "$jobs_max" ]; do
+    sleep 1
+  done
   (
     cd "$workdir"
     claude -p \
