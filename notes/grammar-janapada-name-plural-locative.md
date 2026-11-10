@@ -1,8 +1,8 @@
 ---
 generated: 2026/11/09
-updated: 2026/11/09
-models: Claude Fable 5.1
-reviewed: none
+updated: 2026/11/10
+models: Claude Fable 5.1, Claude Fable 5.2
+reviewed: 2026/11/10 (Claude Fable 5.2)
 ---
 
 # kosalesu、sakkesu のように国名が複数形で現れるのはなぜか — 住民名の複数形による国土表示と註釈・文法学の説明
@@ -44,13 +44,13 @@ rūḷhīsaddena kosalāti vuccati, tasmiṃ kosalesu janapade.
 
 | 国名 | 註釈書の箇所 |
 |---|---|
-| kosalā | Sv 254 (DN 3)、Ps 439 (MN 41)、Ud-a 33 (Ud 4.3)、Sn-a Kasibhāradvājasutta |
+| kosalā | Sv 254 (DN 3)、Ps 439 (MN 41)、Ud-a 33 (Ud 4.3)、Sn-a Pūraḷāsasutta (Sundarikabhāradvājasutta、Sn 3.4) |
 | aṅgā | Sv 300 (DN 4)、Ps 415 (MN 39) |
-| magadhā | Sv 323 (DN 5)、Sn-a Sabhiyasutta、Th-a (2 箇所) |
+| magadhā | Sv 323 (DN 5)、Sn-a Kasibhāradvājasutta (Sn 1.4)、Th-a (2 箇所) |
 | kurū | Sv 95 (DN 15)、Ps 105 (MN 10) |
 | mallā | Sv Pāthikasutta 1 (DN 24)、Ud-a 69 (Ud 7.9) |
 | sakkā | Sv 331 (DN 20)、Spk 37 (SN 1.37) |
-| vajjī | Ud-a (Vajjī の箇所) |
+| vajjī | Ud-a 23 (Ud 3.3) |
 
 定型句からの異同も註釈書の中にある。
 
@@ -59,11 +59,13 @@ rūḷhīsaddena kosalāti vuccati, tasmiṃ kosalesu janapade.
   され、残りは同じ構文で説かれる (Sv 331、Spk 37)
 - Ps 175 (MN 14) は短縮形で ``sakkesūti evaṃnāmake janapade. So hi janapado
   sakyānaṃ rājakumārānaṃ vasanaṭṭhānattā sakyātveva saṅkhyaṃ gato`` とする
-- Ud-a 33 は結びを ``tesu kosalesu janapade`` と複数の指示代名詞で受けて
-  おり、Sv の ``tasmiṃ kosalesu janapade`` (単数) と異なる
+- Ud-a 33 は rūḷhī の語を使わず ``‘‘kosalā’’tveva vuccati`` とし、結びを
+  ``tesu kosalesu janapade`` と複数の指示代名詞で受けており、Sv の
+  ``tasmiṃ kosalesu janapade`` (単数) と異なる
 - 多くの箇所は ``kosalesūti evaṃnāmake janapade`` (Mp 64 ほか) や
-  ``mallesūti mallaraṭṭhe`` (Mp 41、Ud-a 76) と言い換えるだけで済ませる
-- Sv 273-275 (DN 18) は複合語を ``kāsikosalesūti kāsīsu ca kosalesu ca,
+  ``mallesūti mallaraṭṭhe`` (Mp 41)、``magadhesūti magadharaṭṭhe``
+  (Ud-a 76) と言い換えるだけで済ませる
+- Sv 273-275 (DN 18) は複合語を ``Kāsikosalesūti kāsīsu ca kosalesu ca,
   kāsiraṭṭhe ca kosalaraṭṭhe cāti attho`` と解き、loc. pl. を raṭṭhe
   (loc. sg.) に置き換えて意味を示す
 
@@ -78,35 +80,39 @@ Sv 254 は定型句に続けて Porāṇā の別説を載せる。Mahāpanāda 
 以下は復註 (Dhammapāla の līnatthappakāsinī 系 ṭīkā) の記述である。「一つの
 国なのになぜ複数形か」という問いを立て、文法学者 (akkharacintakā) の規則を
 引いて答える。Papañcasūdanī-ṭīkā の Satipaṭṭhānasutta (MN 10) の箇所が
-代表的で、ほぼ同文が Sv-ṭ 254、95、Ps-ṭ 415、Spk-ṭ 37、Mp-ṭ 64 にある。
+代表的で、ほぼ同文が Sv-ṭ 254、95、Ps-ṭ 415、Spk-ṭ 37 と、Aṅguttara の
+復註 (Sāratthamañjūsā) の Mp-ṭ 64 にある。
 
 ```
-Jānapadinoti janapadavanto, janapadassa vā issarā rājakumārā. Gottavasena
-kurū nāma. Tesaṃ nivāso yadi eko janapado, kathaṃ bahuvacananti āha
-‘‘ruḷhīsaddenā’’ti. Akkharacintakā hi īdisesu ṭhānesu yutte viya
-saliṅgavacanāni icchanti, ayamettha ruḷhī yathā aññatthāpi ‘‘aṅgesu
-viharati, mallesu viharatī’’ti ca. Tabbisesane pana janapada-sadde
-jāti-sadde ekavacanameva.
+Jānapadinoti (dī. ni. ṭī. 2.95) janapadavanto, janapadassa vā issarā
+rājakumārā. Gottavasena kurū nāma. Tesaṃ nivāso yadi eko janapado, kathaṃ
+bahuvacananti āha ‘‘ruḷhīsaddenā’’ti. Akkharacintakā hi īdisesu ṭhānesu
+yutte viya saliṅgavacanāni (pāṇini 1.251) icchanti, ayamettha ruḷhī yathā
+aññatthāpi ‘‘aṅgesu viharati, mallesu viharatī’’ti ca. Tabbisesane pana
+janapada-sadde jāti-sadde ekavacanameva.
 ```
 
-ここで引かれている規則は Pāṇini の次の三つに対応する。VRI 版の編者は
-Ps-ṭ 105、415 と Mp-ṭ 64 の該当箇所に Pāṇini 1.2.51 の参照を付しており、
-Abhidhānappadīpikā-ṭīkā 184 は ``pāṇini 1.2.52 4.2.81 suttesu passitabbaṃ``
-と規則番号を明示している。
+ここで引かれている規則は Pāṇini の次の三つに対応する。括弧内の参照は
+VRI 版の編者によるもので、Ps-ṭ 415 と Mp-ṭ 64 の該当箇所には
+``(pāṇini 1.2.51)`` とある (上に引いた Ps-ṭ 105 の ``1.251`` は同じ番号の
+区切り点が落ちたものとみられる)。Abhidhānappadīpikā-ṭīkā 184 にも、
+``paccayalopato na vuddhi, sabbatrevaṃ`` (接尾辞が消えるので母音の vuddhi
+は起こらない) という ṭīkā の句に、編者が ``pāṇini 1.2.52 4.2.81 suttesu
+passitabbaṃ`` と規則番号を挙げる脚注を付けている。
 
 | Pāṇini | 規則 | 復註の対応句 |
 |---|---|---|
-| 4.2.81 janapade lup | 「〜の居住地」を作る taddhita 接尾辞は、国名を表すときは消える (lup) | ``kosalānaṃ nivāsā kosalā ti taddhitaṃ`` (Sv-abhinava-ṭ) |
+| 4.2.81 janapade lup | 「〜の居住地」を作る taddhita 接尾辞は、国名を表すときは消える (lup) | ``‘‘kosalānaṃ nivāsā kosalā’’ti taddhitaṃ dasseti`` (Sv-abhinava-ṭ) |
 | 1.2.51 lupi yuktavad vyaktivacane | lup で接尾辞が消えた語は、元の語と同じ性・数を保つ | ``yutte viya saliṅgavacanāni`` |
-| 1.2.52 viśeṣaṇānāṃ cājāteḥ | その語の修飾語も同じ性・数をとるが、類名詞 (jāti) は例外 | ``tabbisesane pana janapadasadde jātisadde ekavacanameva`` |
+| 1.2.52 viśeṣaṇānāṃ cājāteḥ | その語の修飾語も同じ性・数をとるが、類名詞 (jāti) は例外 | ``Tabbisesane pana janapadasadde jātisadde ekavacanameva`` (Ps-ṭ 415) |
 
 すなわち「コーサラ人たち (kosalā) の居住地」を表す派生語の接尾辞が消え、
 住民名と同形の男性複数が国を指す。修飾語の janapada が単数なのは、janapada
 が類名詞だという例外規定による。yutte viya は yuktavad の直訳で、復註は
 Pāṇini の術語をそのままパーリ語に置き換えている。
 
-Sīlakkhandhavagga-abhinavaṭīkā (Sāriputta 作) はさらに踏み込み、語形と
-意味を区別する。
+Sīlakkhandhavagga-abhinavaṭīkā (Ñāṇābhivaṃsa 作の Sādhuvilāsinī) はさらに
+踏み込み、語形と意味を区別する。
 
 ```
 ‘‘Tesaṃ nivāso’’ti iminā ‘‘kosalānaṃ nivāsā kosalā’’ti taddhitaṃ dasseti.
@@ -157,10 +163,14 @@ janapadanāmattā bahuvacanaṃ`` がある。Sāratthadīpanī は Vinaya の v
 を ``janapadavacanattā bahuvacanaṃ kataṃ. Ekopi hi janapado ruḷhīsaddattā
 bahuvacanena vuccati`` と説く。
 
-辞書については、DOP、CPD、PTSD はこれらの固有名詞を立項していない
-(確認した範囲)。DPD は kosalā を masc pl「people of Kosala; Kosalans」と
-立項し、kosalesu をその loc. pl. とも解析する。語義の根拠としてではなく、
-現代の辞書がこの語を住民名の複数として登録しているという参考に留める。
+辞書については、DOP と PTSD はこれらの固有名詞を立項していない
+(確認した範囲)。CPD は刊行範囲に入る国名を立項しており、Aṅga を「m. pl.
+(& sg.), name of a country or its people」、Avantī を「f. sg. or m. pl.」と
+して、複数形が国と住民の両方を指すことを記す (kosala、kuru などは CPD の
+未刊行範囲にあたる)。DPD は kosalā を masc pl「people of Kosala; Kosalans」と
+立項し、kosalesu をその loc. pl. とも解析する。DPD は語義の根拠としてでは
+なく、現代の辞書がこの語を住民名の複数として登録しているという参考に
+留める。
 
 ## 近代研究は人の処格の転用として記述する
 
@@ -170,7 +180,9 @@ bahuvacanena vuccati`` と説く。
 **Speijer, Sanskrit Syntax (1886) §22 (p. 15)** は、民族名の複数形は普通
 その民族が住む地域を表すとし (The plural of a people's name is commonly
 used to denote the region, where that people dwell)、Pañcāla、Matsya、
-Kosala、Vidarbha を例に挙げる。サンスクリット統語論の標準的な記述である。
+Kosala、Vidarbha を例に挙げる。同じ節はラテン語の Chatti、ドイツ語の
+Polen、Hessen、Sachsen、英語の Sweden などを類例として並べている。
+サンスクリット統語論の標準的な記述である。
 
 **Wijesekera, Syntax of the Cases in the Pali Nikayas (1936 年学位論文、
 1993 年刊) §164.d** は、この構文を地名ではなく「その中で人が住み、事が
@@ -195,8 +207,8 @@ Kosala、Vidarbha を例に挙げる。サンスクリット統語論の標準�
   提起する
 - 律蔵では ``Kosalesu janapadesu`` と国名・janapada の両方が複数形、
   経蔵では janapada が単数形になる傾向を指摘する
-- 複数形が現れるのは mahājanapada と認識された国に限られ、Sākiya や
-  Sunāparanta など十六大国以外は単数形だとする
+- janapada の語が複数形で現れるのは mahājanapada と認識された国に限られ、
+  Sākiya や Sunāparanta など十六大国以外では janapada が単数形だとする
 - 解釈として、当時の「大国」は統一的統治体ではなく部族を同じくする
   ゆるやかな連合体で、複数の下位 janapada の集合と認識されていたから
   複数形になった、という社会史的説明を提示する
@@ -206,6 +218,12 @@ Kosala、Vidarbha を例に挙げる。サンスクリット統語論の標準�
 が複数と単数の組み合わせを規則どおり (jāti 語の単数) とみなすのに対し、
 伝承の乱れとみる点で評価が分かれる。二つの説明は排他的ではなく、文法学は
 共時的な語形の規則を、森・金子は複数形が生まれた歴史的背景を論じている。
+
+律蔵の ``Kosalesu janapadesu`` は PTS 版の読みである (Vin I 92、Vin IV 70
+ほか)。VRI 版の律蔵本文は同じ箇所を ``kosalesu janapade`` と janapada を
+単数にしており (Mahāvagga 121、Pācittiya 204 ほか)、``kosalesu janapadesu``
+の形は VRI 版の律蔵本文には現れない。律蔵と経蔵の差とされた点は、版に
+よって成り立たなくなる。
 
 ## 読む上での注意
 
@@ -218,8 +236,9 @@ Kosala、Vidarbha を例に挙げる。サンスクリット統語論の標準�
 - 国名は男性複数とは限らない。kāsī、avantī、cetī、vajjī は女性複数で、
   Āḷavī、Uruññā のように女性単数で国名になるものもある (Saddanīti、
   Sv-abhinava-ṭ 381)
-- 律蔵の ``kosalesu janapadesu`` は janapada も複数で、経蔵の単数形と
-  異なる。どちらも「コーサラ国で」と訳せるが、原文の数は保って読む
+- 律蔵の同じ句は、PTS 版では ``Kosalesu janapadesu`` と janapada も複数、
+  VRI 版では ``kosalesu janapade`` と単数である。どちらも「コーサラ国で」と
+  訳せるが、原文の数は保って読む
 
 ## 確認できていない範囲
 
@@ -227,26 +246,27 @@ Kosala、Vidarbha を例に挙げる。サンスクリット統語論の標準�
   網羅的に数え上げてはいない
 - Wackernagel や Oberlies などの文法書でのこの用法の扱いは確認して
   いない
-- ラテン語の in Sequanis、ギリシア語の ἐν Πέρσαις のような民族名複数形に
-  よる国土表示がインド・ヨーロッパ諸語に広く見られるという点は一般的な
-  知識によるもので、特定の文法書の記述までは確認していない
-- 森・金子論文は該当する節 ([1]、[2]、[5]) を読んだのみで、全体は確認して
-  いない
+- 民族名複数形による国土表示がインド・ヨーロッパ諸語に広く見られると
+  いう点は、Speijer §22 がラテン語・ドイツ語・英語の類例を挙げることまで
+  確認した。ラテン語の in Sequanis、ギリシア語の ἐν Πέρσαις のような個別の
+  例は一般的な知識によるもので、文法書の記述は確認していない
+- 森・金子論文は【4】の該当する節 ([1]、[2]、[3]、[5]) を読んだのみで、
+  全体は確認していない。刊年 (2009) も論文本体からは確認していない
 
 ## 参照
 
 - 註釈書 (CSCD): s0101a.att.xml (254、300、323、501、518)、s0102a.att.xml
-  (95、273-275、331)、s0103a.att.xml (1)、s0201a.att.xml (105、175、415、
-  439)、s0202a.att.xml (174)、s0301a.att.xml (37、197)、s0304a.att.xml
+  (95、273-275、331)、s0103a.att.xml (1)、s0201a.att.xml (105、175、181、
+  415、439)、s0202a.att.xml (174)、s0301a.att.xml (37、197)、s0304a.att.xml
   (363)、s0305a.att.xml (379、522)、s0402a.att.xml (64)、s0404a.att.xml
-  (41)、s0503a.att.xml (33、69、75、76)、s0505a.att.xml、
+  (41)、s0503a.att.xml (23、33、69、75、76)、s0505a.att.xml、
   s0508a1.att.xml、s0508a2.att.xml
 - 復註 (CSCD): s0101t.tik.xml (254)、s0102t.tik.xml (95、331)、
   s0201t.tik.xml (105、175、181、415)、s0301t.tik.xml (37)、
   s0302t.tik.xml (60)、s0303t.tik.xml (1)、s0304t.tik.xml (363)、
   s0402t.tik.xml (64)、s0105t.nrf.xml (254、381)、vin01t1.tik.xml、
-  vin01t2.tik.xml、vin02t.tik.xml (350)、vin07t.nrf.xml、vin09t.nrf.xml、
-  vin12t.nrf.xml (88)
+  vin01t2.tik.xml (43)、vin02t.tik.xml (350)、vin07t.nrf.xml (30)、
+  vin09t.nrf.xml、vin12t.nrf.xml
 - 文法書・語彙集 (CSCD): e0803n.nrf.xml (Saddanīti Padamālā)、
   e0805n.nrf.xml (Padarūpasiddhi、taddhita)、e0809n.nrf.xml
   (Abhidhānappadīpikā 184-185)、e0810n.nrf.xml (同 ṭīkā 184-185)、
@@ -258,5 +278,7 @@ Kosala、Vidarbha を例に挙げる。サンスクリット統語論の標準�
   §163-164 (https://ancient-buddhist-texts.net/Textual-Studies/Syntax-of-the-Cases/07-Locative.htm)
 - 森章司・金子芳夫「パーリ仏典に見る janapada と raṭṭha」中央学術研究所
   『モノグラフ』13、論文 15、2009 (https://www.sakya-muni.jp/pdf/mono13_r15_004.pdf)
+- PTS 版律蔵: Vin I 92、Vin IV 70 ほか (Kosalesu janapadesu)
+- CPD: ³Aṅga、Avant[ī/i]
 - DPD: kosalā (masc pl、people of Kosala)
 - 関連ノート: [grammar-place-name-neuter-nama-case.md](grammar-place-name-neuter-nama-case.md)
