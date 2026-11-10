@@ -1,8 +1,8 @@
 ---
 generated: 2026/11/10
 updated: 2026/11/10
-models: Claude Opus 5.5
-reviewed: none
+models: Claude Opus 5.5, Claude Fable 5.2
+reviewed: 2026/11/10 (Claude Fable 5.2)
 ---
 
 # 過去七仏の名前と出現順、DN 14 での文脈、律と経での言及
@@ -30,7 +30,7 @@ Ito so, bhikkhave, ekanavutikappe yaṃ  vipassī bhagavā arahaṃ sammāsambud
 ```
 
 - 7 番目は経の中で名前ではなく「私 (ahaṃ)」と言われる。ブッダが自分自身を指して述べているためである。
-- 版によっては Koṇāgamana を Konāgamana と綴る。
+- Koṇāgamana は CSCD の綴りである。PTS 版では DN が Konāgamana と綴り、SN・Thag・Buddhavaṃsa は Koṇāgamana と綴る。
 
 ## DN 14 では七仏がどういう文脈で語られるか
 
@@ -104,12 +104,13 @@ Devatāpi tathāgatassa etamatthaṃ ārocesuṃ, ...
 |---|---|---|
 | DN 14 Mahāpadāna | 7 仏 | 前節のとおり |
 | DN 32 Āṭānāṭiya §277 (§287 で同じ偈を繰り返す) | 6 仏 + Aṅgīrasa (= ゴータマ) | ヴェッサヴァナ (Vessavaṇa) が説く護呪の偈。各仏に「namatthu (敬礼あれ)」と礼を捧げる。§287 は、翌朝ブッダがこの出来事を比丘たちに語り直す部分にある |
-| SN 12.4–10 | 7 仏に 1 経ずつ | 悟る前の菩薩が、老死の条件を縁起の順と逆にたどって悟る。12.4 (Vipassī) だけ全文があり、12.5–9 は省略形、12.10 は「私」として語られる。12.4 の末尾に「Sattannampi buddhānaṃ evaṃ vitthāretabbo (七仏すべてについて同じく展開すべし)」という指示がある |
-| Paṭisambhidāmagga §33 | 7 仏 | SN 12.4–10 の「samudayo samudayo」の一節を引き、各菩薩の悟りの説明に「10 の法・10 の意味・20 の言語表現・40 の智」があると分析する |
+| SN 12.4–10 | 7 仏に 1 経ずつ | 悟る前の菩薩が、老死の条件を縁起の順と逆にたどって悟る。12.4 (Vipassī) だけ全文があり、12.5–9 は省略形、12.10 は「私」として語られる。12.4 の末尾に括弧書きで「Sattannampi buddhānaṃ evaṃ vitthāretabbo (七仏すべてについて同じく展開すべし)」という指示がある |
+| Paṭisambhidāmagga、Paṭisambhidākathā §33 | 7 仏 | SN 12.4–10 の「samudayo samudayo」の一節を引き、各菩薩の悟りの説明に「10 の法・10 の意味・20 の言語表現・40 の智」があると分析する |
 | Thag §490–491 (Sarabhaṅga) | 7 仏 | 「Vipassī が行った道を Gotama も行った」と詠み、続けて「satta buddhā (七仏)」と言う |
 | Cūḷaniddesa (Sn の Piṅgiya の偈「saccavhayo brahme upāsito me」の解説) | 6 仏 + ゴータマ | 「saccavhayo (その名にふさわしい者)」を、ゴータマが過去 6 仏と同じ名 (buddha) をもつ意味だと説明する |
-| Buddhavaṃsa | 7 仏 (24 仏の系譜の一部) | Vipassī から Kassapa までの各仏に 1 章をあてる。終わりの部分 (§16–19) は劫ごとに整理し、91 劫前に Vipassī、31 劫前に Sikhī と Vessabhū、賢劫に Kakusandha・Koṇāgamana・Kassapa、そのあと「私」と未来仏 Metteyya を挙げる |
+| Buddhavaṃsa | 7 仏 (Dīpaṅkara から Gotama までの 25 仏の系譜の一部) | Vipassī から Gotama までの各仏に 1 章をあてる。終わり近くの Buddhapakiṇṇakakaṇḍa (§16–19) は劫ごとに整理し、91 劫前に Vipassī、31 劫前に Sikhī と Vessabhū、賢劫に Kakusandha・Koṇāgamana・Kassapa、そのあと「私」と未来仏 Metteyya を挙げる |
 | Apadāna、Puṇṇikā 長老尼 §184–185 | 6 仏 | Vipassī から Kassapa までの教えのもとで出家した、と回想する |
+| Apadāna、Sukkā 長老尼 §111–125 | 6 仏 | Vipassī から Kassapa まで、それぞれの仏の時代に出家して教えを説いた過去世を、劫の順に 1 仏ずつ語る |
 
 ```
 Yeneva maggena gato vipassī, yeneva maggena sikhī ca vessabhū;
@@ -125,14 +126,17 @@ Vītataṇhā  anādānā, satta buddhā khayogadhā;
 | Vin Pārājika、Verañja 章 §18–21 | 6 仏 | サーリプッタの問いに答える場面。Vipassī・Sikhī・Vessabhū の梵行は長続きせず、Kakusandha・Koṇāgamana・Kassapa の梵行は長続きした。前の 3 仏は詳しく説法することに熱心でなく (kilāsuno)、学処を定めず、波羅提木叉も唱えなかった。ただし心で心を見通して弟子を教えることには熱心で、Vessabhū が恐ろしい森で 1000 人の比丘をそのように導いた話が添えられる。サーリプッタが学処を定めるよう願い、ブッダが「まだその時ではない」と答える流れにつながる |
 | SN 15.20 Vepullapabbata | Kakusandha・Koṇāgamana・Kassapa・ゴータマ | 同じ山が、各仏の時代には別の名前で呼ばれ、人の寿命も違った。その呼び名も人々も仏も消えていく、と諸行無常を示す |
 | MN 50 Māratajjanīya (同じ偈が Thag にもある) | Kakusandha | モッガッラーナが、自分は Kakusandha 仏の時代に魔 Dūsī だったと語る。二大弟子は Vidhura と Sañjīva |
-| MN 81 Ghaṭīkāra | Kassapa | Vegaḷiṅga の陶工 Ghaṭīkāra は Kassapa 仏の第一の在家の世話人だった。若者 Jotipāla (ゴータマの前身) が Kassapa 仏のもとで出家する |
+| MN 81 Ghaṭikāra | Kassapa | Vegaḷiṅga の陶工 Ghaṭikāra は Kassapa 仏の第一の在家の世話人だった。若者 Jotipāla (ゴータマの前身) が Kassapa 仏のもとで出家する。CSCD はこの名を MN では Ghaṭikāra、SN では Ghaṭīkāra と綴る |
 | SN 1.50 / SN 2.24 Ghaṭīkāra | Kassapa | Avihā 天に生まれた Ghaṭīkāra が、生前は Kassapa 仏の在家信者 (upāsaka) だったと偈で語る |
 | SN 6.14 Aruṇavatī | Sikhī | Sikhī 仏と弟子 Abhibhū が梵天界に行き、Abhibhū が説法する |
+| SN 19.12、19.17、19.21 Lakkhaṇasaṃyutta (19.18–20 は省略形。同じ話が Vin Pārājika の第 4 条の末尾、§230 の前後にもある) | Kassapa | モッガッラーナが霊鷲山を下りる途中で見た者たちの前世を、ブッダが明かす。糞の穴に沈んで糞を食う者は、Kassapa 仏の教えの時代に比丘たちを食事に招いて桶に満たした糞を出したバラモンだった。衣も鉢も体も燃えながら空を行く比丘や沙弥尼は、同じ時代の悪い比丘、悪い沙弥尼だった |
+| SN 48.57 Sahampatibrahma (CSCD §527) | Kassapa | 梵天 Sahampati が、自分はかつて Kassapa 仏のもとで梵行を修めた比丘 Sahaka であり、五根を修めて梵天界に生まれたと語る |
 | AN 3 Cūḷanikā (CSCD §81) | Sikhī | Sikhī 仏の弟子 Abhibhū は梵天界から千の世界に声を届けた、とアーナンダが聞き覚えを語る |
 | AN 5.180 Gavesī | Kassapa | ゴータマがある場所で微笑む。理由は、かつてそこに都があり、Kassapa 仏の在家信者 Gavesī が戒を段階的に深めていったからだった |
 | Thīg §520 (Sumedhā) | Koṇāgamana | Koṇāgamana 仏の新しい僧院に、3 人の友と精舎を寄進した過去世を語る |
 | Vimānavatthu §373、§965 | Kassapa | Kassapa 仏の塔 (thūpa) に香や花を供えて天宮を得た因縁 |
-| Apadāna 全般 | 各仏 | 過去仏への布施や供養の回想が非常に多い。「Ekanavutito kappe vipassī…」「Kassapo nāma gottena…」のような決まった言い回しが繰り返し出てくる |
+| Paṭisambhidāmagga、Iddhikathā §13 | Sikhī | vikubbanā iddhi (神通の一種) の説明の初めに、Sikhī 仏の弟子 Abhibhū が梵天界から千の世界に声を届けた話を挙げる |
+| Apadāna 全般 | 各仏 | 過去仏への布施や供養の回想が非常に多い。「Ekanavutito kappe, vipassī…」「Kassapo nāma gottena…」のような決まった言い回しが繰り返し出てくる |
 
 ### 言及の分布に見える傾向
 
@@ -141,12 +145,13 @@ Vītataṇhā  anādānā, satta buddhā khayogadhā;
   - そのほかは特定の仏にまつわる個別の話で、Kassapa・Kakusandha・Sikhī が多い。Kassapa はゴータマの前身とかかわる話 (MN 81) があり、言及が目立つ。
 - **小部**
   - 言及の大部分は Apadāna と Buddhavaṃsa にある。
-  - Buddhavaṃsa では七仏は 24 仏の系譜の最後の部分として扱われ、未来仏 Metteyya も登場する。
+  - Buddhavaṃsa では七仏は Dīpaṅkara から Gotama までの 25 仏の系譜の最後の部分として扱われ、未来仏 Metteyya も登場する。
 - **「satta buddhā」**: 七仏をこの語でまとめて呼ぶ例は、今回見た範囲では Thag §491 と SN 12.4 末尾の指示だけだった。
+  - Apadāna にも satta buddhā の語が 2 箇所ある (Kadambapupphiya 長老 §30、Sattakadambapupphiya 長老 §61)。ヒマラヤに近い Kukkuṭa 山のふもとに住む 7 人の仏を言うもので、名前は挙がらない。同じ場所に一緒に住むと語られるので、時代の異なる過去七仏とは別と見て、数に入れていない。
 
 ## 網羅していない範囲
 
-上の言及一覧は、CSCD の本文を仏の名前の語形で検索した結果にもとづく。検索の仕方は名前ごとに異なり、次のような漏れがありうる。
+上の言及一覧は、CSCD の本文を仏の名前の語形で検索した結果にもとづく。検索の仕方は名前ごとに異なり、次のような漏れがありうる。一部は追加の検索で確かめ直し、その結果を各項目に書いた。
 
 - **Vessabhū、Kakusandha、Koṇāgamana**
   - 語幹の前方一致で検索したので、格変化と複合語を含めて拾えている。Konāgamana の綴りも含む。
@@ -154,20 +159,25 @@ Vītataṇhā  anādānā, satta buddhā khayogadhā;
   - 検索した語形は vipassī、vipassissa、vipassinā、vipassiṃ、vipassino だけである。
   - 処格の vipassimhi が含まれていない。
   - 語形の直後に空白がある場合だけを拾ったので、直後が「,」「;」「.」の箇所 (偈の句末など) が抜けている可能性がある。
+  - 追加の検索: 律・MN・SN・AN については、vipassimhi を加え、直後の記号を問わない形で検索し直した。仏の名としての言及は、一覧にある Vin Verañja 章と SN 12.4 だけだった。MN 56 Upāli の偈の vipassissa と、AN の Aṭṭhakanipāta の偈の vipassino は「よく観る者」の意味で使われており、仏の名ではない。DN と小部は検索し直していない。
 - **Sikhī**
   - 律と四部では Vipassī と同じく語形を列挙して検索し、sikhino と sikhimhi を含めていない。
   - 小部では Sikhī の名前で検索しておらず、他の仏の名前で検索して同じ段落に出てきた箇所しか拾えていない。
+  - 追加の検索: 律・四部・小部を、sikhino と sikhimhi を加え、直後の記号を問わない形で検索し直した。律と四部に新しい言及はなかった。小部では、Apadāna と Buddhavaṃsa を除くと、新しく見つかったのは Paṭisambhidāmagga の Iddhikathā §13 だけで、一覧に加えた。Sn・Thag・Jātaka・Cariyāpiṭaka などの sikhī は孔雀や火などを指す語で、仏の名ではない。Apadāna の個々の言及は確認していない。DN 32 の Sikhissapi のように語尾に別の語が続く形は、この検索では拾えない。
 - **Kassapa**
   - 律と四部では、直後に bhagav が続く形だけを検索した。仏の Kassapa と同名の比丘を切り分けるためである。そのため、bhagavā を伴わない言及や偈の中の言及は漏れている可能性がある。
+  - 追加の検索: 律と四部を、直後に sammāsambuddh や buddh が続く形などで検索し直した。SN 19.12・19.17・19.21 (と律の並行箇所)、SN 48.57 が抜けていたので一覧に加えた。それ以外の形の言及は、なお漏れている可能性がある。
   - 小部では語幹で検索したが、168 件中 100 件しか確認していない。残りは Apadāna が中心と見込んでいるが、確認していない。
 - **影響の大きさ**
   - 七仏をまとめて挙げる箇所は、検索漏れのない 3 仏のどれかを含むので、欠けている可能性は低い。
-  - 漏れが出やすいのは、Vipassī・Sikhī・Kassapa のどれかだけに触れる個別の話である。とくに小部の Sikhī と、四部の Kassapa の取りこぼしがありうる。
+  - 追加の確認: Vessabhū・Kakusandha・Koṇāgamana の検索結果を突き合わせ、3 つの名がそろって出る箇所を見直した。Apadāna の Sukkā 長老尼の箇所が一覧から抜けていたので加えた。ほかに抜けはなかった。
+  - 漏れが出やすいのは、Vipassī・Sikhī・Kassapa のどれかだけに触れる個別の話である。追加の検索で小部の Sikhī と律・四部の Kassapa の一部は補ったが、Apadāna の個々の言及と、Kassapa のそのほかの語形は残っている。
 - **除外した箇所と未確認の箇所**
   - Sn の Āmagandhasutta では、問答の相手が呼びかけで「kassapa」とだけ呼ばれる。これを Kassapa 仏とみなすのは主に註釈の解釈なので、一覧に入れていない。
   - 同名の別人は除いた。Pūraṇa Kassapa、Mahākassapa、Kumārakassapa など Kassapa の名をもつ人物、MN 116 Isigili の独覚 Tagarasikhī、DN 19 の王 Vessabhū である。Vimānavatthu で「kassape suppatiṭṭhitaṃ」とある箇所は、Mahākassapa への布施と見て除いた。
-  - Vimānavatthu の「naruttamaṃ kassapamaggapuggalaṃ」の Kassapa が仏を指すかどうかは確認していない。
-  - Milindapañha、Nettippakaraṇa、Peṭakopadesa には、今回の検索では該当する箇所が出なかった。
+  - Vimānavatthu §1041 の「naruttamaṃ kassapamaggapuggalaṃ」の Kassapa は、一覧に入れていない。同じ偈がこの人物を buddha、devātideva と呼んでいるので、Kassapa 仏を指すと見られる。
+  - Milindapañha には Kassapa 仏への言及がある。冒頭の過去世の話 (§3) と、Jotipāla が Kassapa 仏を罵ったことを取り上げる問答である。一覧には入れていない。
+  - Nettippakaraṇa と Peṭakopadesa には、Vessabhū・Kakusandha・Koṇāgamana の名と、bhagavā などを伴う Vipassī・Sikhī・Kassapa の形で検索した範囲では、該当する箇所が出なかった。
 - **出現数**: 名前ごとの出現数は集計していない。Apadāna の言及を「非常に多い」と書いたのは、検索結果の件数から見た印象である。
 
 ## 参照資料
@@ -177,8 +187,9 @@ Vītataṇhā  anādānā, satta buddhā khayogadhā;
   - `s0102m.mul.xml` (DN Mahāvagga、DN 14)
   - `s0103m.mul.xml` (DN Pāthikavagga、DN 32)
   - `s0201m.mul.xml`、`s0202m.mul.xml`、`s0203m.mul.xml` (MN)
-  - `s0301m.mul.xml`、`s0302m.mul.xml` (SN Sagāthāvagga、Nidānavagga)
+  - `s0301m.mul.xml`、`s0302m.mul.xml`、`s0305m.mul.xml` (SN Sagāthāvagga、Nidānavagga、Mahāvagga)
   - `s0402m2.mul.xml`、`s0403m1.mul.xml` (AN Tikanipāta、Pañcakanipāta)
+  - `s0505m.mul.xml` (Suttanipāta)
   - `s0506m.mul.xml` (Vimānavatthu)
   - `s0508m.mul.xml` (Theragāthā)
   - `s0509m.mul.xml` (Therīgāthā)
@@ -186,4 +197,6 @@ Vītataṇhā  anādānā, satta buddhā khayogadhā;
   - `s0511m.mul.xml` (Buddhavaṃsa)
   - `s0516m.mul.xml` (Cūḷaniddesa)
   - `s0517m.mul.xml` (Paṭisambhidāmagga)
+  - `s0518m.nrf.xml` (Milindapañha)
+- PTS 版 DN 第 2 巻、SN 第 2 巻、Theragāthā、Buddhavaṃsa (Koṇāgamana の綴りの確認)
 - 節番号は CSCD の段落番号 (§) で示した。経番号は一般的な番号で示し、CSCD の番号がずれる箇所は併記した。
