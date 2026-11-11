@@ -119,7 +119,7 @@ CLI で再現する構成になる.
     標準形でない綴りも保持. 生成が標準形に直した再掲は NG になるので
     原文の形に戻す)
 - title / chapter 起点セクション (Patis の kathā が `<p rend="title">` 直下に
-  複数の subhead を持つ形. Patis 1.3 Ānāpānassatikathā で対応. 註釈側は
+  複数の subhead を持つ形. Patis 1.3 Ānāpānassatikathā で対応. 註釈書側は
   さらに一段上の `<p rend="chapter">` 直下に複数の title を持つ形.
   Patis-a 1.3 Ānāpānassatikathāvaṇṇanā で対応) の扱い:
   - 見出し指定が `<p rend="title">` に一致した場合は次の title までを

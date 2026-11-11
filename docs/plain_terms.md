@@ -40,7 +40,7 @@ translation_terms.md に, 注意点はこのファイルに追記して維持す
     yathāsabhāvatthā による. 根拠は `docs/yathattha_term.md` と
     patis_1_03.md §161(2) の訳注参照)
   - 両義が重なる箇所は「目的（意味）」と併記 (patis_a §168(2) の四 attha の
-    釈: 標挙句は samattha の attha なので 目的 だが, 註が中身を各法の自性
+    説明: 標挙句は samattha の attha なので 目的 だが, 註が中身を各法の自性
     (sabhāva) と示すため 意味 の語義にも近づく. 併記理由は同段の※注参照)
   - 目的の複合語 -atthaṃ / -atthāya は ～のため, atthavasa は 理由・道理
   - 保持: upaṭṭhāna の二義注記「対象義 / 作用義」, 熟語 (義務分詞・定義・

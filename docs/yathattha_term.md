@@ -15,11 +15,11 @@ Paṭisambhidāmagga に現れる yathattha (yathā + attha) を「真実の目�
 ## 根拠
 
 1. **X-attho の attha は「修習のねらい・成果」**: 註は各項を修習の完成時に
-   実際に起こる事態として釈す (attadamathattho = 阿羅漢道の刹那に荒々しさが
+   実際に起こる事態として説明する (attadamathattho = 阿羅漢道の刹那に荒々しさが
    消えること, samathattho = 清涼となること). 「意義」では significance に
    寄り伝わらないため「目的」を採る
 2. **yathattho は実質述語**: §162(2) で現等覚 (abhisambujjhati) の対象に立つ.
-   「世間を照らす」根拠が「語義を覚ったから」では通らない. また単なる語義釈
+   「世間を照らす」根拠が「語義を覚ったから」では通らない. また単なる語義の説明
    なら標準定型 (`*Yathāti attadamathaṭṭho` / `kenaṭṭhena` 型) が使えたのに,
    本文は yathattha という複合語を立てて主格で等置している
 3. **「真実の」は註の語釈による**: `Yathatthāti yathāsabhāvatthā`(あるがままの
