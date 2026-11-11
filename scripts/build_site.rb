@@ -50,19 +50,28 @@ KIND_LABELS = { main: "本文", attha: "註", tika: "復註" }.freeze
 # 生成メタデータの見出しテキスト. 全コーパスで "Meta" に統一済み
 META_HEADING = "Meta"
 
+# 欧文は OS 標準の欧文フォントで描画する (外部のフォントは読み込まない).
+# ヒラギノ角ゴは ā は持つが ṃ ṅ ṭ ḍ ṇ ḷ を持たず, 文字ごとに別フォントへ
+# フォールバックしてガタガタに見えるため, ダイアクリティカル付き文字を
+# 揃って持つ欧文フォントを先に置く (macOS: SF / Helvetica Neue,
+# Windows: Segoe UI, Android: Roboto). 和文は欧文フォントに含まれないので,
+# 後続のヒラギノ / 游ゴシック / メイリオで描画される
+FONT_FAMILY = %(-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans", "Helvetica Neue", Arial, ) +
+              %("Hiragino Kaku Gothic ProN", "Hiragino Sans", "Yu Gothic", Meiryo, sans-serif)
+
 CSS = <<~CSS
   html { background: #fdfcf7; }
   body {
     max-width: 46rem;
     margin: 0 auto;
     padding: 0 1rem 4rem;
-    font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+    font-family: #{FONT_FAMILY};
     line-height: 1.8;
     color: #222;
     background: #fdfcf7;
   }
   h1, h2, h3 {
-    font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+    font-family: #{FONT_FAMILY};
     line-height: 1.4;
   }
   h1 { font-size: 1.4rem; border-bottom: 2px solid #8a7b5c; padding-bottom: 0.3rem; }
@@ -70,7 +79,7 @@ CSS = <<~CSS
   h3 { font-size: 1rem; }
   a { color: #1a5276; }
   nav.site-nav {
-    font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+    font-family: #{FONT_FAMILY};
     font-size: 0.9rem;
     background: #f4f1ea;
     padding: 0.5rem 0.8rem;
@@ -79,7 +88,7 @@ CSS = <<~CSS
   }
   nav.site-nav span.sep { color: #999; margin: 0 0.4rem; }
   p.page-meta {
-    font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+    font-family: #{FONT_FAMILY};
     font-size: 0.85rem;
     color: #666;
   }
@@ -91,12 +100,14 @@ CSS = <<~CSS
     padding: 0.6rem 0.8rem;
     border-radius: 4px;
   }
+  /* コードの記法で囲んだパーリ文も等幅にせず本文と同じフォントで描画する */
+  pre, code { font-family: #{FONT_FAMILY}; font-size: 0.95em; }
   ol, ul { padding-left: 1.6rem; }
   li { margin: 0.2rem 0; }
   table { border-collapse: collapse; width: 100%; font-size: 0.95rem; }
   th, td { border: 1px solid #ccc; padding: 0.3rem 0.6rem; text-align: left; }
   th {
-    font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+    font-family: #{FONT_FAMILY};
     background: #f4f1ea;
   }
   ul.page-list { list-style: none; padding-left: 0; }
