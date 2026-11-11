@@ -84,6 +84,13 @@ CSS = <<~CSS
     color: #666;
   }
   p.page-meta span.sep { color: #bbb; margin: 0 0.4rem; }
+  /* コードブロックのパーリ文は 1 行が長いので, 横にはみ出さず折り返す */
+  pre {
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    padding: 0.6rem 0.8rem;
+    border-radius: 4px;
+  }
   ol, ul { padding-left: 1.6rem; }
   li { margin: 0.2rem 0; }
   table { border-collapse: collapse; width: 100%; font-size: 0.95rem; }
