@@ -12,6 +12,9 @@
 #   - 二重番号行 (例 "3. 107. Evaṃ...") の内側番号のピリオドをエスケープして
 #     CommonMark の入れ子リスト解釈を防ぐ (issue #1)
 # - 出力は public/ にソースと同じ階層でミラーし, リンクはすべて相対パス
+#   (vinaya/mahavagga のような 2 階層のセクションもある)
+# - notes/ の調査ノートは対訳とは別扱いで, 全ファイルを対象にし,
+#   ノート間の相対 .md リンクを .html に張り替える
 # - public/ 配下は全消し再生成するが .gitkeep は残す
 
 require "commonmarker"
@@ -22,17 +25,25 @@ ROOT = File.expand_path("..", __dir__)
 OUT_DIR = File.join(ROOT, "public")
 
 # セクション定義. トップページと一覧の表示順もこの順
+# prefix は対訳ファイル名の接頭辞. notes: true のセクションは調査ノート
 SECTIONS = [
-  { dir: "mn", name: "中部 (Majjhimanikāya)" },
-  { dir: "sn", name: "相応部 (Saṃyuttanikāya)" },
-  { dir: "dhammapada", name: "ダンマパダ (Dhammapada)" },
-  { dir: "patisambhidamagga", name: "無礙解道 (Paṭisambhidāmagga)" },
-  { dir: "visuddhimagga", name: "清浄道論 (Visuddhimagga)" },
+  { dir: "vinaya/mahavagga", name: "律 大品 (Vinaya Mahāvagga)", prefix: "vin_mahavagga" },
+  { dir: "dn", name: "長部 (Dīghanikāya)", prefix: "dn" },
+  { dir: "mn", name: "中部 (Majjhimanikāya)", prefix: "mn" },
+  { dir: "sn", name: "相応部 (Saṃyuttanikāya)", prefix: "sn" },
+  { dir: "an", name: "増支部 (Aṅguttaranikāya)", prefix: "an" },
+  { dir: "dhammapada", name: "ダンマパダ (Dhammapada)", prefix: "dhp" },
+  { dir: "jataka", name: "ジャータカ (Jātaka)", prefix: "ja" },
+  { dir: "patisambhidamagga", name: "無礙解道 (Paṭisambhidāmagga)", prefix: "patis" },
+  { dir: "visuddhimagga", name: "清浄道論 (Visuddhimagga)", prefix: "vism" },
+  { dir: "notes", name: "調査ノート", notes: true },
 ].freeze
+
+PREFIX_RE = Regexp.union(SECTIONS.filter_map { |s| s[:prefix] })
 
 # 本体 + 註 + 復註だけを通すホワイトリスト
 # 数字以外の接尾辞 (_check, _opus, _v1 など) はここで弾かれる
-TARGET_RE = /\A(mn|sn|vism|patis|dhp)(_attha|_tika)?(_[\d-]+)+\z/
+TARGET_RE = /\A(#{PREFIX_RE})(_attha|_tika)?(_[\d-]+)+\z/
 
 KIND_LABELS = { main: "本文", attha: "註", tika: "復註" }.freeze
 
@@ -91,8 +102,13 @@ Page = Struct.new(:dir, :stem, :kind, :number_key, :titles, :md_path, keyword_in
 
   # 番号表示用にコーパス接頭辞を除いた部分を返す
   def display_number
-    number_key.sub(/\A(mn|sn|vism|patis|dhp)_/, "")
+    number_key.sub(/\A(#{PREFIX_RE})_/, "")
   end
+end
+
+# セクションのディレクトリから public/ ルートへの相対パス (例 "../../")
+def root_rel(section)
+  "../" * (section[:dir].count("/") + 1)
 end
 
 # ファイル名から数字部分を数値として比較する自然順ソートキー
@@ -104,10 +120,11 @@ def collect_pages(section)
   dir_path = File.join(ROOT, section[:dir])
   Dir.glob(File.join(dir_path, "*.md")).filter_map do |path|
     stem = File.basename(path, ".md")
-    next unless stem.match?(TARGET_RE)
+    next unless section[:notes] || stem.match?(TARGET_RE)
 
     kind =
       case stem
+      when ->(_) { section[:notes] } then :main
       when /_attha_/ then :attha
       when /_tika_/ then :tika
       else :main
@@ -161,6 +178,9 @@ def front_matter_html(meta)
   end
   parts << "作成: #{CGI.escapeHTML(meta['generated'])}" if meta["generated"]
   parts << "更新: #{CGI.escapeHTML(meta['updated'])}" if meta["updated"]
+  # 調査ノートだけが持つ項目
+  parts << "モデル: #{CGI.escapeHTML(meta['models'])}" if meta["models"]
+  parts << "校閲: #{CGI.escapeHTML(meta['reviewed'])}" if meta["reviewed"]
   return "" if parts.empty?
 
   %(<p class="page-meta">#{parts.join('<span class="sep">|</span>')}</p>\n)
@@ -188,8 +208,16 @@ def preprocess(md)
   result.join
 end
 
-def to_html(md)
-  Commonmarker.to_html(md, options: { extension: { autolink: true } })
+# Commonmarker は既定で改行を <br> にする (hardbreaks). 対訳はこの挙動に合わせて
+# 書かれているが, 調査ノートは段落を 80 桁前後で折り返しているので false で呼ぶ
+def to_html(md, hardbreaks: true)
+  Commonmarker.to_html(md, options: { extension: { autolink: true }, render: { hardbreaks: hardbreaks } })
+end
+
+# 同じディレクトリ内の相対 .md リンク (例 "](foo.md)" "](foo.md#sec)") を .html に張り替える
+# URL スキームやパス区切りを含むリンクは対象外
+def rewrite_md_links(md)
+  md.gsub(/\]\(([\w.-]+)\.md(#[^)]*)?\)/) { "](#{$1}.html#{$2})" }
 end
 
 def render_layout(title:, css_href:, nav:, body:)
@@ -232,10 +260,13 @@ def write_page(page, section, pages)
   next_page = same_kind[index + 1]
 
   items = []
-  items << ["トップ", "../index.html"]
+  items << ["トップ", "#{root_rel(section)}index.html"]
   items << ["#{section[:name]} 一覧", "index.html"]
-  items << ["← #{prev_page.stem}", prev_page.html_name] if prev_page
-  items << ["#{next_page.stem} →", next_page.html_name] if next_page
+  # 調査ノートは番号順の並びに意味がないので前後リンクを張らない
+  unless section[:notes]
+    items << ["← #{prev_page.stem}", prev_page.html_name] if prev_page
+    items << ["#{next_page.stem} →", next_page.html_name] if next_page
+  end
   # 同じ番号の本文 / 註 / 復註への相互リンク
   pages.each do |other|
     next if other == page || other.number_key != page.number_key
@@ -245,20 +276,32 @@ def write_page(page, section, pages)
 
   meta, body_md = split_front_matter(File.read(page.md_path, encoding: "UTF-8"))
   md = preprocess(body_md)
+  md = rewrite_md_links(md) if section[:notes]
   title = page.titles.empty? ? page.stem : page.titles
   html = render_layout(
     title: "#{title} - #{section[:name]}",
-    css_href: "../style.css",
+    css_href: "#{root_rel(section)}style.css",
     nav: nav_html(items),
-    body: front_matter_html(meta) + to_html(md)
+    body: front_matter_html(meta) + to_html(md, hardbreaks: !section[:notes])
   )
   File.write(File.join(OUT_DIR, page.dir, page.html_name), html)
 end
 
 def index_body(section, pages)
   grouped = pages.group_by(&:number_key)
-  # 註や復註を持つセクションは表, 本文だけのセクションは単純なリスト
-  if pages.any? { |p| p.kind != :main }
+  # 調査ノートはタイトルのリスト, 註や復註を持つセクションは表,
+  # 本文だけのセクションは番号付きの単純なリスト
+  if section[:notes]
+    items = pages.map do |page|
+      %(<li><a href="#{page.html_name}">#{CGI.escapeHTML(page.titles.empty? ? page.stem : page.titles)}</a></li>)
+    end
+    <<~HTML
+      <h1>#{CGI.escapeHTML(section[:name])}</h1>
+      <ul>
+      #{items.join("\n")}
+      </ul>
+    HTML
+  elsif pages.any? { |p| p.kind != :main }
     rows = grouped.map do |_key, group|
       title_page = group.min_by { |p| KIND_LABELS.keys.index(p.kind) }
       links = KIND_LABELS.keys.map do |kind|
@@ -294,10 +337,10 @@ def index_body(section, pages)
 end
 
 def write_index(section, pages)
-  items = [["トップ", "../index.html"], ["#{section[:name]} 一覧", nil]]
+  items = [["トップ", "#{root_rel(section)}index.html"], ["#{section[:name]} 一覧", nil]]
   html = render_layout(
     title: "#{section[:name]} 一覧",
-    css_href: "../style.css",
+    css_href: "#{root_rel(section)}style.css",
     nav: nav_html(items),
     body: index_body(section, pages)
   )
@@ -306,16 +349,23 @@ end
 
 def write_top(section_pages)
   readme_html = to_html(File.read(File.join(ROOT, "README.md"), encoding: "UTF-8"))
-  list_items = section_pages.map do |section, pages|
+  list_item = lambda do |section, pages|
     %(<li><a href="#{section[:dir]}/index.html">#{CGI.escapeHTML(section[:name])}</a> (#{pages.size} 件)</li>)
   end
-  body = <<~HTML
-    #{readme_html}
+  corpus, notes = section_pages.partition { |section, _pages| !section[:notes] }
+  lists_html = <<~HTML
     <h2>対訳一覧</h2>
     <ul class="page-list">
-    #{list_items.join("\n")}
+    #{corpus.map { |s, p| list_item.call(s, p) }.join("\n")}
+    </ul>
+    <h2>調査ノート</h2>
+    <ul class="page-list">
+    #{notes.map { |s, p| list_item.call(s, p) }.join("\n")}
     </ul>
   HTML
+  # 一覧は README の「データソース」見出しの直前に差し込む. 見出しがなければ末尾に置く
+  insert_at = readme_html.index(/<h2[^>]*>データソース/) || readme_html.size
+  body = readme_html.dup.insert(insert_at, lists_html)
   html = render_layout(
     title: "パーリ仏典 多読用 AI ノート",
     css_href: "style.css",
