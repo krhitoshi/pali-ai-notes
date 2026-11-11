@@ -28,6 +28,19 @@ VRI 版 (Chattha Sangayana Tipitaka) の XML から対訳 md を生成するパ�
 - 対象の経・節は `<p rend="subhead">` の見出しテキストと完全一致で指定する
   (例 `"10. Kimilasuttaṃ"`). どの XML ファイルかは cscd-text MCP の検索や
   既存対訳の Ref を手がかりに特定する
+- 註釈書の冒頭部 (序偈など) は `<p rend="subsubhead">` の見出しでも指定
+  できる. MN 註の冒頭 (`s0201a.att0.xml`) は `"Ganthārambhakathā"` を指定
+  すると, 続く Nidānakathā (構造ブロック strt として出る) を含めてファイル
+  末尾までが 1 セクションになる. 出力ファイル名は `mn/mn_attha_000.md`
+  (docs/commentary_file_naming.md の「冒頭部の番号」). 対応を確認したのは
+  MN 註の冒頭だけで, 他の註釈・復註の冒頭は構造が異なる (DN 註は
+  Nidānakathā の途中に subhead がある等) ため, 段落一覧で範囲を確かめる
+- 序偈には VRI 段落番号がない. headings 上書きを付けないと, 後続の
+  Nidānakathā の番号を引き継いで全チャンクが `## 1 (N)` になる. 序偈の
+  チャンクは headings 上書きで見出しラベルを `0` にする
+  (例 `"1:0,2:0,3:0,4:0"`. 見出しは `## 0 (1)` からの連番になる).
+  `0` は VRI 段落番号のない冒頭部を指すラベルで, VRI の番号は 1 から
+  始まるため実在の番号と重ならない
 
 ## 手順 2: チャンク境界と文脈範囲の決定
 
