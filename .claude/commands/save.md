@@ -76,7 +76,7 @@ disable-model-invocation: true
 - 必ずベースとなる対象名を prefix にする. このプロジェクトでの例:
   - `term-` 訳語・語義の検討 (例 `term-yathattha.md`)
   - `grammar-` 語形・格・複合語などの文法的な分析
-  - `attha-` 註釈・復註の読みや註釈間の異同
+  - `attha-` 註釈・復註の読みや註釈書間の異同
   - `mn-` `dn-` `sn-` `vin-` `dhp-` `ja-` `patis-` `vism-` 特定テキストの
     読解メモ. 経番号を含めるときはゼロ埋め (例 `mn-043-vedalla.md`)
   - `cscd-` VRI/CSCD のテキストや XML 構造
