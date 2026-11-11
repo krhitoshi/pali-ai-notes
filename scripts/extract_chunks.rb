@@ -7,8 +7,9 @@
 #   ruby scripts/extract_chunks.rb _tmp/s0305m.mul9.xml "10. Kimilasuttaṃ" work "1-3,4,5-6,7-8,9"
 #   ruby scripts/extract_chunks.rb _tmp/s0305m.mul9.xml "10. Kimilasuttaṃ"   # 段落一覧のみ
 #
-# - <subhead> は <p rend="subhead"> / <p rend="title"> / <p rend="chapter"> の
-#   見出しテキストと完全一致させる. title 起点の場合 (Patis の kathā など) は
+# - <subhead> は <p rend="subhead"> / <p rend="title"> / <p rend="chapter"> /
+#   <p rend="subsubhead"> の見出しテキストと完全一致させる.
+#   title 起点の場合 (Patis の kathā など) は
 #   次の title までを 1 セクションとし, 内部の subhead / centre 段落も
 #   本文ブロックとして含める. chapter 起点の場合 (Patis-a の kathā 註など) は
 #   次の chapter までとし, 内部の title / subhead / centre を含める.
@@ -17,6 +18,11 @@
 #   見出しが bodytext で書かれている形に対応). bodytext 起点の場合は次の
 #   centre (各話の結び "...vaṇṇanā dasamā." など) までを 1 セクションとし,
 #   結びの centre も本文ブロックとして含める.
+#   subsubhead 起点の場合 (MN 註の冒頭 s0201a.att0.xml の "Ganthārambhakathā"
+#   など) は次の上位見出し (subhead / title / chapter) かファイル末尾までを
+#   1 セクションとし, 続く同位の subsubhead ("Nidānakathā") も構造ブロック
+#   として含める. 註釈書冒頭の序偈と nidāna を 1 ファイルにまとめるための形で,
+#   MN 註の冒頭以外の構造 (DN 註や復註の冒頭など) は未確認.
 #   その構造ブロックの一覧を <outdir>/struct.txt に書き出す (assemble_md.rb と
 #   verify_taiyaku.rb が段落番号の検出・欠番検査から除外するために使う)
 # - 環境変数 TAIYAKU_UNTIL に見出しテキスト (例 "8. Mārakathā") を指定すると,
@@ -62,7 +68,7 @@ raw.sub!(/\A﻿/, "")
 lines = raw.split(/\r?\n/)
 start_rend = nil
 start = lines.index do |l|
-  if l =~ %r{<p rend="(subhead|title|chapter)">#{Regexp.escape(subhead)}</p>}
+  if l =~ %r{<p rend="(subhead|title|chapter|subsubhead)">#{Regexp.escape(subhead)}</p>}
     start_rend = $1
     true
   end
@@ -76,10 +82,13 @@ start ||= lines.index do |l|
   end
 end
 abort "subhead not found: #{subhead}" unless start
-# 起点見出しの階層より下位の見出し rend を構造ブロックとして取り込む
+# 起点見出しの階層より下位の見出し rend を構造ブロックとして取り込む.
+# subsubhead 起点だけは同位の subsubhead を取り込む (註釈書冒頭の
+# Ganthārambhakathā と Nidānakathā を 1 セクションにするため)
 struct_rends = { "chapter" => %w[title subhead centre],
                  "title" => %w[subhead centre],
                  "subhead" => [],
+                 "subsubhead" => %w[subsubhead],
                  "bodytext" => [] }.fetch(start_rend)
 
 # 本文段落として取り込む rend. bodytext のほか, 註釈書に現れる
