@@ -24,8 +24,13 @@ Chattha Sangayana Tipitaka を使用しています.
 
 ## ディレクトリ構成
 
+- vinaya/mahavagga 律蔵 大品 (Vinaya-piṭaka, Mahāvagga)
+- dn 長部経典 (Dīgha-nikāya)
 - mn 中部経典 (Majjhima-nikāya)
 - sn 相応部経典 (Saṃyutta-nikāya)
+- an 増支部経典 (Aṅguttara-nikāya)
 - dhammapada 小部経典 ダンマパダ (Khuddaka-nikāya, Dhammapada)
+- jataka 小部経典 ジャータカの註釈書 (Khuddaka-nikāya, Jātaka-aṭṭhakathā)
 - patisambhidamagga 小部経典 無礙解道 (Khuddaka-nikāya, Paṭisambhidāmagga)
 - visuddhimagga 清浄道論 (Visuddhimagga)
+- notes 調査ノート (語義・文法・文献などの調べもの)
