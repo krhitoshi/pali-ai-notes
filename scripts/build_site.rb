@@ -112,6 +112,9 @@ CSS = <<~CSS
     background: #f4f1ea;
   }
   ul.page-list { list-style: none; padding-left: 0; }
+  /* 調査ノート一覧の作成日 */
+  ul.note-list li { margin: 0.4rem 0; }
+  ul.note-list span.note-date { color: #666; font-variant-numeric: tabular-nums; }
 CSS
 
 Page = Struct.new(:dir, :stem, :kind, :number_key, :titles, :md_path, keyword_init: true) do
@@ -329,12 +332,26 @@ def index_body(section, pages)
   # 調査ノートはタイトルのリスト, 註や復註を持つセクションは表,
   # 本文だけのセクションは番号付きの単純なリスト
   if section[:notes]
-    items = pages.map do |page|
-      %(<li><a href="#{page.html_name}">#{page.titles.empty? ? CGI.escapeHTML(page.stem) : title_html(page.titles)}</a></li>)
+    # 作成日 (frontmatter の generated) の新しい順. 同じ日付どうしはファイル名順
+    # generated のないノートは末尾に置く
+    notes = pages.map do |page|
+      meta, = split_front_matter(File.read(page.md_path, encoding: "UTF-8"))
+      [page, meta]
+    end
+    notes.sort! do |(a, a_meta), (b, b_meta)|
+      [b_meta["generated"].to_s, sort_key(a.stem)] <=> [a_meta["generated"].to_s, sort_key(b.stem)]
+    end
+    items = notes.map do |page, meta|
+      title = page.titles.empty? ? CGI.escapeHTML(page.stem) : title_html(page.titles)
+      date = meta["generated"] ? %(<span class="note-date">#{CGI.escapeHTML(meta['generated'])}</span> ) : ""
+      # reviewed が none のノートだけをレビュー待ちとする. reviewed の行がない
+      # ノートはレビューの有無の記録がない (未レビューとは限らない) ので何も付けない
+      pending = meta["reviewed"] == "none" ? " (レビュー待ち)" : ""
+      %(<li>#{date}<a href="#{page.html_name}">#{title}</a>#{pending}</li>)
     end
     <<~HTML
       <h1>#{CGI.escapeHTML(section[:name])}</h1>
-      <ul>
+      <ul class="page-list note-list">
       #{items.join("\n")}
       </ul>
     HTML
