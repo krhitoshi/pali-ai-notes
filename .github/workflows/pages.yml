@@ -2,12 +2,39 @@
 # main への push ごとに scripts/build_site.rb で public/ を生成し,
 # その中身をそのまま Pages の成果物としてデプロイする (public/ はコミットしない)
 # 事前にリポジトリの Pages 設定で Source を GitHub Actions にしておく必要がある
+#
+# サイトの出力に関係しないファイルだけを変えた push ではデプロイしない (issue #45).
+# build_site.rb が読むのは各セクションの md, README.md, build_site.rb 自身,
+# Gemfile / Gemfile.lock / .ruby-version で, それ以外を変えても出力は変わらない.
+# paths は全体 ("**") を対象にしたうえで, 関係しないと分かっているパスを
+# "!" で外す形にしている. ここに挙げていないパスは従来どおりデプロイされる
+# ため, セクションを増やしたときにこのファイルを直し忘れてもサイトが
+# 更新されない事故にならない. 後ろのパターンが優先されるので, "!scripts/**" の
+# あとに "scripts/build_site.rb" を置いて対象に戻している.
+# ドットで始まる入力 (.ruby-version とこのファイル) は, "**" がドットで始まる
+# パスに一致するかどうかを GitHub のドキュメントで確かめられなかったため,
+# 個別にも挙げている.
+# 絞り込みで飛ばされた push のあとでも workflow_dispatch で手動実行できる
 
 name: Deploy site to Pages
 
 on:
   push:
     branches: [main]
+    paths:
+      - "**"
+      - ".ruby-version"
+      - ".github/workflows/pages.yml"
+      - "!.claude/**"
+      - "!docs/**"
+      - "!scripts/**"
+      - "scripts/build_site.rb"
+      - "!templates/**"
+      - "!.obsidian/**"
+      - "!CLAUDE.md"
+      - "!system_prompt*.md"
+      - "!pali_glossary.md"
+      - "!.gitignore"
   workflow_dispatch:
 
 permissions:
