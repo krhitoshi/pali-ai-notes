@@ -201,7 +201,7 @@ def front_matter_html(meta)
   parts << "未完 (生成途中)" if meta["status"] == "incomplete"
   # 調査ノートだけが持つ項目
   parts << "モデル: #{CGI.escapeHTML(meta['models'])}" if meta["models"]
-  parts << "校閲: #{CGI.escapeHTML(meta['reviewed'])}" if meta["reviewed"]
+  parts << "レビュー: #{CGI.escapeHTML(meta['reviewed'])}" if meta["reviewed"]
   return "" if parts.empty?
 
   %(<p class="page-meta">#{parts.join('<span class="sep">|</span>')}</p>\n)
