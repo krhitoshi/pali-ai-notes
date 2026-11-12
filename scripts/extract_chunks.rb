@@ -38,7 +38,8 @@
 #   セクション一部だけを対訳する用途のため "6-11" のような途中範囲も
 #   指定できる. ただし連続した昇順であること (歯抜けや逆順は誤指定として弾く)
 # - <outdir> と <chunkspec> を省略すると, チャンク境界を決めるための
-#   段落一覧 (連番, VRI 段落番号, 文字数, 冒頭) を表示して終了する
+#   段落一覧 (連番, VRI 段落番号, 文字数, 冒頭) を表示して終了する.
+#   一覧の末尾には抽出の終了位置 (どの行で抽出が止まったか) を表示する
 # - 出力: <outdir>/source.txt (正本, read-only) と <outdir>/chunk_NN.txt
 #   source.txt は chunkspec の範囲によらず常にセクション全体を書く
 #   (verify_taiyaku.rb は正本の部分文字列照合のため広い分には問題ない)
@@ -106,6 +107,9 @@ paras = []
 # 位置. 段落番号の検出から除外するために使う
 struct_flags = []
 until_reached = false
+# 抽出が止まった位置の行 (段落一覧の末尾に終了位置として表示する).
+# nil のままならファイル末尾まで読んだことを表す
+stop_line = nil
 rest = lines[(start + 1)..]
 rest.each_with_index do |line, idx|
   line = line.strip
@@ -114,6 +118,7 @@ rest.each_with_index do |line, idx|
   if until_text
     if line =~ %r{<p rend="(subhead|title|chapter)">#{Regexp.escape(until_text)}</p>}
       until_reached = true
+      stop_line = line
       break
     end
     unless BODY_RENDS.include?(rend)
@@ -139,6 +144,8 @@ rest.each_with_index do |line, idx|
       struct_flags << true
       next
     end
+    # 結びとして取り込んだ centre 段落の数 (終了位置はその次の行になる)
+    closing = 0
     if struct_rends.empty?
       # 経の結び (MN などの "... niṭṭhitaṃ ..." centre 段落) は含める.
       # vagga の結び ("...vaggo paṭhamo." "...vaggo niṭṭhito ..." など) は
@@ -156,15 +163,18 @@ rest.each_with_index do |line, idx|
         if start_rend == "bodytext"
           paras << line
           struct_flags << false
+          closing = 1
         else
           run = rest[idx..].map(&:strip)
                            .take_while { |l| l.empty? || l.start_with?('<p rend="centre">') }
                            .reject(&:empty?)
           close = run.index { |l| l =~ /niṭṭhit(aṃ|ā)\b|samattā\b/ }
           run[..close].each { |l| paras << l; struct_flags << false } if close
+          closing = close + 1 if close
         end
       end
     end
+    stop_line = rest[idx..].map(&:strip).reject(&:empty?)[closing]
     break
   end
   paras << line
@@ -207,6 +217,22 @@ unless chunkspec
   blocks[1..].each_with_index do |b, i|
     num = struct_flags[i] ? "strt" : b[/\A(\d+)\./, 1]
     puts format("%3d | para %-4s | %5d chars | %s", i + 1, num.to_s, b.size, b[0, 60])
+  end
+  # 抽出の終了位置を表示する. subhead 起点のセクションは次の見出しで抽出が
+  # 止まるため, セクション内部の小見出し (MN 54 註の "Kāmādīnavakathāvaṇṇanā"
+  # など) で止まると一覧が途中までになる. 一覧だけでは気づけないので,
+  # どの行で止まったかを示す
+  stop_rend = stop_line && stop_line[/\A<p rend="([^"]+)"/, 1]
+  if stop_rend
+    stop_text = to_plain(stop_line)
+    puts "終了位置: #{stop_rend} | #{stop_text[0, 60]}"
+    if start_rend == "subhead" && stop_rend == "subhead" && !until_text &&
+       subhead =~ /\A\d+\./ && stop_text !~ /\A\d+\./
+      puts "注意: 番号のない subhead で終了している. セクション内部の小見出しであれば, " \
+           "TAIYAKU_UNTIL に次のセクションの見出しを指定して全体を抽出する"
+    end
+  else
+    puts "終了位置: 本文の終わり"
   end
   exit
 end

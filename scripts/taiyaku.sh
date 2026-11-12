@@ -35,6 +35,17 @@
 #     "1-3,4-5,6-7,8-9,10-11,12-13,14-15,16-17,18-19,20-26" _tmp/work_an_05_181-190 \
 #     an/an_05_181-190.md claude-fable-5-1
 #
+# 環境変数 TAIYAKU_UNTIL でセクションの終了見出しを指定する.
+#   未指定 : 従来どおり起点見出しの次の見出しで抽出を止める
+#   <見出しテキスト> : その見出しの直前までを 1 セクションとし, 間の
+#                      小見出しや結び行を構造ブロックとして取り込む
+# セクションの途中に内部の小見出しがある註釈書などで使う. 値はそのまま
+# extract_chunks.rb に引き継がれる (詳細は同スクリプトのヘッダコメント参照).
+# 段落一覧の表示で指定したのと同じ値を付ける. 例:
+#   TAIYAKU_UNTIL="5. Jīvakasuttavaṇṇanā" scripts/taiyaku.sh _tmp/s0202a.att0.xml \
+#     "4. Potaliyasuttavaṇṇanā" "<chunkspec>" _tmp/work_mn_attha_054 \
+#     mn/mn_attha_054.md claude-fable-5-1
+#
 # 環境変数 TAIYAKU_AUTH で生成の認証方法を指定する.
 #   未指定 / subscription : 従来どおり CLI のログイン (サブスクリプション) で生成する
 #   api                   : PALI_AI_NOTES_CLAUDE_API_KEY を ANTHROPIC_API_KEY として
