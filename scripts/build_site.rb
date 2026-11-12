@@ -230,7 +230,7 @@ def preprocess(md)
 end
 
 # Commonmarker は既定で改行を <br> にする (hardbreaks). 対訳はこの挙動に合わせて
-# 書かれているが, 調査ノートは段落を 80 桁前後で折り返しているので false で呼ぶ
+# 書かれているが, 調査ノートは 1 段落を 1 行で書く通常の markdown なので false で呼ぶ
 def to_html(md, hardbreaks: true)
   Commonmarker.to_html(md, options: { extension: { autolink: true }, render: { hardbreaks: hardbreaks } })
 end
