@@ -31,7 +31,10 @@
 #   セクションが内部に centre 区切りや番号なし subhead を持つ形 (Vinaya
 #   khandhaka の各 kathā など) や, 内部に title 見出しを持つ形 (MN 1 復註の
 #   Nettinayavaṇṇanā など) に対応する. 結び行 ("...kathā niṭṭhitā." 等)
-#   も構造ブロックとして含まれる. 未指定時の挙動は従来どおり
+#   も構造ブロックとして含まれる. ファイル内で最後のセクションは後ろに
+#   見出しがないため, セクションの結びの次にある centre 行 (vagga の結び.
+#   MN 10 註なら "Paṭhamavaggavaṇṇanā niṭṭhitā.") を指定する. 指定した行は
+#   取り込まない (issue #40). 未指定時の挙動は従来どおり
 #   (最初の centre で終了. 連続する centre のうち niṭṭhitaṃ / niṭṭhitā を含む
 #   段落までを結びとして本文に含める)
 # - <chunkspec> は段落番号 (1 始まり) のグループ指定. 例 "1-3,4,5-9"
@@ -135,13 +138,18 @@ until_reached = false
 # 抽出が止まった位置の行 (段落一覧の末尾に終了位置として表示する).
 # nil のままならファイル末尾まで読んだことを表す
 stop_line = nil
+# 抽出が止まった行の rest 内での位置 (TAIYAKU_UNTIL の候補を探す起点)
+stop_from = nil
 rest = lines[(start + 1)..]
 rest.each_with_index do |line, idx|
   line = line.strip
   next if line.empty?
   rend = line[/\A<p rend="([^"]+)"/, 1]
   if until_text
-    if line =~ %r{<p rend="(subhead|title|chapter)">#{Regexp.escape(until_text)}</p>}
+    # centre も終了位置として一致させる. ファイル内で最後のセクションは後ろに
+    # 見出しがないため, vagga の結び行 (MN 10 註の後ろの
+    # "Paṭhamavaggavaṇṇanā niṭṭhitā." など) を終了位置に指定する (issue #40)
+    if line =~ %r{<p rend="(subhead|title|chapter|centre)">#{Regexp.escape(until_text)}</p>}
       until_reached = true
       stop_line = line
       break
@@ -200,6 +208,7 @@ rest.each_with_index do |line, idx|
       end
     end
     stop_line = rest[idx..].map(&:strip).reject(&:empty?)[closing]
+    stop_from = idx
     break
   end
   paras << line
@@ -317,6 +326,25 @@ unless chunkspec
        subhead =~ /\A\d+\./ && stop_text !~ /\A\d+\./
       puts "注意: 番号のない subhead で終了している. セクション内部の小見出しであれば, " \
            "TAIYAKU_UNTIL に次のセクションの見出しを指定して全体を抽出する"
+      # TAIYAKU_UNTIL に指定する行の候補を示す. 後ろに番号付きの subhead が
+      # あればそれが次のセクションの見出し. なければファイル内で最後の
+      # セクションなので, ファイル末尾に並ぶ centre 行 (セクションの結びと
+      # vagga の結び) を示す. セクションの結びの次の行を指定すると,
+      # セクションの結びまでが取り込まれる (issue #40)
+      after = rest[stop_from..].map(&:strip).select { |l| l.start_with?("<p rend=") }
+      next_head = after.find { |l| l =~ %r{\A<p rend="subhead">\d+\.} }
+      if next_head
+        puts "TAIYAKU_UNTIL の候補 (次の番号付き subhead): #{to_plain(next_head)}"
+      else
+        tail = after.reverse.take_while { |l| l.start_with?('<p rend="centre">') }.reverse
+        if tail.empty?
+          puts "後ろに番号付きの subhead も末尾の centre 行もない. TAIYAKU_UNTIL に指定できる行がない"
+        else
+          puts "後ろに番号付きの subhead がない (ファイル内で最後のセクション). " \
+               "TAIYAKU_UNTIL にはセクションの結びの次の centre 行を指定する. ファイル末尾の centre 行:"
+          tail.last(6).each { |l| puts "  #{to_plain(l)}" }
+        end
+      end
     end
   else
     puts "終了位置: 本文の終わり"

@@ -141,9 +141,19 @@ ruby scripts/extract_chunks.rb _tmp/s0202m.mul0.xml "10. Apaṇṇakasuttaṃ"
   ("...vaṇṇanā niṭṭhitā.") は直前のチャンクの末尾に含める.
   `TAIYAKU_UNTIL` は段落一覧の表示と手順 3 のパイプライン実行の両方に
   同じ値を付ける (付け忘れると途中までのセクションで生成される)
-- XML ファイル内で最後のセクションは, 後ろに `TAIYAKU_UNTIL` へ指定できる
-  見出しがない. 内部の小見出しを持つ場合 (MN 10 註など) は全体を抽出
-  できない (未対応の制限. issue #40)
+- XML ファイル内で最後のセクション (MN 10 註など) は, 後ろに次の
+  セクションの見出しがない. この場合は `TAIYAKU_UNTIL` に, セクションの
+  結びの次にある centre 行 (vagga の結び) を指定する. 指定した行自体は
+  取り込まれない. 「注意」の下に候補が表示される (次の番号付き subhead が
+  あればそれ, なければファイル末尾の centre 行の並び) ので, そこから選ぶ
+
+  ```bash
+  TAIYAKU_UNTIL="Paṭhamavaggavaṇṇanā niṭṭhitā." ruby scripts/extract_chunks.rb \
+    _tmp/s0201a.att1.xml "10. Satipaṭṭhānasuttavaṇṇanā"
+  ```
+
+  ファイルが centre 行で終わらない場合 (末尾が uddāna の本文など) は
+  指定できる行がなく, 全体を抽出できない (未対応の制限)
 
 ## 手順 3: パイプライン実行
 
