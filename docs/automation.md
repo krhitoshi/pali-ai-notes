@@ -139,9 +139,17 @@ CLI で再現する構成になる.
     subhead をスキップした先頭の本文段落から取られる). セクション結びの
     centre ("Gaṇanavāro paṭhamo." など) は直前セクションのチャンク末尾に
     含める
-- 制限: subhead 起点で経の途中に内部 subhead がある場合 (MN 54 Potaliya の
-  "Kāmādīnavakathā" など) はそこで抽出が止まる. 対象が vagga 全体などの
-  場合も未対応. 必要になったら範囲指定の方法を拡張する
+- subhead 起点で経の途中に内部 subhead がある場合 (MN 54 Potaliya の
+  "Kāmādīnavakathā" など) はそこで抽出が止まる. 環境変数 `TAIYAKU_UNTIL` に
+  次のセクションの見出しテキストを指定すると, その直前までを 1 セクション
+  とし, 間の subhead / centre / title を構造ブロックとして取り込む
+  (Vinaya khandhaka の各 kathā, MN 1 註, MN 1 復註で使用). 段落一覧の末尾に
+  抽出の終了位置を表示するので, 内部の小見出しで止まったかどうかは
+  そこで確かめる
+- 制限: XML ファイル内で最後のセクションは後ろに `TAIYAKU_UNTIL` へ指定
+  できる見出しがなく, 内部 subhead を持つ場合 (MN 10 註など) は全体を
+  抽出できない (issue #40). 対象が vagga 全体などの場合も未対応.
+  必要になったら範囲指定の方法を拡張する
 - ロケールが C のシェルから Ruby を呼ぶと `File.read` が ASCII-8BIT に
   なり文字列比較が壊れる. 読み込み時に encoding を明示する
 - ブラウザからの手動コピペには NBSP (U+00A0) が混入する. tipitaka.org の
