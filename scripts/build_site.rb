@@ -173,6 +173,22 @@ def extract_titles(path)
   titles.uniq.join(" / ")
 end
 
+# タイトル (見出しの md テキスト) のインライン記法を HTML にする
+# Commonmarker の出力から外側の <p> を外して使う. 段落 1 つにならない場合
+# (行頭の "1." がリストと解釈されるなど) は記法を解釈せずエスケープだけする
+def title_html(md_text)
+  # H1 のないページは空文字 (US-ASCII の "" になり Commonmarker が受け付けない)
+  return "" if md_text.empty?
+
+  html =Commonmarker.to_html(md_text, options: { render: { hardbreaks: false } }).strip
+  html[%r{\A<p>(.*)</p>\z}m, 1] || CGI.escapeHTML(md_text)
+end
+
+# <title> 用に, タイトルの記法を外したテキストにする
+def title_text(md_text)
+  CGI.unescapeHTML(title_html(md_text).gsub(/<[^>]*>/, ""))
+end
+
 # 先頭の frontmatter (--- で囲まれた key: value 行) を分離する
 # 戻り値: [メタ情報の Hash, frontmatter を除いた本文]
 def split_front_matter(md)
@@ -298,7 +314,7 @@ def write_page(page, section, pages)
   meta, body_md = split_front_matter(File.read(page.md_path, encoding: "UTF-8"))
   md = preprocess(body_md)
   md = rewrite_md_links(md) if section[:notes]
-  title = page.titles.empty? ? page.stem : page.titles
+  title = page.titles.empty? ? page.stem : title_text(page.titles)
   html = render_layout(
     title: "#{title} - #{section[:name]}",
     css_href: "#{root_rel(section)}style.css",
@@ -314,7 +330,7 @@ def index_body(section, pages)
   # 本文だけのセクションは番号付きの単純なリスト
   if section[:notes]
     items = pages.map do |page|
-      %(<li><a href="#{page.html_name}">#{CGI.escapeHTML(page.titles.empty? ? page.stem : page.titles)}</a></li>)
+      %(<li><a href="#{page.html_name}">#{page.titles.empty? ? CGI.escapeHTML(page.stem) : title_html(page.titles)}</a></li>)
     end
     <<~HTML
       <h1>#{CGI.escapeHTML(section[:name])}</h1>
@@ -332,7 +348,7 @@ def index_body(section, pages)
       <<~ROW
         <tr>
         <td>#{CGI.escapeHTML(title_page.display_number)}</td>
-        <td>#{CGI.escapeHTML(title_page.titles)}</td>
+        <td>#{title_html(title_page.titles)}</td>
         <td>#{links[0]}</td><td>#{links[1]}</td><td>#{links[2]}</td>
         </tr>
       ROW
@@ -346,7 +362,7 @@ def index_body(section, pages)
     HTML
   else
     items = pages.map do |page|
-      %(<li><a href="#{page.html_name}">#{CGI.escapeHTML(page.display_number)}</a> #{CGI.escapeHTML(page.titles)}</li>)
+      %(<li><a href="#{page.html_name}">#{CGI.escapeHTML(page.display_number)}</a> #{title_html(page.titles)}</li>)
     end
     <<~HTML
       <h1>#{CGI.escapeHTML(section[:name])}</h1>
