@@ -39,7 +39,11 @@
 #   指定できる. ただし連続した昇順であること (歯抜けや逆順は誤指定として弾く)
 # - <outdir> と <chunkspec> を省略すると, チャンク境界を決めるための
 #   段落一覧 (連番, VRI 段落番号, 文字数, 冒頭) を表示して終了する.
-#   一覧の末尾には抽出の終了位置 (どの行で抽出が止まったか) を表示する
+#   一覧の末尾には抽出の終了位置 (どの行で抽出が止まったか) を表示する.
+#   一覧の前にはセクション全体の行数, 字数, 出力トークンの見積もりを表示する.
+#   字数が分割の目安 (SPLIT_THRESHOLD) を超える場合は段落一覧を省略し,
+#   区切りごとの行範囲と字数だけを表示する. このとき段落一覧は
+#   --rows A-B で行範囲を指定して表示する (例 --rows 1-62)
 # - 出力: <outdir>/source.txt (正本, read-only) と <outdir>/chunk_NN.txt
 #   source.txt は chunkspec の範囲によらず常にセクション全体を書く
 #   (verify_taiyaku.rb は正本の部分文字列照合のため広い分には問題ない)
@@ -48,9 +52,30 @@
 #   assert する. 全段落指定なら正本全体との一致になる
 
 # ARGV はロケールによって binary になるため UTF-8 を強制する
-xml_path, subhead, outdir, chunkspec = ARGV.map { |a| a.dup.force_encoding("UTF-8") }
+argv = ARGV.map { |a| a.dup.force_encoding("UTF-8") }
+# --rows A-B: 段落一覧に表示する行範囲 (段落一覧の表示時のみ有効)
+rows_spec = nil
+if (i = argv.index("--rows"))
+  argv.delete_at(i)
+  rows_spec = argv.delete_at(i)
+  abort "--rows は A-B の形で指定する (例 --rows 1-62): #{rows_spec.inspect}" unless rows_spec =~ /\A[1-9]\d*-[1-9]\d*\z/
+end
+xml_path, subhead, outdir, chunkspec = argv
 abort "usage: extract_chunks.rb <xml> <subhead> [<outdir> <chunkspec>]" unless subhead
 abort "usage: extract_chunks.rb <xml> <subhead> [<outdir> <chunkspec>]" if outdir && !chunkspec
+abort "--rows は段落一覧の表示 (<outdir> <chunkspec> の省略時) にだけ指定できる" if rows_spec && chunkspec
+
+# 分割生成の目安. 原文がこの字数を超えるセクションは, 段落一覧を出さずに
+# 規模の要約だけを表示する. 段落一覧とそれを基にしたチャンク表が大きくなり,
+# 生成前の確認だけでセッションのトークンを使うため. 生成も数回に分ける
+# ことを検討する. 値は MN 註の実績から決めた (2026/11/12). 1 回で生成した
+# MN 77 註 (35,623 字) と MN 43 註 (37,982 字) は下回り, MN 3 註 (40,085 字)
+# 以上が該当する
+SPLIT_THRESHOLD = 40_000
+# 出力トークンの見積もり係数 (原文 1 字あたり). 2026/11 に生成した MN 1 註
+# (6.4), MN 1 復註 (6.9), MN 83 註 (6.4) の実績から決めた. それ以前の生成は
+# 4.2-5.7 で, モデルや effort によって変わるため目安として扱う
+TOKENS_PER_CHAR = 6.5
 # 参照文脈の指定 (詳細は末尾の prompt_NN.txt 書き出し部を参照). 書き出し前に検査する
 ctx = ENV["TAIYAKU_CTX"].to_s.strip
 ctx = "none" if ctx.empty?
@@ -212,11 +237,73 @@ blocks = [subhead] + paras.map { |p| to_plain(p) }
 
 # chunkspec 省略時は段落一覧を表示して終了する (チャンク境界の検討用).
 # 構造ブロック (subhead / centre) は para 欄に "strt" と表示する
+#
+# 一覧の前にセクション全体の規模 (行数, 字数, 出力トークンの見積もり) を
+# 表示する. 字数が SPLIT_THRESHOLD を超える場合は段落一覧を省略し, 代わりに
+# 区切り (小見出しと VRI 段落番号) ごとの行範囲と字数を表示する. 分割生成の
+# 各回の範囲はこの内訳から決め, その回の範囲だけを --rows で一覧表示する
+def commas(n)
+  n.to_s.reverse.scan(/\d{1,3}/).join(",").reverse
+end
+
+def token_estimate(chars)
+  t = chars * TOKENS_PER_CHAR
+  t >= 10_000 ? "約 #{(t / 10_000.0).round} 万トークン" : "約 #{(t / 1000.0).round} 千トークン"
+end
+
 unless chunkspec
+  rows = blocks[1..]
+  total = rows.sum(&:size)
   puts subhead
-  blocks[1..].each_with_index do |b, i|
-    num = struct_flags[i] ? "strt" : b[/\A(\d+)\./, 1]
-    puts format("%3d | para %-4s | %5d chars | %s", i + 1, num.to_s, b.size, b[0, 60])
+  puts "合計: #{rows.size} 行 | #{commas(total)} 字 | 出力見積もり #{token_estimate(total)}"
+  if rows_spec
+    first, last = rows_spec.split("-").map(&:to_i)
+    abort "--rows が段落範囲 1..#{rows.size} を超えているか逆順: #{rows_spec}" unless first <= last && last <= rows.size
+  else
+    first, last = 1, rows.size
+  end
+  if total > SPLIT_THRESHOLD && !rows_spec
+    puts "分割の目安 (#{commas(SPLIT_THRESHOLD)} 字) を超えているため段落一覧は省略する. " \
+         "生成を数回に分けることを検討する"
+    puts "区切りごとの内訳 (行範囲 | 字数 | 累計 | 小見出し / VRI 段落番号):"
+    # 区切りは小見出し (構造ブロックのうち結びの centre 以外) と VRI 段落番号の
+    # 行で始める. 見出しが続く場合と見出し直後の番号段落は 1 つの区切りにまとめる
+    para_rends = paras.map { |p| p[/\A<p rend="([^"]+)"/, 1] }
+    groups = []
+    rows.each_with_index do |b, i|
+      heading = struct_flags[i] && para_rends[i] != "centre"
+      num = struct_flags[i] ? nil : b[/\A(\d+)\./, 1]
+      if heading
+        if groups.last && groups.last[:open]
+          groups.last[:label] += " / #{b[0, 40]}"
+        else
+          groups << { first: i + 1, label: b[0, 40], open: true }
+        end
+        next
+      end
+      if groups.empty?
+        groups << { first: 1, label: num ? "para #{num}" : "(冒頭)" }
+      elsif num && groups.last[:open]
+        groups.last[:label] += " / para #{num}"
+      elsif num
+        groups << { first: i + 1, label: "para #{num}" }
+      end
+      groups.last[:open] = false
+    end
+    cum = 0
+    groups.each_with_index do |g, gi|
+      g_last = gi + 1 < groups.size ? groups[gi + 1][:first] - 1 : rows.size
+      chars = rows[(g[:first] - 1)..(g_last - 1)].sum(&:size)
+      cum += chars
+      puts format("%4d-%-4d | %7s 字 | 累計 %8s | %s", g[:first], g_last, commas(chars), commas(cum), g[:label])
+    end
+    puts "段落一覧は行範囲を指定して表示する (例 --rows 1-#{groups.size > 1 ? groups[1][:first] - 1 : rows.size})"
+  else
+    rows.each_with_index do |b, i|
+      next unless (first..last).cover?(i + 1)
+      num = struct_flags[i] ? "strt" : b[/\A(\d+)\./, 1]
+      puts format("%3d | para %-4s | %5d chars | %s", i + 1, num.to_s, b.size, b[0, 60])
+    end
   end
   # 抽出の終了位置を表示する. subhead 起点のセクションは次の見出しで抽出が
   # 止まるため, セクション内部の小見出し (MN 54 註の "Kāmādīnavakathāvaṇṇanā"

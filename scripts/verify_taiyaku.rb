@@ -38,6 +38,8 @@
 #   - 正本に現れる VRI 段落番号がすべて ## 見出しに存在する (欠番の検出.
 #     チャンク途中から始まった番号は見出しを持てないため, ここで露見する)
 #   - 同一番号 (同一ラベル) の連番 (N) は 1 から始まり連続する
+#   - md の frontmatter に status: incomplete がある間 (分割生成の途中) は,
+#     生成済みの最後の番号より後ろの欠番を NG にせず「未完」として表示する
 
 args = ARGV.map { |a| a.dup.force_encoding("UTF-8") }
 struct_blocks = []
@@ -180,6 +182,19 @@ md_paths.each do |md|
     end
   end
   missing = expected_nums - found_nums
+  # 分割生成の途中 (assemble_md.rb が frontmatter に status: incomplete を
+  # 書いた md) では, 生成済みの最後の番号より後ろの段落番号はまだ生成して
+  # いない分のため NG にせず, 未生成として表示する. それより前の欠番は
+  # 従来どおり NG にする
+  if File.read(md, encoding: "UTF-8").match?(/\A---\n(?:[^\n]*\n)*?status: incomplete\n(?:[^\n]*\n)*?---\n/)
+    last_found = found_nums.map(&:to_i).max || 0
+    pending, missing = missing.partition { |n| n.to_i > last_found }
+    if pending.empty?
+      puts "未完 #{md}: status: incomplete (生成済みの最後の番号より後ろに未生成の段落番号はない)"
+    else
+      puts "未完 #{md}: status: incomplete. 未生成の段落番号: #{pending.first}-#{pending.last} (#{pending.size} 個)"
+    end
+  end
   unless missing.empty?
     ng += 1
     puts "NG-HEADING #{md}: ## 見出しにない段落番号: #{missing.join(', ')}"

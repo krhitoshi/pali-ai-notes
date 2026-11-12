@@ -63,6 +63,29 @@
 # (2026/11/10 に MN 1 復註の 171 チャンクを同時に起動し, スワップをほぼ
 # 使い切った. 同日の 76 チャンク同時起動は問題なく完了している)
 #
+# 環境変数 TAIYAKU_GEN で生成するチャンクを番号で指定する (分割生成).
+#   未指定 : 従来どおり workdir の全チャンクを生成する (生成済みも作り直す)
+#   <指定> : チャンク番号か範囲のカンマ区切り. "31-55" は 31 から 55,
+#            "31-" は 31 から最後まで, "12,31-55" は 12 と 31 から 55.
+#            指定したチャンクだけを生成し, それ以外の out_NN.md には触れない
+# 長いテキストを数回に分けて生成するためのもの. 2 回目以降は前回までの
+# chunkspec に続きを足した chunkspec を渡し, 新しく増えたチャンクの番号を
+# TAIYAKU_GEN に指定する. 組み立てと検証は毎回行い, md にはその時点で
+# 生成済みのチャンクがすべて入る. 全体が揃うまで md の frontmatter には
+# status: incomplete が付く (assemble_md.rb が判定する).
+# 生成済みチャンクの原文 (chunk_NN.txt) が今回の chunkspec で変わる場合は,
+# out_NN.md と対応しなくなるため生成前に abort する.
+# 失敗したチャンクだけを再生成するときにも使う. 例:
+#   TAIYAKU_UNTIL="2. Sabbāsavasuttavaṇṇanā" TAIYAKU_GEN=31- scripts/taiyaku.sh \
+#     _tmp/s0201a.att1.xml "1. Mūlapariyāyasuttavaṇṇanā" "<1 回目の chunkspec>,<続き>" \
+#     _tmp/work_mn_attha_001 mn/mn_attha_001.md claude-fable-5-1
+#
+# 環境変数 TAIYAKU_EXCERPT に値 (1 など) を指定すると, セクションの一部だけを
+# 対訳する場合 (Dhp-a の vatthu で偈と語句註のみ対訳する等) として扱い,
+# chunkspec がセクション全体に届いていなくても status: incomplete を付けない.
+# 未指定で一部だけの chunkspec を渡すと, 分割生成の途中とみなして
+# status: incomplete が付く
+#
 # 注意:
 # - 生成で 401 が出る場合は claude login で CLI の再ログインが必要
 # - 生成の cwd は workdir. リポジトリ内 workdir ではプロジェクト CLAUDE.md が
@@ -99,6 +122,32 @@ if [[ ! $jobs_max =~ ^[1-9][0-9]*$ ]]; then
   echo "TAIYAKU_JOBS は正の整数を指定. 指定: $jobs_max" >&2
   exit 1
 fi
+
+# 生成するチャンクの指定 (詳細はヘッダコメント参照). 未指定なら全チャンク
+gen_spec=${TAIYAKU_GEN:-}
+if [ -n "$gen_spec" ] && [[ ! $gen_spec =~ ^[0-9]+(-[0-9]*)?(,[0-9]+(-[0-9]*)?)*$ ]]; then
+  echo "TAIYAKU_GEN はチャンク番号か範囲のカンマ区切りで指定 (例 31-55, 31-, 12,31-55). 指定: $gen_spec" >&2
+  exit 1
+fi
+# チャンク番号 $1 (chunk_NN.txt の NN) が今回の生成対象かどうか.
+# 先頭の 0 で 8 進数と解釈されないよう 10# を付けて比べる
+in_gen() {
+  [ -z "$gen_spec" ] && return 0
+  local n=$((10#$1)) part a b
+  local IFS=,
+  for part in $gen_spec; do
+    a=${part%%-*}
+    case "$part" in
+      *-) b=999999 ;;
+      *-*) b=${part#*-} ;;
+      *) b=$a ;;
+    esac
+    if [ "$n" -ge "$((10#$a))" ] && [ "$n" -le "$((10#$b))" ]; then
+      return 0
+    fi
+  done
+  return 1
+}
 
 # 認証方法. api では PALI_AI_NOTES_CLAUDE_API_KEY を ANTHROPIC_API_KEY として
 # claude -p に渡す
@@ -143,6 +192,47 @@ src_url="https://www.tipitaka.org/romn/cscd/$(basename "$xml")"
 # 1. 抽出 + チャンク分割 (連結一致 assert 込み)
 ruby "$repo_root/scripts/extract_chunks.rb" "$xml" "$subhead" "$workdir" "$chunkspec"
 
+# 分割生成 (TAIYAKU_GEN) では, 今回生成しないチャンクの out_NN.md を前回の
+# まま使う. その原文 chunk_NN.txt が今回の chunkspec で変わると原文と対訳が
+# 対応しなくなるため, 生成時に meta_NN.txt へ記録したチェックサム (3 行目) と
+# 比べる. 記録のないチャンク (meta_NN.txt 導入前の workdir) は比べない
+if [ -n "$gen_spec" ]; then
+  changed=""
+  for chunk in "$workdir"/chunk_*.txt; do
+    n=$(basename "$chunk" .txt); n=${n#chunk_}
+    if in_gen "$n" || [ ! -f "$workdir/out_$n.md" ] || [ ! -f "$workdir/meta_$n.txt" ]; then
+      continue
+    fi
+    sum=$(sed -n '3p' "$workdir/meta_$n.txt")
+    if [ -n "$sum" ] && [ "$(cksum < "$chunk")" != "$sum" ]; then
+      changed+=" $n"
+    fi
+  done
+  if [ -n "$changed" ]; then
+    echo "生成済みチャンクの原文が今回の chunkspec で変わっています:$changed" >&2
+    echo "前回までの chunkspec を変えずに続きを足すか, 変わったチャンクを TAIYAKU_GEN に含めてください" >&2
+    exit 1
+  fi
+fi
+
+# 実行時の指定を workdir に残す. 分割生成の次の回 (日をまたいで別の
+# セッションになることがある) で, 前回までの chunkspec と環境変数を
+# 確かめるために使う. 上の検査で abort した実行の chunkspec を残さないよう,
+# 検査を通ったあとに書く
+{
+  echo "xml: $(basename "$xml")"
+  echo "subhead: $subhead"
+  echo "chunkspec: $chunkspec"
+  echo "headings: $headings"
+  echo "out_md: $out_md"
+  echo "model: $model"
+  echo "effort: $effort"
+  echo "TAIYAKU_UNTIL: ${TAIYAKU_UNTIL:-}"
+  echo "TAIYAKU_CTX: ${TAIYAKU_CTX:-none}"
+  echo "TAIYAKU_GEN: ${gen_spec:-all}"
+  echo "TAIYAKU_EXCERPT: ${TAIYAKU_EXCERPT:-}"
+} > "$workdir/run.txt"
+
 # title 起点セクションでは構造ブロック一覧 struct.txt が書き出される.
 # 組み立てと検証で段落番号の検出から除外するために渡す.
 # bash 3.2 の set -u は空配列の展開を unbound variable にするため,
@@ -156,9 +246,18 @@ struct_args=()
 # 同時実行数は jobs_max までとし, 実行中のジョブが上限に達している間は
 # 空きが出るまで待ってから次のチャンクを起動する (bash 3.2 には wait -n が
 # ないため, 実行中ジョブ数を 1 秒ごとに数える)
-echo "generate: ctx=${TAIYAKU_CTX:-none} auth=$auth jobs=$jobs_max"
+#
+# TAIYAKU_GEN 指定時は該当チャンクだけを生成する. 生成したチャンクには
+# 生成日とモデルラベルを meta_NN.txt (1 行目 = 日付, 2 行目 = ラベル,
+# 3 行目 = 生成に使った chunk_NN.txt のチェックサム) に記録する.
+# assemble_md.rb がチャンクごとの Meta ブロックに使うため, 日をまたいで
+# 分割生成しても先に生成したチャンクの日付とラベルが変わらない
+echo "generate: ctx=${TAIYAKU_CTX:-none} auth=$auth jobs=$jobs_max gen=${gen_spec:-all}"
+gen_count=0
 for chunk in "$workdir"/chunk_*.txt; do
   n=$(basename "$chunk" .txt); n=${n#chunk_}
+  in_gen "$n" || continue
+  gen_count=$((gen_count + 1))
   input="chunk_$n.txt"
   [ -f "$workdir/prompt_$n.txt" ] && input="prompt_$n.txt"
   while [ "$(jobs -rp | wc -l)" -ge "$jobs_max" ]; do
@@ -173,9 +272,15 @@ for chunk in "$workdir"/chunk_*.txt; do
       --disable-slash-commands \
       --tools "" \
       < "$input" > "out_$n.md" 2> "err_$n.log"
+    printf '%s\n%s\n%s\n' "$(date +%Y/%m/%d)" "$label" "$(cksum < "chunk_$n.txt")" > "meta_$n.txt"
   ) &
 done
 wait
+if [ "$gen_count" -eq 0 ]; then
+  echo "TAIYAKU_GEN=$gen_spec に該当するチャンクがありません" >&2
+  exit 1
+fi
+echo "generated: $gen_count chunks"
 
 # 生成失敗 (空出力や API エラー, 利用上限) の検出.
 # 利用上限時は出力が "You've reached your ... limit" のメッセージだけになり
@@ -218,7 +323,8 @@ fi
 
 # 3. md 組み立て (原文ブロックはチャンクから byte-exact コピー)
 ruby "$repo_root/scripts/assemble_md.rb" "$workdir" "$out_md" "$(date +%Y/%m/%d)" "$label" \
-  ${headings:+"$headings"} --source "$src_url" ${struct_args[@]+"${struct_args[@]}"}
+  ${headings:+"$headings"} --source "$src_url" ${struct_args[@]+"${struct_args[@]}"} \
+  ${TAIYAKU_EXCERPT:+--excerpt}
 
 # 4. 対訳中のパーリ再掲行を正本と照合
 ruby "$repo_root/scripts/verify_taiyaku.rb" ${struct_args[@]+"${struct_args[@]}"} \
