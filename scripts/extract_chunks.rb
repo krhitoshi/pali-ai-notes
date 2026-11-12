@@ -50,6 +50,8 @@
 # - 出力: <outdir>/source.txt (正本, read-only) と <outdir>/chunk_NN.txt
 #   source.txt は chunkspec の範囲によらず常にセクション全体を書く
 #   (verify_taiyaku.rb は正本の部分文字列照合のため広い分には問題ない)
+#   <outdir> に前回の chunk_NN.txt が残っている場合は, すべて消してから
+#   書き出す (チャンク数を減らした再実行で古いチャンクが残らないようにする)
 # - チャンク先頭 (chunk_01) には経題行を含める
 # - 全チャンクを連結すると正本の該当範囲 (経題 + 指定段落) と一致することを
 #   assert する. 全段落指定なら正本全体との一致になる
@@ -383,6 +385,16 @@ covered = groups.flatten
 abort "chunkspec が空か逆順: #{chunkspec.inspect}" if covered.empty?
 abort "chunkspec が連続した昇順でない: #{covered.inspect}" unless covered == (covered.first..covered.last).to_a
 abort "chunkspec が段落範囲 1..#{paras.size} を超えている: #{covered.inspect}" unless covered.first >= 1 && covered.last <= paras.size
+
+# 前回の実行の chunk_NN.txt をすべて消してから書き出す. 同じ outdir で
+# チャンク数を減らして再実行すると, 番号の大きい古いチャンクが残り,
+# taiyaku.sh の生成と assemble_md.rb の組み立ての対象になって md の末尾に
+# 原文と対訳が重複して付くため (issue #41).
+# チャンクは XML と chunkspec から毎回同じ内容で作り直せるので, 分割生成で
+# 前回までの分を含む chunkspec を渡す場合も同じ内容に戻る.
+# 生成結果の out_NN.md は消さない (生成し直すにはトークンを使うため.
+# 対応するチャンクのない out_NN.md は組み立てに使われない)
+Dir[File.join(outdir, "chunk_*.txt")].each { |p| File.delete(p) }
 
 chunk_paths = []
 groups.each_with_index do |nums, i|
