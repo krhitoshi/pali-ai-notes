@@ -2,7 +2,7 @@
 #
 # 使い方:
 #   ruby scripts/assemble_md.rb <workdir> <out_md> <date> <model_label> [headings] \
-#     [--source <url>] [--struct <file>]
+#     [--source <url>] [--struct <file>] [--excerpt]
 #
 # 例:
 #   ruby scripts/assemble_md.rb work sn/sn_54_1_10_fable5.md 2026/07/12 "Claude Fable 5 High"
@@ -23,6 +23,17 @@
 #   組み立て段階で明示するためのもの. 省略時は完全に従来動作
 # - --source は原文 XML の URL. 出力 md 先頭の frontmatter
 #   (source, generated, updated) に書く. 省略時は source 行なし
+# - チャンクごとの Meta ブロックの日付とモデルラベルは, taiyaku.sh が生成時に
+#   書いた <workdir>/meta_NN.txt (1 行目 = 日付, 2 行目 = ラベル) があれば
+#   それを使い, なければ引数の <date> <model_label> を使う. 日をまたいで
+#   分割生成した場合もチャンクごとの生成日が残る. frontmatter の generated は
+#   組み立てたチャンクの最も早い日付, updated は最も遅い日付になる
+# - 全体が揃っていない間 (生成結果のないチャンクがあるか, チャンクの連結が
+#   正本 source.txt の全体に届いていない) は frontmatter に
+#   status: incomplete を書く. 全体が揃った組み立てでは書かない
+# - --excerpt はセクションの一部だけを対訳する場合に付ける. チャンクの連結が
+#   正本の全体に届いていなくても未完としない (生成結果のないチャンクが
+#   ある場合は --excerpt でも未完とする)
 # - --struct は extract_chunks.rb が書き出した構造ブロック一覧 (struct.txt).
 #   一致するブロック (数字で始まる subhead "1. Gaṇanavāra" など) を
 #   見出し用の段落番号の検出から除外する
@@ -41,8 +52,9 @@ if (i = args.index("--struct"))
   abort "usage: assemble_md.rb ... --struct <file>" unless struct_path
   struct_blocks = File.read(struct_path, encoding: "UTF-8").split("\n").reject(&:empty?)
 end
+excerpt = !args.delete("--excerpt").nil?
 workdir, out_md, date, model_label, headings_spec = args
-abort "usage: assemble_md.rb <workdir> <out_md> <date> <model_label> [headings] [--source <url>] [--struct <file>]" unless model_label
+abort "usage: assemble_md.rb <workdir> <out_md> <date> <model_label> [headings] [--source <url>] [--struct <file>] [--excerpt]" unless model_label
 
 overrides = {}
 if headings_spec
@@ -118,11 +130,34 @@ def unfence(s)
   s
 end
 
-# 先頭にファイル単位のメタ情報 (frontmatter) を置く. updated は改訂時に手動更新する
+# チャンクごとの生成日とモデルラベル. taiyaku.sh が生成時に書いた meta_NN.txt が
+# あればそれを使い, なければ引数の値を使う (meta_NN.txt のない既存の workdir や
+# 手動で生成した out_NN.md は従来どおり引数の日付とラベルになる)
+metas = chunk_paths.map do |p|
+  meta_path = p.sub(/chunk_(\d+)\.txt\z/, 'meta_\1.txt')
+  d, l = File.exist?(meta_path) ? File.read(meta_path, encoding: "UTF-8").split("\n") : []
+  [d.to_s.empty? ? date : d, l.to_s.empty? ? model_label : l]
+end
+
+# 全体が揃っているかどうか. 生成結果のないチャンクがある場合と, チャンクの
+# 連結が正本の全体に届いていない場合 (分割生成で chunkspec がまだ途中まで) は
+# 未完とする. セクションの一部だけを対訳する用途 (Dhp-a の vatthu で偈と
+# 語句註のみ対訳する場合など) は正本の全体に届かないのが意図どおりのため,
+# --excerpt を付けて正本との比較を行わない
+source_path = File.join(workdir, "source.txt")
+joined = chunk_paths.map { |p| File.read(p, encoding: "UTF-8").chomp }.join("\n\n") + "\n"
+covers_source = excerpt || !File.exist?(source_path) || joined == File.read(source_path, encoding: "UTF-8")
+incomplete = !missing.empty? || !covers_source
+
+# 先頭にファイル単位のメタ情報 (frontmatter) を置く. updated は改訂時に手動更新する.
+# 分割生成で日をまたいだ場合は generated が最初の生成日, updated が最後の
+# 生成日になる (日付は YYYY/MM/DD のため文字列の大小で比べられる)
+dates = metas.each_with_index.select { |_, i| File.exist?(gen_paths[i]) }.map { |m, _| m[0] }
 out = +"---\n"
 out << "source: #{source_url}\n" if source_url
-out << "generated: #{date}\n"
-out << "updated: #{date}\n"
+out << "generated: #{dates.min}\n"
+out << "updated: #{dates.max}\n"
+out << "status: incomplete\n" if incomplete
 out << "---\n"
 out << "\n# #{title}\n"
 assembled = 0
@@ -132,10 +167,11 @@ bodies.each_with_index do |body, i|
   warn "WARN: #{gen_paths[i]} does not start with '### 対訳'" unless gen.start_with?("### 対訳")
   out << "\n## #{headings[i]}\n\n"
   out << body << "\n\n"
-  out << "### Meta\n\n- #{date}\n- #{model_label}\n\n"
+  out << "### Meta\n\n- #{metas[i][0]}\n- #{metas[i][1]}\n\n"
   out << gen << "\n"
   assembled += 1
 end
 
 File.write(out_md, out)
 puts "wrote #{out_md} (#{out.bytesize} bytes, #{assembled}/#{chunk_paths.size} chunks)"
+puts "status: incomplete (全体が揃っていない. 続きを生成して組み立て直すと外れる)" if incomplete

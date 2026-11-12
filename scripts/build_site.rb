@@ -7,7 +7,8 @@
 #   ファイル名のホワイトリスト正規表現で除外する
 # - ソース md は変更せず, 変換時にメモリ上で前処理する
 #   - 先頭の frontmatter (source, generated, updated) は本文から外し,
-#     ページ冒頭に原文リンクと日付の行として表示する
+#     ページ冒頭に原文リンクと日付の行として表示する.
+#     分割生成の途中の対訳 (status: incomplete) には「未完」を添える
 #   - Meta ブロックの除去
 #   - 二重番号行 (例 "3. 107. Evaṃ...") の内側番号のピリオドをエスケープして
 #     CommonMark の入れ子リスト解釈を防ぐ (issue #1)
@@ -196,6 +197,8 @@ def front_matter_html(meta)
   end
   parts << "作成: #{CGI.escapeHTML(meta['generated'])}" if meta["generated"]
   parts << "更新: #{CGI.escapeHTML(meta['updated'])}" if meta["updated"]
+  # 分割生成の途中の対訳 (assemble_md.rb が status: incomplete を書く)
+  parts << "未完 (生成途中)" if meta["status"] == "incomplete"
   # 調査ノートだけが持つ項目
   parts << "モデル: #{CGI.escapeHTML(meta['models'])}" if meta["models"]
   parts << "校閲: #{CGI.escapeHTML(meta['reviewed'])}" if meta["reviewed"]
