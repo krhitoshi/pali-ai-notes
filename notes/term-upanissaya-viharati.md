@@ -1,7 +1,7 @@
 ---
 generated: 2026/11/05
-updated: 2026/11/07
-models: Claude Fable 5.1
+updated: 2026/11/14
+models: Claude Fable 5.1, Claude Fable 5.2
 reviewed: 2026/11/07 (Claude Fable 5.1)
 ---
 
@@ -99,7 +99,7 @@ Jīvakassa komārabhaccassa ambavaneti idamassa yaṃ gocaragāmaṃ upanissāya
 viharati, tassa samīpanivāsanaṭṭhānaparidīpanaṃ.
 ```
 
-「『ジーヴァカ・コーマーラバッチャのマンゴー林に』とは、世尊が upanissāya して住んでいる gocaragāma (王舎城) の近くの居住場所を示したものである」。ここでは upanissāya の目的語が gocaragāma そのものであり、「依る」の内容が托鉢の村であることが註の言葉で明示されている。
+「『ジーヴァカ・コーマーラバッチャのマンゴー林に』とは、世尊が upanissāya して住んでいる gocaragāma (ラージャガハ) の近くの居住場所を示したものである」。ここでは upanissāya の目的語が gocaragāma そのものであり、「依る」の内容が托鉢の村であることが註の言葉で明示されている。
 
 DN 21 Sakkapañhasutta 註 (§344) は「kahaṃ nu kho bhagavā etarahi viharati」の説明で「kataraṃ nagaraṃ upanissāya kassa paccaye paribhuñjanto ... viharati (どの町に依って、誰の資具を受けて住んでいるのか)」と言い、「依る」と「資具を受ける」を並べている。律の語義分析 (四資具がそこに結びつく) と同じ理解である。
 

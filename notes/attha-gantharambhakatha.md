@@ -1,13 +1,13 @@
 ---
 generated: 2026/11/11
-updated: 2026/11/11
-models: Claude Opus 5.5
+updated: 2026/11/14
+models: Claude Opus 5.5, Claude Fable 5.2
 reviewed: none
 ---
 
 # 註釈書冒頭の Ganthārambhakathā: MA での内容と、他の註釈・復註での有無
 
-Majjhimanikāya の註釈 (MA, Papañcasūdanī) の最初にある偈の部分は、VRI 版で **Ganthārambhakathā** という見出しが付いた「序偈」である。三宝への礼拝、注釈を書く方針、Visuddhimagga との分担を 16 偈で述べ、その後に **Nidānakathā** (散文) が続いて中部の規模を数字で示す。
+Majjhimanikāya の註釈 (MA, Papañcasūdanī) の最初にある偈の部分は、VRI 版で **Ganthārambhakathā** という見出しが付いた「序偈」である。三宝への礼拝、註釈を書く方針、Visuddhimagga との分担を 16 偈で述べ、その後に **Nidānakathā** (散文) が続いて中部の規模を数字で示す。
 
 同じ見出しの部分は律・経・論の多くの註釈書の冒頭にあり、四部の註釈 (DA・MA・SA・AA) では偈の大半が同じ文言である。復註では註釈の序偈を語句ごとに説明する部分が **Ganthārambhakathāvaṇṇanā** として置かれている。
 
@@ -17,7 +17,7 @@ VRI 版 MA (`s0201a.att0.xml`) では、冒頭の帰敬句・書名の後に `Ga
 
 - gantha (書物・著作) + ārambha (書き始め) + kathā (話) で、「著作を書き始めるにあたっての話」の意。日本語では「序偈」「帰敬偈」と呼ばれることもある
 - ganthārambha という語は復註の本文にも現れる。例: SN の Mahāvaggaṭīkā (`s0305t.tik.xml`) の「hissa ganthārambhe āditopi」
-- 律の復註は同じ箇所を「saṃvaṇṇanārambha」(注釈の書き始め) や「suttantaṭṭhakathārambha」「abhidhammaṭṭhakathārambha」とも呼ぶ (Sāratthadīpanī `vin01t1.tik.xml`、Vajirabuddhi-ṭīkā `vin06t.nrf.xml`)
+- 律の復註は同じ箇所を「saṃvaṇṇanārambha」(註釈の書き始め) や「suttantaṭṭhakathārambha」「abhidhammaṭṭhakathārambha」とも呼ぶ (Sāratthadīpanī `vin01t1.tik.xml`、Vajirabuddhi-ṭīkā `vin06t.nrf.xml`)
 
 `Ganthārambhakathā` という見出しが写本に由来するのか、第六結集版の編集で付けられたのかは確認していない。
 
@@ -29,11 +29,11 @@ VRI 版 MA (`s0201a.att0.xml`) では、冒頭の帰敬句・書名の後に `Ga
 |---|---|
 | 1–3 | 三宝への礼拝。1 は仏 (sugataṃ)、2 は法 (dhammaṃ)、3 は僧 (ariyasaṅghaṃ、四双八輩の聖者の集まり) |
 | 4 | 三宝を礼拝して得た功徳の力で障害 (antarāya) を除いてから、と述べる。文は 10 偈の pakāsayissāmi (説き明かそう) までつながる |
-| 5–6 | 対象は Majjhimāgama (中部)。中くらいの長さの経が並び、仏と仏弟子が説き、他説を打ち破るもの。その意味を明らかにするための注釈は、最初に 500 人の自在者 (第一結集の阿羅漢) が結集し、後にも再び結集したもの |
-| 7 | その注釈は Mahinda 長老がスリランカに持ってきて、島の人々のためにシンハラ語で置かれていた |
+| 5–6 | 対象は Majjhimāgama (中部)。中くらいの長さの経が並び、仏と仏弟子が説き、他説を打ち破るもの。その意味を明らかにするための註釈は、最初に 500 人の自在者 (第一結集の阿羅漢) が結集し、後にも再び結集したもの |
+| 7 | その註釈は Mahinda 長老がスリランカに持ってきて、島の人々のためにシンハラ語で置かれていた |
 | 8–10 | 著作の方針。シンハラ語をやめて聖典の言い方に合う言語 (パーリ語) に移す、大寺 (Mahāvihāra) に住む長老たちの説から外れない、繰り返し出てくる内容は省く。目的は善い人々の満足と法が長く続くこと |
 | 11–14 | 戒、頭陀、業処、禅定、神通、慧、蘊・界・処・根、四諦、縁起、観の修習といった主題は Visuddhimagga で詳しく述べたので、ここでは繰り返さない |
-| 15–16 | 「Visuddhimagga は四つの阿含の真ん中に立って意味を明らかにする」という趣旨で作ったので、この注釈と合わせて読み、中部の意味を理解してほしい |
+| 15–16 | 「Visuddhimagga は四つの阿含の真ん中に立って意味を明らかにする」という趣旨で作ったので、この註釈と合わせて読み、中部の意味を理解してほしい |
 
 原文 (`s0201a.att0.xml`):
 
@@ -120,7 +120,7 @@ VRI 版の DA (`s0101a.att0.xml`)、MA (`s0201a.att0.xml`)、SA (`s0301a.att0.xm
 
 - 三宝礼拝 (MA の 1–3)
 - 功徳による障害の除去 (MA の 4)
-- 注釈の伝来と著作方針 (MA の 6–10)
+- 註釈の伝来と著作方針 (MA の 6–10)
 - Visuddhimagga に譲る主題と「Majjhe visuddhimaggo」(MA の 11–15)
 
 ### 書ごとに違う偈
@@ -149,7 +149,7 @@ SA の第 5 偈について、SN の Mahāvaggaṭīkā (`s0305t.tik.xml`) は�
 
 ### SA と AA にだけある 3 偈
 
-SA と AA は、第 10 偈と「Sīlakathā…」の偈の間に 3 偈を加えている。Sāvatthī などの都市の説明や因縁譚 (vatthu) は先の注釈ですでに詳しく述べたので、ここでは繰り返さない。ただし、因縁譚なしには意味が明らかにならない経については、因縁譚も示す、という内容である。
+SA と AA は、第 10 偈と「Sīlakathā…」の偈の間に 3 偈を加えている。Sāvatthī などの都市の説明や因縁譚 (vatthu) は先の註釈ですでに詳しく述べたので、ここでは繰り返さない。ただし、因縁譚なしには意味が明らかにならない経については、因縁譚も示す、という内容である。
 
 ```
 SA: Sāvatthipabhūtīnaṃ, nagarānaṃ vaṇṇanā katā heṭṭhā;
@@ -158,7 +158,7 @@ AA: Sāvatthipabhūtīnaṃ, nagarānaṃ vaṇṇanā katā heṭṭhā;
     Dīghassa majjhimassa ca, yā me atthaṃ vadantena.
 ```
 
-SA は先の注釈を「二つの結集 (saṅgītīnaṃ dvinnaṃ)」、AA は「Dīgha と Majjhima」と呼んでいる。どちらも DA と MA を先に書いたという立場で書かれていることが、この偈から読み取れる。
+SA は先の註釈を「二つの結集 (saṅgītīnaṃ dvinnaṃ)」、AA は「Dīgha と Majjhima」と呼んでいる。どちらも DA と MA を先に書いたという立場で書かれていることが、この偈から読み取れる。
 
 VRI 版 AA では、序偈全体が引用符 (‘‘ … ’’nti) で囲まれている。
 
@@ -186,7 +186,7 @@ CSCD (VRI 版) で、見出しとして `Ganthārambhakathā` を持つ註釈書
 ```
 
 この違いを、律の復註 Sāratthadīpanī (`vin01t1.tik.xml`) は次のように説明している。以下は復註の解釈である。
-- 注釈者は、注釈する教えに合わせて仏を讃える習いをもつ (「Esā hi ācariyassa pakati, yadidaṃ ārambhānurūpathomanā」)
+- 註釈者は、註釈する教えに合わせて仏を讃える習いをもつ (「Esā hi ācariyassa pakati, yadidaṃ ārambhānurūpathomanā」)
 - 律の教えは悲 (karuṇā) が主であるため、律の註は悲を中心に讃える
 - 経の教えは悲と慧の両方が主であるため、経の註は「karuṇāsītalahadayaṃ, paññāpajjota…」と悲と慧を讃える
 - 論の教えは慧 (paññā) が主であるため、論の註は「karuṇā viya sattesu, paññā yassa mahesino」と慧を中心に讃える
@@ -209,13 +209,13 @@ Vajirabuddhi-ṭīkā (`vin06t.nrf.xml`) も同じ趣旨の説明をしている
 
 ### MN の ṭīkā が三宝礼拝を説明する箇所
 
-MN の ṭīkā (`s0201t.tik.xml`) の Ganthārambhakathāvaṇṇanā は、「Saṃvaṇṇanārambhe ratanattayavandanā…」で始まり、注釈の書き始めに三宝を礼拝する理由を並べる。以下は ṭīkā の解釈である。
+MN の ṭīkā (`s0201t.tik.xml`) の Ganthārambhakathāvaṇṇanā は、「Saṃvaṇṇanārambhe ratanattayavandanā…」で始まり、註釈の書き始めに三宝を礼拝する理由を並べる。以下は ṭīkā の解釈である。
 
-- 注釈する法の出どころ (仏) が清らかであることを示すため。それによって読み手に敬意を起こさせ、正しい実践から利益と安楽が生まれるようにする
+- 註釈する法の出どころ (仏) が清らかであることを示すため。それによって読み手に敬意を起こさせ、正しい実践から利益と安楽が生まれるようにする
 - 別案 (atha vā) その 1: 吉祥であるため、あらゆる行為に先立つ務めであるため、賢者が行ってきたため、後の人々が見習うため
-- 別案 (atha vā) その 2: 礼拝によって特別な功徳を生み、障害をなくして注釈を最後まで書き上げるため
+- 別案 (atha vā) その 2: 礼拝によって特別な功徳を生み、障害をなくして註釈を最後まで書き上げるため
 
-ṭīkā は、この最後の目的こそが注釈者 (ācariya) の意図だと述べる (「Idameva ca payojanaṃ ācariyena idhādhippetaṃ」)。根拠として MA の第 4 偈「iti me pasannamatino…pe… tassānubhāvenā」を引いている。
+ṭīkā は、この最後の目的こそが註釈者 (ācariya) の意図だと述べる (「Idameva ca payojanaṃ ācariyena idhādhippetaṃ」)。根拠として MA の第 4 偈「iti me pasannamatino…pe… tassānubhāvenā」を引いている。
 
 ## 確認できていない範囲
 

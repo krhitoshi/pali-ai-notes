@@ -1,7 +1,7 @@
 ---
 generated: 2026/08/05
-updated: 2026/08/05
-models: Claude Opus 5
+updated: 2026/11/14
+models: Claude Opus 5, Claude Fable 5.2
 ---
 
 # 数を数える言葉に出る数詞の性 (gaṇanā)
@@ -45,7 +45,7 @@ cattāri pañca cha. Eko dve tīṇi cattāri pañca cha satta…pe… aṭṭha
 dasā’’ti …
 ```
 
-Samantapāsādikā と Paṭisambhidāmagga-aṭṭhakathā は一巡目から `‘‘eko dve tīṇi cattāri pañca, eko dve tīṇi cattāri pañca cha, …’’` と繰り返す形で伝える。復註 (Visuddhimagga-mahāṭīkā、Sāratthadīpanī-ṭīkā) はこの列を `gaṇanāvidhidassanaṃ` (数え方の手順を示したもの) と注し、続けて `Tasmā aṭṭhātiādīsupi ekato paṭṭhāyeva paccekaṃ aṭṭhādīni pāpetabbāni` (八以降も毎回一から数え上げる) と補っている。
+Samantapāsādikā と Paṭisambhidāmagga-aṭṭhakathā は一巡目から `‘‘eko dve tīṇi cattāri pañca, eko dve tīṇi cattāri pañca cha, …’’` と繰り返す形で伝える。復註 (Visuddhimagga-mahāṭīkā、Sāratthadīpanī-ṭīkā) はこの列を `gaṇanāvidhidassanaṃ` (数え方の手順を示したもの) と註釈し、続けて `Tasmā aṭṭhātiādīsupi ekato paṭṭhāyeva paccekaṃ aṭṭhādīni pāpetabbāni` (八以降も毎回一から数え上げる) と補っている。
 
 その喩えの側 (牛飼いが牛を数える):
 
@@ -167,7 +167,7 @@ itthibhūto pumabhūto ca goṇo.
 その復註:
 
 - Visuddhimagga-mahāṭīkā (`e0103n.att.xml`) — Visuddhimagga の復註
-- Sāratthadīpanī-ṭīkā (`vin01t2.tik.xml`) — Samantapāsādikā の復註。この箇所では Visuddhimagga-mahāṭīkā と同じ注を載せる
+- Sāratthadīpanī-ṭīkā (`vin01t2.tik.xml`) — Samantapāsādikā の復註。この箇所では Visuddhimagga-mahāṭīkā と同じ註釈を載せる
 
 数詞の用法の比較に使ったもの:
 

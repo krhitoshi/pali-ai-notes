@@ -1,7 +1,7 @@
 ---
 generated: 2026/08/04
-updated: 2026/08/04
-models: Claude Opus 5
+updated: 2026/11/14
+models: Claude Opus 5, Claude Fable 5.2
 ---
 
 # 無礙解道の paṭipadāvisuddhi と paṭipadāvisuddhipakkhanda
@@ -185,7 +185,7 @@ CSCD の Paṭisambhidāmagga 本文 (`s0517m.mul.xml`、三品すべてを含�
 ## 6. 確認できていない範囲
 
 - 集計は CSCD の 1 ファイル (`s0517m.mul.xml`) のみを対象とした。PTS 版との異読は照合していない
-- Paṭis の複註 (ṭīkā) 類は参照していない
+- Paṭis の復註 (ṭīkā) 類は参照していない
 - 四行道の paṭipadā / abhiññā 区分について、Nettippakaraṇa-aṭṭhakathā に Visuddhimagga と同趣旨の文があることは確認したが、Peṭakopadesa や Nettippakaraṇa 本文での扱いは未確認
 - 「本文に無い」という記述は上記ファイルでの文字列一致に基づく。表記ゆれによる取りこぼしの可能性までは潰していない
 
