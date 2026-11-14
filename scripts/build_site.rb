@@ -24,6 +24,8 @@ require "fileutils"
 
 ROOT = File.expand_path("..", __dir__)
 OUT_DIR = File.join(ROOT, "public")
+# 公開先の URL. ここを指すリンクはサイト内のリンクとして扱う
+SITE_URL = "https://krhitoshi.github.io/pali-ai-notes/"
 
 # セクション定義. トップページと一覧の表示順もこの順
 # prefix は対訳ファイル名の接頭辞. notes: true のセクションは調査ノート
@@ -401,8 +403,18 @@ def write_index(section, pages)
   File.write(File.join(OUT_DIR, section[:dir], "index.html"), html)
 end
 
+# 外部リンクを新しいタブで開くようにする. サイト自身 (SITE_URL) を指すリンクは除く
+# md には target を書けない (GitHub も取り除く) ため, ビルド時に HTML へ足す
+def open_external_links_in_new_tab(html)
+  html.gsub(%r{<a href="(https?://[^"]*)"}) do
+    href = Regexp.last_match(1)
+    href.start_with?(SITE_URL) ? $& : %(<a href="#{href}" target="_blank" rel="noopener")
+  end
+end
+
 def write_top(section_pages)
   readme_html = to_html(File.read(File.join(ROOT, "README.md"), encoding: "UTF-8"))
+  readme_html = open_external_links_in_new_tab(readme_html)
   list_item = lambda do |section, pages|
     %(<li><a href="#{section[:dir]}/index.html">#{CGI.escapeHTML(section[:name])}</a> (#{pages.size} 件)</li>)
   end
