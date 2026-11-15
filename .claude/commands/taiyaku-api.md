@@ -9,8 +9,11 @@ disable-model-invocation: true
 対象: $ARGUMENTS
 
 taiyaku スキル (`.claude/skills/taiyaku/SKILL.md`) を読み込み, 手順 1 から
-手順 6 までをそのまま実行する. 違いは次の 1 点だけ.
+手順 6 までをそのまま実行する. 違いは次の 2 点だけ.
 
+- 手順 2 と分割生成の見積もり (`extract_chunks.rb` の `--model` /
+  `--estimate` と `taiyaku_estimate.rb`) に `--auth api` を付ける. 費用が
+  API キーでの請求の目安として計算される
 - 手順 3 のパイプライン実行で `scripts/taiyaku.sh` の代わりに
   `scripts/taiyaku_api.sh` を使う (引数と `TAIYAKU_CTX` などの環境変数は
   同じ). 生成の `claude -p` が CLI のログイン (サブスクリプション) ではなく
