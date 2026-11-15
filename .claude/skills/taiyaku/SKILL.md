@@ -239,6 +239,12 @@ scripts/taiyaku.sh https://www.tipitaka.org/romn/cscd/s0202m.mul0.xml \
     CLI のセッション記録は workdir の絶対パスごとに残るため, 名前を変えると
     taiyaku_usage.rb で集計できなくなる. これらの workdir には対応する md を
     後から run.txt に記録してある (`retro:` の行があるもの)
+  - 規則を決める前の workdir がある md のチャンク再生成ややり直しは,
+    その workdir で行う (規則どおりの名前の workdir を新しく作らない).
+    taiyaku.sh は run.txt の out_md が今回の out_md と同じファイル名なら,
+    workdir の名前が規則と違っても通す. 規則どおりの名前を指定した場合は,
+    既存の workdir の名前を示して abort する. 既存の workdir は
+    `grep -l "^out_md: .*<md のファイル名>$" _tmp/work_*/run.txt` で引ける
 - out_md のファイル名にモデル名サフィックス (_fable5 など) は付けない.
   モデル情報は Meta ブロックに入る. 註釈書のファイル名は
   docs/commentary_file_naming.md に従う
@@ -286,7 +292,8 @@ scripts/taiyaku.sh https://www.tipitaka.org/romn/cscd/s0202m.mul0.xml \
   run.txt は直近の実行時の指定 (日時, subhead, chunkspec, headings,
   out_md, 環境変数, model など) の控えで, out_md からこの workdir が
   どの md の元かがわかる. run.txt は毎回上書きされ, 同じ内容が
-  run_history.txt に実行ごとに追記される
+  run_history.txt に実行ごとに追記される (run_history.txt のない workdir
+  では, 上書きされる前の run.txt が最初の記録として入る)
 - taiyaku.sh はセッションの Bash から前面 (フォアグラウンド) で実行し,
   timeout を長めに取る (1 チャンク数分). バックグラウンド (detach) 実行では
   claude -p が exit 0 のまま空出力になる事象があった (2026/07/28.
