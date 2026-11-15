@@ -1,8 +1,8 @@
 ---
 generated: 2026/11/15
-updated: 2026/11/15
+updated: 2026/11/16
 models: Claude Fable 5.2
-reviewed: none
+reviewed: 2026/11/16 (Claude Fable 5.2)
 ---
 
 # añño nūna tena samayena … ahosi — añño は誰に対して「別」か、siyā と assa はなぜ重なるか
@@ -31,6 +31,14 @@ añño は añña (別の、他の) の男性・単数・主格で、打ち消�
 - CPD は ¹añña の項で AN IV 394,8 (ヴェーラーマの話の同じ定型) を引き、different と訳したうえで、同じ箇所の ahaṃ と対になる語 (opp. ahaṃ) と注記している。また、これを jātaka-samodhāna (過去の人物を現在の人物に結びつける結び) の古い定型と呼んでいる
 - DOP も añña² の項で同じ箇所 (~o nūna tena samayena Velāmo brāhmaṇo ahosi) を引いている。語義は other; different; another; somebody, something else などである
 
+註釈書の言い換えも añño と ahaṃ を対にしている。ヴェーラーマの話のこの箇所について、Aṅguttaranikāya の註釈書 (`s0404a.att.xml`) は、世尊の趣旨を次のように言い換えたうえで siyā kho pana te 以下を導入している。
+
+```
+gahapati, etaṃ mahādānaṃ nāñño adāsi, ahaṃ adāsiṃ.
+```
+
+「長者よ、この大きな施しは他の者が与えたのではない。私が与えた」。añño という語の語義説明ではないが、añño を ahaṃ と対になる語として読んでいる。
+
 ### 聞き手には比べる相手がないのに、何に対して「別」なのか
 
 「別の者」と言うには比べる相手が要る。しかし過去の物語を聞いているあいだ、アーナンダはジョーティパーラを世尊とも他の誰とも比べていない。それでも añño と言えるのは、この語が聞き手と語り手とで違って聞こえるためである (以下は辞書や註釈書の記述ではなく、文脈からの推論である)。
@@ -58,7 +66,7 @@ añño nūna tena samayena … ahosi は、CSCD の本文では次の 5 箇所�
 
 註釈書では Khuddakapāṭha-aṭṭhakathā と Suttanipāta-aṭṭhakathā が、saṅkho brāhmaṇo について同じ定型を使っている。
 
-外枠の Siyā kho pana … evamassa は、同一人物であることを明かす場合に限らず、相手が抱きそうな見方を先に述べて退けるための枠である。律蔵・経蔵・論蔵の本文でこの枠を含む段落は 36 あり (1 段落に複数回あっても 1 と数える)、うち 26 段落では同じ段落の中で Na kho panetaṃ … が続く。残る 10 段落 (DN 5 の §338 と MN 39 の §416–424) も、言い方は違うが同じく退けている。DN 5 は na kho panetassa dassukhīlassa evaṃ sammā samugghāto hoti と続き、MN 39 の §416 は tāvatakeneva tuṭṭhiṃ āpajjeyyātha のあとに戒めが続く。
+外枠の Siyā kho pana … evamassa は、同一人物であることを明かす場合に限らず、相手が抱きそうな見方を先に述べて退けるための枠である。律蔵・経蔵・論蔵の本文でこの枠を含む段落は 36 あり (ここでの段落は VRI の番号段落ではなく XML の p 要素。1 段落に複数回あっても 1 と数える)、うち 26 段落では同じ段落の中で Na kho panetaṃ … が続く。残る 10 段落 (DN 5 の §338 と MN 39 の §416–424) も、言い方は違うが同じく退けている。DN 5 は na kho panetassa dassukhīlassa evaṃ sammā samugghāto hoti と続き、MN 39 の §416–424 はどれも tāvatakeneva tuṭṭhiṃ āpajjeyyātha のあとに同じ戒め (Ārocayāmi vo, bhikkhave … mā vo sāmaññatthikānaṃ sataṃ sāmaññattho parihāyi, sati uttariṃ karaṇīye) が続く。
 
 MN 12 (`s0201m.mul.xml` §158) には、añño の位置に形容詞が入った同じ形がある。
 
@@ -82,7 +90,7 @@ añño も jotipālo māṇavo も主格なので、どちらを主語と取る�
 
 ## nūna は確信寄りの推量
 
-nūna は問いではなく「きっと〜だろう」という推量を表す。DOP は nūna の語義を 3 つに分け、2 番目の surely; probably, in all probability; it must be that … の用例に、上の MN 12 の文 (siyā kho pana te Sāriputta evaṃ assa mahā nūna tena samayena kolo ahosī ti) を挙げている。añño nūna も同じ枠の文なので、この語義に当たる。
+nūna はこの文では「きっと〜だろう」という推量を表す。nūna には問いを表す用法もあるが (DOP の 3 番目の語義 is it that …?)、この文はそれに当たらない。DOP は nūna の語義を 3 つに分け、2 番目の surely; probably, in all probability; it must be that … の用例に、上の MN 12 の文 (siyā kho pana te Sāriputta evaṃ assa mahā nūna tena samayena kolo ahosī ti) を挙げている。añño nūna も同じ枠の文なので、この語義に当たる。
 
 英訳の Certainly は DOP の 1 番目の語義 (indeed; certainly) に当たる訳し方である。PTSD は nūna を affirmative-dubitative particle (肯定と疑いの両方を表す小辞) と説明しており、事実の断定というより、そうに違いないという見込みを述べる語と読める。
 
@@ -110,6 +118,14 @@ Tattha siyā kho pana te, brāhmaṇa, evamassāti, brāhmaṇa, kadāci tuyha�
 ```
 
 siyā を kadāci (あるとき、場合によっては) という副詞に、te を tuyhaṃ に、assa を bhaveyya に置き換えている。siyā は副詞のように、assa は動詞として読まれている。assa が bhaveyya (願望法の普通の形 -eyya を持つ) で言い換えられていることから、assa が願望法の動詞であることも確かめられる。
+
+復註はこの siyā を小辞 (nipāta) と明言している。同じ箇所について Mūlapaṇṇāsa-ṭīkā (`s0201t.tik.xml` §55) は次のように言う。
+
+```
+Siyā kho pana te brāhmaṇāti ettha siyāti ‘‘appevā’’ti iminā samānattho nipāto, tasmā ‘brāhmaṇa, appeva kho pana te evamassā’ti attho.
+```
+
+siyā は appeva と同じ意味の小辞で、文は appeva kho pana te evamassa の意味だとする。続けて、註釈書の kadāci もこの意味を指して言われたものだと述べている (Yaṃ pana aṭṭhakathāyaṃ ‘‘kadācī’’ti vuttaṃ, tampi imamevatthaṃ sandhāya vuttaṃ)。律の復註 Kaṅkhāvitaraṇīpurāṇa-ṭīkā (`vin09t.nrf.xml`) も、別の箇所の siyā を説明するのにこの文を例に引き、kadāci と同じ意味の小辞としている (‘‘siyā kho pana te brāhmaṇa evamassā’’tiādīsu viya ‘‘kadācī’’ti iminā samānattho nipāto)。
 
 ### 復註が挙げる別の読み
 
@@ -141,14 +157,13 @@ PTSD の atthi の項は、三人称単数の願望法 (PTSD の用語では Pot
 ## 確認できていない範囲
 
 - assa という語形の成り立ち (siyā と並んで別の形がある理由) は確認していない
-- 註釈書・復註が añño nūna の añño を説明している箇所は見つけていない。CSCD 全体を `añño nūna` と、註釈の見出しの形 `añño nūnā…` で検索した範囲での結果である
-- 段落数 (36 と 26) は CSCD の段落単位の集計で、`Siyā kho pan…` から 80 字以内に `evamassa` が続く段落を数えた。綴りや語順の違う形 (たとえば evaṃ assa と分けて書く形) は数えていない
-- MN 39 の §417–424 は §416 と同じ書き出しであることを確認しただけで、段落全体は読んでいない
+- 註釈書・復註が añño nūna の añño という語そのものを説明している箇所は見つけていない。CSCD 全体を `añño nūna` と、註釈の見出しの形 `añño nūnā…` で検索し、DN・MN・AN の註釈書と復註を見出しの形 `Aññoti` で検索した範囲での結果である
+- 段落数 (36 と 26) は CSCD の XML の p 要素を単位とする集計で、`Siyā kho pan…` から 80 字以内に `evamassa` が続く段落を数えた。evaṃ assa と分けて書く形は、同じ条件で CSCD 全体を検索しても見つからなかった。語順の違う形は数えていない。Milindapañha (`s0518m.nrf.xml`) は DN 16 のこの枠を引用しているが、集計の対象に入れていない
 - Ñāṇamoli と Bodhi の英訳は MN 81 の該当の一文だけを参照した
 
 ## 出典
 
-- CSCD (VRI 版): `s0102m.mul.xml` §270、`s0201m.mul.xml` §55・§158・§416、`s0202m.mul.xml` §292・§316、`s0402m2.mul.xml`、`s0404m2.mul.xml`、`s0404m3.mul.xml` §6、`s0101m.mul.xml` §338、`vin02m2.mul.xml`、`s0201a.att.xml` §55、`vin06t.nrf.xml` §244、`s0501a.att.xml`、`s0505a.att.xml`
+- CSCD (VRI 版): `s0102m.mul.xml` §270、`s0201m.mul.xml` §55・§158・§416–424、`s0202m.mul.xml` §292・§316、`s0402m1.mul.xml`、`s0402m2.mul.xml`、`s0404m2.mul.xml`、`s0404m3.mul.xml` §6、`s0101m.mul.xml` §338、`vin02m2.mul.xml` §244、`s0201a.att.xml` §55、`s0201t.tik.xml` §55、`s0404a.att.xml`、`vin06t.nrf.xml` §244、`vin09t.nrf.xml`、`s0501a.att.xml`、`s0505a.att.xml`、`s0518m.nrf.xml`
 - DOP: añña²、aññatara、atthi、nūna の項
 - CPD: ¹añña の項
 - PTSD: atthi、nūna の項
