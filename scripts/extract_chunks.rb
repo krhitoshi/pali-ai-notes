@@ -2,10 +2,13 @@
 #
 # 使い方:
 #   ruby scripts/extract_chunks.rb <xml> <subhead> [<outdir> <chunkspec>]
+#   ruby scripts/extract_chunks.rb <xml> <subhead> --estimate <chunkspec> --model <model>
 #
 # 例:
 #   ruby scripts/extract_chunks.rb _tmp/s0305m.mul9.xml "10. Kimilasuttaṃ" work "1-3,4,5-6,7-8,9"
 #   ruby scripts/extract_chunks.rb _tmp/s0305m.mul9.xml "10. Kimilasuttaṃ"   # 段落一覧のみ
+#   ruby scripts/extract_chunks.rb _tmp/s0305m.mul9.xml "10. Kimilasuttaṃ" \
+#     --estimate "1-3,4,5-6,7-8,9" --model claude-fable-5-2   # チャンク案の見積もりのみ
 #
 # - <subhead> は <p rend="subhead"> / <p rend="title"> / <p rend="chapter"> /
 #   <p rend="subsubhead"> の見出しテキストと完全一致させる.
@@ -43,10 +46,19 @@
 # - <outdir> と <chunkspec> を省略すると, チャンク境界を決めるための
 #   段落一覧 (連番, VRI 段落番号, 文字数, 冒頭) を表示して終了する.
 #   一覧の末尾には抽出の終了位置 (どの行で抽出が止まったか) を表示する.
-#   一覧の前にはセクション全体の行数, 字数, 出力トークンの見積もりを表示する.
+#   一覧の前にはセクション全体の行数と字数を表示する.
 #   字数が分割の目安 (SPLIT_THRESHOLD) を超える場合は段落一覧を省略し,
 #   区切りごとの行範囲と字数だけを表示する. このとき段落一覧は
 #   --rows A-B で行範囲を指定して表示する (例 --rows 1-62)
+# - --model <model> を付けると, 生成で使うトークン数と費用の見積もりを表示する
+#   (計算は scripts/taiyaku_estimate.rb). 認証は --auth subscription|api
+#   (既定は subscription), テキスト種別は XML のファイル名から決め, --kind
+#   mul|att|tik で上書きできる. effort が high 以外なら --effort で渡す.
+#   段落一覧の表示では, セクション全体 (--rows 指定時はその行範囲) について,
+#   チャンク数を字数から概算して見積もる.
+#   --estimate <chunkspec> では, チャンク案のチャンク数と, 参照文脈
+#   (TAIYAKU_CTX) を含む入力の字数を数えて見積もる. ファイルは何も書き出さない.
+#   分割生成の 2 回目以降のように, その回の分だけの chunkspec も渡せる
 # - 出力: <outdir>/source.txt (正本, read-only) と <outdir>/chunk_NN.txt
 #   source.txt は chunkspec の範囲によらず常にセクション全体を書く
 #   (verify_taiyaku.rb は正本の部分文字列照合のため広い分には問題ない)
@@ -65,10 +77,29 @@ if (i = argv.index("--rows"))
   rows_spec = argv.delete_at(i)
   abort "--rows は A-B の形で指定する (例 --rows 1-62): #{rows_spec.inspect}" unless rows_spec =~ /\A[1-9]\d*-[1-9]\d*\z/
 end
+# 見積もりの指定 (詳細はヘッダコメント参照). --estimate はチャンク案の
+# 見積もりだけを表示する. --model があるときに見積もりを計算する
+est_opts = {}
+%w[--estimate --model --auth --kind --effort].each do |name|
+  i = argv.index(name) or next
+  argv.delete_at(i)
+  est_opts[name] = argv.delete_at(i)
+  abort "#{name} に値がない" unless est_opts[name]
+end
+estimate_spec = est_opts["--estimate"]
 xml_path, subhead, outdir, chunkspec = argv
 abort "usage: extract_chunks.rb <xml> <subhead> [<outdir> <chunkspec>]" unless subhead
 abort "usage: extract_chunks.rb <xml> <subhead> [<outdir> <chunkspec>]" if outdir && !chunkspec
 abort "--rows は段落一覧の表示 (<outdir> <chunkspec> の省略時) にだけ指定できる" if rows_spec && chunkspec
+abort "--estimate は <outdir> <chunkspec> や --rows と一緒に指定できない" if estimate_spec && (outdir || rows_spec)
+abort "--estimate には --model が必要" if estimate_spec && !est_opts["--model"]
+abort "--model などの見積もりの指定は, 段落一覧の表示か --estimate にだけ付けられる" if outdir && !est_opts.empty?
+if est_opts["--model"]
+  require_relative "taiyaku_estimate"
+  est_auth = TaiyakuEstimate.parse_auth(est_opts["--auth"])
+  est_kind = TaiyakuEstimate.parse_kind(est_opts["--kind"], xml_path)
+end
+chunkspec = estimate_spec if estimate_spec
 
 # 分割生成の目安. 原文がこの字数を超えるセクションは, 段落一覧を出さずに
 # 規模の要約だけを表示する. 段落一覧とそれを基にしたチャンク表が大きくなり,
@@ -77,10 +108,6 @@ abort "--rows は段落一覧の表示 (<outdir> <chunkspec> の省略時) に�
 # MN 77 註 (35,623 字) と MN 43 註 (37,982 字) は下回り, MN 3 註 (40,085 字)
 # 以上が該当する
 SPLIT_THRESHOLD = 40_000
-# 出力トークンの見積もり係数 (原文 1 字あたり). 2026/11 に生成した MN 1 註
-# (6.4), MN 1 復註 (6.9), MN 83 註 (6.4) の実績から決めた. それ以前の生成は
-# 4.2-5.7 で, モデルや effort によって変わるため目安として扱う
-TOKENS_PER_CHAR = 6.5
 # 参照文脈の指定 (詳細は末尾の prompt_NN.txt 書き出し部を参照). 書き出し前に検査する
 ctx = ENV["TAIYAKU_CTX"].to_s.strip
 ctx = "none" if ctx.empty?
@@ -249,29 +276,42 @@ blocks = [subhead] + paras.map { |p| to_plain(p) }
 # chunkspec 省略時は段落一覧を表示して終了する (チャンク境界の検討用).
 # 構造ブロック (subhead / centre) は para 欄に "strt" と表示する
 #
-# 一覧の前にセクション全体の規模 (行数, 字数, 出力トークンの見積もり) を
-# 表示する. 字数が SPLIT_THRESHOLD を超える場合は段落一覧を省略し, 代わりに
+# 一覧の前にセクション全体の規模 (行数, 字数) を表示する. --model 指定時は
+# 続けてトークン数と費用の見積もりを表示する.
+# 字数が SPLIT_THRESHOLD を超える場合は段落一覧を省略し, 代わりに
 # 区切り (小見出しと VRI 段落番号) ごとの行範囲と字数を表示する. 分割生成の
 # 各回の範囲はこの内訳から決め, その回の範囲だけを --rows で一覧表示する
 def commas(n)
   n.to_s.reverse.scan(/\d{1,3}/).join(",").reverse
 end
 
-def token_estimate(chars)
-  t = chars * TOKENS_PER_CHAR
-  t >= 10_000 ? "約 #{(t / 10_000.0).round} 万トークン" : "約 #{(t / 1000.0).round} 千トークン"
-end
-
 unless chunkspec
   rows = blocks[1..]
   total = rows.sum(&:size)
   puts subhead
-  puts "合計: #{rows.size} 行 | #{commas(total)} 字 | 出力見積もり #{token_estimate(total)}"
+  puts "合計: #{rows.size} 行 | #{commas(total)} 字"
   if rows_spec
     first, last = rows_spec.split("-").map(&:to_i)
     abort "--rows が段落範囲 1..#{rows.size} を超えているか逆順: #{rows_spec}" unless first <= last && last <= rows.size
   else
     first, last = 1, rows.size
+  end
+  # チャンク境界が決まる前の見積もり. チャンク数は字数から概算する.
+  # 参照文脈の分の入力も概算で, all はチャンクごとにセクション全体,
+  # N は前後 N 行ずつを平均の行の長さで数える
+  if est_opts["--model"]
+    target = rows[(first - 1)..(last - 1)].sum(&:size)
+    approx = TaiyakuEstimate.approx_chunks(target)
+    ctx_chars = case ctx
+                when "none" then 0
+                when "all" then approx * total
+                else approx * 2 * ctx.to_i * (total / rows.size)
+                end
+    est = TaiyakuEstimate.estimate(kind: est_kind, model: est_opts["--model"], auth: est_auth,
+                                   chars: target, input_chars: target + ctx_chars,
+                                   effort: est_opts["--effort"] || "high")
+    puts "行 #{first}-#{last} の分 (文脈 #{ctx}):" if rows_spec
+    puts TaiyakuEstimate.lines(est)
   end
   if total > SPLIT_THRESHOLD && !rows_spec
     puts "分割の目安 (#{commas(SPLIT_THRESHOLD)} 字) を超えているため段落一覧は省略する. " \
@@ -354,6 +394,68 @@ unless chunkspec
   exit
 end
 
+# chunkspec を解釈してチャンクを書き出す
+# 段落番号は経題を除いた bodytext 段落の 1 始まり.
+# セクション一部だけを対訳する用途のため 1 から始まらない範囲も許可する
+groups = chunkspec.split(",").map do |spec|
+  a, b = spec.split("-").map(&:to_i)
+  (a..(b || a)).to_a
+end
+covered = groups.flatten
+abort "chunkspec が空か逆順: #{chunkspec.inspect}" if covered.empty?
+abort "chunkspec が連続した昇順でない: #{covered.inspect}" unless covered == (covered.first..covered.last).to_a
+abort "chunkspec が段落範囲 1..#{paras.size} を超えている: #{covered.inspect}" unless covered.first >= 1 && covered.last <= paras.size
+
+# チャンクの本文. 先頭チャンクには経題行を含める
+chunk_text = lambda do |i|
+  body = groups[i].map { |n| blocks[n] }
+  body.unshift(blocks[0]) if i.zero?
+  body.join("\n\n") + "\n"
+end
+
+PROMPT_HEADER = <<~TEXT
+  以下は 1 つのセクションの原文を「前の文脈」「訳出対象」「後の文脈」の順に並べたものです。対訳を作るのは「訳出対象」の部分だけです。前後の文脈は、語義・指示語・省略 (…pe…) の内容を判断するために参照するもので、訳出・再掲の対象にしません。文脈を参照して判断したことを語釈に書く場合は、「前の文脈」「後の文脈」という言い方をせず、経名や段落番号で示します (例: 「第 1 経と同じ定型」「§181 と同じ構造」)。対訳の通し番号は訳出対象の先頭を 1 とします。訳出対象の先頭が経題行の場合は、経題を項目 1 として扱います。
+TEXT
+
+# 参照文脈付きプロンプトの本文 (仕組みの説明は末尾の prompt_NN.txt 書き出し部を
+# 参照). target は訳出対象 (チャンクの本文から末尾の改行を除いたもの)
+prompt_text = lambda do |i, target|
+  nums = groups[i]
+  before = blocks[1...nums.first]
+  after = blocks[(nums.last + 1)..] || []
+  unless ctx == "all"
+    n = ctx.to_i
+    before = ["(中略)"] + before.last(n) if before.size > n
+    after = after.first(n) + ["(中略)"] if after.size > n
+  end
+  before.unshift(blocks[0]) unless i.zero?
+  prompt = +PROMPT_HEADER
+  prompt << "\n===== 前の文脈 (訳出しない) =====\n\n"
+  prompt << (before.empty? ? "(なし)" : before.join("\n\n")) << "\n\n"
+  prompt << "===== 訳出対象 (この部分だけ対訳する) =====\n\n"
+  prompt << target << "\n\n"
+  prompt << "===== 後の文脈 (訳出しない) =====\n\n"
+  prompt << (after.empty? ? "(なし)" : after.join("\n\n")) << "\n"
+  prompt
+end
+
+# --estimate: チャンク案の見積もりだけを表示して終了する. ファイルは書き出さない.
+# 入力の字数は claude -p の stdin になるもの (参照文脈なしならチャンクの本文,
+# ありなら prompt_NN.txt と同じ本文) を数える
+if estimate_spec
+  targets = groups.each_index.map { |i| chunk_text.call(i) }
+  input_chars = targets.each_with_index.sum do |text, i|
+    ctx == "none" ? text.size : prompt_text.call(i, text.chomp).size
+  end
+  est = TaiyakuEstimate.estimate(kind: est_kind, model: est_opts["--model"], auth: est_auth,
+                                 chars: targets.sum { |text| text.strip.size }, chunks: groups.size,
+                                 input_chars: input_chars, effort: est_opts["--effort"] || "high")
+  puts subhead
+  puts "チャンク案: #{groups.size} 個 | 行 #{covered.first}-#{covered.last} (全 #{paras.size} 行) | 文脈 #{ctx}"
+  puts TaiyakuEstimate.lines(est)
+  exit
+end
+
 # 正本を書き出し read-only にする
 require "fileutils"
 FileUtils.mkdir_p(outdir)
@@ -373,18 +475,6 @@ if struct_blocks.empty?
 else
   File.write(struct_path, struct_blocks.join("\n") + "\n")
 end
-
-# chunkspec を解釈してチャンクを書き出す
-# 段落番号は経題を除いた bodytext 段落の 1 始まり.
-# セクション一部だけを対訳する用途のため 1 から始まらない範囲も許可する
-groups = chunkspec.split(",").map do |spec|
-  a, b = spec.split("-").map(&:to_i)
-  (a..(b || a)).to_a
-end
-covered = groups.flatten
-abort "chunkspec が空か逆順: #{chunkspec.inspect}" if covered.empty?
-abort "chunkspec が連続した昇順でない: #{covered.inspect}" unless covered == (covered.first..covered.last).to_a
-abort "chunkspec が段落範囲 1..#{paras.size} を超えている: #{covered.inspect}" unless covered.first >= 1 && covered.last <= paras.size
 
 # 前回の実行の chunk_NN.txt をすべて消してから書き出す. 同じ outdir で
 # チャンク数を減らして再実行すると, 番号の大きい古いチャンクが残り,
@@ -410,11 +500,9 @@ groups.each_with_index do |nums, i|
     warn "WARN: chunk #{i + 1}: 段落 #{n} (VRI #{pn}) がチャンク途中にある. " \
          "番号の先頭で新チャンクを始めることを検討" if pn
   end
-  body = nums.map { |n| blocks[n] }
-  # 先頭チャンクには経題行を含める
-  body.unshift(blocks[0]) if i.zero?
+  # 先頭チャンクには経題行を含める (chunk_text)
   path = File.join(outdir, format("chunk_%02d.txt", i + 1))
-  File.write(path, body.join("\n\n") + "\n")
+  File.write(path, chunk_text.call(i))
   chunk_paths << path
 end
 
@@ -446,27 +534,9 @@ end
 Dir[File.join(outdir, "prompt_*.txt")].each { |p| File.delete(p) }
 exit if ctx == "none"
 
-PROMPT_HEADER = <<~TEXT
-  以下は 1 つのセクションの原文を「前の文脈」「訳出対象」「後の文脈」の順に並べたものです。対訳を作るのは「訳出対象」の部分だけです。前後の文脈は、語義・指示語・省略 (…pe…) の内容を判断するために参照するもので、訳出・再掲の対象にしません。文脈を参照して判断したことを語釈に書く場合は、「前の文脈」「後の文脈」という言い方をせず、経名や段落番号で示します (例: 「第 1 経と同じ定型」「§181 と同じ構造」)。対訳の通し番号は訳出対象の先頭を 1 とします。訳出対象の先頭が経題行の場合は、経題を項目 1 として扱います。
-TEXT
-
-groups.each_with_index do |nums, i|
-  before = blocks[1...nums.first]
-  after = blocks[(nums.last + 1)..] || []
-  unless ctx == "all"
-    n = ctx.to_i
-    before = ["(中略)"] + before.last(n) if before.size > n
-    after = after.first(n) + ["(中略)"] if after.size > n
-  end
-  before.unshift(blocks[0]) unless i.zero?
+groups.each_index do |i|
   target = File.read(chunk_paths[i], encoding: "UTF-8").chomp
-  prompt = +PROMPT_HEADER
-  prompt << "\n===== 前の文脈 (訳出しない) =====\n\n"
-  prompt << (before.empty? ? "(なし)" : before.join("\n\n")) << "\n\n"
-  prompt << "===== 訳出対象 (この部分だけ対訳する) =====\n\n"
-  prompt << target << "\n\n"
-  prompt << "===== 後の文脈 (訳出しない) =====\n\n"
-  prompt << (after.empty? ? "(なし)" : after.join("\n\n")) << "\n"
+  prompt = prompt_text.call(i, target)
   path = File.join(outdir, format("prompt_%02d.txt", i + 1))
   File.write(path, prompt)
   puts "  #{path} (ctx=#{ctx}, #{prompt.bytesize} bytes)"
