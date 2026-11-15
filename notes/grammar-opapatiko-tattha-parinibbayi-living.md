@@ -19,28 +19,41 @@ Ghaṭikāro kho, mahārāja, kumbhakāro pañcannaṃ orambhāgiyānaṃ saṃy
 
 - この句は不還の人を言い表す定型句で、生きている人にも亡くなった人にも同じ形で使われる。ガティカーラがいま化生の者だという意味ではない
 - 句の中身は「(この生を終えたあと) 化生し、そこで完全に涅槃し、その世界から戻らない」という先の行き先である。つまり「不還果だということ」と「将来は化生となるということ」は別々の読みではなく、後者の内容によって前者を言い表している
-- そう読めるのは、三つの述語がどれも時を示さない名詞・形容詞で、「そうなる定まりの者」を表すからである。これは原文の形と註釈書の言い換えにもとづく
+- そう読めるのは、三つの述語がどれも時を示さない名詞・形容詞で、「そうなる定まりの者」を表すからである。これは原文の文法と註釈書の言い換えにもとづく
 
 訳は次のようになる。
 
 > 大王よ、陶工ガティカーラは、五つの下位の束縛が尽きたことによって、化生する者であり、そこで完全に涅槃する者であり、その世界から戻ってこない性質の者です。
 
-## 三つの述語は時を示さない
+## opapātiko、tattha parinibbāyī、anāvattidhammo は時を示さない
 
-この節は原文の形の分析で、語義は辞書による。接尾辞の働きについての説明は推論を含む。
+この節は原文の文法の分析で、語義は辞書による。接尾辞の働きについての説明は推論を含む。
 
-この文には定動詞がない。`Ghaṭikāro … kumbhakāro` を主語として、opapātiko、tattha parinibbāyī、anāvattidhammo の三つが述語として並ぶ。MN 81 のこの箇所は `Ghaṭikāro kho, mahārāja, kumbhakāro …` で始まる文が続くところで、`saraṇaṃ gato`、`paṭivirato`、`samannāgato`、`nikkaṅkho`、`mātāpitaro poseti` などガティカーラのいまの徳を述べる文の最後にこの文が置かれている。したがって文全体としては、いまのガティカーラがどういう人であるかを述べている。ただし三つの述語の中身は、いまの状態ではなく先の行き先である。
+この文には定動詞がない。文を切り分けると次のようになる。
 
-- opapātiko は upapāta に -ika の付いた派生語で、DoP は "arising spontaneously; (one) being reborn without parents" とする。生まれ方の種類を言う語である。MN 12 Mahāsīhanādasutta (VRI 段落 152) は四つの生まれ方 (yoni) を数え、その一つをこう説明する
+```
+Ghaṭikāro kho, mahārāja, kumbhakāro                  主語
+pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā     理由 (奪格)
+opapātiko                                            述語 1
+tattha parinibbāyī                                   述語 2
+anāvattidhammo tasmā lokā                            述語 3
+```
+
+主語「陶工ガティカーラは」に対して、述語 1 から 3 が「…である」の位置に並ぶ。
+
+MN 81 のこの箇所は `Ghaṭikāro kho, mahārāja, kumbhakāro …` で始まる文が続くところで、`saraṇaṃ gato`、`paṭivirato`、`samannāgato`、`nikkaṅkho`、`mātāpitaro poseti` などガティカーラのいまの徳を述べる文の最後にこの文が置かれている。したがって文全体としては、いまのガティカーラがどういう人であるかを述べている。ただし述語 1 から 3 の中身は、いまの状態ではなく先の行き先である。
+
+1. opapātiko は upapāta に -ika の付いた派生語で、DoP は "arising spontaneously; (one) being reborn without parents" とする。生まれ方の種類を言う語である
+2. tattha parinibbāyī の parinibbāyī は -in で終わる語で、DoP は tatthaparinibbāyi(n) をひとまとまりの語として立て、"who realises nibbāna there, in that state" とする。tattha (そこで) は、opapātiko が含む生まれ先を指す
+3. anāvattidhammo は anāvatti (戻らないこと) と dhamma の複合語で、DoP は "not subject to return (to this world, see anāgāmi[n])" とする。`tasmā lokā` (その世界から) が続くので、戻らないというのは生まれ先の世界から戻らないことである
+
+1 の opapātiko が言う生まれ方について、MN 12 Mahāsīhanādasutta (VRI 段落 152) は四つの生まれ方 (yoni) を数え、その一つをこう説明する。
 
 ```
 Katamā ca, sāriputta, opapātikā yoni? Devā, nerayikā, ekacce ca manussā, ekacce ca vinipātikā – ayaṃ vuccati, sāriputta, opapātikā yoni.
 ```
 
-- tattha parinibbāyī の parinibbāyī は -in で終わる語で、DoP は tatthaparinibbāyi(n) をひとまとまりの語として立て、"who realises nibbāna there, in that state" とする。tattha (そこで) は、opapātiko が含む生まれ先を指す
-- anāvattidhammo は anāvatti (戻らないこと) と dhamma の複合語で、DoP は "not subject to return (to this world, see anāgāmi[n])" とする。`tasmā lokā` (その世界から) が続くので、戻らないというのは生まれ先の世界から戻らないことである
-
-三つのうち後ろの二つは、opapātiko が言う生まれ先を tattha と tasmā lokā で受けている。三語はひと続きで「化生する、そこで涅槃する、そこから戻らない」という経過を述べており、opapātiko だけを切り離して「いま化生である」と読むことはできない。
+述語 2 と 3 は、述語 1 の opapātiko が言う生まれ先を tattha と tasmā lokā で受けている。三語はひと続きで「化生する、そこで涅槃する、そこから戻らない」という経過を述べており、opapātiko だけを切り離して「いま化生である」と読むことはできない。
 
 -in や -dhamma の形が「いま…している者」ではなく「…することになる者」「…する性質の者」を表すという点は、次の節の註釈書の言い換えから推したもので、文法書の規定では確かめていない。
 
