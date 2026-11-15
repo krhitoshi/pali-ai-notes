@@ -174,6 +174,7 @@ cat chunk.txt | claude -p \
   --system-prompt "$(cat system_prompt_no_paraphrase.md)" \
   --disable-slash-commands \
   --tools "" \
+  --strict-mcp-config \
   > out.md
 ```
 
@@ -186,7 +187,13 @@ cat chunk.txt | claude -p \
 - `--system-prompt`: 既定の Claude Code システムプロンプトを自前のファイルで
   完全置換する
 - `--disable-slash-commands`: スキルを無効化する
-- `--tools ""`: ツールを無効化する. 生成はテキスト変換のみでツールは不要
+- `--tools ""`: 組み込みツールを無効化する. 生成はテキスト変換のみでツールは不要
+- `--strict-mcp-config`: MCP の設定をすべて無視する (`--mcp-config` は
+  渡さない). `--tools ""` では MCP のツール定義が消えないため付ける.
+  CLI 側に登録した MCP サーバと claude.ai コネクタの定義がリクエストに
+  入らなくなり, 生成が辞書や本文検索を引くことも, 定義の分の入力を使う
+  こともなくなる. サブスクリプションと API キーのどちらの認証でも効く
+  (issue #57)
 
 これにより, Gemini API で得ていた「固定モデルで安定」と同じ効果が出る.
 
@@ -210,7 +217,13 @@ cat chunk.txt | claude -p \
 
 - system prompt: system_prompt_no_paraphrase.md で完全置換される.
   Claude Code 既定のハーネス指示は入らない
-- ツール定義・MCP ツール説明: なし (`--tools ""` で消える)
+- 組み込みツールの定義: なし (`--tools ""` で消える)
+- MCP のツール定義: `--tools ""` では消えない. 当初はこの確認で「なし」と
+  していたが, セッション記録のリクエスト構成 (`api-request-shape`) を
+  調べると, CLI 側に登録した MCP サーバと claude.ai コネクタの定義が
+  入っていた (2026/11/15. サブスクリプションではチャンクあたりの入力が
+  約 4 万トークンになっていた). `--strict-mcp-config` を付けると 0 個に
+  なる (issue #57)
 - スキル: なし (`--disable-slash-commands` で消える)
 - 最初のユーザーメッセージに system-reminder として以下が注入される
   - `~/.claude/CLAUDE.md` (グローバル個人設定). cwd に関係なく常に入る

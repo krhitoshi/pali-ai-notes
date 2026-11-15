@@ -254,6 +254,15 @@ struct_args=()
 # 3 行目 = 生成に使った chunk_NN.txt のチェックサム) に記録する.
 # assemble_md.rb がチャンクごとの Meta ブロックに使うため, 日をまたいで
 # 分割生成しても先に生成したチャンクの日付とラベルが変わらない
+#
+# --strict-mcp-config で MCP の設定をすべて無視する (--mcp-config は渡さない).
+# --tools "" は組み込みツールを外すだけで, CLI 側に登録した MCP サーバと
+# claude.ai コネクタのツール定義はリクエストに残る. 対訳の生成はツールを
+# 使わないため, 辞書や本文検索を引ける状態にせず, 定義の分の入力も省く
+# (issue #57. 2026/11/15 の実測では, パーリの MCP サーバを CLI に登録した
+# 状態のチャンクあたりの入力が, サブスクリプションで約 66,000 から約 8,300
+# トークン, API キーで約 20,000 から約 7,800 トークンになった).
+# 認証の分岐の外にあるため, サブスクリプションと API キーの両方に効く
 echo "generate: ctx=${TAIYAKU_CTX:-none} auth=$auth jobs=$jobs_max gen=${gen_spec:-all}"
 gen_count=0
 for chunk in "$workdir"/chunk_*.txt; do
@@ -273,6 +282,7 @@ for chunk in "$workdir"/chunk_*.txt; do
       --system-prompt "$(cat "$repo_root/system_prompt_no_paraphrase.md")" \
       --disable-slash-commands \
       --tools "" \
+      --strict-mcp-config \
       < "$input" > "out_$n.md" 2> "err_$n.log"
     printf '%s\n%s\n%s\n' "$(date +%Y/%m/%d)" "$label" "$(cksum < "chunk_$n.txt")" > "meta_$n.txt"
   ) &
