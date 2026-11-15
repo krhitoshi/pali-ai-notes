@@ -217,6 +217,11 @@ scripts/taiyaku.sh https://www.tipitaka.org/romn/cscd/s0202m.mul0.xml \
   `TAIYAKU_AUTH=api` を付けて taiyaku.sh を呼ぶだけで, `claude -p` の
   引数はどちらも同じで, 認証だけが変わる (ただし API キー認証では CLI が
   claude.ai コネクタを自動で無効にする)
+- 生成の `claude -p` には `--strict-mcp-config` を付けており, MCP の
+  ツール定義 (CLI 側に登録した MCP サーバと claude.ai コネクタ) は認証方法に
+  よらず生成に入らない (issue #57). 生成が辞書や本文検索を引くことはなく,
+  定義の分の入力も使わない. orchestrator (このセッション) が原文の特定などに
+  MCP を使うことには影響しない
 - workdir には source.txt (read-only の正本), chunk_NN.txt, 生成結果
   out_NN.md, err_NN.log が残る. meta_NN.txt はチャンクごとの生成日・
   モデルラベル・原文のチェックサムで, Meta ブロックの日付とラベルに使われる
@@ -240,7 +245,8 @@ scripts/taiyaku.sh https://www.tipitaka.org/romn/cscd/s0202m.mul0.xml \
   環境変数は変えない. `taiyaku_api.sh` で生成したものは `taiyaku_api.sh` で
   再実行する). 成功済みのチャンクは作り直されない
 - 手動で再生成する場合は, そのチャンクのみ taiyaku.sh 内と同じ
-  `claude -p` コマンドで再生成すればよい. `taiyaku_api.sh` で生成した
+  `claude -p` コマンドで再生成すればよい (`--strict-mcp-config` を含め,
+  引数は taiyaku.sh のものをそのまま使う). `taiyaku_api.sh` で生成した
   ものを再生成するときは
   `env -u CLAUDE_CODE_ENTRYPOINT ANTHROPIC_API_KEY="$PALI_AI_NOTES_CLAUDE_API_KEY" claude -p ...`
   の形にする (デスクトップアプリのセッションでは CLAUDE_CODE_ENTRYPOINT を
