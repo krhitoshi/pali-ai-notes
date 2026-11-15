@@ -11,6 +11,8 @@ taiyaku スキル (`.claude/skills/taiyaku/SKILL.md`) に移行した.
 
 - 個別ステップは scripts/extract_chunks.rb (分割 + 連結一致 assert),
   scripts/assemble_md.rb (md 組み立て), scripts/verify_taiyaku.rb (再掲行照合)
+- 生成で使ったトークン数と費用は scripts/taiyaku_usage.rb で workdir ごとに
+  集計する (CLI のセッション記録を読む. 使い方はスクリプト冒頭のコメント)
 
 ## 背景: 現状の手動プロセス
 
