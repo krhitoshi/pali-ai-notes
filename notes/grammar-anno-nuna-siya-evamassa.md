@@ -19,7 +19,6 @@ Ahaṃ tena samayena jotipālo māṇavo ahosi’’nti.
 - añño は「別の者」で、比べる相手は次の文の ahaṃ (語っている世尊自身) である
 - ただし聞き手のアーナンダの側には比べる相手がまだない。聞き手にとってジョーティパーラは昔のある青年で、añño は「特定の誰でもない、よその誰か」と聞こえる。同じ añño が、語り手の世尊にとっては初めから「私ではない者」である
 - この想定は Ahaṃ … ahosiṃ という結論があって初めて立つ。実際に浮かんだ疑問の報告ではなく、打ち消すために置かれた前置きである
-- añño を主語と取るか述語と取るかは文法からは決まらない。どちらに取っても añño が文の中心で、ahaṃ と対になる
 - siyā と assa はどちらも atthi の願望法三人称単数だが、働きが違う。siyā は文全体にかかる「〜かもしれない」、assa は「あなたにこういう考えがある」という節の動詞である
 
 ## añño は「別の者」で、基準は ahaṃ
@@ -78,23 +77,6 @@ Tadāpi etaparamoyeva kolo ahosi seyyathāpi etarahi.
 ```
 
 「そのときのナツメの実はきっと大きかったのだろう」という想定を立て、「そのときも今と同じ大きさだった」と退ける。文頭に打ち消される述べ方を置き、nūna tena samayena … ahosi を続ける形が共通している。
-
-## añño は主語か述語か
-
-añño も jotipālo māṇavo も主格なので、どちらを主語と取ることもできる。
-
-- 述語と取る読み: 「ジョーティパーラ青年は別の者だった」。上の MN 12 の文では、同じ位置の mahā が述語であること (kolo が主語) が明らかで、これと並行する
-- 主語と取る読み: 「別の者がジョーティパーラ青年だった」。次の文 Ahaṃ … jotipālo māṇavo ahosiṃ と同じ形で、añño が ahaṃ と同じ位置に入っていることと並行する。Ñāṇamoli と Bodhi の英訳はこの読みで、"Certainly, someone else was the brahmin student Jotipāla on that occasion." としている
-
-以下は推論である。Ahaṃ の文で動詞が一人称 (ahosiṃ) であることは、añño の文の主語を決める材料にはならない。一人称の代名詞と名詞を「である」でつなぐ文では、どちらが話題であっても動詞は一人称になるためである。したがって文法上の主語は決まらない。決まっているのは、jotipālo māṇavo が前の物語ですでに出ている人物で、añño (と次の文の ahaṃ) が新しく述べられる中心だということである。日本語では「そのときジョーティパーラ青年だったのは、きっと誰か別の者だろう」「そのときジョーティパーラ青年だったのは私だ」と言い表せる。
-
-## nūna は確信寄りの推量
-
-nūna はこの文では「きっと〜だろう」という推量を表す。nūna には問いを表す用法もあるが (DOP の 3 番目の語義 is it that …?)、この文はそれに当たらない。DOP は nūna の語義を 3 つに分け、2 番目の surely; probably, in all probability; it must be that … の用例に、上の MN 12 の文 (siyā kho pana te Sāriputta evaṃ assa mahā nūna tena samayena kolo ahosī ti) を挙げている。añño nūna も同じ枠の文なので、この語義に当たる。
-
-英訳の Certainly は DOP の 1 番目の語義 (indeed; certainly) に当たる訳し方である。PTSD は nūna を affirmative-dubitative particle (肯定と疑いの両方を表す小辞) と説明しており、事実の断定というより、そうに違いないという見込みを述べる語と読める。
-
-Siyā kho pana … evamassa の枠の中の想定には nūna がよく現れる。MN 4 の ajjāpi nūna samaṇo gotamo avītarāgo …、AN 二集の tattha nūna tāsaṃ devatānaṃ …、律蔵 Mahāvagga の kevalaṃ saddhāmattakaṃ nūna ayamāyasmā … などで、どれも文頭の語句の直後に置かれている。
 
 ## siyā と assa はなぜ重なるか
 
@@ -159,12 +141,10 @@ PTSD の atthi の項は、三人称単数の願望法 (PTSD の用語では Pot
 - assa という語形の成り立ち (siyā と並んで別の形がある理由) は確認していない
 - 註釈書・復註が añño nūna の añño という語そのものを説明している箇所は見つけていない。CSCD 全体を `añño nūna` と、註釈の見出しの形 `añño nūnā…` で検索し、DN・MN・AN の註釈書と復註を見出しの形 `Aññoti` で検索した範囲での結果である
 - 段落数 (36 と 26) は CSCD の XML の p 要素を単位とする集計で、`Siyā kho pan…` から 80 字以内に `evamassa` が続く段落を数えた。evaṃ assa と分けて書く形は、同じ条件で CSCD 全体を検索しても見つからなかった。語順の違う形は数えていない。Milindapañha (`s0518m.nrf.xml`) は DN 16 のこの枠を引用しているが、集計の対象に入れていない
-- Ñāṇamoli と Bodhi の英訳は MN 81 の該当の一文だけを参照した
 
 ## 出典
 
-- CSCD (VRI 版): `s0102m.mul.xml` §270、`s0201m.mul.xml` §55・§158・§416–424、`s0202m.mul.xml` §292・§316、`s0402m1.mul.xml`、`s0402m2.mul.xml`、`s0404m2.mul.xml`、`s0404m3.mul.xml` §6、`s0101m.mul.xml` §338、`vin02m2.mul.xml` §244、`s0201a.att.xml` §55、`s0201t.tik.xml` §55、`s0404a.att.xml`、`vin06t.nrf.xml` §244、`vin09t.nrf.xml`、`s0501a.att.xml`、`s0505a.att.xml`、`s0518m.nrf.xml`
-- DOP: añña²、aññatara、atthi、nūna の項
+- CSCD (VRI 版): `s0102m.mul.xml` §270、`s0201m.mul.xml` §55・§158・§416–424、`s0202m.mul.xml` §292・§316、`s0402m2.mul.xml`、`s0404m2.mul.xml`、`s0404m3.mul.xml` §6、`s0101m.mul.xml` §338、`vin02m2.mul.xml` §244、`s0201a.att.xml` §55、`s0201t.tik.xml` §55、`s0404a.att.xml`、`vin06t.nrf.xml` §244、`vin09t.nrf.xml`、`s0501a.att.xml`、`s0505a.att.xml`、`s0518m.nrf.xml`
+- DOP: añña²、aññatara、atthi の項
 - CPD: ¹añña の項
-- PTSD: atthi、nūna の項
-- Bhikkhu Ñāṇamoli and Bhikkhu Bodhi, *The Middle Length Discourses of the Buddha*, MN 81 §23
+- PTSD: atthi の項
