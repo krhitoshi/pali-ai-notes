@@ -195,7 +195,7 @@ scripts/taiyaku.sh <xml|url> <subhead> <chunkspec> <workdir> <out_md> \
 
 ```bash
 scripts/taiyaku.sh https://www.tipitaka.org/romn/cscd/s0202m.mul0.xml \
-  "9. Bahuvedanīyasuttaṃ" "1,2,3-5,6-11,12,13-15" _tmp/work_mn059 mn/mn_059.md \
+  "9. Bahuvedanīyasuttaṃ" "1,2,3-5,6-11,12,13-15" _tmp/work_mn_059 mn/mn_059.md \
   claude-fable-5-1
 ```
 
@@ -211,6 +211,34 @@ scripts/taiyaku.sh https://www.tipitaka.org/romn/cscd/s0202m.mul0.xml \
   (claude-fable-5-1 + high -> "Claude Fable 5.1 High"). 手入力しない
 - workdir はリポジトリ内 `_tmp/work_...` とする (プロジェクト CLAUDE.md の
   「翻訳の方針」が生成プロンプトに入るのは意図した動作)
+- workdir の名前は out_md のファイル名から決める (issue #59).
+  `_tmp/work_<out_md のファイル名から .md を除いたもの>` とする
+  (`sn/sn_54_1_10.md` -> `_tmp/work_sn_54_1_10`,
+  `dhammapada/dhp_attha_356-359.md` -> `_tmp/work_dhp_attha_356-359`).
+  対訳 md のファイル名はリポジトリ内で重複しないため, md から workdir を
+  名前だけで引ける. md の側には workdir を書かない
+  - 1 つの md に workdir は 1 つ. 経と註を同じセッションで作るときも
+    workdir は別にする
+  - やり直しは同じ workdir で行い, `b` や `_v2` を付けた別の workdir を
+    作らない. taiyaku_usage.rb は workdir ごとに集計し, 作り直す前の生成を
+    「使われなかった分」として分けて出すため, 経過も費用も 1 か所に残る.
+    chunkspec を変えても, 古い chunk_NN.txt は抽出のたびに消える
+  - 比較用・試験用の生成 (文脈範囲やモデルの比較など, 現在の md を
+    上書きしないもの) は, out_md のファイル名を `<ファイル名>__<ラベル>.md`
+    にする. リポジトリに残さないものは `_tmp/` に, 残すものは本来の md と
+    同じディレクトリに出す. workdir も同じ規則で
+    `_tmp/work_<ファイル名>__<ラベル>` になる (例 `_tmp/an_05_181-190__ctx-none.md`
+    と `_tmp/work_an_05_181-190__ctx-none`). 区切りの `__` はファイル名の
+    `_` と見分けるため. 比較の結果を採用するときは, 採用した条件で本来の
+    workdir に生成し直す. 規則を決める前の比較用の md
+    (`an_05_181-190_noctx.md`, `patis_1_03_fable.md` など) は名前を変えない
+  - taiyaku.sh は規則に合わない workdir と out_md の組み合わせ (workdir 名が
+    out_md のファイル名と合わない, `__` のないファイル名の md を `_tmp/` に
+    出す) を抽出の前に abort する
+  - 規則を決める前 (2026/11/15 より前) の workdir は名前を変えない.
+    CLI のセッション記録は workdir の絶対パスごとに残るため, 名前を変えると
+    taiyaku_usage.rb で集計できなくなる. これらの workdir には対応する md を
+    後から run.txt に記録してある (`retro:` の行があるもの)
 - out_md のファイル名にモデル名サフィックス (_fable5 など) は付けない.
   モデル情報は Meta ブロックに入る. 註釈書のファイル名は
   docs/commentary_file_naming.md に従う
@@ -255,8 +283,10 @@ scripts/taiyaku.sh https://www.tipitaka.org/romn/cscd/s0202m.mul0.xml \
   out_NN.md, err_NN.log が残る. meta_NN.txt はチャンクごとの生成日・
   モデルラベル・原文のチェックサムで, Meta ブロックの日付とラベルに使われる
   (日をまたいで分割生成しても, 先に生成したチャンクの日付は変わらない).
-  run.txt は直近の実行時の指定 (subhead, chunkspec, headings, 環境変数,
-  model など) の控え
+  run.txt は直近の実行時の指定 (日時, subhead, chunkspec, headings,
+  out_md, 環境変数, model など) の控えで, out_md からこの workdir が
+  どの md の元かがわかる. run.txt は毎回上書きされ, 同じ内容が
+  run_history.txt に実行ごとに追記される
 - taiyaku.sh はセッションの Bash から前面 (フォアグラウンド) で実行し,
   timeout を長めに取る (1 チャンク数分). バックグラウンド (detach) 実行では
   claude -p が exit 0 のまま空出力になる事象があった (2026/07/28.
