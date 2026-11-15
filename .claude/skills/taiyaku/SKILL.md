@@ -248,6 +248,9 @@ scripts/taiyaku.sh https://www.tipitaka.org/romn/cscd/s0202m.mul0.xml \
 - out_md のファイル名にモデル名サフィックス (_fable5 など) は付けない.
   モデル情報は Meta ブロックに入る. 註釈書のファイル名は
   docs/commentary_file_naming.md に従う
+- out_md のディレクトリがまだない場合 (新しい文献のディレクトリなど) は,
+  実行の前に `mkdir -p` で作る. ないと taiyaku.sh が抽出の前に abort する
+  (issue #63. assemble_md.rb はディレクトリを作らない)
 - `[headings]` は見出しラベルの上書き指定 `"チャンク番号:ラベル"` の
   カンマ区切り (例 `"1:345-346,4:345-346"`). 番号規則で決まらない編集判断
   (物語導入部や複数偈にまたがる語句註を偈の範囲でラベル付けする等) に使う
