@@ -14,12 +14,27 @@
 # [headings] は assemble_md.rb にそのまま渡す見出しラベルの上書き指定
 # (例 "1:345-346,4:345-346")
 #
+# <workdir> の名前は <out_md> のファイル名から決まる (issue #59).
+#   _tmp/work_<out_md のファイル名から .md を除いたもの>
+#   (sn/sn_54_1_10.md -> _tmp/work_sn_54_1_10)
+# 対訳 md のファイル名はリポジトリ内で重複しないため, md から workdir を
+# 名前だけで引ける. やり直しは同じ workdir で行う. 比較用・試験用の生成は
+# out_md を <ファイル名>__<ラベル>.md にし (残さないものは _tmp/ に,
+# 残すものは本来の md と同じディレクトリに出す), workdir も同じ規則で
+# _tmp/work_<ファイル名>__<ラベル> になる. 規則に合わない組み合わせは abort する.
+# 規則を決める前 (2026/11/15 より前) の workdir は名前を変えずに使う.
+# run.txt の out_md が <out_md> と同じファイル名なら, 名前が規則と違っても通る.
+# そういう workdir がある md に規則どおりの名前の workdir を指定すると,
+# 既存の workdir の名前を示して abort する
+#
 # 例:
 #   scripts/taiyaku.sh _tmp/s0305m.mul9.xml "10. Kimilasuttaṃ" "1-3,4,5-6,7-8,9" \
-#     _tmp/work_kimila sn/sn_54_1_10.md claude-fable-5-1
+#     _tmp/work_sn_54_1_10 sn/sn_54_1_10.md claude-fable-5-1
 #   scripts/taiyaku.sh https://www.tipitaka.org/romn/cscd/s0202m.mul0.xml \
-#     "9. Bahuvedanīyasuttaṃ" "1,2,3-5,6-11,12,13-15" _tmp/work_mn059 mn/mn_059.md \
+#     "9. Bahuvedanīyasuttaṃ" "1,2,3-5,6-11,12,13-15" _tmp/work_mn_059 mn/mn_059.md \
 #     claude-fable-5-1
+#   (比較用) TAIYAKU_CTX=none scripts/taiyaku.sh ... _tmp/work_an_05_181-190__ctx-none \
+#     _tmp/an_05_181-190__ctx-none.md claude-fable-5-1
 #
 # <xml|url> に URL を渡すと _tmp/ にダウンロードして使う.
 # 既に同名ファイルがあれば再ダウンロードせずそれを正本として使う
@@ -56,7 +71,7 @@
 # api は直接指定せず, TAIYAKU_AUTH=api を付けてこのスクリプトを呼ぶ
 # scripts/taiyaku_api.sh を使う (引数は同じ). 例:
 #   scripts/taiyaku_api.sh _tmp/s0305m.mul9.xml "10. Kimilasuttaṃ" \
-#     "1-3,4,5-6,7-8,9" _tmp/work_kimila sn/sn_54_1_10.md claude-fable-5-1
+#     "1-3,4,5-6,7-8,9" _tmp/work_sn_54_1_10 sn/sn_54_1_10.md claude-fable-5-1
 #
 # 環境変数 TAIYAKU_JOBS で生成 (claude -p) の同時実行数の上限を指定する.
 #   未指定 : 50
@@ -117,6 +132,50 @@ ver=$(printf "%s" "${id#*-}" | sed -E "s/-[0-9]{8}$//; s/-/./g")
 label="Claude $(tr a-z A-Z <<<"${family:0:1}")${family:1} $ver $(tr a-z A-Z <<<"${effort:0:1}")${effort:1}"
 
 repo_root=$(cd "$(dirname "$0")/.." && pwd)
+
+# workdir と out_md の名前を規則 (ヘッダコメント参照. issue #59) と照合する.
+# workdir は _tmp/ 直下の work_<out_md のファイル名>. _tmp/ に出す md は
+# 比較用・試験用に限り, ファイル名を <ファイル名>__<ラベル>.md にする.
+# 規則に合わないと md から workdir を名前で引けなくなるため, 抽出の前に abort する.
+#
+# 規則を決める前の workdir は名前を変えずに使い続ける (チャンクの再生成や
+# やり直し). そのため, workdir の run.txt の out_md が今回の out_md と同じ
+# ファイル名なら, 名前が規則と違っても通す. 逆に, 規則どおりの名前でも,
+# その md を記録した workdir がほかにあれば abort する (規則を決める前の
+# workdir がある md に 2 つ目の workdir を作らないため).
+# ディレクトリは -ef で比べる (シンボリックリンクや大文字小文字の違う
+# パスで呼ばれても同じ場所と判定できる)
+md_name=$(basename "$out_md")
+md_base=$(basename "$out_md" .md)
+# run.txt ($1) に記録された out_md のファイル名を出す. 記録がなければ空
+recorded_md() {
+  [ -f "$1" ] || return 0
+  local rec
+  rec=$(sed -n '/^out_md: /{s///p;q;}' "$1")
+  [ -z "$rec" ] || basename "$rec"
+}
+own_md=$(recorded_md "$workdir/run.txt")
+if [ ! "$(dirname "$workdir")" -ef "$repo_root/_tmp" ] \
+  || { [ "$(basename "$workdir")" != "work_$md_base" ] && [ "$own_md" != "$md_name" ]; }; then
+  echo "workdir は _tmp/work_$md_base にしてください (out_md のファイル名から決まる. issue #59). 指定: $workdir" >&2
+  exit 1
+fi
+if [ -n "$own_md" ] && [ "$own_md" != "$md_name" ]; then
+  echo "指定の workdir は別の md ($own_md) の生成に使われています (run.txt の out_md). 指定: $workdir $out_md" >&2
+  exit 1
+fi
+if [ -z "$own_md" ]; then
+  for f in "$repo_root"/_tmp/work_*/run.txt; do
+    if [ "$(recorded_md "$f")" = "$md_name" ]; then
+      echo "$md_name の workdir はすでにあります: _tmp/$(basename "$(dirname "$f")") (run.txt の out_md). やり直しや再生成はこの workdir で行ってください. 指定: $workdir" >&2
+      exit 1
+    fi
+  done
+fi
+if [ "$(dirname "$out_md")" -ef "$repo_root/_tmp" ] && [[ $md_base != *__* ]]; then
+  echo "_tmp/ に出す比較用・試験用の md はファイル名を <ファイル名>__<ラベル>.md にしてください. 指定: $out_md" >&2
+  exit 1
+fi
 
 # 生成の同時実行数の上限 (詳細はヘッダコメント参照)
 jobs_max=${TAIYAKU_JOBS:-50}
@@ -220,8 +279,17 @@ fi
 # 実行時の指定を workdir に残す. 分割生成の次の回 (日をまたいで別の
 # セッションになることがある) で, 前回までの chunkspec と環境変数を
 # 確かめるために使う. 上の検査で abort した実行の chunkspec を残さないよう,
-# 検査を通ったあとに書く
+# 検査を通ったあとに書く.
+# out_md は workdir からその md をたどるのにも使う (issue #59).
+# run.txt は毎回上書きされるため, 同じ内容を run_history.txt に追記して
+# 分割生成の各回ややり直しの経過を残す.
+# run_history.txt のない workdir (追記を始める前のもの) では, 上書きする前の
+# run.txt を最初の記録として写す (後から記録した retro: の行もここに残る)
+if [ -f "$workdir/run.txt" ] && [ ! -f "$workdir/run_history.txt" ]; then
+  cp "$workdir/run.txt" "$workdir/run_history.txt"
+fi
 {
+  echo "date: $(date '+%Y/%m/%d %H:%M')"
   echo "xml: $(basename "$xml")"
   echo "subhead: $subhead"
   echo "chunkspec: $chunkspec"
@@ -234,6 +302,10 @@ fi
   echo "TAIYAKU_GEN: ${gen_spec:-all}"
   echo "TAIYAKU_EXCERPT: ${TAIYAKU_EXCERPT:-}"
 } > "$workdir/run.txt"
+{
+  [ -s "$workdir/run_history.txt" ] && echo
+  cat "$workdir/run.txt"
+} >> "$workdir/run_history.txt"
 
 # title 起点セクションでは構造ブロック一覧 struct.txt が書き出される.
 # 組み立てと検証で段落番号の検出から除外するために渡す.
