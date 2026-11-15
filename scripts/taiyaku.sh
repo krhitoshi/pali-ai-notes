@@ -107,6 +107,8 @@
 # - 生成で 401 が出る場合は claude login で CLI の再ログインが必要
 # - 生成の cwd は workdir. リポジトリ内 workdir ではプロジェクト CLAUDE.md が
 #   プロンプトに入る (翻訳の方針が伝わるため現状は許容)
+# - <out_md> のディレクトリは先に作っておく. ないと抽出の前に abort する
+#   (issue #63)
 set -euo pipefail
 
 xml=$1; subhead=$2; chunkspec=$3; workdir=$4; out_md=$5
@@ -174,6 +176,16 @@ if [ -z "$own_md" ]; then
 fi
 if [ "$(dirname "$out_md")" -ef "$repo_root/_tmp" ] && [[ $md_base != *__* ]]; then
   echo "_tmp/ に出す比較用・試験用の md はファイル名を <ファイル名>__<ラベル>.md にしてください. 指定: $out_md" >&2
+  exit 1
+fi
+
+# out_md のディレクトリがなければ, 抽出の前に abort する (issue #63).
+# assemble_md.rb はディレクトリを作らないため, ないまま進むと生成がすべて
+# 終わったあとの組み立てで失敗する. ここで作らずに abort するのは,
+# ディレクトリ名の打ち間違いに生成の前に気づけるようにするため
+md_dir=$(dirname "$out_md")
+if [ ! -d "$md_dir" ]; then
+  echo "out_md のディレクトリがありません: $md_dir. 新しいディレクトリなら先に作ってください (mkdir -p \"$md_dir\")" >&2
   exit 1
 fi
 
