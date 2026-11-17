@@ -309,6 +309,12 @@ scripts/taiyaku.sh https://www.tipitaka.org/romn/cscd/s0202m.mul0.xml \
 - `taiyaku_api.sh` での `Invalid API key` はキーが無効,
   `Credit balance is too low` は API のクレジット残高不足. どちらも
   ユーザに対応を依頼する
+- `対訳になっていない出力があります` は, 出力に「### 対訳」の行が 1 つも
+  ないチャンクがある状態. モデルが訳出用プロンプトに応じず, 挨拶などの
+  短い文だけを返したもので, 組み立ての前に止まる (2026/11/17 に
+  mn_attha_085 と mn_attha_059 で実例あり. リクエストは再生成時と同一で,
+  再生成では通常の対訳になった). 次の項目の手順で該当チャンクだけを
+  再生成する
 - 一部チャンクだけ失敗した場合は, 失敗したチャンクの番号を `TAIYAKU_GEN`
   に指定して同じコマンドを再実行する (例 `TAIYAKU_GEN=7,12`. 引数と他の
   環境変数は変えない. `taiyaku_api.sh` で生成したものは `taiyaku_api.sh` で

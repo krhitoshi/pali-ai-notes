@@ -386,11 +386,21 @@ echo "generated: $gen_count chunks"
 # API キー認証 (TAIYAKU_AUTH=api) ではキー無効時に "Invalid API key",
 # 残高不足時に "Credit balance is too low" だけが出力になり, これらも
 # exit 0 のまま通過するため同様に文字列で検出する
+#
+# 対訳になっていない出力 (「### 対訳」の行が 1 つもない) も失敗として扱う.
+# モデルが訳出用プロンプトに応じず, 挨拶などの短い文だけを返すことがあり,
+# これも exit 0 のまま通過する (2026/11/17 に mn_attha_085 のチャンク 8 と
+# mn_attha_059 のチャンク 4 で実例あり. リクエストは再生成時と同一で,
+# 再生成では通常の対訳になった). 組み立ての WARN は出るが, 検証は対訳が
+# 空のセクションを NG にしないため, 組み立ての前にここで止める.
+# 冒頭に余計な見出しが付いただけの出力は「### 対訳」の行を持つため, ここでは
+# 失敗にせず, 従来どおり組み立ての WARN に任せる
 fail=0
 auth_fail=0
 limit_fail=0
 key_fail=0
 credit_fail=0
+format_fail=0
 for out in "$workdir"/out_*.md; do
   if [ ! -s "$out" ] || grep -q "API Error" "$out" || grep -q "You've reached your" "$out" \
     || grep -q "^Invalid API key" "$out" || grep -q "^Credit balance is too low" "$out"; then
@@ -401,6 +411,11 @@ for out in "$workdir"/out_*.md; do
     grep -q "You've reached your" "$out" && limit_fail=1
     grep -q "^Invalid API key" "$out" && key_fail=1
     grep -q "^Credit balance is too low" "$out" && credit_fail=1
+  elif ! grep -q "^### 対訳" "$out"; then
+    echo "generation failed: $out" >&2
+    sed -n '1p' "$out" | cut -c1-200 >&2
+    fail=1
+    format_fail=1
   fi
 done
 if [ "$auth_fail" -eq 1 ]; then
@@ -414,6 +429,9 @@ if [ "$credit_fail" -eq 1 ]; then
 fi
 if [ "$limit_fail" -eq 1 ]; then
   echo "モデルの利用上限に達しています. 回復後に失敗チャンクのみ再生成してください" >&2
+fi
+if [ "$format_fail" -eq 1 ]; then
+  echo "対訳になっていない出力があります (「### 対訳」の行がない). 失敗チャンクのみ TAIYAKU_GEN で再生成してください" >&2
 fi
 [ "$fail" -eq 0 ] || exit 1
 
