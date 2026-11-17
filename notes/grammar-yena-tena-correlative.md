@@ -2,6 +2,7 @@
 generated: 2026/08/08
 updated: 2026/08/08
 models: Claude Opus 5, Claude Fable 5
+reviewed: 2026/08/08 (Claude Fable 5)
 ---
 
 # yena … tena をどう読むか — `yena bhagavā tenupasaṅkami` と同じ型か、「処格の意味の具格」と言えるか

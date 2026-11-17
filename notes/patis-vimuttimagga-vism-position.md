@@ -2,6 +2,7 @@
 generated: 2026/08/05
 updated: 2026/11/14
 models: Claude Opus 5, Claude Fable 5.2
+reviewed: none
 ---
 
 # 無礙解道・解脱道論・清浄道論の位置づけ — 三蔵の論との関係と註釈書の系統

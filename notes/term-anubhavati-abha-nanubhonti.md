@@ -2,6 +2,7 @@
 generated: 2026/10/31
 updated: 2026/11/14
 models: Claude Fable 5.1, Claude Fable 5.2
+reviewed: 2026/10/31 (Claude Fable 5.1)
 ---
 
 # candimasūriyānaṃ ābhā nānubhonti は「光が届かない神々」か「光では太刀打ちできない神々」か

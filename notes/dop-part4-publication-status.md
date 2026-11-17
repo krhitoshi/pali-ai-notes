@@ -2,6 +2,7 @@
 generated: 2026/11/01
 updated: 2026/11/01
 models: Claude Fable 5.1
+reviewed: 2026/11/01 (Claude Fable 5.1)
 ---
 
 # DoP (A Dictionary of Pāli) 第 4 巻はいつ出るのか — 刊行予定と編者交代の現状

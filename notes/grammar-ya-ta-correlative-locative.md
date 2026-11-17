@@ -2,6 +2,7 @@
 generated: 2026/08/07
 updated: 2026/08/07
 models: Claude Opus 5, Claude Fable 5
+reviewed: none
 ---
 
 # 「…なら」「…とき」はどこから来るか — ya-/ta- 相関構文と処格の訳し方

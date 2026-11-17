@@ -2,6 +2,7 @@
 generated: 2026/11/01
 updated: 2026/11/01
 models: Claude Fable 5.1
+reviewed: 2026/11/01 (Claude Fable 5.1)
 ---
 
 # MN 79 ākāravatītveva の eva は何を限定しているか — なぜ paṭipadā ではなく ākāravatī に付くのか

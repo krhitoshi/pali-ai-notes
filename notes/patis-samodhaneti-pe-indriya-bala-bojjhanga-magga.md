@@ -2,6 +2,7 @@
 generated: 2026/08/16
 updated: 2026/08/16
 models: Claude Fable 5
+reviewed: none
 ---
 
 # 無礙解道 §168 の `…pe…` と「根・力・覚支・道・法」の五項
