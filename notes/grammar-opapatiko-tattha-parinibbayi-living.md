@@ -1,8 +1,8 @@
 ---
 generated: 2026/11/15
-updated: 2026/11/15
+updated: 2026/11/17
 models: Claude Fable 5.2
-reviewed: none
+reviewed: 2026/11/17 (Claude Fable 5.2)
 ---
 
 # opapātiko tattha parinibbāyī anāvattidhammo — 生きている人になぜ opapātiko と言うのか
@@ -27,7 +27,7 @@ Ghaṭikāro kho, mahārāja, kumbhakāro pañcannaṃ orambhāgiyānaṃ saṃy
 
 ## opapātiko、tattha parinibbāyī、anāvattidhammo は時を示さない
 
-この節は原文の文法の分析で、語義は辞書による。接尾辞の働きについての説明は推論を含む。
+この節は原文の文法の分析で、語義は辞書、-in の規則は文法書 Kaccāyana による。接尾辞の働きについての説明は推論を含む。
 
 この文には定動詞がない。文を切り分けると次のようになる。
 
@@ -55,7 +55,17 @@ Katamā ca, sāriputta, opapātikā yoni? Devā, nerayikā, ekacce ca manussā, 
 
 述語 2 と 3 は、述語 1 の opapātiko が言う生まれ先を tattha と tasmā lokā で受けている。三語はひと続きで「化生する、そこで涅槃する、そこから戻らない」という経過を述べており、opapātiko だけを切り離して「いま化生である」と読むことはできない。
 
--in や -dhamma の形が「いま…している者」ではなく「…することになる者」「…する性質の者」を表すという点は、次の節の註釈書の言い換えから推したもので、文法書の規定では確かめていない。
+-in や -dhamma の形が「いま…している者」ではなく「…することになる者」「…する性質の者」を表すという点は、次の節の註釈書の言い換えから推したものである。
+
+-in の形については、文法書 Kaccāyana に、先のことを言うときに語根に ṇī (-in で終わる語を作る接尾辞) を付けるという規則がある (651 `Bhavissati gamādīhi ṇī ghiṇa`)。Kaccāyana はこの規則を次のように説明する。
+
+```
+Bhavissatikālatthe gamu bhaja su ṭhāiccevamādīhi dhātūhi ṇī ghiṇa paccayā honti.
+
+Āyatiṃ gamituṃ sīlaṃ yassa, so hotīti gāmī, āyatiṃ bhajituṃ sīlaṃ yassa, so hotīti bhājī, āyatiṃ passāpituṃ sīlaṃ yassa, so hotīti passāvi, āyatiṃ paṭṭhāyituṃ sīlaṃ yassa, so hotīti paṭṭhāyi.
+```
+
+「将来行くことを習いとする者、それが gāmī である」という説明で、-in の形が先のことを表しうることは文法書でも確かめられる。ただし挙げられている語は gāmī、bhājī、passāvi、paṭṭhāyi で、parinibbāyī はない。parinibbāyī がこの規則による語かどうかは Kaccāyana には書かれておらず、この規則を当てるのは推論である。-dhamma の形については、文法書の規定では確かめていない。
 
 ## 註釈書の言い換え
 
@@ -158,27 +168,31 @@ Mātāpettibharo āsiṃ, kassapassa upāsako.
 Virato methunā dhammā, brahmacārī nirāmiso;
 ```
 
-Sāratthappakāsinī は `brahmacārī nirāmiso` を `nirāmisabrahmacārī nāma anāgāmī, anāgāmī ahosinti attho` (私は不還者であった、という意味である) と説明する。
+SN 1.50 への Sāratthappakāsinī は `brahmacārī nirāmiso` を `nirāmisabrahmacārī nāma anāgāmī, anāgāmī ahosinti attho` (私は不還者であった、という意味である) と説明する。
 
 天は MN 12 が言う化生の生まれ方に入るので、天子として現れるガティカーラは、カッサパ世尊が述べた opapātiko のとおりになっている。
 
 この偈が「アヴィハーに生まれた」(`Avihaṃ upapannāse`) と言っているのは、ウパカ、プックサーティなど 7 人の比丘のことである。ガティカーラ自身がどの世界に生まれたかは、偈にも、ここで読んだ Sāratthappakāsinī の説明にも書かれていない。
 
-## 対訳との関係
+他の註釈書はガティカーラを大梵天と呼ぶ。Jātaka-aṭṭhakathā の Nidānakathā は、出家した菩薩に沙門の持ち物を届ける者を次のように言う。
 
-mn/mn_081.md の §288 (2) は、語釈行で opapātiko を「化生する者(梵天界などに自然に生まれる者)」、tattha parinibbāyī を「そこで完全に涅槃する者」、anāvattidhammo を「戻ってくることのない性質の者」とし、訳文を「五つの下位の束縛が完全に尽きたことによって化生する者となり、そこで完全に涅槃し、その世界から戻ってくることのない者です」としている。いまの状態ではなく先の行き先として訳してあり、このノートの読み方と一致する。直すべき箇所は見当たらない。
+```
+Athassa kassapabuddhakāle purāṇasahāyako ghaṭīkāramahābrahmā
+```
+
+「カッサパ仏の時代の昔の友である大梵天ガティカーラ」である。註釈書が定型句の tattha を梵天界と説明していたことと合う。
 
 ## 確認できていない範囲
 
-- MN 81 のこの句を直接説明する註釈は、対訳 mn/mn_attha_081.md と mn/mn_tika_081.md を見たかぎりではない。このノートの註釈書の説明は、MN 6、DN 6、AN Tikanipāta の同じ定型句への註釈を当てたものである
-- -in や -dhamma の形が「…することになる者」「…する性質の者」を表すという点は、註釈書の言い換えからの推論で、Kaccāyana などの文法書の規定では確かめていない
-- Manorathapūraṇī の `uppannako hoti` を「生じた者となる」と読んだのは推論である。uppannaka は DoP の見出し語としては見つからず、語義を辞書で確かめていない
-- ガティカーラ自身の生まれ先 (どの天か) は調べていない。SN の偈と Sāratthappakāsinī の該当箇所には書かれていないことを確かめただけである
+- MN 81 のこの句を直接説明する註釈は、Papañcasūdanī と復註の VRI 段落 288 への註にはない。このノートの註釈書の説明は、MN 6、DN 6、AN Tikanipāta の同じ定型句への註釈を当てたものである
+- -in や -dhamma の形が「…することになる者」「…する性質の者」を表すという点は、註釈書の言い換えからの推論である。-in の形が先のことを表しうることは Kaccāyana 651 で確かめたが、parinibbāyī がその規則による語かどうかは書かれていない。-dhamma の形については文法書の規定では確かめていない
+- Manorathapūraṇī の `uppannako hoti` を「生じた者となる」と読んだのは推論である。uppannaka は DoP、CPD、PTSD のどれにも見出し語として見つからず、語義を辞書で確かめていない
+- ガティカーラが梵天界のうちのどの世界に生まれたかは確かめていない。SN の偈と Sāratthappakāsinī の該当箇所には書かれていない。CSCD の全文で ghaṭīkāra (ghaṭikāra) の前後 300 字以内に suddhāvāsa、avihā、akaniṭṭha のいずれかが出る箇所を検索したが、見つからなかった
 - 生きている人への用例と亡くなった人への用例は、定型句を MN、DN、論蔵の本文で検索して目についたものを挙げたもので、全用例を数えたものではない
 
 ## 出典
 
-- MN 81 Ghaṭikārasutta、VRI 段落 288 (CSCD `s0202m.mul.xml`)、対訳 mn/mn_081.md、mn/mn_attha_081.md、mn/mn_tika_081.md
+- MN 81 Ghaṭikārasutta、VRI 段落 288 (CSCD `s0202m.mul.xml`) と、Papañcasūdanī (CSCD `s0202a.att.xml`)、復註 (CSCD `s0202t.tik.xml`) の VRI 段落 288 への註
 - MN 6 Ākaṅkheyyasutta、MN 12 Mahāsīhanādasutta、VRI 段落 152、MN 34 Cūḷagopālakasutta、VRI 段落 352 (CSCD `s0201m.mul.xml`)
 - MN 52 Aṭṭhakanāgarasutta、VRI 段落 19、MN 68 Naḷakapānasutta、VRI 段落 171、MN 73 Mahāvacchasutta (CSCD `s0202m.mul.xml`)
 - MN 118 Ānāpānassatisutta、VRI 段落 147、MN 140 Dhātuvibhaṅgasutta (CSCD `s0203m.mul.xml`)
@@ -188,4 +202,6 @@ mn/mn_081.md の §288 (2) は、語釈行で opapātiko を「化生する者(�
 - Puggalapaññatti (CSCD `abh03m2.mul.xml`)
 - Papañcasūdanī、MN 6 の該当箇所 (CSCD `s0201a.att.xml`)、MN 140 の該当箇所 (CSCD `s0203a.att.xml`)
 - Sumaṅgalavilāsinī、DN 6 Mahālisutta の VRI 段落 373 への註 (CSCD `s0101a.att.xml`)
+- Jātaka-aṭṭhakathā、Nidānakathā (CSCD `s0513a1.att.xml`)
+- Kaccāyana、規則 651 とその説明 (CSCD `e0802n.nrf.xml`)
 - DoP `opapātika`、`tattha` (tatthaparinibbāyi(n))、`parinibbāyi(n)`、`anāvatti` (anāvattidhamma)、CPD `opapātika`、PTSD `opapātika`
