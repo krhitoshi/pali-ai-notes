@@ -1,8 +1,8 @@
 ---
 generated: 2026/11/12
-updated: 2026/11/12
+updated: 2026/11/17
 models: Claude Fable 5.2
-reviewed: none
+reviewed: 2026/11/17 (Claude Fable 5.2)
 ---
 
 # 名詞に付く -tara の意味と、比較の基準がとる格 — MN 81 mayā upaṭṭhākataro から
@@ -50,10 +50,17 @@ Tato malā malataraṃ, avijjā paramaṃ malaṃ                 (AN 8.15、Dhp
 ```
 Visesatthe tara tama isika iya iṭṭhaiccete paccayā honti.
 Sabbe ime pāpā, ayamimesaṃ visesena pāpoti pāpataro. Evaṃ pāpatamo, pāpisiko, pāpiyo, pāpiṭṭho.
-                                                          (Kaccāyanabyākaraṇa)
+                                                          (Kaccāyanabyākaraṇa 363)
 ```
 
-しかし律蔵と四ニカーヤの本文を「短母音 + tam + 語尾」の型で検索したところ、最上級の -tama 形は 1 件も見つからなかった (ヒット 8 行はすべて andhatama「暗闇」、katame、連声形など別の語)。確認できた -tama 形は註釈書以降のもので、たとえば Dhs-a に paṇītā、paṇītatarā、paṇītatamā、sabbapaṇītā の四段階がある。
+しかし律蔵と四ニカーヤの本文を「短母音 + tam + 語尾」の型で検索したところ、最上級の -tama 形は 1 件も見つからなかった (ヒット 8 行はすべて andhatama「暗闇」、katame、連声形など別の語)。同じ型で小部と論蔵の本文を検索すると (katama の類は除外)、ヒット 16 行のうち最上級の -tama 形は小部の偈の 2 行だけで、論蔵にはなかった。
+
+```
+Amatena abhisiñci, samāgatāsmi piyatamena.        (Ja)
+Yā padhānatamā tāsaṃ, saddhā paññā upāsikā;       (Ap)
+```
+
+註釈書には例があり、たとえば Dhs-a に paṇītā、paṇītatarā、paṇītatamā、sabbapaṇītā の四段階がある。
 
 経の本文で最上を言うときは、agga-、seṭṭha、uttama を使うか、次節の「属格 + -tara」で表す。MN 81 の aggupaṭṭhāko が前者の例である。
 
@@ -98,7 +105,11 @@ samaṇo rāmaputto raññā eḷeyyena paṇḍitena paṇḍitataro           
 Tumhe tena paṇḍitatarā ca byattatarā ca bahussutatarā ca         (Vin Cūḷavagga §1)
 ```
 
-「X-ena X-taro」(X よりさらに X) という同語反復の型が目立つ。
+「X-ena X-taro」(X よりさらに X) という同語反復の型が目立つ。Abhidhammamātikā の註釈書 Mohavicchedanī は、この型の具格を奪格の -to で言い換えている。
+
+```
+ayaṃ asappurisenaasappurisataro, asappurisatopi asappurisataroti attho.   (Mohavicchedanī)
+```
 
 ### 奪格と具格が同形のもの
 
@@ -112,7 +123,8 @@ mayametehi vaṇṇavantatarā, amhehete dubbaṇṇatarā                 (DN 2
 purimehi vihārehi abhikkantataro ca paṇītataro ca                (AN 10.99)
 añño koci mayā upaṭṭhākataro                                     (MN 81 §288)
 kocañño attanā piyataro                                          (SN 3.8)
-attanā sīlasampannataraṃ aññaṃ samaṇaṃ vā brāhmaṇaṃ vā           (SN 6.2、AN 4.21)
+attanā sīlasampannataraṃ aññaṃ samaṇaṃ vā brāhmaṇaṃ vā           (SN 6.2)
+aññaṃ samaṇaṃ vā brāhmaṇaṃ vā attanā sīlasampannataraṃ           (AN 4.21)
 putto paṇḍitataro ceva pitarā, alamatthadasataro ceva pitarā     (DN 19 §304)
 imāya tividhāya yaññasampadāya soḷasaparikkhārāya appaṭṭhataro ca ...   (DN 5 §349)
 Imāya ca ānanda ubhatobhāgavimuttiyā aññā ubhatobhāgavimutti uttaritarā vā paṇītatarā vā natthi   (DN 15 §130)
@@ -143,7 +155,7 @@ yo nesaṃ pāṇakānaṃ balavataro assa                                    (S
 ```
 Vibhatte – yato paṇītataro vā visiṭṭhataro vā natthi. Chaṭṭhī ca, channavutīnaṃ
 pāsaṇḍānaṃ, dhammānaṃ pavaraṃ yadidaṃ sugatavinayo iccevamādi.
-                                                          (Kaccāyanabyākaraṇa)
+                                                          (Kaccāyanabyākaraṇa 275)
 
 Vibhattatthe ca pañcamī chaṭṭhī ca. ... māthurā pāṭaliputtakehi abhirūpatarā,
 yato paṇītataro vā visiṭṭhataro vā natthi, attadanto tato varaṃ ...
@@ -152,7 +164,7 @@ yato paṇītataro vā visiṭṭhataro vā natthi, attadanto tato varaṃ ...
 
 - Niruttidīpanī は pāṭaliputtakehi abhirūpatarā を奪格の例に入れている。同形の -ehi を伝統文法は奪格として扱うことになる
 - -tara の語義説明でも Kaccāyana は ayamimesaṃ visesena pāpo と属格で範囲を示している
-- この二書の該当箇所には具格 (tatiyā) への言及がない。他の文法書や他の箇所に具格の規定があるかは確認していない
+- この二書の該当箇所には具格 (tatiyā) への言及がない。Padarūpasiddhi と Payogasiddhi の同じ項目も奪格の例 (yato paṇītataro、attadanto tato varaṃ、sīlameva sutā seyyo など) を挙げ、具格には触れない。CSCD の文法書で tatiyā と -tara 形が同じ文に出る箇所を検索した範囲では、比較の基準に具格を立てる規定は見つからなかった。規定がどこにもないことまでは確認していない
 
 ## 奪格と具格のどちらが多いか
 
@@ -205,8 +217,6 @@ mayā は奪格と具格が同形なので、形からは決まらない。働�
 - 伝統文法も同形の語を奪格の例に入れている
 - 一方、sappurisena sappurisataro のように具格と確定できる例も同じくらいあるので、具格と説明しても誤りではない
 
-`mn/mn_081.md` §288 の語釈行は mayā を「具格、比較の対象」と説明している。誤りではないが、奪格とも読める形であることは語釈行からは分からない。
-
 ## 確認できていない範囲
 
 - 集計は基準語が比較級の直前に来る型に限った (間に ca、vā などの小辞や「añño + 名詞」を挟むものは含む)。基準が離れた位置にある例、後置の例は拾えていない
@@ -215,12 +225,12 @@ mayā は奪格と具格が同形なので、形からは決まらない。働�
 - 比較級は -tara 形だけを対象にした。seyyo、pāpiyo、bhiyyo などの -iya 形、varaṃ や hīna のように比較の意味をもつ語は対象外
 - 処格が -tara の範囲を示す例があるかは調べていない
 - 註釈書と復註で upaṭṭhākataro を説明した箇所は CSCD では見つからなかった
-- 四ニカーヤ以外の本文と、-tama の小部・論蔵での有無は全件を確認していない
+- 四ニカーヤ以外の本文での比較の基準は全件を確認していない
+- -tama の検索は「短母音 + tam + 語尾」の型による。この型に合わない形があれば拾えていない
 
 ## 参照
 
-- MN 81 対訳: `mn/mn_081.md` §288
 - CSCD 本文: s0101m.mul.xml (DN 1、2、3、5、8、11)、s0102m.mul.xml (DN 15、16、19、21)、s0103m.mul.xml (DN 24、25、27、29)、s0201m.mul.xml (MN 14、30、31)、s0202m.mul.xml (MN 56、66、68、79、80、81)、s0203m.mul.xml (MN 103、127、129、142)、s0301m.mul.xml (SN 3.8、6.2)、s0302m.mul.xml (SN 12.70、20.4、20.6)、s0304m.mul.xml (SN 35.247、35.248)、s0305m.mul.xml (SN 45.26、48.12-、55.6、56.42-)、s0402m2.mul.xml (AN 3.21、3.60)、s0402m3.mul.xml (AN 4.21、4.100、4.187、4.201-210)、s0403m2.mul.xml (AN 6.44、6.54)、s0403m3.mul.xml (AN 7.73)、s0404m1.mul.xml (AN 8.15)、s0404m2.mul.xml (AN 9.20)、s0404m3.mul.xml (AN 10.75、10.99)
-- CSCD 律蔵・小部・論蔵: vin02m3.mul.xml (Cūḷavagga)、vin02m4.mul.xml (Parivāra)、s0502m.mul.xml (Dhp)、s0509m.mul.xml (Thig)、s0513m.mul.xml、s0514m.mul.xml (Ja)、abh03m2.mul.xml (Pp)
-- CSCD 註釈書・文法書: abh01a.att.xml (Dhs-a)、e0802n.nrf.xml (Kaccāyanabyākaraṇa)、e0201n.nrf.xml (Niruttidīpanī)
+- CSCD 律蔵・小部・論蔵: vin02m3.mul.xml (Cūḷavagga)、vin02m4.mul.xml (Parivāra)、s0502m.mul.xml (Dhp)、s0509m.mul.xml (Thig)、s0510m2.mul.xml (Ap)、s0513m.mul.xml、s0514m.mul.xml (Ja)、abh03m2.mul.xml (Pp)
+- CSCD 註釈書・文法書: abh01a.att.xml (Dhs-a)、abh09t.nrf.xml (Mohavicchedanī)、e0802n.nrf.xml (Kaccāyanabyākaraṇa)、e0805n.nrf.xml (Padarūpasiddhi)、e0807n.nrf.xml (Payogasiddhi)、e0201n.nrf.xml (Niruttidīpanī)
 - DOP: upaṭṭhāka の項
