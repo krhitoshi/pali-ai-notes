@@ -2,6 +2,7 @@
 generated: 2026/10/31
 updated: 2026/10/31
 models: Claude Fable 5.1
+reviewed: 2026/10/31 (Claude Fable 5.1)
 ---
 
 # kiṃ pana と疑問文 — パーリ語の疑問はどう示されるか、kiṃ pana が疑問に見えない場合

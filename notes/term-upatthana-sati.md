@@ -2,6 +2,7 @@
 generated: 2026/08/06
 updated: 2026/08/06
 models: Claude Opus 5
+reviewed: none
 ---
 
 # upaṭṭhānaṃ sati の upaṭṭhāna は何を指すか

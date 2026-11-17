@@ -2,6 +2,7 @@
 generated: 2026/10/31
 updated: 2026/10/31
 models: Claude Fable 5.1
+reviewed: 2026/10/31 (Claude Fable 5.1)
 ---
 
 # ayaṃ kho sā — 意味の重なる ayaṃ と sā を並べる理由、sā sā にならない理由、kho が入る理由

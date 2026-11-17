@@ -2,6 +2,7 @@
 generated: 2026/10/31
 updated: 2026/10/31
 models: Claude Fable 5.1
+reviewed: 2026/10/31 (Claude Fable 5.1)
 ---
 
 # antarāyaṃ karoti の格の取り方 — MN 79 末尾の「Iti hidaṃ …」の文に DoP の記述は当てはまるか、bhagavati brahmacariye は同格か

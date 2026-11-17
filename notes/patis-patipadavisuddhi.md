@@ -2,6 +2,7 @@
 generated: 2026/08/04
 updated: 2026/11/14
 models: Claude Opus 5, Claude Fable 5.2
+reviewed: none
 ---
 
 # 無礙解道の paṭipadāvisuddhi と paṭipadāvisuddhipakkhanda

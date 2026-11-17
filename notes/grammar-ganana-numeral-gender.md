@@ -2,6 +2,7 @@
 generated: 2026/08/05
 updated: 2026/11/14
 models: Claude Opus 5, Claude Fable 5.2
+reviewed: none
 ---
 
 # 数を数える言葉に出る数詞の性 (gaṇanā)

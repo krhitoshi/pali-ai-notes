@@ -2,6 +2,7 @@
 generated: 2026/11/01
 updated: 2026/11/01
 models: Claude Fable 5.1
+reviewed: 2026/11/01 (Claude Fable 5.1)
 ---
 
 # bhāsitaṃ sampajjati — 「発言が～ということになる」の構文と、述語が主語の前に来る語順

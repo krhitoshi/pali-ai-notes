@@ -2,6 +2,7 @@
 generated: 2026/09/02
 updated: 2026/09/02
 models: Claude Fable 5.1
+reviewed: 2026/09/02 (Claude Fable 5.1)
 ---
 
 # 無礙解道 Soḷasañāṇaniddesa の「十六」と八障害・八助けの対

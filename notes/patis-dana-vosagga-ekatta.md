@@ -2,6 +2,7 @@
 generated: 2026/08/04
 updated: 2026/08/04
 models: Claude Opus 5
+reviewed: none
 ---
 
 # 無礙解道の四 ekatta に施 (dāna, cāga) が現れる理由
