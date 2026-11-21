@@ -2,7 +2,7 @@
 generated: 2026/11/21
 updated: 2026/11/21
 models: Claude Fable 5.2
-reviewed: none
+reviewed: 2026/11/21 (Claude Fable 5.2)
 ---
 
 # `yassadāni tvaṃ, raṭṭhapāla, kālaṃ maññasi` の `yassa` は何のためにあるのか
@@ -34,8 +34,8 @@ yena thullakoṭṭhikaṃ tena cārikaṃ pakkāmi.
 辞書の記述による。DOP は `kāla` の第 2 義を "the proper time for (gen., dat., inf., or yaṃ + opt.); the right time; a suitable time" とし、`kāla` が「〜にふさわしい時」の意味で属格・与格・不定詞をとることを示している。その用例の先頭にこの定型句が挙がっている。
 
 - `yassa dāni bhante bhagavā kālaṃ maññati` (Vin I 227,9)
-- `na dāni te tuṇhībhāvassa kālo` (D I 95,4)。「今は君が黙っている時ではない」。`tuṇhībhāvassa` (黙っていることの) が `kālo` にかかる
-- `kālo ito pakkamanāya` (Th 528)。「ここから立ち去る時である」
+- `na dāni te tuṇhībhāvassa kālo` (D I 95,4。DN 3 Ambaṭṭhasutta、VRI 段落番号 270)。「今は君が黙っている時ではない」。`tuṇhībhāvassa` (黙っていることの) が `kālo` にかかる
+- `kālo ito pakkamanāya` (Th 528。Theragāthā の第 528 偈)。「ここから立ち去る時である」
 
 2 番目の例の `tuṇhībhāvassa kālo` で名詞が占めている位置に、関係代名詞を置いたものが `yassa kālaṃ` である。つまり `yassa` は `maññasi` の目的語でも呼びかけの相手を指す語でもなく、`kālaṃ` の内容 (何をする時か) を言う語である。
 
@@ -58,6 +58,18 @@ agamanassa vā kālaṃ maññasi, tadeva attano ruciyā karohī’’ti.
 ```
 
 「『yassa dāni kālaṃ maññasi』は礼儀としての言い方 (`upacāravacana`) である。こう言われたことになる。『あなたが命じたことは私がなしました。今あなたが、行くことであれ行かないことであれ、その時だと思うこと、それをこそ自分の好むとおりになさい』」。`yassa` に `gamanassa vā agamanassa vā` を補い、主節を `tadeva … karohi` (それをこそなさい) で補っている。
+
+この説明の `upacāravacana` について、長部の復註 Sīlakkhandhavaggaabhinavaṭīkā は同じ段落番号 158 で次のように説明する。
+
+```
+Upacāravacananti vohāravacanamattaṃ teneva adhippetatthassa
+apariyosānato. Tenāha ‘‘tadeva attano ruciyā karohī’’ti. Imināyeva hi
+tadatthapariyosānaṃ. Maññasīti pakatiyāva jānāsi. Tadevāti
+gamanāgamanameva. Yadi gantukāmo, gaccha, atha na gantukāmo, mā gaccha,
+attano ruciyevettha pamāṇanti vuttaṃ hoti.
+```
+
+「`upacāravacana` とは、慣用の言い方 (`vohāravacana`) にすぎないものということである。それだけでは意図された意味が完結しないからである。それで (註釈書は)『それをこそ自分の好むとおりになさい』と言う。これによってこそ、その意味が完結するからである。`maññasi` とは、もとから知っている、ということ。`tadeva` とは、行くことと行かないことそのものである。行きたいなら行きなさい、行きたくないなら行かなくてよい、ここでは自分の好みだけが基準である、と言われたことになる」。復註も、この句だけでは意味が完結せず、註釈書が補った `tadeva … karohi` によって完結すると説明している。
 
 2 回目 (VRI 段落番号 252) は、暇を告げる王に世尊が答える場面である。
 
@@ -117,11 +129,10 @@ gamanakālo tumhākaṃ, gacchathāti vuttaṃ hoti.
 
 ## 確認できていない範囲
 
-- CPD は `kāreti` までの刊行で、字母順でその後に来る `kāla` は収録範囲の外である。辞書の根拠は DOP と PTSD である
-- 関係代名詞 `ya` の項は、DOP と CPD が頭字 y の範囲を収録していないため引いていない
-- DOP が用例として挙げる D I 95,4 と Th 528 は、DOP の引用のまま示した。それぞれの本文には当たっていない
-- 註釈書・復註の説明は、CSCD を `yassadāni` と `yassa (i)dāni … kālaṃ maññ- / jān-` で検索して見つかったものに限る。別の言い回しで説明している箇所は拾えていない
-- `upacāravacana` を「礼儀としての言い方」としたのは、DOP の `upacāra` 第 2 義 "act of civility, respects" による。DOP は第 3 義に文法用語としての「転用、比喩的な用法」も挙げており、こちらの意味である可能性は検討していない
+- CPD の収録範囲に `kāla` は入っていない。辞書の根拠は DOP と PTSD である
+- 関係代名詞 `ya` の項は、DOP と CPD が頭字 y の範囲を収録していない。PTSD の `Ya˚` の項 (p. 545) には、この定型句への言及がない
+- 註釈書・復註の説明は、CSCD を `yassadāni` と `yassa (i)dāni … kālaṃ maññ- / jān-` で検索して見つかったものと、`upacāravacana` の語で検索して見つかった長部の復註の 1 箇所に限る。別の言い回しで説明している箇所は拾えていない
+- `upacāravacana` を「礼儀としての言い方」としたのは、DOP の `upacāra` 第 2 義 "act of civility, respects" による。DOP は第 3 義に文法用語としての「転用、比喩的な用法」も挙げている。長部の復註はこの語を `vohāravacanamatta` と言い換えているが、これが DOP のどちらの語義に当たるかは検討していない
 - 現代語訳は確認していない
 
 ## 出典
@@ -130,6 +141,9 @@ gamanakālo tumhākaṃ, gacchathāti vuttaṃ hoti.
 - Majjhimapaṇṇāsa-aṭṭhakathā (Papañcasūdanī), Raṭṭhapālasuttavaṇṇanā (CSCD `s0202a.att.xml`)
 - Sīlakkhandhavaggapāḷi, Sāmaññaphalasutta, VRI 段落番号 158 および 252 (CSCD `s0101m.mul1.xml`)
 - Sīlakkhandhavaggaṭṭhakathā (Sumaṅgalavilāsinī), Sāmaññaphalasuttavaṇṇanā, VRI 段落番号 158 および 252 (CSCD `s0101a.att2.xml`)
+- Sīlakkhandhavaggaabhinavaṭīkā, Sāmaññaphalasuttavaṇṇanā, VRI 段落番号 158 (CSCD `s0105t.nrf.xml`)
+- Sīlakkhandhavaggapāḷi, Ambaṭṭhasutta, VRI 段落番号 270 (CSCD `s0101m.mul2.xml`)
+- Theragāthāpāḷi, 第 528 偈 (CSCD `s0508m.mul.xml`)
 - Dīgha の Mahāvaggaṭṭhakathā, Mahāgovindasuttavaṇṇanā (CSCD `s0102a.att.xml`)
 - Saṃyutta の Mahāvaggapāḷi, Vesālīsutta, VRI 段落番号 985 (CSCD `s0305m.mul9.xml`)
 - Saṃyutta の Mahāvagga-aṭṭhakathā, Vesālīsuttavaṇṇanā (CSCD `s0305a.att.xml`)
@@ -139,4 +153,4 @@ gamanakālo tumhākaṃ, gacchathāti vuttaṃ hoti.
 - 律の Mahāvagga-aṭṭhakathā (Samantapāsādikā) (CSCD `vin02a2.att.xml`)
 - Sāratthadīpanī-ṭīkā, Pāṭaligāmavatthukathāvaṇṇanā (CSCD `vin02t.tik.xml`)
 - DOP `kāla` 第 2 義、`upacāra` 第 2 義
-- PTSD `Kāla` (p. 212)
+- PTSD `Kāla` (p. 212)、`Ya˚` (p. 545)
