@@ -2,7 +2,7 @@
 generated: 2026/11/22
 updated: 2026/11/22
 models: Claude Fable 5.2
-reviewed: none
+reviewed: 2026/11/22 (Claude Fable 5.2)
 ---
 
 # yena … tadavasari の構文 — yena … tenupasaṅkami との違い、動詞の格支配、関係詞と相関詞の格
@@ -82,7 +82,7 @@ avasari tadavasarī’’ti.
 1. 対格のまま行き先と読む (`taṃ avasari`、その場所に着いた)
 2. 対格の形で具格の意味と読む (`tena avasari`、その方角によって行った)
 
-長部の註釈書とウダーナの註釈書は両方を `vā` で並べる。中部の註釈書は 1 だけを挙げ、律の註釈書は 2 だけを挙げる。`avasari` の言い換えには `sampatto`、`pāvisi`、`gato`、`anupāpuṇi` が使われている。
+長部の註釈書とウダーナの註釈書は両方を `vā` で並べる。中部の註釈書は 1 だけを挙げ、律の註釈書は 2 だけを挙げる。`avasari` の言い換えには `sampatto`、`pāvisi`、`gato`、`anupāpuṇi` が使われている。`anupāpuṇi` は上の引用の外にあり、ウダーナの註釈書の別の箇所 (VRI 段落番号 76 への註釈、`Tadavasarīti taṃ pāṭaligāmaṃ avasari anupāpuṇi`) と Suttanipāta の註釈書 (`tena avasari tadavasari agamāsi, taṃ nigamaṃ anupāpuṇīti vuttaṃ hoti`) に出る。
 
 ## yena bhagavā tenupasaṅkamiṃsu との違い
 
@@ -115,7 +115,7 @@ yattha bhagavā, tattha upasaṅkamīti evamettha attho daṭṭhabbo.
 
 もう一つは動詞の意味である。`upasaṅkamati` は「そちらへ近づく」という接近を言い、多くの場合 `upasaṅkamitvā …` と続いて、着いた後の動作が別に述べられる。`avasarati` は到着を言い、`cārikaṃ caramāno` (遊行しながら) に続いて、旅の末にその土地に着いたことを一語で述べる。
 
-同じ経の後半 (VRI 段落番号 299 の次の段落) に、出発と到着が並ぶ箇所がある。
+同じ経の VRI 段落番号 299 (番号のない 2 つめの p 要素) に、出発と到着が並ぶ箇所がある。
 
 ```
 yena thullakoṭṭhikaṃ tena cārikaṃ pakkāmi. Anupubbena cārikaṃ caramāno
@@ -178,7 +178,7 @@ yena vā tena vā palāyanti
 
 体や物を向ける動詞:
 
-- 合掌を向ける: `yena bhagavā tenañjaliṃ paṇāmetvā`。`upasaṅkamati` に次いで多い定型で、MN 82 の VRI 段落番号 293 にも `appekacce yena bhagavā tenañjaliṃ paṇāmetvā ekamantaṃ nisīdiṃsu` とある
+- 合掌を向ける: `yena bhagavā tenañjaliṃ paṇāmetvā`。用例の多い定型で (`tenañjali-` または `tena añjali-` を含む本文の XML の p 要素は 74)、MN 82 の VRI 段落番号 293 にも `appekacce yena bhagavā tenañjaliṃ paṇāmetvā ekamantaṃ nisīdiṃsu` とある
 - 頭や足を向ける: `yena bhagavā tena sīsaṃ katvā nipātesuṃ`、`yena bhagavā tena pāde karitvā seyyaṃ kappesi` (律の波逸提、長老サーガタの話、`vin02m1.mul.xml`)。`yena rājā tena pāde abhippasāreyyāsi` (律の大品、VRI 段落番号 242)
 - 向きを変える: `yena vuḍḍho tena parivattitabbaṃ` (律の小品、`vin02m3.mul.xml`)
 - 心が向く: `yena buddho tena teneva nato` (Cūḷaniddesa、`s0516m.mul.xml`)
@@ -295,7 +295,7 @@ Vītaddaraṃ visaṃyuttaṃ, tamahaṃ brūmi brāhmaṇaṃ.
 
 ## 出典
 
-- MN 82 (Raṭṭhapālasutta)、VRI 段落番号 293、299 以下 (CSCD `s0202m.mul.xml`)
+- MN 82 (Raṭṭhapālasutta)、VRI 段落番号 293、299 (CSCD `s0202m.mul.xml`)
 - DN 3、VRI 段落番号 254、DN 2、VRI 段落番号 159 (CSCD `s0101m.mul.xml`)、DN 14、VRI 段落番号 50 (CSCD `s0102m.mul.xml`)
 - MN 27、VRI 段落番号 289 (CSCD `s0201m.mul.xml`)、MN 77、MN 79、MN 86 (CSCD `s0202m.mul.xml`)
 - 相応部 (CSCD `s0301m.mul.xml`、`s0302m.mul.xml`、`s0303m.mul.xml`)
