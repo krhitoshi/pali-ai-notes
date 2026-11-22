@@ -498,14 +498,19 @@ def write_top(section_pages)
   readme_html = open_external_links_in_new_tab(readme_html)
   # README 冒頭の H1 はサイト名でヘッダと重なるので, トップページでは外す
   readme_html = readme_html.sub(%r{\A\s*<h1[ >].*?</h1>\n?}m, "")
-  # 「システムプロンプト」の節はリポジトリ内のファイルの説明でサイトの読者には
-  # 関係ないので, トップページでは次の H2 (なければ末尾) まで外す
-  readme_html = readme_html.sub(%r{<h2[ >][^\n]*?システムプロンプト.*?(?=<h2[ >]|\z)}m, "")
+  # 「システムプロンプト」「ディレクトリ構成」の節はリポジトリ内のファイルの説明で
+  # サイトの読者には関係ないので, トップページでは次の H2 (なければ末尾) まで外す
+  %w[システムプロンプト ディレクトリ構成].each do |heading|
+    readme_html = readme_html.sub(%r{<h2[ >][^\n]*?#{heading}.*?(?=<h2[ >]|\z)}m, "")
+  end
   corpus, notes = section_pages.partition { |section, _pages| !section[:notes] }
   lists_html = <<~HTML
     <h2>対訳</h2>
+    <p>パーリ原文を文ごとに区切り, 語ごとの意味と文法の説明, 訳文を並べたものです.
+    経や論によっては註釈書 (註) や復註の対訳もあります.</p>
     #{section_list_html(corpus)}
     <h2>調査ノート</h2>
+    <p>パーリ文を読んでいて出てきた疑問 (語義, 文法, 文献など) を調べてまとめたものです.</p>
     #{section_list_html(notes)}
   HTML
   # 一覧は README の「データソース」見出しの直前に差し込む. 見出しがなければ末尾に置く
