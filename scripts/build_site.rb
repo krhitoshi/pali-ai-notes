@@ -262,11 +262,23 @@ def rewrite_md_links(md)
   md.gsub(/\]\(([\w.-]+)\.md(#[^)]*)?\)/) { "](#{$1}.html#{$2})" }
 end
 
+# Google タグ (Google Tag Manager コンテナ GTM-W32FX5TH)
+# Google の指示に従い, 全ページの <head> の直後に 1 つだけ置く
+GOOGLE_TAG = <<~HTML.chomp
+  <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-W32FX5TH"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  </script>
+HTML
+
 def render_layout(title:, css_href:, nav:, body:)
   <<~HTML
     <!DOCTYPE html>
     <html lang="ja">
     <head>
+    #{GOOGLE_TAG}
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>#{CGI.escapeHTML(title)}</title>
