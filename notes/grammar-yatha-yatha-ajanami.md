@@ -1,8 +1,8 @@
 ---
 generated: 2026/11/18
-updated: 2026/11/18
+updated: 2026/11/22
 models: Claude Fable 5.2
-reviewed: none
+reviewed: 2026/11/22 (Claude Fable 5.2)
 ---
 
 # MN 82 の `yathā yathā khvāhaṃ … ājānāmi` をどう読むか — 「理解する限りでは」か「どの仕方で理解しても」か
@@ -76,10 +76,10 @@ vīmaṃsantassa mayhaṃ evaṃ hoti evaṃ upaṭṭhāti.
 
 註釈の CSCD 本文は `yena yena kāraṇena` で、文字どおりには「どの理由によって」である。これを「仕方」と読む根拠は次のとおり。
 
-- 同じ定型句を説明する並行箇所は `ākārena` と書く。律のスディンナの段 (Pārājika、VRI 段落番号 24 `yathā yathā kho ahaṃ bhagavatā dhammaṃ desitaṃ ājānāmi`) に対する Samantapāsādikā は `ahaṃ kho yena yena ākārena bhagavatā dhammaṃ desitaṃ ājānāmi, tena tena me upaparikkhato evaṃ hoti` であり、Udāna-aṭṭhakathā のソーナ・クティカンナの出家の段も `yena yena ākārena ayyo mahākaccāno dhammaṃ deseti …, tena tena me upaparikkhato evaṃ hoti` である。以下の文言も MN の註釈とほぼ同じで、同じ説明が使い回されている
-- 律の復註 Sāratthadīpanī は Samantapāsādikā のこの語を `Yena yena ākārenāti yena yena pakārena` と説明する
+- 同じ定型句を説明する並行箇所は `ākārena` と書く。律のスディンナの段 (Pārājika、VRI 段落番号 24 `yathā yathā kho ahaṃ bhagavatā dhammaṃ desitaṃ ājānāmi`) に対する Samantapāsādikā は `ahaṃ kho yena yena ākārena bhagavatā dhammaṃ desitaṃ ājānāmi, tena tena me upaparikkhato evaṃ hoti` であり、Udāna-aṭṭhakathā のソーナ・クティカンナの出家の段も `yena yena ākārena ayyo mahākaccāno dhammaṃ deseti …, tena tena me upaparikkhato evaṃ hoti` である。以下の文言も MN の註釈とほぼ同じで、同じ説明が使い回されている。律 Mahāvagga のソーナ・コーリヴィサの段 (VRI 段落番号 243) にも同じ定型句があるが、Mahāvagga-aṭṭhakathā の段落 243 の説明は `Lohitena phuṭo hoti` から始まり、この句を取り上げていない
+- 律の復註 Sāratthadīpanī は Samantapāsādikā のこの語を `Yena yena ākārenāti yena yena pakārena` と説明する。律の他の復註 Vajirabuddhi-ṭīkā と Vimativinodanī-ṭīkā は、スディンナの段の説明でこの語を取り上げていない
 - MN の復註自身が、上に引いたとおり `yena yena ākārena` で言い換えている
-- 註釈書は `yathā yathā` の言い換えとして `kāraṇa` と `ākāra` を並べることがある。Aṅguttara の Aṭṭhakanipāta-aṭṭhakathā は `yathā yathā ca tadāyatanaṃ` を `yena yena kāraṇena yena yenākārena` と説明している
+- 註釈書は `yathā yathā` の言い換えとして `kāraṇa` と `ākāra` を並べることがある。Aṅguttara の Navakanipāta-aṭṭhakathā は Kāyasakkhisutta (AN 9.43) の `yathā yathā ca tadāyatanaṃ` を `yena yena kāraṇena yena yenākārena` と説明している
 
 MN の註釈の `kāraṇena` には VRI 版の異読注記がない。`ākārena` との違いが伝承上の異同なのか、もとからの言い換えなのかは確認できていない。
 
@@ -93,7 +93,7 @@ hoti. Tathā tathāti ayampi kālatthoyeva, tasmiṃ tasmiṃ kāleti vuttaṃ
 hoti.
 ```
 
-一方、MN 10 の `yathā yathā vā panassa kāyo paṇihito hoti, tathā tathā naṃ pajānāti` (VRI 段落番号 108) は、同じ註釈書で `yena yena vā ākārena tassa kāyo ṭhito hoti, tena tena naṃ pajānāti` と仕方で説明される。MN 82 の `yathā yathā` に対する `yena yena kāraṇena` / `ākārena` は後者の系統で、「〜するたびに」(時) ではなく「どの仕方であれ」(様相) の配分として読まれている。
+一方、MN 10 の `yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṃ pajānāti` (VRI 段落番号 108) は、同じ註釈書で `yena yena vā ākārena tassa kāyo ṭhito hoti, tena tena naṃ pajānāti` と仕方で説明される。MN 82 の `yathā yathā` に対する `yena yena kāraṇena` / `ākārena` は後者の系統で、「〜するたびに」(時) ではなく「どの仕方であれ」(様相) の配分として読まれている。
 
 ### 留保
 
@@ -104,8 +104,6 @@ hoti.
 ## 確認できていない範囲
 
 - 辞書では `yathā yathā` の反復そのものの記述を確認できていない。DOP と CPD は頭字 y の範囲が未刊行で引けない。PTSD の `yathā` の項には `yathā tathā` の並置の説明はあるが、`yathā yathā` の反復の説明は見当たらない。本ノートの結論は辞書ではなく註釈・復註の記述に拠っている
-- 律の復註は Sāratthadīpanī だけを確認した。Vajirabuddhi-ṭīkā と Vimativinodanī-ṭīkā は見ていない
-- 律 Mahāvagga のソーナ・コーリヴィサの段 (VRI 段落番号 243) にも同じ定型句があるが、その註釈は確認していない
 - MN の註釈の `kāraṇena` について、VRI 版以外の版の読みは確認していない
 - 現代語訳は Ñāṇamoli / Bodhi 訳だけを確認した
 
@@ -113,12 +111,16 @@ hoti.
 
 - Majjhimapaṇṇāsapāḷi, Raṭṭhapālasutta, VRI 段落番号 294-295 (CSCD `s0202m.mul3.xml`)
 - Majjhimapaṇṇāsa-aṭṭhakathā (Papañcasūdanī), Raṭṭhapālasuttavaṇṇanā, VRI 段落番号 294 (CSCD `s0202a.att3.xml`)
-- Majjhimapaṇṇāsaṭīkā, Raṭṭhapālasuttavaṇṇanā (CSCD `s0202t.tik3.xml`)
+- Majjhimapaṇṇāsaṭīkā, Raṭṭhapālasuttavaṇṇanā, VRI 段落番号 294 (CSCD `s0202t.tik3.xml`)
 - Pārājikapāḷi, VRI 段落番号 24 (CSCD `vin01m.mul.xml`)
 - Pārājikakaṇḍa-aṭṭhakathā (Samantapāsādikā) (CSCD `vin01a.att.xml`)
 - Sāratthadīpanī-ṭīkā (CSCD `vin01t2.tik.xml`)
+- Vajirabuddhi-ṭīkā, Sudinnabhāṇavāravaṇṇanā (CSCD `vin06t.nrf.xml`)
+- Vimativinodanī-ṭīkā, Sudinnabhāṇavāravaṇṇanā, VRI 段落番号 24 (CSCD `vin07t.nrf.xml`)
+- Mahāvaggapāḷi, VRI 段落番号 243 (CSCD `vin02m2.mul.xml`)
+- Mahāvagga-aṭṭhakathā (Samantapāsādikā), VRI 段落番号 243 (CSCD `vin02a2.att.xml`)
 - Udāna-aṭṭhakathā (CSCD `s0503a.att.xml`)
-- Aṅguttara, Aṭṭhakanipāta-aṭṭhakathā, VRI 段落番号 43 (CSCD `s0404a.att.xml`)
+- Aṅguttara, Navakanipāta-aṭṭhakathā, Kāyasakkhisuttavaṇṇanā, VRI 段落番号 43 (CSCD `s0404a.att.xml`)
 - Mūlapaṇṇāsapāḷi, VRI 段落番号 63 (MN 5) および 108 (MN 10) (CSCD `s0201m.mul.xml`)
 - Mūlapaṇṇāsa-aṭṭhakathā (CSCD `s0201a.att.xml`)
 - PTSD `Yathā` (p. 550)
