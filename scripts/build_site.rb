@@ -16,6 +16,8 @@
 #   (vinaya/mahavagga のような 2 階層のセクションもある)
 # - notes/ の調査ノートは対訳とは別扱いで, 全ファイルを対象にし,
 #   ノート間の相対 .md リンクを .html に張り替える
+# - 全ページの先頭に共通ヘッダ (サイト名, 対訳, 調査ノート) を置く.
+#   対訳のセクション一覧はルート直下の taiyaku.html で, トップページの「対訳」と同じ内容
 # - public/ 配下は全消し再生成するが .gitkeep は残す
 
 require "commonmarker"
@@ -26,6 +28,10 @@ ROOT = File.expand_path("..", __dir__)
 OUT_DIR = File.join(ROOT, "public")
 # 公開先の URL. ここを指すリンクはサイト内のリンクとして扱う
 SITE_URL = "https://krhitoshi.github.io/pali-ai-notes/"
+# サイト名. ヘッダとトップページの <title> に使う
+SITE_TITLE = "パーリ仏典 多読用 AI ノート"
+# 対訳のセクション一覧のページ (public/ ルート直下)
+TAIYAKU_INDEX = "taiyaku.html"
 
 # セクション定義. トップページと一覧の表示順もこの順
 # prefix は対訳ファイル名の接頭辞. notes: true のセクションは調査ノート
@@ -81,6 +87,22 @@ CSS = <<~CSS
   h2 { font-size: 1.15rem; border-bottom: 1px solid #ccc; padding-bottom: 0.2rem; }
   h3 { font-size: 1rem; }
   a { color: #1a5276; }
+  /* 全ページ共通のヘッダ. 左にサイト名, 右に対訳と調査ノートへのリンク */
+  header.site-header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.3rem 1rem;
+    padding: 0.9rem 0 0.6rem;
+    border-bottom: 1px solid #d8d0bd;
+  }
+  header.site-header a { text-decoration: none; }
+  header.site-header a:hover { text-decoration: underline; }
+  a.site-title { font-weight: bold; font-size: 1.05rem; color: #222; }
+  nav.global-nav { display: flex; gap: 1.2rem; font-size: 0.95rem; }
+  /* 今いる区分のリンク */
+  nav.global-nav a.current { font-weight: bold; color: #222; }
   nav.site-nav {
     font-family: #{FONT_FAMILY};
     font-size: 0.9rem;
@@ -133,6 +155,11 @@ end
 # セクションのディレクトリから public/ ルートへの相対パス (例 "../../")
 def root_rel(section)
   "../" * (section[:dir].count("/") + 1)
+end
+
+# ヘッダで強調する区分. 調査ノートは :notes, それ以外の対訳は :taiyaku
+def section_kind(section)
+  section[:notes] ? :notes : :taiyaku
 end
 
 # ファイル名から数字部分を数値として比較する自然順ソートキー
@@ -273,7 +300,25 @@ GOOGLE_TAG = <<~HTML.chomp
   </script>
 HTML
 
-def render_layout(title:, css_href:, nav:, body:)
+# 全ページ共通のヘッダ. root はページから public/ ルートへの相対パス (ルートでは "")
+# current は今いる区分 (:taiyaku / :notes) で, そのリンクを強調する
+def site_header_html(root, current)
+  links = [
+    [:taiyaku, "対訳", TAIYAKU_INDEX],
+    [:notes, "調査ノート", "notes/index.html"],
+  ].map do |key, label, href|
+    attr = key == current ? ' class="current"' : ""
+    %(<a href="#{root}#{href}"#{attr}>#{label}</a>)
+  end
+  <<~HTML.chomp
+    <header class="site-header">
+    <a class="site-title" href="#{root}index.html">#{CGI.escapeHTML(SITE_TITLE)}</a>
+    <nav class="global-nav">#{links.join}</nav>
+    </header>
+  HTML
+end
+
+def render_layout(title:, root:, nav:, body:, current: nil)
   <<~HTML
     <!DOCTYPE html>
     <html lang="ja">
@@ -282,9 +327,10 @@ def render_layout(title:, css_href:, nav:, body:)
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>#{CGI.escapeHTML(title)}</title>
-    <link rel="stylesheet" href="#{css_href}">
+    <link rel="stylesheet" href="#{root}style.css">
     </head>
     <body>
+    #{site_header_html(root, current)}
     #{nav}
     <main>
     #{body}
@@ -295,7 +341,16 @@ def render_layout(title:, css_href:, nav:, body:)
   HTML
 end
 
+# パンくずの先頭. 対訳のセクションは「対訳」から始める.
+# 調査ノートはヘッダの「調査ノート」が一覧そのものなので何も置かない
+def parent_crumbs(section)
+  section[:notes] ? [] : [["対訳", "#{root_rel(section)}#{TAIYAKU_INDEX}"]]
+end
+
+# リンクが 1 つもない (今いるページの名前だけの) ナビは見出しと重なるので出さない
 def nav_html(items)
+  return "" if items.none? { |_label, href| href }
+
   links = items.map do |label, href|
     if href
       %(<a href="#{href}">#{CGI.escapeHTML(label)}</a>)
@@ -313,8 +368,7 @@ def write_page(page, section, pages)
   prev_page = index > 0 ? same_kind[index - 1] : nil
   next_page = same_kind[index + 1]
 
-  items = []
-  items << ["トップ", "#{root_rel(section)}index.html"]
+  items = parent_crumbs(section)
   items << ["#{section[:name]} 一覧", "index.html"]
   # 調査ノートは番号順の並びに意味がないので前後リンクを張らない
   unless section[:notes]
@@ -334,7 +388,8 @@ def write_page(page, section, pages)
   title = page.titles.empty? ? page.stem : title_text(page.titles)
   html = render_layout(
     title: "#{title} - #{section[:name]}",
-    css_href: "#{root_rel(section)}style.css",
+    root: root_rel(section),
+    current: section_kind(section),
     nav: nav_html(items),
     body: front_matter_html(meta) + to_html(md, hardbreaks: !section[:notes])
   )
@@ -405,10 +460,11 @@ def index_body(section, pages)
 end
 
 def write_index(section, pages)
-  items = [["トップ", "#{root_rel(section)}index.html"], ["#{section[:name]} 一覧", nil]]
+  items = parent_crumbs(section) + [["#{section[:name]} 一覧", nil]]
   html = render_layout(
     title: "#{section[:name]} 一覧",
-    css_href: "#{root_rel(section)}style.css",
+    root: root_rel(section),
+    current: section_kind(section),
     nav: nav_html(items),
     body: index_body(section, pages)
   )
@@ -424,33 +480,58 @@ def open_external_links_in_new_tab(html)
   end
 end
 
+# セクション一覧のリスト (各セクションの一覧ページへのリンクと件数)
+# トップページと対訳一覧ページで共用する. どちらも public/ ルート直下に置く
+def section_list_html(section_pages)
+  items = section_pages.map do |section, pages|
+    %(<li><a href="#{section[:dir]}/index.html">#{CGI.escapeHTML(section[:name])}</a> (#{pages.size} 件)</li>)
+  end
+  <<~HTML
+    <ul class="page-list">
+    #{items.join("\n")}
+    </ul>
+  HTML
+end
+
 def write_top(section_pages)
   readme_html = to_html(File.read(File.join(ROOT, "README.md"), encoding: "UTF-8"))
   readme_html = open_external_links_in_new_tab(readme_html)
-  list_item = lambda do |section, pages|
-    %(<li><a href="#{section[:dir]}/index.html">#{CGI.escapeHTML(section[:name])}</a> (#{pages.size} 件)</li>)
-  end
+  # README 冒頭の H1 はサイト名でヘッダと重なるので, トップページでは外す
+  readme_html = readme_html.sub(%r{\A\s*<h1[ >].*?</h1>\n?}m, "")
+  # 「システムプロンプト」の節はリポジトリ内のファイルの説明でサイトの読者には
+  # 関係ないので, トップページでは次の H2 (なければ末尾) まで外す
+  readme_html = readme_html.sub(%r{<h2[ >][^\n]*?システムプロンプト.*?(?=<h2[ >]|\z)}m, "")
   corpus, notes = section_pages.partition { |section, _pages| !section[:notes] }
   lists_html = <<~HTML
-    <h2>対訳一覧</h2>
-    <ul class="page-list">
-    #{corpus.map { |s, p| list_item.call(s, p) }.join("\n")}
-    </ul>
+    <h2>対訳</h2>
+    #{section_list_html(corpus)}
     <h2>調査ノート</h2>
-    <ul class="page-list">
-    #{notes.map { |s, p| list_item.call(s, p) }.join("\n")}
-    </ul>
+    #{section_list_html(notes)}
   HTML
   # 一覧は README の「データソース」見出しの直前に差し込む. 見出しがなければ末尾に置く
   insert_at = readme_html.index(/<h2[^>]*>データソース/) || readme_html.size
   body = readme_html.dup.insert(insert_at, lists_html)
+  # トップページはヘッダのサイト名が自身を指すので, パンくずのナビは置かない
   html = render_layout(
-    title: "パーリ仏典 多読用 AI ノート",
-    css_href: "style.css",
-    nav: nav_html([["トップ", nil]]),
+    title: SITE_TITLE,
+    root: "",
+    nav: "",
     body: body
   )
   File.write(File.join(OUT_DIR, "index.html"), html)
+end
+
+# 対訳のセクション一覧のページ. 内容はトップページの「対訳」と同じ
+def write_taiyaku_index(section_pages)
+  corpus = section_pages.reject { |section, _pages| section[:notes] }
+  html = render_layout(
+    title: "対訳 - #{SITE_TITLE}",
+    root: "",
+    current: :taiyaku,
+    nav: "",
+    body: "<h1>対訳</h1>\n#{section_list_html(corpus)}"
+  )
+  File.write(File.join(OUT_DIR, TAIYAKU_INDEX), html)
 end
 
 # public/ 配下を全消し再生成する. Dir.glob は既定でドットファイルを含まないため
@@ -473,8 +554,9 @@ section_pages = SECTIONS.map do |section|
 end
 
 write_top(section_pages)
+write_taiyaku_index(section_pages)
 File.write(File.join(OUT_DIR, "style.css"), CSS)
 
 raise "md と html の件数が一致しません (md=#{total_md} html=#{total_html})" if total_md != total_html
 
-puts "計 #{total_md} ページ + 一覧 #{SECTIONS.size} + トップ 1"
+puts "計 #{total_md} ページ + 一覧 #{SECTIONS.size} + 対訳一覧 1 + トップ 1"
