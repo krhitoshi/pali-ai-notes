@@ -382,7 +382,7 @@ Atha kho yaso kulaputto suvaṇṇapādukāyo ārohitvā yena nivesanadvāraṃ 
 * na dissati = 「見えません」
   * dissati = 「見られる(dassati の受動)」
 
-→「そのとき、良家の子ヤサの母は高楼に上り、良家の子ヤサが見えないので、長者の資産家のところへ行き、行ってから長者の資産家にこう言った――『資産家よ、あなたの息子のヤサが見えません』と。」
+→「そのとき、良家の子ヤサの母は高楼に上り、良家の子ヤサが見えないので、長者の資産家のところへ行き、行ってから長者の資産家にこう言った――『家長よ、あなたの息子のヤサが見えません』と。」
 
 2. Atha kho seṭṭhi gahapati catuddisā assadūte uyyojetvā sāmaṃyeva yena isipatanaṃ migadāyo tenupasaṅkami.
 
