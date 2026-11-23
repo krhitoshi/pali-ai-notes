@@ -651,7 +651,7 @@ Ayaṃ kho gahapati…pe… ekadhammo akkhātoti ekadhammaṃ pucchitena ayampi 
 
 21. Ayaṃ kho gahapati…pe… ekadhammo akkhātoti ekadhammaṃ pucchitena ayampi ekadhammoti evaṃ pucchāvasena kathitattā ekādasapi dhammā ekadhammo nāma jāto.
 
-* ayaṃ kho gahapati …pe… ekadhammo akkhāto ti = 「『居士よ、これが……一つの法として説かれた』とは」
+* ayaṃ kho gahapati …pe… ekadhammo akkhāto ti = 「『資産家よ、これが……一つの法として説かれた』とは」
 
 * ekadhammaṃ pucchitena = 「一つの法を問われた者によって」
 
@@ -663,7 +663,7 @@ Ayaṃ kho gahapati…pe… ekadhammo akkhātoti ekadhammaṃ pucchitena ayampi 
 
 * ekadhammo nāma jāto = 「『一つの法』ということになった」
 
-→「『居士よ、これが……一つの法として説かれた』とは、一つの法を問われた者（世尊）が『これも一つの法である』とこのように問いに応じて説いたので、十一の法も『一つの法』ということになったのである。」
+→「『資産家よ、これが……一つの法として説かれた』とは、一つの法を問われた者（世尊）が『これも一つの法である』とこのように問いに応じて説いたので、十一の法も『一つの法』ということになったのである。」
 
 22. Mahāsakuludāyisuttasmiñhi ekūnavīsati pabbāni paṭipadāvasena ekadhammo nāma jātāni, idha ekādasapucchāvasena ekadhammoti āgatāni.
 
@@ -961,7 +961,7 @@ Aṭṭhakanāgarasuttavaṇṇanā niṭṭhitā.
 17. Aṭṭhakanāgarasuttavaṇṇanā niṭṭhitā.
 
 * Aṭṭhakanāgara-sutta-vaṇṇanā = 「アッタカナーガラ経の解説」
-  * Aṭṭhakanāgara = 「アッタカ市の人（ダサマ居士の呼び名）」
+  * Aṭṭhakanāgara = 「アッタカ市の人（ダサマ資産家の呼び名）」
   * sutta = 「経」
   * vaṇṇanā = 「解説、註釈」
 * niṭṭhitā = 「終わった、完結した」（niṭṭhāti の過去分詞、女性形）

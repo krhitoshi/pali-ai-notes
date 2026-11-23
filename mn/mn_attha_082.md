@@ -615,13 +615,13 @@ Acirapakkantesu thullakoṭṭhikesu brāhmaṇagahapatikesu yena bhagavā tenup
 * acira-pakkantesu = 「去って間もないときに(絶対処格)」
   * acira = 「久しくない、間もない」
   * pakkanta = 「去った(pakkamati の過去分詞)」
-* thullakoṭṭhikesu brāhmaṇa-gahapatikesu = 「トゥッラコッティカのバラモンと家長たちが」
+* thullakoṭṭhikesu brāhmaṇa-gahapatikesu = 「トゥッラコッティカのバラモンと資産家たちが」
   * thullakoṭṭhika = 「トゥッラコッティカの(住人)」
-  * brāhmaṇa-gahapatika = 「バラモンと家長」
+  * brāhmaṇa-gahapatika = 「バラモンと資産家」
 * yena bhagavā tena upasaṅkami = 「世尊のもとへ近づいた」
 * ti = 「とは」
 
-→「『トゥッラコッティカのバラモンと家長たちが去って間もなく、世尊のもとへ近づいた』とは、」
+→「『トゥッラコッティカのバラモンと資産家たちが去って間もなく、世尊のもとへ近づいた』とは、」
 
 11. raṭṭhapālo anuṭṭhitesu tesu na bhagavantaṃ pabbajjaṃ yāci.
 
@@ -1963,7 +1963,7 @@ Atthināma tātāti ettha atthīti vijjamānatthe, nāmāti pucchanatthe mañña
 
 5. So pana gahapati dukkhābhitunnatāya etamatthaṃ paripuṇṇaṃ katvā vattumasakkonto – ‘‘atthi nāma, tāta raṭṭhapāla, ābhidosikaṃ kummāsaṃ paribhuñjissasī’’ti ettakameva avaca.
 
-* so pana gahapati = 「しかしその居士は」
+* so pana gahapati = 「しかしその資産家は」
 * dukkhābhitunnatāya = 「苦しみに打ちひしがれていたので」（dukkha-abhitunna-tā）
   * abhitunna = 「打ちのめされた、刺し貫かれた」
 * etam atthaṃ = 「この意味を」
@@ -1976,7 +1976,7 @@ Atthināma tātāti ettha atthīti vijjamānatthe, nāmāti pucchanatthe mañña
   * ettaka = 「これだけの」
   * avaca = 「言った（vatti のアオリスト）」
 
-→「しかしその居士は、苦しみに打ちひしがれていたので、この意味を完全に言うことができず、『わが子ラッタパーラよ、まさか、一晩たった酸粥を食べようとしているとは』と、これだけを言った。」
+→「しかしその資産家は、苦しみに打ちひしがれていたので、この意味を完全に言うことができず、『わが子ラッタパーラよ、まさか、一晩たった酸粥を食べようとしているとは』と、これだけを言った。」
 
 6. Akkharacintakā panettha idaṃ lakkhaṇaṃ vadanti – anokappanāmarisanatthavasenetaṃ atthisadde upapade ‘‘paribhuñjissasī’’ti anāgatavacanaṃ kataṃ.
 
@@ -2013,14 +2013,14 @@ Atthināma tātāti ettha atthīti vijjamānatthe, nāmāti pucchanatthe mañña
 8. Idaṃ ettakaṃ vacanaṃ gahapati therassa pattamukhavaṭṭiyaṃ gahetvā ṭhitakova kathesi.
 
 * idaṃ ettakaṃ vacanaṃ = 「これだけの言葉を」
-* gahapati = 「居士は」
+* gahapati = 「資産家は」
 * therassa pattamukhavaṭṭiyaṃ gahetvā = 「長老の鉢の口縁をつかんで」
   * patta-mukha-vaṭṭi = 「鉢の口縁」
   * vaṭṭi = 「縁、へり」
 * ṭhitako va = 「立ったままで」
 * kathesi = 「語った」
 
-→「居士は、これだけの言葉を、長老の鉢の口縁をつかんで立ったままで語った。」
+→「資産家は、これだけの言葉を、長老の鉢の口縁をつかんで立ったままで語った。」
 
 9. Theropi pitari pattamukhavaṭṭiyaṃ gahetvā ṭhiteyeva taṃ pūtikummāsaṃ paribhuñji sunakhavantasadisaṃ pūtikukkuṭaṇḍamiva bhinnaṭṭhāne pūtikaṃ vāyantaṃ.
 
@@ -2060,11 +2060,11 @@ Atthināma tātāti ettha atthīti vijjamānatthe, nāmāti pucchanatthe mañña
 * dhamakaraṇena udakaṃ gahetvā = 「濾水器で水を取って」
   * dhamakaraṇa = 「濾水器、水を濾す器」
 * pattañ ca mukhañ ca hatthapāde ca dhovitvā = 「鉢と口と手足を洗って」
-* kuto no gahapatī ti ādim āha = 「『居士よ、私たちにどこから』などと言った」
+* kuto no gahapatī ti ādim āha = 「『資産家よ、私たちにどこから』などと言った」
   * kuto = 「どこから」
   * no = 「私たちに」
 
-→「しかし長老は、聖なる神通に立って、天の滋養ある不死の味を食べているかのように食べて、濾水器で水を取って鉢と口と手足を洗って、『居士よ、私たちにどこから』などと言った。」
+→「しかし長老は、聖なる神通に立って、天の滋養ある不死の味を食べているかのように食べて、濾水器で水を取って鉢と口と手足を洗って、『資産家よ、私たちにどこから』などと言った。」
 
 ## 300 (3)
 
@@ -2367,7 +2367,7 @@ Ehi tātāti tāta tuyhaṃ gharaṃ mā hotu, ehi gharaṃ gamissāmāti vadati
 8. Evaṃ vutte seṭṭhi gahapati – ‘‘ahaṃ imaṃ uppabbājessāmīti ānesiṃ, so dāni me dhammakathaṃ kātuṃ āraddho, ayaṃ na me vacanaṃ karissatī’’ti uṭṭhāya gantvā assa orodhānaṃ dvāraṃ vivarāpetvā – ‘‘ayaṃ vo sāmiko, gacchatha yaṃ kiñci katvā naṃ gaṇhituṃ vāyamathā’’ti uyyojesi.
 
 * evaṃ vutte = 「このように言われたとき」
-* seṭṭhi gahapati = 「長者である家長は」
+* seṭṭhi gahapati = 「長者である資産家は」
 * ahaṃ imaṃ uppabbājessāmī ti ānesiṃ = 「『私はこの者を還俗させよう』と（思って）連れて来た」
   * uppabbājeti = 「還俗させる」
 * so dāni me = 「その者は今、私に」
@@ -2384,7 +2384,7 @@ Ehi tātāti tāta tuyhaṃ gharaṃ mā hotu, ehi gharaṃ gamissāmāti vadati
 * naṃ gaṇhituṃ vāyamathā ti = 「彼を捕らえるよう努めなさい、と」
 * uyyojesi = 「送り出した」
 
-→「このように言われたとき、長者である家長は『私はこの者を還俗させようと（思って）連れて来たが、その者は今、私に法話をし始めた。この者は私の言うことを聞かないだろう』と（思い）、立ち上がって行き、彼の後宮の戸を開けさせて『この者はあなたたちの夫だ。行って、何であれ手段を用いて彼を捕らえるよう努めなさい』と送り出した。」
+→「このように言われたとき、長者である資産家は『私はこの者を還俗させようと（思って）連れて来たが、その者は今、私に法話をし始めた。この者は私の言うことを聞かないだろう』と（思い）、立ち上がって行き、彼の後宮の戸を開けさせて『この者はあなたたちの夫だ。行って、何であれ手段を用いて彼を捕らえるよう努めなさい』と送り出した。」
 
 9. Suvaye ṭhitā nāṭakitthiyo nikkhamitvā theraṃ parivārayiṃsu, tāsu dve jeṭṭhakitthiyo sandhāya purāṇadutiyikātiādi vuttaṃ.
 

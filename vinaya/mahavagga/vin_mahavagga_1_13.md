@@ -434,16 +434,16 @@ Tasmā na yiṭṭhe na hute arañji’’nti.
   * dvādasa-nahuta = 「十二ナフタ」
   * nahuta = 「一万を表す数の単位（十二ナフタ＝十二万）」
 * māgadhikānaṃ = 「マガダ国の」
-* brāhmaṇagahapatikānaṃ = 「バラモンと居士たちの」
+* brāhmaṇagahapatikānaṃ = 「バラモンと資産家たちの」
   * brāhmaṇa = 「バラモン」
-  * gahapatika = 「居士、家長」
+  * gahapatika = 「資産家、家長」
 * etadahosi = 「このような（思いが）生じた」
 * mahāsamaṇe = 「大沙門のもとで（処格）」
 * brahmacariyaṃ carati = 「梵行を行じている」
   * brahmacariya = 「梵行、清らかな修行生活」
   * carati = 「行う、実践する」
 
-→「そのとき、その十二万のマガダ国のバラモンと居士たちに、このような思いが生じた――『ウルヴェーラカッサパは大沙門のもとで梵行を行じているのだ』と。」
+→「そのとき、その十二万のマガダ国のバラモンと資産家たちに、このような思いが生じた――『ウルヴェーラカッサパは大沙門のもとで梵行を行じているのだ』と。」
 
 3. Atha kho bhagavā tesaṃ dvādasanahutānaṃ māgadhikānaṃ brāhmaṇagahapatikānaṃ cetasā cetoparivitakkamaññāya anupubbiṃ kathaṃ kathesi, seyyathidaṃ – dānakathaṃ sīlakathaṃ saggakathaṃ kāmānaṃ ādīnavaṃ okāraṃ saṃkilesaṃ nekkhamme ānisaṃsaṃ pakāsesi.
 
@@ -467,7 +467,7 @@ Tasmā na yiṭṭhe na hute arañji’’nti.
   * ānisaṃsa = 「利益、功徳」
 * pakāsesi = 「明らかにした（pakāseti のアオリスト）」
 
-→「そこで世尊は、その十二万のマガダ国のバラモンと居士たちの心の思いを心によって知り、次第説法を説いた。すなわち、布施の話、戒の話、天界の話、諸欲の危険・卑しさ・汚れ、そして出離における利益を明らかにした。」
+→「そこで世尊は、その十二万のマガダ国のバラモンと資産家たちの心の思いを心によって知り、次第説法を説いた。すなわち、布施の話、戒の話、天界の話、諸欲の危険・卑しさ・汚れ、そして出離における利益を明らかにした。」
 
 4. Yadā te bhagavā aññāsi kallacitte muducitte vinīvaraṇacitte udaggacitte pasannacitte, atha yā buddhānaṃ sāmukkaṃsikā dhammadesanā, taṃ pakāsesi – dukkhaṃ, samudayaṃ, nirodhaṃ, maggaṃ.
 
@@ -516,7 +516,7 @@ Tasmā na yiṭṭhe na hute arañji’’nti.
 * sabbaṃ taṃ nirodhadhammaṃ = 「すべてそれは滅する性質のものである」
   * nirodha-dhamma = 「滅する性質のもの」
 
-→「あたかも黒い染みのない清浄な布が正しく染料を受け入れるように、まさにそのように、ビンビサーラ王を筆頭とする十一万のマガダ国のバラモンと居士たちに、まさにその座で、塵を離れ垢を離れた法眼が生じた――『およそ生じる性質のものは、すべて滅する性質のものである』と。」
+→「あたかも黒い染みのない清浄な布が正しく染料を受け入れるように、まさにそのように、ビンビサーラ王を筆頭とする十一万のマガダ国のバラモンと資産家たちに、まさにその座で、塵を離れ垢を離れた法眼が生じた――『およそ生じる性質のものは、すべて滅する性質のものである』と。」
 
 6. Ekanahutaṃ upāsakattaṃ paṭivedesi.
 

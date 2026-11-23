@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0202a.att2.xml
 generated: 2026/09/07
-updated: 2026/09/07
+updated: 2026/11/23
 ---
 
 # 7. Mahāsakuludāyisuttavaṇṇanā
@@ -5684,7 +5684,7 @@ Mahāsakuludāyisuttavaṇṇanā niṭṭhitā.
 
 * yathā hi = 「実に～のように」
 * aṭṭhakanāgarasutte = 「アッタカナーガラ経において」(処格)
-  * Aṭṭhakanāgarasutta = 中部第 52 経。Ānanda がアッタカ市の居士 Dasama に、一法(十一の門)を説く経
+  * Aṭṭhakanāgarasutta = 中部第 52 経。Ānanda がアッタカ市の資産家 Dasama に、一法(十一の門)を説く経
 * (ma. ni. 2.17 ādayo) = 「(中部 2.17 以下)」(VRI 版の参照番号)
 * ekādasa pabbāni = 「十一の節が」
   * ekādasa = 「十一」
