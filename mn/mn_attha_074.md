@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0202a.att2.xml
 generated: 2026/06/01
-updated: 2026/07/23
+updated: 2026/11/23
 ---
 
 # 4. Dīghanakhasuttavaṇṇanā
@@ -47,7 +47,7 @@ Dīghanakhoti tassa paribbājakassa nāmaṃ. Upasaṅkamīti kasmā upasaṅka
 
 4. Kassapabuddhakāle kira taṃ leṇaṃ ekasmiṃ buddhantare pathaviyā vaḍḍhamānāya antobhūmigataṃ jātaṃ.
 
-* kassapa-buddha-kāle = 「迦葉仏（カッサパ仏）の時代から」
+* kassapa-buddha-kāle = 「カッサパ仏の時代から」
 * kira = 「伝承によれば」
 * taṃ = 「その」
 * leṇaṃ = 「洞窟は」
@@ -58,7 +58,7 @@ Dīghanakhoti tassa paribbājakassa nāmaṃ. Upasaṅkamīti kasmā upasaṅka
 * anto-bhūmi-gataṃ = 「地中に入った（埋まった）状態に」
 * jātaṃ = 「なった」
 
-→ 「伝承によれば、迦葉仏の時代から一仏の時代が経過する間に、大地が増大することによって、その洞窟は地中に埋まってしまった。」
+→ 「伝承によれば、カッサパ仏の時代から一仏の時代が経過する間に、大地が増大することによって、その洞窟は地中に埋まってしまった。」
 
 5. Athekadivasaṃ eko sūkaro tassa chadanapariyantasamīpe paṃsuṃ khaṇi.
 
