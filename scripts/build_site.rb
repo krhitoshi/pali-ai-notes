@@ -16,13 +16,16 @@
 #   (vinaya/mahavagga のような 2 階層のセクションもある)
 # - notes/ の調査ノートは対訳とは別扱いで, 全ファイルを対象にし,
 #   ノート間の相対 .md リンクを .html に張り替える
-# - 全ページの先頭に共通ヘッダ (サイト名, 対訳, 調査ノート) を置く.
+# - 全ページの先頭に共通ヘッダ (サイト名, 対訳, 調査ノート, 用例集) を置く.
 #   対訳のセクション一覧はルート直下の taiyaku.html で, トップページの「対訳」と同じ内容
+# - 用例集 yorei/yorei.yaml はルート直下の yorei.html 1 ページにする.
+#   用例の出力書式にないメタ情報 (見出し語, 補足, ファイル, 段落など) は折りたたむ
 # - public/ 配下は全消し再生成するが .gitkeep は残す
 
 require "commonmarker"
 require "cgi"
 require "fileutils"
+require "json"
 
 ROOT = File.expand_path("..", __dir__)
 OUT_DIR = File.join(ROOT, "public")
@@ -32,6 +35,11 @@ SITE_URL = "https://krhitoshi.github.io/pali-ai-notes/"
 SITE_TITLE = "パーリ仏典 多読用 AI ノート"
 # 対訳のセクション一覧のページ (public/ ルート直下)
 TAIYAKU_INDEX = "taiyaku.html"
+# 用例集 (scripts/yorei.py --save が書き出す) と, それを 1 ページにした出力先
+YOREI_STORE = File.join(ROOT, "yorei", "yorei.yaml")
+YOREI_INDEX = "yorei.html"
+# 原文 VRI XML の URL. 用例集の file (例 "s0202m.mul2") をつなげて使う
+VRI_XML_BASE = "https://www.tipitaka.org/romn/cscd/"
 
 # セクション定義. トップページと一覧の表示順もこの順
 # prefix は対訳ファイル名の接頭辞. notes: true のセクションは調査ノート
@@ -139,6 +147,15 @@ CSS = <<~CSS
   /* 調査ノート一覧の作成日 */
   ul.note-list li { margin: 0.4rem 0; }
   ul.note-list span.note-date { color: #666; font-variant-numeric: tabular-nums; }
+  /* 用例集. 1 用例が 1 ブロックで, 出力書式の 1 行の下に折りたたみのメタ情報 */
+  div.yorei { margin: 1rem 0; padding-bottom: 0.6rem; border-bottom: 1px solid #e6e0d2; }
+  div.yorei p { margin: 0; }
+  div.yorei span.yorei-ref { font-weight: bold; }
+  div.yorei details { margin-top: 0.3rem; font-size: 0.85rem; color: #555; }
+  div.yorei summary { cursor: pointer; color: #777; }
+  div.yorei dl { display: grid; grid-template-columns: max-content 1fr; gap: 0.1rem 0.8rem; margin: 0.3rem 0 0 1rem; }
+  div.yorei dt { color: #777; }
+  div.yorei dd { margin: 0; }
 CSS
 
 Page = Struct.new(:dir, :stem, :kind, :number_key, :titles, :md_path, keyword_init: true) do
@@ -301,11 +318,12 @@ GOOGLE_TAG = <<~HTML.chomp
 HTML
 
 # 全ページ共通のヘッダ. root はページから public/ ルートへの相対パス (ルートでは "")
-# current は今いる区分 (:taiyaku / :notes) で, そのリンクを強調する
+# current は今いる区分 (:taiyaku / :notes / :yorei) で, そのリンクを強調する
 def site_header_html(root, current)
   links = [
     [:taiyaku, "対訳", TAIYAKU_INDEX],
     [:notes, "調査ノート", "notes/index.html"],
+    [:yorei, "用例集", YOREI_INDEX],
   ].map do |key, label, href|
     attr = key == current ? ' class="current"' : ""
     %(<a href="#{root}#{href}"#{attr}>#{label}</a>)
@@ -493,7 +511,7 @@ def section_list_html(section_pages)
   HTML
 end
 
-def write_top(section_pages)
+def write_top(section_pages, yorei_count)
   readme_html = to_html(File.read(File.join(ROOT, "README.md"), encoding: "UTF-8"))
   readme_html = open_external_links_in_new_tab(readme_html)
   # README 冒頭の H1 はサイト名でヘッダと重なるので, トップページでは外す
@@ -512,6 +530,11 @@ def write_top(section_pages)
     <h2>調査ノート</h2>
     <p>パーリ文を読んでいて出てきた疑問 (語義, 文法, 文献など) を調べてまとめたものです.</p>
     #{section_list_html(notes)}
+    <h2>用例集</h2>
+    <p>#{YOREI_DESCRIPTION}</p>
+    <ul class="page-list">
+    <li><a href="#{YOREI_INDEX}">用例集</a> (#{yorei_count} 件)</li>
+    </ul>
   HTML
   # 一覧は README の「データソース」見出しの直前に差し込む. 見出しがなければ末尾に置く
   insert_at = readme_html.index(/<h2[^>]*>データソース/) || readme_html.size
@@ -539,6 +562,83 @@ def write_taiyaku_index(section_pages)
   File.write(File.join(OUT_DIR, TAIYAKU_INDEX), html)
 end
 
+# 用例集の説明. トップページと用例集のページで使う
+YOREI_DESCRIPTION = "パーリ語句の用例を, 辞書の用例欄のように出典・原文・訳の形で集めたものです."
+
+# 用例集のメタ情報の表示名. 用例の出力書式 (出典, 原文, 訳) にない項目で,
+# ページでは折りたたみの中に置く. ここにない項目も項目名のまま表示する
+YOREI_META_LABELS = {
+  "words" => "見出し語",
+  "note" => "補足",
+  "pts" => "PTS",
+  "file" => "ファイル",
+  "para" => "段落",
+  "added" => "作成日",
+  "model" => "モデル",
+}.freeze
+YOREI_LINE_FIELDS = %w[ref text ja].freeze
+
+# 用例集を読む. scripts/yorei.py の load_store と同じく, 1 行が
+# "- key: 値" (項目の先頭) か "  key: 値" で, 値は JSON の形とみなす
+def load_yorei(path)
+  return [] unless File.exist?(path)
+
+  records = []
+  File.foreach(path, encoding: "UTF-8").with_index(1) do |line, i|
+    line = line.chomp
+    next if line.strip.empty? || line.lstrip.start_with?("#")
+
+    m = line.match(/\A(- |  )([a-z_]+): (.*)\z/)
+    raise "#{path}:#{i}: 解釈できない行: #{line}" if !m || (m[1] == "  " && records.empty?)
+
+    records << {} if m[1] == "- "
+    records.last[m[2]] = JSON.parse(m[3])
+  end
+  records
+end
+
+# 用例のメタ情報 1 項目の値を HTML にする
+def yorei_meta_value(key, value)
+  case key
+  when "words" then Array(value).map { |w| CGI.escapeHTML(w.to_s) }.join(", ")
+  when "file" then %(<a href="#{VRI_XML_BASE}#{CGI.escapeHTML(value.to_s)}.xml" target="_blank" rel="noopener">#{CGI.escapeHTML(value.to_s)}</a>)
+  when "para" then "VRI §#{CGI.escapeHTML(value.to_s)}"
+  else CGI.escapeHTML(value.to_s)
+  end
+end
+
+# 用例 1 件. 出典・原文・訳は用例の出力書式 (yorei コマンドの回答と同じ 1 行) で
+# 見せ, それ以外の項目は折りたたみの中に並べる
+def yorei_html(rec)
+  line = %(<span class="yorei-ref">#{CGI.escapeHTML(rec["ref"].to_s)}</span> ) +
+         %((<span lang="pi">#{CGI.escapeHTML(rec["text"].to_s)}</span>) ) +
+         %(「#{CGI.escapeHTML(rec["ja"].to_s)}」)
+  keys = YOREI_META_LABELS.keys.select { |k| rec.key?(k) }
+  keys += rec.keys - YOREI_META_LABELS.keys - YOREI_LINE_FIELDS
+  meta = keys.map do |k|
+    %(<dt>#{CGI.escapeHTML(YOREI_META_LABELS.fetch(k, k))}</dt><dd>#{yorei_meta_value(k, rec[k])}</dd>)
+  end
+  details = meta.empty? ? "" : %(\n<details><summary>詳細</summary><dl>#{meta.join}</dl></details>)
+  %(<div class="yorei">\n<p>#{line}</p>#{details}\n</div>)
+end
+
+# 用例集を 1 ページにする. 並びは用例集の順 (scripts/yorei.py が経蔵, 律蔵,
+# 論蔵, 註, 復註, Vism の順に整えている)
+def write_yorei(records)
+  html = render_layout(
+    title: "用例集 - #{SITE_TITLE}",
+    root: "",
+    current: :yorei,
+    nav: "",
+    body: <<~HTML
+      <h1>用例集</h1>
+      <p>#{YOREI_DESCRIPTION} (#{records.size} 件)</p>
+      #{records.map { |rec| yorei_html(rec) }.join("\n")}
+    HTML
+  )
+  File.write(File.join(OUT_DIR, YOREI_INDEX), html)
+end
+
 # public/ 配下を全消し再生成する. Dir.glob は既定でドットファイルを含まないため
 # .gitkeep は残る
 FileUtils.rm_rf(Dir.glob(File.join(OUT_DIR, "*")))
@@ -558,10 +658,12 @@ section_pages = SECTIONS.map do |section|
   [section, pages]
 end
 
-write_top(section_pages)
+yorei_records = load_yorei(YOREI_STORE)
+write_top(section_pages, yorei_records.size)
 write_taiyaku_index(section_pages)
+write_yorei(yorei_records)
 File.write(File.join(OUT_DIR, "style.css"), CSS)
 
 raise "md と html の件数が一致しません (md=#{total_md} html=#{total_html})" if total_md != total_html
 
-puts "計 #{total_md} ページ + 一覧 #{SECTIONS.size} + 対訳一覧 1 + トップ 1"
+puts "計 #{total_md} ページ + 一覧 #{SECTIONS.size} + 対訳一覧 1 + 用例集 1 (#{yorei_records.size} 件) + トップ 1"
