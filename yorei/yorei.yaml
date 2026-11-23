@@ -181,6 +181,16 @@
   added: "2026/11/21"
   model: "Claude Fable 5.2"
 
+- ref: "MN 82 (VRI §300)"
+  text: "‘‘Alaṃ, gahapati, kataṃ me ajja bhattakiccaṃ’’."
+  ja: "結構です, 資産家よ. 私は今日の食事を済ませました"
+  words: ["alaṃ", "bhattakicca"]
+  note: "kataṃ は karoti の過去分詞で bhattakiccaṃ の述語, me は行為者を表す具格. bhattakicca は bhatta + kicca (食事という務め)"
+  file: "s0202m.mul3"
+  para: 300
+  added: "2026/11/23"
+  model: "Claude Fable 5.2"
+
 - ref: "AN 5.181 (VRI §181)"
   text: "gavā khīraṃ, khīramhā dadhi, dadhimhā navanītaṃ, navanītamhā sappi, sappimhā sappimaṇḍo, sappimaṇḍo tattha aggamakkhāyati;"
   ja: "(たとえば) 牛から乳が, 乳から凝乳 (酪) が, 凝乳からバター (生酥) が, バターからギー (熟酥) が, ギーからギーの精髄 (醍醐) が (できるが), それらの中ではギーの精髄が最上と言われる (ように)"
