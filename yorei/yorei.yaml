@@ -16,6 +16,16 @@
   added: "2026/11/01"
   model: "Claude Fable 5.1"
 
+- ref: "MN 35 (VRI §362)"
+  text: "Adhivāsetu me bhavaṃ gotamo svātanāya bhattaṃ saddhiṃ bhikkhusaṅghenā’’ti."
+  ja: "尊きゴータマは, 比丘僧団とともに, 私のために明日の食事をお受けください"
+  words: ["adhivāseti", "svātana"]
+  note: "svātanāya は svātana (明日の) の与格で「明日のための」. bhattaṃ は adhivāsetu の目的語"
+  file: "s0201m.mul3"
+  para: 362
+  added: "2026/11/23"
+  model: "Claude Fable 5.2"
+
 - ref: "MN 79 (VRI §272)"
   text: "‘‘Taṃ kiṃ maññasi, udāyi – nanu evaṃ sante, tassa purisassa appāṭihīrakataṃ bhāsitaṃ sampajjatī’’ti?"
   ja: "ウダーイよ, これをどう思うか. そうであるなら, その男の発言は根拠のないものということになるのではないか"
