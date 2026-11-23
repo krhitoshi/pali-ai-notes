@@ -3020,7 +3020,7 @@ Kasmā pana thero ākāsena gatoti. Pitā kirassa seṭṭhi sattasu dvārakoṭ
 * imā gāthā bhāsitvā = 「これらの偈を語って」
 * ākāsena eva gantvā = 「まさに空を通って行って」
 * miga-cīre = 「ミガチーラ（鹿苑）に」
-  * migacīra = 「ミガチーラ（コーラッバ王の鹿苑の名）」
+  * migacīra = 「ミガチーラ（コーラビヤ王の鹿苑の名）」
 * paccupaṭṭhāsi = 「現れた、立ち現れた」
 
 →「実に、ちょうど大鹿が望むだけ餌草を食べ、水を飲み、首を上げて方角を見て、『これこれの場所に行った者には安全があるだろう』と、鹿猟師たちが嘆き悲しんでいるまさにその間に、狩猟網に触れることなく跳び上がって森に入り、濃い陰をもつ傘のような茂みの下でそよそよとした風に扇がれながら来た道を眺めて佇むように、まさにそのように長老はこれらの偈を語って、空を通って行き、ミガチーラに現れた。」
@@ -3089,12 +3089,12 @@ Kasmā pana thero ākāsena gatoti. Pitā kirassa seṭṭhi sattasu dvārakoṭ
 * vehāsaṃ abbhuggantvā = 「空中に飛び上がって」
   * vehāsa = 「空、虚空」
   * abbhuggacchati = 「飛び上がる、昇る」
-* rañño korabyassa = 「コーラッバ王の」
+* rañño korabyassa = 「コーラビヤ王の」
 * miga-cīre paccupaṭṭhāsi ti = 「ミガチーラに現れた、と」
 * ayaṃ vācanā-maggo yeva = 「これが（彼らの）伝承の読み方そのものである」
   * vācanā-magga = 「読誦の道、伝承の読み方、テキストの伝承系統」
 
-→「しかし、海の向こうに住む長老たちには、『立ったままでこれらの偈を語り、空中に飛び上がってコーラッバ王のミガチーラに現れた』というのが、まさに（彼らの）伝承の読み方である。」
+→「しかし、海の向こうに住む長老たちには、『立ったままでこれらの偈を語り、空中に飛び上がってコーラビヤ王のミガチーラに現れた』というのが、まさに（彼らの）伝承の読み方である。」
 
 ## 303
 
@@ -3142,7 +3142,7 @@ Kittayamāno ahosīti so kira rājā theraṃ anussaritvā balamajjhepi nāṭak
 
 3. Yena rājā korabyo tenupasaṅkamīti amhākaṃ rājā sadā imassa kulaputtassa vaṇṇaṃ kathesi, passitukāmo etaṃ, āgatabhāvaṃ panassa na jānāti, mahā kho panāyaṃ paṇṇākāro, gantvā rañño ārocessāmīti cintetvā yena rājā korabyo tenupasaṅkami.
 
-* Yena rājā korabyo tenupasaṅkamī ti = 「"コーラヴィヤ王のもとへ近づいた"とは」
+* Yena rājā korabyo tenupasaṅkamī ti = 「"コーラビヤ王のもとへ近づいた"とは」
 * amhākaṃ rājā = 「私たちの王は」
 * sadā = 「いつも」
 * imassa kulaputtassa = 「この良家の子の」
@@ -3154,9 +3154,9 @@ Kittayamāno ahosīti so kira rājā theraṃ anussaritvā balamajjhepi nāṭak
   * paṇṇākāra = 「贈り物、進物」
 * gantvā rañño ārocessāmi = 「行って王に告げよう」
 * ti cintetvā = 「と考えて」
-* yena rājā korabyo tenupasaṅkami = 「コーラヴィヤ王のもとへ近づいた」
+* yena rājā korabyo tenupasaṅkami = 「コーラビヤ王のもとへ近づいた」
 
-→「"コーラヴィヤ王のもとへ近づいた"とは、「私たちの王はいつもこの良家の子の称賛を語り、この人を見たいと望んでいる。しかしこの人が来たことを知らない。しかもこれは大きな贈り物である。行って王に告げよう」と考えて、コーラヴィヤ王のもとへ近づいた（ということである）。」
+→「"コーラビヤ王のもとへ近づいた"とは、「私たちの王はいつもこの良家の子の称賛を語り、この人を見たいと望んでいる。しかしこの人が来たことを知らない。しかもこれは大きな贈り物である。行って王に告げよう」と考えて、コーラビヤ王のもとへ近づいた（ということである）。」
 
 4. Kittayamāno ahosīti so kira rājā theraṃ anussaritvā balamajjhepi nāṭakamajjhepi – ‘‘dukkaraṃ kataṃ kulaputtena tāva mahantaṃ sampattiṃ pahāya pabbajitvā punanivattitvā anapalokentenā’’ti guṇaṃ kathesi, taṃ gahetvā ayaṃ evamāha.
 
