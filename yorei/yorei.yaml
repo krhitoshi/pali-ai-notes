@@ -1,0 +1,220 @@
+# パーリ語句の用例集. scripts/yorei.py --save が書き出す.
+# 1 用例が 1 項目. ref = 出典, text = 原文 (VRI の表記のまま), ja = 訳,
+# file / para = 原文のある VRI XML のファイル名と段落番号, added = 用例を作った日,
+# model = 訳を書いたモデル. words (見出し語), note (補足), pts (PTS の巻・頁)
+# は任意.
+# 並びは経蔵, 律蔵, 論蔵, 註, 復註, Vism の順でスクリプトが整える.
+# 手で直すときは文字列を "..." で囲んだ形のままにする (スクリプトはこの形しか
+# 読まない).
+
+- ref: "DN 9 (VRI §434)"
+  text: "‘‘Taṃ kiṃ maññasi, poṭṭhapāda, nanu evaṃ sante sappāṭihīrakataṃ bhāsitaṃ sampajjatī’’ti?"
+  ja: "ポッタパーダよ, これをどう思うか. そうであるなら, (その) 発言は根拠のあるものということになるのではないか"
+  words: ["sampajjati", "sappāṭihīrakata"]
+  file: "s0101m.mul8"
+  para: 434
+  added: "2026/11/01"
+  model: "Claude Fable 5.1"
+
+- ref: "MN 79 (VRI §272)"
+  text: "‘‘Taṃ kiṃ maññasi, udāyi – nanu evaṃ sante, tassa purisassa appāṭihīrakataṃ bhāsitaṃ sampajjatī’’ti?"
+  ja: "ウダーイよ, これをどう思うか. そうであるなら, その男の発言は根拠のないものということになるのではないか"
+  words: ["sampajjati", "appāṭihīrakata"]
+  file: "s0202m.mul2"
+  para: 272
+  added: "2026/11/01"
+  model: "Claude Fable 5.1"
+
+- ref: "MN 79 (VRI §275)"
+  text: "‘‘Na khvāssa, udāyi, ettāvatā ekantasukho loko sacchikato hoti; ākāravatītveva sā paṭipadā ekantasukhassa lokassa sacchikiriyāyā’’ti."
+  ja: "ウダーイよ, 彼にとってこれだけでは, ひたすら楽な世界が実証されたことにはならない. むしろそれは, ひたすら楽な世界を実証するための根拠のある実践なのである"
+  words: ["ākāravant"]
+  file: "s0202m.mul2"
+  para: 275
+  added: "2026/11/01"
+  model: "Claude Fable 5.1"
+
+- ref: "MN 79 (VRI §277)"
+  text: "Iti hidaṃ sakuludāyissa paribbājakassa parisā sakuludāyiṃ paribbājakaṃ antarāyamakāsi bhagavati brahmacariyeti."
+  ja: "このようにして, 遍歴行者サクルダーインの会衆は, 遍歴行者サクルダーインに対して, 世尊のもとでの梵行について妨げをなしたのである"
+  words: ["antarāya"]
+  note: "antarāyamakāsi は antarāyaṃ + akāsi. 人の対格 (sakuludāyiṃ paribbājakaṃ) + 事柄の処格 (brahmacariye)"
+  file: "s0202m.mul2"
+  para: 277
+  added: "2026/11/01"
+  model: "Claude Fable 5.1"
+
+- ref: "MN 80 (VRI §281)"
+  text: "Tesamidaṃ bhāsitaṃ hassakaṃyeva sampajjati, nāmakaṃyeva sampajjati, rittakaṃyeva sampajjati, tucchakaṃyeva sampajjatī’’ti."
+  ja: "彼らのこの発言は, まさに笑うべきものになり, まさに名ばかりのものになり, まさに空虚なものになり, まさに虚妄なものになる"
+  words: ["sampajjati"]
+  file: "s0202m.mul2"
+  para: 281
+  added: "2026/11/03"
+  model: "Claude Fable 5.1"
+
+- ref: "MN 80 (VRI §281)"
+  text: "tassa vuddhimanvāya indriyānaṃ paripākamanvāya tāni bandhanāni mucceyyuṃ;"
+  ja: "その (赤子の) 成長につれ, 諸根の成熟につれて, それらの (糸の) 縛めがほどけたとすると"
+  words: ["anvāya"]
+  note: "vuddhimanvāya は vuddhiṃ + anvāya, paripākamanvāya は paripākaṃ + anvāya"
+  file: "s0202m.mul2"
+  para: 281
+  added: "2026/11/05"
+  model: "Claude Fable 5.1"
+
+- ref: "MN 81 (VRI §282)"
+  text: "Atha kho bhagavā maggā okkamma aññatarasmiṃ padese sitaṃ pātvākāsi."
+  ja: "そのとき世尊は道から外れて, ある場所で微笑をあらわにされた"
+  words: ["sita", "pātukaroti"]
+  note: "pātvākāsi は pātu + akāsi"
+  file: "s0202m.mul3"
+  para: 282
+  added: "2026/11/05"
+  model: "Claude Fable 5.1"
+
+- ref: "MN 81 (VRI §282)"
+  text: "ekaṃ samayaṃ bhagavā kosalesu cārikaṃ carati mahatā bhikkhusaṅghena saddhiṃ."
+  ja: "あるとき世尊は大比丘僧団とともにコーサラ国で遊行しておられた"
+  words: ["cārikā"]
+  file: "s0202m.mul3"
+  para: 282
+  added: "2026/11/05"
+  model: "Claude Fable 5.1"
+
+- ref: "MN 81 (VRI §282)"
+  text: "ko nu kho, bhante, hetu, ko paccayo bhagavato sitassa pātukammāya?"
+  ja: "尊師よ, 世尊が微笑をあらわにされたのには, いったいどんな因があり, どんな縁があるのでしょうか"
+  words: ["pātukamma", "sita"]
+  note: "pātukammāya は pātukamma の与格"
+  file: "s0202m.mul3"
+  para: 282
+  added: "2026/11/05"
+  model: "Claude Fable 5.1"
+
+- ref: "MN 81 (VRI §282)"
+  text: "Vegaḷiṅgaṃ kho, ānanda, gāmanigamaṃ kassapo bhagavā arahaṃ sammāsambuddho upanissāya vihāsi."
+  ja: "アーナンダよ, 阿羅漢・正等覚者であるカッサパ世尊は, ヴェーガリンガという町に依って住しておられた"
+  words: ["upanissāya"]
+  note: "upanissāya は対格 (vegaḷiṅgaṃ gāmanigamaṃ) をとる"
+  file: "s0202m.mul3"
+  para: 282
+  added: "2026/11/06"
+  model: "Claude Fable 5.1"
+
+- ref: "MN 81 (VRI §283)"
+  text: "Sādhusammatañhi me tassa bhagavato dassanaṃ arahato sammāsambuddhassā’ti."
+  ja: "なぜなら, かの世尊・阿羅漢・正自覚者にお目にかかることは, 私にとって善いことと見なされているからだ"
+  words: ["sādhusammata"]
+  note: "sādhusammatañhi は sādhusammataṃ + hi"
+  file: "s0202m.mul3"
+  para: 283
+  added: "2026/11/07"
+  model: "Claude Fable 5.1"
+
+- ref: "MN 81 (VRI §286)"
+  text: "‘ayaṃ me, bhante, jotipālo māṇavo sahāyo piyasahāyo. Imaṃ bhagavā pabbājetū’ti."
+  ja: "『尊師よ, このジョーティパーラ青年は私の友, 親しい友です. 世尊はこの者を出家させてください』と"
+  words: ["pabbājeti", "sahāya"]
+  note: "pabbājetu は pabbājeti の命令法 3 人称単数"
+  file: "s0202m.mul3"
+  para: 286
+  added: "2026/11/08"
+  model: "Claude Fable 5.1"
+
+- ref: "MN 81 (VRI §288)"
+  text: "adhivāsetu me, bhante, bhagavā bārāṇasiyaṃ vassāvāsaṃ;"
+  ja: "尊師よ, 世尊は私のためにバーラーナシーでの雨安居の滞在をお受けください"
+  words: ["adhivāseti", "vassāvāsa"]
+  note: "adhivāsetu は adhivāseti の命令法 3 人称単数"
+  file: "s0202m.mul3"
+  para: 288
+  added: "2026/11/11"
+  model: "Claude Fable 5.2"
+
+- ref: "MN 81 (VRI §288)"
+  text: "kikī kāsirājā buddhappamukhaṃ bhikkhusaṅghaṃ paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi."
+  ja: "カーシ国王キキーは, 仏を上首とする比丘サンガを, すぐれた硬食と軟食によって, 自らの手で満足させ, 十分にもてなした"
+  words: ["sampavāreti", "santappeti"]
+  file: "s0202m.mul3"
+  para: 288
+  added: "2026/11/11"
+  model: "Claude Fable 5.2"
+
+- ref: "MN 82 (VRI §299)"
+  text: "Aññataro kho panāyasmā raṭṭhapālo arahataṃ ahosi."
+  ja: "そして尊者ラッタパーラは阿羅漢たちの一人となった"
+  words: ["aññatara", "arahant"]
+  note: "arahataṃ は arahant の複数属格で aññataro にかかる (部分の属格)"
+  file: "s0202m.mul3"
+  para: 299
+  added: "2026/11/21"
+  model: "Claude Fable 5.2"
+
+- ref: "MN 82 (VRI §299)"
+  text: "‘‘yassadāni tvaṃ, raṭṭhapāla, kālaṃ maññasī’’ti."
+  ja: "ラッタパーラよ, 今あなたがその時だと思うことを (なしなさい)"
+  words: ["kāla", "maññati"]
+  note: "yassadāni は yassa + dāni"
+  file: "s0202m.mul3"
+  para: 299
+  added: "2026/11/21"
+  model: "Claude Fable 5.2"
+
+- ref: "AN 5.181 (VRI §181)"
+  text: "gavā khīraṃ, khīramhā dadhi, dadhimhā navanītaṃ, navanītamhā sappi, sappimhā sappimaṇḍo, sappimaṇḍo tattha aggamakkhāyati;"
+  ja: "(たとえば) 牛から乳が, 乳から凝乳 (酪) が, 凝乳からバター (生酥) が, バターからギー (熟酥) が, ギーからギーの精髄 (醍醐) が (できるが), それらの中ではギーの精髄が最上と言われる (ように)"
+  words: ["sappimaṇḍa", "akkhāyati"]
+  note: "aggamakkhāyati は aggaṃ + akkhāyati"
+  file: "s0403m1.mul18"
+  para: 181
+  added: "2026/11/05"
+  model: "Claude Fable 5.1"
+
+- ref: "Ja 527 Ummadantī (VRI §93, Paṇṇāsanipāta)"
+  text: "Saggūpagaṃ puññakammaṃ janinda, mā me tuvaṃ antarāyaṃ akāsi;"
+  ja: "人々の主よ, 天に至る福業を, あなたは私のために妨げないでください"
+  words: ["antarāya"]
+  note: "人の属格 (me) + 事柄の対格 (puññakammaṃ)"
+  file: "s0514m.mul1"
+  para: 93
+  added: "2026/11/01"
+  model: "Claude Fable 5.1"
+
+- ref: "Vin Bhikkhunīvibhaṅga Pācittiya, Naggavagga 6 (VRI §907)"
+  text: "Thullanandā bhikkhunī – ‘‘tumhe bahukiccā bahukaraṇīyā’’ti antarāyaṃ akāsi."
+  ja: "トゥッラナンダー比丘尼は『あなたがたは用事が多く, なすべきことが多い』と (言って) 妨げをなした"
+  words: ["antarāya"]
+  file: "vin02m1.mul7"
+  para: 907
+  added: "2026/11/01"
+  model: "Claude Fable 5.1"
+
+- ref: "Vin Bhikkhunīvibhaṅga Pācittiya, Naggavagga 6 (VRI §908)"
+  text: "‘‘Yā pana bhikkhunī gaṇassa cīvaralābhaṃ antarāyaṃ kareyya, pācittiya’’nti."
+  ja: "また, 比丘尼が衆の衣の取得を妨げるなら, 波逸提である"
+  words: ["antarāya"]
+  note: "人の属格 (gaṇassa) + 事柄の対格 (cīvaralābhaṃ)"
+  file: "vin02m1.mul7"
+  para: 908
+  added: "2026/11/01"
+  model: "Claude Fable 5.1"
+
+- ref: "Vin Mahāvagga 1 Pabbajjākathā (VRI §25)"
+  text: "Amanussā dvāraṃ vivariṃsu – mā yasassa kulaputtassa koci antarāyamakāsi agārasmā anagāriyaṃ pabbajjāyāti."
+  ja: "人ならぬ者たちが門を開いた, 『良家の子ヤサが家から家なき状態へ出家するのに, 誰も妨げをなすな』と"
+  words: ["antarāya"]
+  note: "人の属格 (yasassa kulaputtassa) + 事柄の属格または与格 (pabbajjāya)"
+  file: "vin02m2.mul0"
+  para: 25
+  added: "2026/11/01"
+  model: "Claude Fable 5.1"
+
+- ref: "Vism VIII (VRI §223)"
+  text: "Phuṭṭhaphuṭṭhokāse pana satiṃ ṭhapetvā bhāventasseva bhāvanā sampajjati."
+  ja: "しかし, (息が) 触れるその都度の箇所に念を据えて修習する者にこそ, 修習は成就する"
+  words: ["sampajjati"]
+  file: "e0101n.mul8"
+  para: 223
+  added: "2026/11/01"
+  model: "Claude Fable 5.1"
