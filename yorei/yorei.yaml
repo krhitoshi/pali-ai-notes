@@ -122,6 +122,16 @@
   added: "2026/11/08"
   model: "Claude Fable 5.1"
 
+- ref: "MN 81 (VRI §287)"
+  text: "‘kālo, bhante, niṭṭhitaṃ bhatta’nti."
+  ja: "尊師よ, 時間です. 食事の用意ができました"
+  words: ["kāla", "niṭṭhita"]
+  note: "bhatta’nti は bhattaṃ + ti. niṭṭhitaṃ は niṭṭhāti の過去分詞で bhattaṃ の述語"
+  file: "s0202m.mul3"
+  para: 287
+  added: "2026/11/23"
+  model: "Claude Fable 5.2"
+
 - ref: "MN 81 (VRI §288)"
   text: "adhivāsetu me, bhante, bhagavā bārāṇasiyaṃ vassāvāsaṃ;"
   ja: "尊師よ, 世尊は私のためにバーラーナシーでの雨安居の滞在をお受けください"
