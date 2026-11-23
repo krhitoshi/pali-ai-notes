@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0202a.att3.xml
 generated: 2026/11/17
-updated: 2026/11/17
+updated: 2026/11/23
 ---
 
 # 5. Bodhirājakumārasuttavaṇṇanā
@@ -141,7 +141,7 @@ Pubbe kira so ekasmiṃ dīpe vasamāno samacchandena sakuṇapotake khādi. Sac
 * so = 「彼は」
 * sacāhaṃ = 「もし私が」(sace ahaṃ)
 * puttaṃ labhissāmi = 「子を得るのであれば」
-* sammāsambuddho = 「正等覚者は」
+* sammāsambuddho = 「正自覚者は」
 * mama celappaṭikaṃ = 「私の布の敷物を」
   * cela = 「布」
 * akkamissati = 「踏むだろう」
@@ -150,7 +150,7 @@ Pubbe kira so ekasmiṃ dīpe vasamāno samacchandena sakuṇapotake khādi. Sac
 * ti patthanaṃ katvā = 「〜と願をかけて」
 * santharāpesi = 「敷かせた」(使役)
 
-→「彼は"もし私が子を得るのであれば、正等覚者は私の布の敷物を踏むだろう。もし得ないのであれば、踏まないだろう"と願をかけて、(布を)敷かせた。」
+→「彼は"もし私が子を得るのであれば、正自覚者は私の布の敷物を踏むだろう。もし得ないのであれば、踏まないだろう"と願をかけて、(布を)敷かせた。」
 
 6. Atha bhagavā ‘‘nibbattissati nu kho etassa putto’’ti āvajjetvā ‘‘na nibbattissatī’’ti addasa.
 
@@ -382,10 +382,10 @@ Pubbe kira so ekasmiṃ dīpe vasamāno samacchandena sakuṇapotake khādi. Sac
   * saññī = 「〜という想いを持つ者」
   * ここでは、敷かれた布を踏むことを欲の楽にふけることと見なした、という意味
 * hutvā = 「〜となって、〜であって」
-* sammāsambuddho = 「正等覚者は」
+* sammāsambuddho = 「正自覚者は」
 * na akkami = 「踏まなかった」(akkamati のアオリスト)
 
-→「"正等覚者は、(布を踏むことを)欲の楽にふけることだという想いを持って、踏まれなかったのだ。」
+→「"正自覚者は、(布を踏むことを)欲の楽にふけることだという想いを持って、踏まれなかったのだ。」
 
 5. tasmā ahampi satthārā samānacchando bhavissāmīti maññamāno evamāha.
 

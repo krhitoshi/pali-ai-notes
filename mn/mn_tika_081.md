@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0202t.tik3.xml
 generated: 2026/11/03
-updated: 2026/11/03
+updated: 2026/11/23
 ---
 
 # 1. Ghaṭikārasuttavaṇṇanā
@@ -467,7 +467,7 @@ Nhānacuṇṇena suttena katā sotti, kuruvindaguḷikā, sā eva sināyanti k�
 * paṭipādetabbatā atthi = 「実践されるべきこと(成就させるべきこと)がある」
 * evaṃ santepi = 「そうであっても」
 * nanu = 「～ではないか」
-* sammāsambuddhesu = 「正等覚者たちに対して」
+* sammāsambuddhesu = 「正自覚者たちに対して」
 * pasādena = 「浄信によって」
 * sambhāvanāya bhavitabbaṃ = 「尊重があるべきである」
   * sambhāvanā = 「尊重、敬意」
@@ -476,7 +476,7 @@ Nhānacuṇṇena suttena katā sotti, kuruvindaguḷikā, sā eva sināyanti k�
   * hīḷanā = 「軽蔑、侮り」
 * iti āha ‘‘brāhmaṇakule’’tiādi = 「と(いう疑問に対して)『バラモンの家に』などと言った」
 
-→「たしかに彼の智には今もなお実践されるべきことがあるが、そうであっても、そのように長い間修習されてきたのだから、正等覚者たちに対して浄信による尊重があるべきではないか、どうしてそこに軽蔑があるのか、と(いう疑問に対して)『バラモンの家に』などと言った。」
+→「たしかに彼の智には今もなお実践されるべきことがあるが、そうであっても、そのように長い間修習されてきたのだから、正自覚者たちに対して浄信による尊重があるべきではないか、どうしてそこに軽蔑があるのか、と(いう疑問に対して)『バラモンの家に』などと言った。」
 
 3. Cirakālaparicitāpi hi guṇabhāvanā appakenapi akalyāṇamittasaṃsaggena viparivattati aññathattaṃ gacchati.
 

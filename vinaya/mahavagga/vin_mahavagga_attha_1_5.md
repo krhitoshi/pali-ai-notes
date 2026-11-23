@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/vin02a2.att0.xml
 generated: 2026/08/04
-updated: 2026/08/04
+updated: 2026/11/23
 ---
 
 # Brahmayācanakathā
@@ -383,10 +383,10 @@ Uṭṭhehīti bhagavato dhammadesanatthaṃ cārikacaraṇaṃ yācanto bhaṇa
 * vimalena anubuddhaṃ = 「無垢の者によって覚られた（法を）」
 * ime sattā = 「これらの生ける者たちは」
 * rāgādi-malānaṃ abhāvato = 「貪などの垢がないことから」
-* vimalena sammāsambuddhena = 「無垢の正等覚者によって」
+* vimalena sammāsambuddhena = 「無垢の正自覚者によって」
 * anubuddhaṃ catusacca-dhammaṃ = 「覚られた四諦の法を」
 
-→「『無垢の者によって覚られた法を聞け』とは、これらの生ける者たちは、貪などの垢がないゆえに無垢である正等覚者によって覚られた四諦の法を聞け、という意味である。」
+→「『無垢の者によって覚られた法を聞け』とは、これらの生ける者たちは、貪などの垢がないゆえに無垢である正自覚者によって覚られた四諦の法を聞け、という意味である。」
 
 10. Sele yathā pabbatamuddhaniṭṭhitoti selamaye ekagghane pabbatamuddhani yathāṭhitova yathā cakkhumā puriso samantato janataṃ passeyya, tvampi sumedha sundarapañña sabbaññutaññāṇena samantacakkhu bhagavā dhammamayaṃ paññāmayaṃ pāsādamāruyha sayaṃ apetasoko sokāvatiṇṇaṃ jātijarābhibhūtañca janataṃ avekkhassu upadhāraya.
 

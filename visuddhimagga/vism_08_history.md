@@ -426,3 +426,15 @@ vism_08.md (Visuddhimagga 第8章 安般念) の改訂記録.
   ことと, 原文ブロック・見出しが完全不変であることを機械的に確認.
   verify_taiyaku.rb は退行なし (該当再掲行は OK-NOSPACE で通過)
 - 改訂: Claude Fable 5
+
+### 2026/11/23 sammāsambuddha の訳語を 正自覚者 に統一
+
+- 内容: sammāsambuddha の訳語 正等覚者 を 正自覚者 に置換 (3 箇所).
+  訳語の基準 (sammāsambuddha: 正自覚者. 正等覚者 は使わない) を既存の
+  対訳に当てはめた
+- 対象: §217 (4) sammāsambuddho vata so bhagavā の語釈行 (2 箇所) と
+  文訳 (1 箇所)
+- 不変: 原文ブロックと再掲行は不変
+- 検証: 全変更行が 正等覚者 -> 正自覚者 の差だけであることと, 変更が
+  語釈行と文訳に限られることを機械的に確認
+- 改訂: Claude Fable 5.2

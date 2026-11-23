@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0202a.att1.xml
 generated: 2026/03/19
-updated: 2026/07/23
+updated: 2026/11/23
 ---
 
 2. Mahārāhulovādasuttavaṇṇanā
@@ -478,14 +478,14 @@ Māhārāhulovādasuttavaṇṇanā niṭṭhitā.
 * vālikaṃ = 「砂を」
 * okirati = 「撒いて」
 * ajja = 「『今日、」
-* sammāsambuddhassa = 「正等覚者の」
+* sammāsambuddhassa = 「正自覚者の」
 * santikā = 「もとから、」
 * mayhaṃ upajjhāyassa = 「私の和尚の」
 * santikā = 「もとから、」
 * ettakaṃ ovādaṃ = 「これほどの教誡を、」
 * ettakaṃ paribhāsaṃ = 「これほどの叱責を」
 * labhāmīti. = 「得よう』と（願う）。」
-* Sammāsambuddhopi naṃ = 「正等覚者も彼を」
+* Sammāsambuddhopi naṃ = 「正自覚者も彼を」
 * etadagge = 「第一の地位に」
 * ṭhapento = 「置く際、」
 * etadaggaṃ, bhikkhave, mama sāvakānaṃ bhikkhūnaṃ sikkhākāmānaṃ yadidaṃ rāhuloti (a. ni. 1.209) = 「『比丘たちよ、私の声聞の比丘たちの中で、学を好む者の第一はこのラーフラである』と」
@@ -522,7 +522,7 @@ Māhārāhulovādasuttavaṇṇanā niṭṭhitā.
 * rūpampi rāhulātiādimāha. = 「『色も、ラーフラよ』などを語ったのである。」
 * Ko najjāti ko nu ajja. = 「『ko najjā』とは『ko nu ajja（今日誰が）』のことである。」
 * Therassa kira etadahosi = 「長老には実にこのように思われた。」
-* sammāsambuddho = 「『正等覚者は」
+* sammāsambuddho = 「『正自覚者は」
 * mayhaṃ = 「私の」
 * attabhāvanissitaṃ = 「身体に依存した」
 * chandarāgaṃ = 「欲貪を」

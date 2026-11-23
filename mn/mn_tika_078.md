@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0202t.tik2.xml
 generated: 2026/10/18
-updated: 2026/10/18
+updated: 2026/11/23
 ---
 
 # 8. Samaṇamuṇḍikāputtasuttavaṇṇanā
@@ -326,7 +326,7 @@ Nābhinandīti na sampaṭicchi. Sāsane tiṇṇaṃ duccaritānaṃ micchājī
 * tasmā = 「それゆえに」
 * sāsanassa anulomaṃ viya vadati = 「教えに随順するかのように語っている」
 * vadanto ca = 「そして語りながら」
-* sammāsambuddhe dhamme ca = 「正等覚者と法とに対して」
+* sammāsambuddhe dhamme ca = 「正自覚者と法とに対して」
 * assa appasādaṃ na dasseti = 「彼の不信を示さない」
   * appasāda = 「不信、信がないこと」
 * tasmā = 「それゆえに」
@@ -335,7 +335,7 @@ Nābhinandīti na sampaṭicchi. Sāsane tiṇṇaṃ duccaritānaṃ micchājī
 * maññamāno = 「考えて」
 * tassa vādaṃ na paṭisedheti = 「彼の説を否定しない」
 
-→「教えにおいては三つの悪行と邪命の回避が称賛されているが、この者もそのように語っている。それゆえに教えに随順するかのように語っており、また語りながら、正等覚者と法とに対する不信を示していない。それゆえに (パンチャカンガは)『信ある者の仕方でも語っている』と考えて、彼の説を否定しない (のである)。」
+→「教えにおいては三つの悪行と邪命の回避が称賛されているが、この者もそのように語っている。それゆえに教えに随順するかのように語っており、また語りながら、正自覚者と法とに対する不信を示していない。それゆえに (パンチャカンガは)『信ある者の仕方でも語っている』と考えて、彼の説を否定しない (のである)。」
 
 ## 262
 

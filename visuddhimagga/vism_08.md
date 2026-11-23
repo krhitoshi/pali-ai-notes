@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/e0101n.mul8.xml
 generated: 2026/06/20
-updated: 2026/07/26
+updated: 2026/11/23
 ---
 
 # 8. Anussatikammaṭṭhānaniddeso
@@ -808,10 +808,10 @@ Tenassa parakkamajavayoggabhūmiṃ araññasenāsanaṃ dassento bhagavā ‘�
 * tato = 「それより後・それゆえに」
 * tattha kammaṭṭhānaṃ anuyuttena yoginā = 「そこで業処に専念した瑜伽者によって」（anuyutta「専従した・専修した」過分 ＋ yogin・具格）
 * kamena arahatte patte = 「次第に阿羅漢果に達したとき」（kama「順序・次第」具格的「漸次に」＋ arahatta・処 ＋ patta・処格絶対節「達せられたとき」）
-* "sammāsambuddho vata so bhagavā"ti = 「『かの世尊は、まことに正等覚者である』と」（sammāsambuddha「正等覚者」＋ vata「まことに・ああ」＋ so bhagavā ＋ 引用辞 ti）
+* "sammāsambuddho vata so bhagavā"ti = 「『かの世尊は、まことに正自覚者である』と」（sammāsambuddha「正自覚者」＋ vata「まことに・ああ」＋ so bhagavā ＋ 引用辞 ti）
 * mahantaṃ sakkāraṃ labhati = 「大いなる尊崇を得る」（対 ＋ labhati）
 
-→「まさに同様に、〔世尊は〕瑜伽行者にふさわしい坐臥処を検分して、『ここで業処に専念すべきである』と指示し、その後、そこで業処に専念した瑜伽者によって次第に阿羅漢果が達せられたとき、『かの世尊は、まことに正等覚者であった』と〔讃えられ〕、大いなる尊崇を得るのである。」
+→「まさに同様に、〔世尊は〕瑜伽行者にふさわしい坐臥処を検分して、『ここで業処に専念すべきである』と指示し、その後、そこで業処に専念した瑜伽者によって次第に阿羅漢果が達せられたとき、『かの世尊は、まことに正自覚者であった』と〔讃えられ〕、大いなる尊崇を得るのである。」
 
 4. Ayaṃ pana bhikkhu dīpisadisoti vuccati.
 

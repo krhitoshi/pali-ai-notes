@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/vin02m2.mul0.xml
 generated: 2026/08/08
-updated: 2026/08/08
+updated: 2026/11/23
 ---
 
 # 13. Bimbisārasamāgamakathā
@@ -90,7 +90,7 @@ updated: 2026/08/08
 * itipi = 「すなわちこのように」
 * so bhagavā = 「かの世尊は」
 * arahaṃ = 「阿羅漢であり」
-* sammāsambuddho = 「正等覚者であり」
+* sammāsambuddho = 「正自覚者であり」
 * vijjācaraṇasampanno = 「明知と行いを具えた者(明行足)であり」
 * sugato = 「善逝であり」
 * lokavidū = 「世間を知る者(世間解)であり」
@@ -99,7 +99,7 @@ updated: 2026/08/08
 * buddho bhagavā = 「覚者であり、世尊である」
   * 異読 bhagavāti (ka.) = 「世尊である、と」
 
-→「そしてその世尊ゴータマについて、このような良い名声が広まっている――『かの世尊はこのように、阿羅漢であり、正等覚者であり、明知と行いを具えた者であり、善逝であり、世間を知る者であり、調御されるべき人の無上の御者であり、神々と人間の師であり、覚者であり、世尊である。』」
+→「そしてその世尊ゴータマについて、このような良い名声が広まっている――『かの世尊はこのように、阿羅漢であり、正自覚者であり、明知と行いを具えた者であり、善逝であり、世間を知る者であり、調御されるべき人の無上の御者であり、神々と人間の師であり、覚者であり、世尊である。』」
 
 7. So imaṃ lokaṃ sadevakaṃ samārakaṃ sabrahmakaṃ sassamaṇabrāhmaṇiṃ pajaṃ sadevamanussaṃ sayaṃ abhiññā sacchikatvā pavedeti.
 

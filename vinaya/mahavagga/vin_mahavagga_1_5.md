@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/vin02m2.mul0.xml
 generated: 2026/08/08
-updated: 2026/08/08
+updated: 2026/11/23
 ---
 
 # 5. Brahmayācanakathā
@@ -269,13 +269,13 @@ Aññātāro bhavissantī’’ti.
   * bho = 「君よ、ああ」（呼びかけの不変化詞）
 * vinassati vata bho loko = 「ああ、世界は消え失せる」
 * yatra hi nāma = 「まさに～というのだから」
-* tathāgatassa arahato sammāsambuddhassa = 「如来・阿羅漢・正等覚者の」
+* tathāgatassa arahato sammāsambuddhassa = 「如来・阿羅漢・正自覚者の」
 * appossukkatāya cittaṃ namati = 「心が無関心（何もしないこと）へと傾く」
   * appossukkatā = 「無関心であること、あえて行動しないこと」（appa-ussuka の抽象名詞）
   * namati = 「傾く」（異読 namissati = 「傾くだろう」）
 * no dhammadesanāya = 「法を説くことへではなく」
 
-→「そこで梵天サハンパティは、世尊の心の思考を心で知って、このような思いが起こった――『ああ、世界は滅びる。ああ、世界は消え失せる。如来・阿羅漢・正等覚者の心が、法を説くことへではなく、無関心へと傾くのだから』と。」
+→「そこで梵天サハンパティは、世尊の心の思考を心で知って、このような思いが起こった――『ああ、世界は滅びる。ああ、世界は消え失せる。如来・阿羅漢・正自覚者の心が、法を説くことへではなく、無関心へと傾くのだから』と。」
 
 2. Atha kho brahmā sahampati – seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya, pasāritaṃ vā bāhaṃ samiñjeyya evameva – brahmaloke antarahito bhagavato purato pāturahosi.
 

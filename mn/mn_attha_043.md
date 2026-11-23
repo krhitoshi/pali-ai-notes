@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0201a.att5.xml
 generated: 2026/07/26
-updated: 2026/09/04
+updated: 2026/11/23
 ---
 
 # 3. Mahāvedallasuttavaṇṇanā
@@ -1178,14 +1178,14 @@ Indriyasaṃyuttepi ‘‘pañcimāni, bhikkhave, indriyāni. Katamāni pañca? 
 
 15. Sammāsambuddhopi hi lokiyadhammaṃ pucchanto, ‘‘bhikkhu, tvaṃ katamaṃ paññaṃ adhigato, kiṃ paṭhamamaggapaññaṃ, udāhu dutiya tatiya catuttha maggapañña’’nti na evaṃ pucchati.
 
-* sammāsambuddhopi hi = 「実に正等覚者も」
+* sammāsambuddhopi hi = 「実に正自覚者も」
 * lokiyadhammaṃ pucchanto = 「世間の法を問うときには」
 * bhikkhu, tvaṃ katamaṃ paññaṃ adhigato = 「比丘よ、あなたはどの慧を得たのか」
 * kiṃ paṭhamamaggapaññaṃ = 「第一の道の慧か」
 * udāhu dutiya tatiya catuttha maggapaññaṃ = 「それとも第二・第三・第四の道の慧か」
 * na evaṃ pucchati = 「このようには問わない」
 
-→「実に正等覚者も、世間の法を問うときには、『比丘よ、あなたはどの慧を得たのか。第一の道の慧か、それとも第二・第三・第四の道の慧か』とこのようには問わない。」
+→「実に正自覚者も、世間の法を問うときには、『比丘よ、あなたはどの慧を得たのか。第一の道の慧か、それとも第二・第三・第四の道の慧か』とこのようには問わない。」
 
 16. Kiṃ phasso tvaṃ, bhikkhu, kiṃ vedano, kiṃ sañño, kiṃ cetanoti na ca pucchati, cittavasena pana, ‘‘kiñcitto tvaṃ, bhikkhū’’ti (pārā. 135) pucchati.
 

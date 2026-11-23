@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0201a.att1.xml
 generated: 2026/11/10
-updated: 2026/11/10
+updated: 2026/11/23
 ---
 
 # 1. Mūlapariyāyasuttavaṇṇanā
@@ -1554,7 +1554,7 @@ Evaṃ me sutamiccevaṃ, vadaṃ gotamasāvako’’ti.
   * dīpa は「灯」とも取れる(要確認)
 * dhamma-saraṇassa = 「法の帰依処である(方の)」
 * saddhamma-vara-cakkavattino = 「正法のすぐれた転輪王である(方の)」
-* sammāsambuddhassa = 「正しく自ら目覚めた方(正等覚者)の」
+* sammāsambuddhassa = 「正しく自ら目覚めた方(正自覚者)の」
 * vacanaṃ = 「言葉」
 
 →「「これは私が面前で受け取った、あの世尊の言葉である。すなわち、四つの無畏によって畏れがなく、十の力を保持し、牡牛の地位に立ち、獅子吼をほえ、すべての生きものの中で最上であり、法の主、法の王、法の支配者、法の島、法の帰依処、正法のすぐれた転輪王である、正しく自ら目覚めた方の言葉である。」
@@ -3339,7 +3339,7 @@ Tattha ukkaṭṭhākittanena āyasmā ānando bhagavato gahaṭṭhānuggahakar
 * katamo ekapuggalo = 「どのようなひとりの人か」
 * tathāgato = 「如来」
 * arahaṃ = 「阿羅漢」
-* sammāsambuddho = 「正等覚者」
+* sammāsambuddho = 「正自覚者」
 * ti vacanato = 「〜という言葉から」
 * (a. ni. 1.170) = 出典表示 (アングッタラ・ニカーヤ 1.170)
 * yadatthaṃ = 「その目的のために」（yad-atthaṃ）
@@ -3347,7 +3347,7 @@ Tattha ukkaṭṭhākittanena āyasmā ānando bhagavato gahaṭṭhānuggahakar
 * tad-attha-parinipphādanaṃ = 「その目的を完成させること」
   * parinipphādana = 「完成させること」
 
-→「どのようなひとりの人か。如来・阿羅漢・正等覚者である』という言葉から、世尊がその目的のために生まれた、その目的を完成させることを (示し)、」
+→「どのようなひとりの人か。如来・阿羅漢・正自覚者である』という言葉から、世尊がその目的のために生まれた、その目的を完成させることを (示し)、」
 
 20. pacchimena yattha uppanno, tadanurūpavihāraṃ.
 
@@ -14193,10 +14193,10 @@ Evaṃ tathā āgatoti tathāgato.
   * ussukka = 「熱意、努力」
   * āpanna = 「〜に至った」(ā-pad の過去分詞)
 * purimakā = 「以前の、過去の」
-* sammāsambuddhā = 「正等覚者たちが」
+* sammāsambuddhā = 「正自覚者たちが」
 * āgatā = 「来た」(複数)
 
-→「一切世間の利益のために熱意を起こした過去の正等覚者たちが来たように、」
+→「一切世間の利益のために熱意を起こした過去の正自覚者たちが来たように、」
 
 9. yathā vipassī bhagavā āgato, yathā sikhī bhagavā, yathā vessabhū bhagavā, yathā kakusandho bhagavā, yathā koṇāgamano bhagavā, yathā kassapo bhagavā āgatoti.
 

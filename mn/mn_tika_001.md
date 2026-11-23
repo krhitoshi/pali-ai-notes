@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0201t.tik1.xml
 generated: 2026/11/10
-updated: 2026/11/10
+updated: 2026/11/23
 ---
 
 # 1. Mūlapariyāyasuttavaṇṇanā
@@ -9257,16 +9257,16 @@ Yaṃ nidānaṃ bhāsitanti sambandho. Etthāha – kimatthaṃ pana dhammavina
   * āgama = 「伝承、他から伝え聞いたもの」
   * takka = 「思弁、理屈による推し量り」
   * abhāvato = 「ないことから」(奪格)
-* sammāsambuddha-bhāva-siddhi = 「正等覚者であることの成立」
+* sammāsambuddha-bhāva-siddhi = 「正自覚者であることの成立」
   * siddhi = 「成立、証明されること」
 
-→「というのは、如来である世尊には、事前の組み立て・推論・伝承・思弁がないことから、正等覚者であることが成立するからである。」
+→「というのは、如来である世尊には、事前の組み立て・推論・伝承・思弁がないことから、正自覚者であることが成立するからである。」
 
 10. Na hi sammāsambuddhassa pubbaracanādīhi attho atthi sabbattha appaṭihatañāṇacāratāya ekappamāṇattā ca ñeyyadhammesu.
 
 * na hi ... attho atthi = 「実に〜の必要はない」
   * attho(具格を伴う)= 「〜の用、必要」
-* sammāsambuddhassa = 「正等覚者には」
+* sammāsambuddhassa = 「正自覚者には」
 * pubbaracanā-ādīhi = 「事前の組み立てなどの」(具格)
 * sabbattha = 「すべてにおいて」
 * appaṭihata-ñāṇa-cāratāya = 「智の働きが妨げられないことから」
@@ -9278,7 +9278,7 @@ Yaṃ nidānaṃ bhāsitanti sambandho. Etthāha – kimatthaṃ pana dhammavina
 * ca = 「そして」
 * ñeyya-dhammesu = 「知られるべき法について」
 
-→「実に、正等覚者には事前の組み立てなどの必要はない。すべてにおいて智の働きが妨げられず、知られるべき法について認識の手段がただ一つだからである。」
+→「実に、正自覚者には事前の組み立てなどの必要はない。すべてにおいて智の働きが妨げられず、知られるべき法について認識の手段がただ一つだからである。」
 
 11. Tathā ācariyamuṭṭhidhammamacchariyasāsanasāvakānurodhābhāvato khīṇāsavabhāvasiddhi.
 
@@ -9326,7 +9326,7 @@ Yaṃ nidānaṃ bhāsitanti sambandho. Etthāha – kimatthaṃ pana dhammavina
 * sambuddha-visuddha-bhāvehi = 「正覚者であることと清浄であることによって」
 * purima-vesārajja-dvaya-siddhi = 「前の二つの無畏の成立」
   * vesārajja = 「無畏、おそれのない自信」
-  * 文脈上、正等覚者であること・漏を尽くしていることについての無畏を指す
+  * 文脈上、正自覚者であること・漏を尽くしていることについての無畏を指す
 
 →「このように、説者の汚れとなり、見の成就と戒の成就を損なう無明と渇愛がまったくないことを示し、智の成就と断の成就を明らかにする、正覚者であることと清浄であることによって、前の二つの無畏が成立し、」
 
@@ -9442,7 +9442,7 @@ Abbhantaranidānavaṇṇanā niṭṭhitā.
 * paresaṃ eva atthāya = 「他の者たちの利益のためだけに」
 * pavatta-sabba-kiriyassa = 「すべての行いが働いている(方)の」
   * pavatta = 「起こった、働いている」
-* sammāsambuddhassa = 「正等覚者の」
+* sammāsambuddhassa = 「正自覚者の」
 * sakalampi = 「全体も、すべてが」(sakalaṃ + pi)
 * kāya-vacī-mano-kammaṃ = 「身・語・意の行為」
 * yathāpavattaṃ = 「起こったとおりに」
@@ -9461,7 +9461,7 @@ Abbhantaranidānavaṇṇanā niṭṭhitā.
   * kabya = 「詩、詩文」
   * racanā = 「作ること、構成」
 
-→「それゆえ、すべての行いが他の者たちの利益のためだけに働いている正等覚者の、身・語・意の行為のすべては、起こったとおりに語られるとき、現世の利益・来世の利益・究極の利益によって衆生たちをそれぞれにふさわしく教え諭すという意味で"教え"なのであり、詩文の創作ではない。」
+→「それゆえ、すべての行いが他の者たちの利益のためだけに働いている正自覚者の、身・語・意の行為のすべては、起こったとおりに語られるとき、現世の利益・来世の利益・究極の利益によって衆生たちをそれぞれにふさわしく教え諭すという意味で"教え"なのであり、詩文の創作ではない。」
 
 4. tayidaṃ satthucaritaṃ kāladesadesakaparisāpadesehi saddhiṃ tattha tattha nidānavacanehi yathārahaṃ pakāsīyati,
 
@@ -9675,11 +9675,11 @@ Ettha ca yathā attajjhāsayassa aṭṭhuppattiyā ca parajjhāsayapucchāhi sa
 * arahaṃ = 「阿羅漢である」
 * khīṇāsavo = 「漏の尽きた者」
 * tathāgato pi kho = 「如来もまた」
-* sammāsambuddho = 「正等覚者」
+* sammāsambuddho = 「正自覚者」
 * (ma. ni. 1.8)、(ma. ni. 1.12) = マッジマ・ニカーヤの該当箇所を示す参照表記
 * ca = 「〜も」
 
-→「なぜなら、このようにすれば、"比丘たちよ、教えを聞いていない凡夫は"などによって、"比丘たちよ、阿羅漢であり漏の尽きたその比丘も"などによって、また"比丘たちよ、阿羅漢であり正等覚者である如来も"などによって」
+→「なぜなら、このようにすれば、"比丘たちよ、教えを聞いていない凡夫は"などによって、"比丘たちよ、阿羅漢であり漏の尽きたその比丘も"などによって、また"比丘たちよ、阿羅漢であり正自覚者である如来も"などによって」
 
 8. pavattadesanā anusandhidassanasukhatāya suviññeyyā hoti.
 
@@ -12687,7 +12687,7 @@ Tatrāti ñāṇadassanasseva dassanabhāve. Vatthūti adhippetatthañāpanakār
 
 10. Sammāsambuddho pana kappānaṃ asaṅkhyeyyasahassesupi kataṃ upakāraṃ maggaphalānaṃ upanissayañca jānāti, pākaṭañca karoti, sīho viya ca evaṃ sabbattha sakkaccameva dhammadesanaṃ karonto buddhakiccaṃ karoti.
 
-* sammāsambuddho = 「正等覚者は」
+* sammāsambuddho = 「正自覚者は」
 * pana = 「一方、しかし」
 * kappānaṃ asaṅkhyeyyasahassesupi = 「幾千阿僧祇の劫においても」
   * asaṅkhyeyya = 「阿僧祇、数えきれないもの」
@@ -12705,7 +12705,7 @@ Tatrāti ñāṇadassanasseva dassanabhāve. Vatthūti adhippetatthañāpanakār
 * dhammadesanaṃ karonto = 「法の説示を行いながら」(karoti の現在分詞)
 * buddhakiccaṃ karoti = 「仏の務めを行う」
 
-→「一方、正等覚者は、幾千阿僧祇劫もの昔になされた助けであっても、また道と果の強い依りどころをも知り、明らかにする。そして獅子のように、このようにあらゆる場合にただ丁寧に法の説示を行いながら、仏の務めを行う。」
+→「一方、正自覚者は、幾千阿僧祇劫もの昔になされた助けであっても、また道と果の強い依りどころをも知り、明らかにする。そして獅子のように、このようにあらゆる場合にただ丁寧に法の説示を行いながら、仏の務めを行う。」
 
 11. Yāya paṭipattiyā diṭṭhā nāma honti, tassā appaṭipajjanabhāvo, tattha ca ādarābhāvo ariyānaṃ adassanasīlatā ca, na ca dassane sādhukāritā ca veditabbā.
 
@@ -24913,12 +24913,12 @@ Tathā āgatoti ettha ākāraniyamanavasena opammasampaṭipādanattho tathā-sa
 * sambahula-niddesena = 「多くの(仏についての)説示によって」(要確認)
 * supākaṭānaṃ = 「よく知られた」
 * āsannānaṃ ca = 「また(時代の)近い」
-* vipassī-ādīnaṃ channaṃ sammāsambuddhānaṃ vasena = 「ヴィパッシーなど六人の正等覚者によって」
+* vipassī-ādīnaṃ channaṃ sammāsambuddhānaṃ vasena = 「ヴィパッシーなど六人の正自覚者によって」
 * dassento = 「示しつつ」
 * yathā vipassī bhagavā = 「ヴィパッシー世尊のように」
 * tiādim āha = 「などと言った」
 
-→「さらにその実践を、マハーパダーナ経などで多くの説示によってよく知られており、また時代の近いヴィパッシーなど六人の正等覚者によって示しつつ、「ヴィパッシー世尊のように」などと言った。」
+→「さらにその実践を、マハーパダーナ経などで多くの説示によってよく知られており、また時代の近いヴィパッシーなど六人の正自覚者によって示しつつ、「ヴィパッシー世尊のように」などと言った。」
 
 15. Tattha yena abhinīhārenāti manussatta-liṅgasampatti-hetu-satthāradassana-pabbajjā-abhiññādiguṇasampatti-adhikāra-chandānaṃ vasena aṭṭhaṅgasamannāgatena kāyapaṇidhānamahāpaṇidhānena.
 
@@ -24941,14 +24941,14 @@ Tathā āgatoti ettha ākāraniyamanavasena opammasampaṭipādanattho tathā-sa
 
 16. Sabbesañhi sammāsambuddhānaṃ kāyapaṇidhānaṃ imināva nīhārena samijjhatīti.
 
-* sabbesaṃ hi sammāsambuddhānaṃ = 「というのは、すべての正等覚者の」
+* sabbesaṃ hi sammāsambuddhānaṃ = 「というのは、すべての正自覚者の」
 * kāya-paṇidhānaṃ = 「身による誓願」
 * iminā eva nīhārena = 「まさにこのやり方によって」
   * nīhāra = 「やり方、方式」(abhinīhāra の語にかけた説明と解する)
 * samijjhati = 「成就する」
 * iti = 文の締めくくり
 
-→「というのは、すべての正等覚者の身による誓願は、まさにこのやり方によって成就するからである。」
+→「というのは、すべての正自覚者の身による誓願は、まさにこのやり方によって成就するからである。」
 
 ## 12 (2)
 
@@ -25039,7 +25039,7 @@ Evaṃ mahābhinīhāravasena ‘‘tathāgato’’ti padassa atthaṃ vatvā i
 * yathā pana = 「ところで、〜のように」
 * pubbe = 「かつて、以前に」
 * vipassī-ādayo = 「ヴィパッシーをはじめとする」
-* sammāsambuddhā = 「正等覚者たちが」(複数・主格)
+* sammāsambuddhā = 「正自覚者たちが」(複数・主格)
 * abhinīhāra-sampattiyaṃ = 「決意の成就に」(処格)
   * sampatti = 「成就、完備」
 * patiṭṭhāya = 「立脚して」(patiṭṭhāti の連続体)
@@ -25049,7 +25049,7 @@ Evaṃ mahābhinīhāravasena ‘‘tathāgato’’ti padassa atthaṃ vatvā i
 * sabbā pāramiyo = 「すべての波羅蜜を」(複数・対格)
 * paripūresuṃ = 「満たしきった」(paripūreti のアオリスト・三人称複数)
 
-→「ところで、かつてヴィパッシーをはじめとする正等覚者たちが、決意の成就に立脚して、きわめて清らかな実践によって、残りなく、まさに正しく、すべての波羅蜜を満たしきったように、」
+→「ところで、かつてヴィパッシーをはじめとする正自覚者たちが、決意の成就に立脚して、きわめて清らかな実践によって、残りなく、まさに正しく、すべての波羅蜜を満たしきったように、」
 
 6. evaṃ amhākampi bhagavā paripūresīti imamatthaṃ sandhāyāha ‘‘samattiṃ sapāramiyo pūretvā’’ti.
 
@@ -28497,13 +28497,13 @@ Nanu ca (itivu. aṭṭha. 38) sabbaññutaññāṇato aññaṃ anāvaraṇañ
 * bhagavā = 「世尊は」
 * sabbaññū = 「一切知者」
 * sabbavidū = 「一切を知る者」
-* sammāsambuddho = 「正等覚者(正しく自ら完全に覚った者)」
+* sammāsambuddho = 「正自覚者(正しく自ら完全に覚った者)」
 * ti ca vuccati = 「とも呼ばれる」
 * na = 「〜ではない」
 * sakiṃ eva = 「ただ一度に、同時に」
 * sabbadhamma-avabodhato = 「一切の法を覚ることによって」(奪格)
 
-→「そしてその獲得によって、世尊は "一切知者" "一切を知る者" "正等覚者" とも呼ばれるのであり、一切の法をただ一度に(同時に)覚ることによってではない。」
+→「そしてその獲得によって、世尊は "一切知者" "一切を知る者" "正自覚者" とも呼ばれるのであり、一切の法をただ一度に(同時に)覚ることによってではない。」
 
 15. Tathā ca vuttaṃ paṭisambhidāyaṃ (paṭi. ma. 1.162) ‘‘vimokkhantikametaṃ buddhānaṃ bhagavantānaṃ bodhiyā mūle saha sabbaññutaññāṇassa paṭilābhā sacchikā paññatti yadidaṃ buddho’’ti.
 
@@ -30444,14 +30444,14 @@ Lokuttarabhāvato vā tatthāpi heṭṭhimamaggānaṃ viya tatuttarimaggābhā
 19. yathā ca sammāsambuddho aññesaṃ nissayabhāvena saccāni abhisambujjhanti,
 
 * yathā ca = 「また〜のように」
-* sammāsambuddho = 「正等覚者は」
+* sammāsambuddho = 「正自覚者は」
 * aññesaṃ = 「他の者たちの」
 * nissayabhāvena = 「依りどころとなることによって」
 * saccāni = 「諸々の真理を」
 * abhisambujjhanti = 「覚る」
   * 主語は単数だが動詞は複数形になっている(原文のまま)
 
-→「また正等覚者は他の者たちの依りどころとなって諸々の真理を覚る。そのようには、」
+→「また正自覚者は他の者たちの依りどころとなって諸々の真理を覚る。そのようには、」
 
 20. na evamete, ete pana aparaneyyā hutvā apariṇāyakabhāvena saccāni paṭivijjhanti.
 
@@ -32178,11 +32178,11 @@ Bhūmittayapariyāpannesu asaṅkhātadhammavippakatapariññādikiccasaṅkhāt
   * asaṅkhāta-dhamma = 「法を量り知っていない者」(凡夫を指すと見られる)
   * vippakata-pariññā-ādi-kicca = 「遍知などの務めがまだ完了していない者」(有学を指すと見られる)
   * saṅkhāta-dhamma = 「法を量り知った者」(阿羅漢を指すと見られる)
-* sammāsambuddhassa ca = 「そして正等覚者の」
+* sammāsambuddhassa ca = 「そして正自覚者の」
 * paṭipattiṃ = 「実践、あり方を」
 * ajānantā = 「知らない者たち」(現在分詞・主格複数、veneyyā にかかる)
 
-→「三つの地に含まれるものに対する、法を究めていない者(凡夫)・遍知などの務めが未完了の者(有学)・法を究めた者(阿羅漢)、そして正等覚者の実践を知らず、」
+→「三つの地に含まれるものに対する、法を究めていない者(凡夫)・遍知などの務めが未完了の者(有学)・法を究めた者(阿羅漢)、そして正自覚者の実践を知らず、」
 
 11. asaddhammassavanadhāraṇaparicayamanasikāraparā saddhammassavana-dhāraṇaparicayapaṭivedhavimukhā ca veneyyā imissā desanāya bhājanaṃ.
 
@@ -35319,15 +35319,15 @@ Sekkhaggahaṇena ariyāya sammādiṭṭhiyā saṅgaho, tato ca paratoghosayon
 
 9. Sammāsambuddhapaccekabuddhasāvakabhedena tividhā ariyā.
 
-* sammāsambuddha-paccekabuddha-sāvaka-bhedena = 「正等覚者・独覚・弟子という違いによって」
-  * sammāsambuddha = 「正等覚者」
+* sammāsambuddha-paccekabuddha-sāvaka-bhedena = 「正自覚者・独覚・弟子という違いによって」
+  * sammāsambuddha = 「正自覚者」
   * paccekabuddha = 「独覚」
   * sāvaka = 「弟子(声聞)」
   * bheda = 「違い、区別」
 * tividhā = 「三種である」
 * ariyā = 「聖者たち」
 
-→「正等覚者・独覚・弟子という違いによって、聖者は三種である。」
+→「正自覚者・独覚・弟子という違いによって、聖者は三種である。」
 
 10. Maṃsacakkhudibbacakkhupaññācakkhūhi dassanābhāvena tividho adassāvī.
 
@@ -35822,11 +35822,11 @@ Maññanā pana taṇhāmānadiṭṭhivasena saṅkhepato tividhā, vitthārato
 15. arahā sammāsambuddho ca pathaviṃ na maññati, yāva nibbānaṃ nābhinandati,
 
 * arahā = 「阿羅漢は」
-* sammāsambuddho ca = 「そして正等覚者は」
+* sammāsambuddho ca = 「そして正自覚者は」
 * pathaviṃ na maññati = 「地を思いなさない」
 * yāva nibbānaṃ na abhinandati = 「涅槃を喜ばない、に至るまで」
 
-→「阿羅漢と正等覚者は地を思いなさず、…涅槃を喜ばない、に至るまで[同様である]。」
+→「阿羅漢と正自覚者は地を思いなさず、…涅槃を喜ばない、に至るまで[同様である]。」
 
 16. maññanāmaññitesu vatthūsu mattaso sabbaso ca pariññābhisamayasaṃsiddhiyā pahānābhisamayanibbattito.
 
@@ -35834,7 +35834,7 @@ Maññanā pana taṇhāmānadiṭṭhivasena saṅkhepato tividhā, vitthārato
   * maññita = 「思いなされた」(maññati の過去分詞)
 * mattaso = 「部分的に、ある程度」
 * sabbaso ca = 「そして全面的に」
-  * mattaso が有学、sabbaso が阿羅漢・正等覚者に当たると文脈から判断(要確認)
+  * mattaso が有学、sabbaso が阿羅漢・正自覚者に当たると文脈から判断(要確認)
 * pariññā-abhisamaya-saṃsiddhiyā = 「遍知という現観の成就によって」
   * abhisamaya = 「現観(はっきりと見通すこと)」
   * saṃsiddhi = 「成就、完成」
@@ -35842,7 +35842,7 @@ Maññanā pana taṇhāmānadiṭṭhivasena saṅkhepato tividhā, vitthārato
   * pahāna = 「捨断、捨て去ること」
   * nibbatti = 「生じること、成立」(奪格で理由を示す)
 
-→「思いなしによって思いなされた諸対象について、[有学には]部分的に、[阿羅漢と正等覚者には]全面的に、遍知という現観が成就することによって、捨断という現観が生じるからである。」
+→「思いなしによって思いなされた諸対象について、[有学には]部分的に、[阿羅漢と正自覚者には]全面的に、遍知という現観が成就することによって、捨断という現観が生じるからである。」
 
 17. Yassa pana tesu vatthūsu sabbaso mattaso vā pariññā eva natthi, kuto pahānaṃ,
 
