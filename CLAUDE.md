@@ -92,7 +92,7 @@
 
 ## 用語の統一
 
-- 対訳・ノート・回答で使う語は `docs/translation_terms.md` を正典とする.
+- 対訳・ノート・回答・用例で使う語は `docs/translation_terms.md` を基準とする.
   語を足したり変えたりするときはここを更新し, 対訳の生成に効かせる語は
   `system_prompt_no_paraphrase.md` にも写す
 - 人名・地名・経名などの固有名詞はカタカナ音写で書く (例: サーヴァッティー,
