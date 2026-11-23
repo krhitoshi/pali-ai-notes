@@ -1,6 +1,6 @@
 ---
 generated: 2026/11/22
-updated: 2026/11/22
+updated: 2026/11/23
 models: Claude Fable 5.2
 reviewed: 2026/11/22 (Claude Fable 5.2)
 ---
@@ -90,7 +90,7 @@ Duroiselle は主語と述語の一致について、述語が名詞のときは
 
 > But if a substantive stands in the place of a verb, no such concord of gender or number needs take place
 
-この型はその規則に沿ったものと見られる (これは筆者の推論)。指示代名詞を述語の名詞に合わせることは必須ではなく、関係詞と同じ性のままにする例もある。
+この型はその規則に沿ったものと見られる (これは上の用例にこの規則を当てはめた本ノートの推論)。指示代名詞を述語の名詞に合わせることは必須ではなく、関係詞と同じ性のままにする例もある。
 
 ```
 Yadaniccaṃ taṃ dukkhaṃ; yaṃ dukkhaṃ tadanattā
@@ -286,7 +286,7 @@ sabrahmacāriṃ passāma
 
 DN 29、VRI 段落番号 181 (CSCD `s0103m.mul.xml`)。動詞 `passāma` は 1 人称複数である。
 
-Duroiselle が一致の項目に person を含めている (§592) のは、このように関係節の動詞が先行詞の人称に従うことを指すと見られる (これは筆者の推論)。
+Duroiselle が一致の項目に person を含めている (§592) のは、このように関係節の動詞が先行詞の人称に従うことを指すと見られる (これは上の用例と照らし合わせた本ノートの推論)。
 
 ## 確認できていない範囲
 
