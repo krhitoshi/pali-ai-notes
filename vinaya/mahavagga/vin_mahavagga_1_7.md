@@ -613,7 +613,7 @@ Yasassa pabbajjā niṭṭhitā.
 5. Addasā kho seṭṭhi gahapati yasaṃ kulaputtaṃ nisinnaṃ, disvāna yasaṃ kulaputtaṃ etadavoca – ‘‘mātā te tāta, yasa, parideva [paridevī (ka.)] sokasamāpannā, dehi mātuyā jīvita’’nti.
 
 * addasā = 「見た(dassati/passati のアオリスト)」
-* seṭṭhi gahapati = 「長者である家長は」
+* seṭṭhi gahapati = 「長者である資産家は」
 * nisinnaṃ = 「坐っているのを」
 * disvāna = 「見て(連続体)」
 * etadavoca = 「このように言った」
@@ -628,7 +628,7 @@ Yasassa pabbajjā niṭṭhitā.
 * mātuyā jīvitaṃ = 「母に命を」
   * 「母の命を救ってやれ(家に帰って母を安心させよ)」の意
 
-→「長者である家長は、良家の子ヤサが坐っているのを見た。見て、良家の子ヤサにこう言った――『愛しいヤサよ、お前の母は嘆きと憂いに陥っている。母に命を与えておくれ』と。」
+→「長者である資産家は、良家の子ヤサが坐っているのを見た。見て、良家の子ヤサにこう言った――『愛しいヤサよ、お前の母は嘆きと憂いに陥っている。母に命を与えておくれ』と。」
 
 6. Atha kho yaso kulaputto bhagavantaṃ ullokesi.
 
@@ -639,7 +639,7 @@ Yasassa pabbajjā niṭṭhitā.
 7. Atha kho bhagavā seṭṭhiṃ gahapatiṃ etadavoca – ‘‘taṃ kiṃ maññasi, gahapati, yassa sekkhena ñāṇena sekkhena dassanena dhammo diṭṭho vidito seyyathāpi tayā?
 
 * taṃ kiṃ maññasi = 「これをどう思うか」
-* gahapati = 「家長よ」
+* gahapati = 「資産家よ」
 * yassa = 「～である者にとって(関係代名詞・属格)」
 * sekkhena ñāṇena = 「有学の智によって」
   * sekkha = 「有学(まだ学ぶべきことの残る聖者)」
@@ -647,7 +647,7 @@ Yasassa pabbajjā niṭṭhitā.
 * dhammo diṭṭho vidito = 「法が見られ、知られた」
 * seyyathāpi tayā = 「ちょうどあなたによって(見られ知られた)ように」
 
-→「そこで世尊は長者である家長にこう言った――『家長よ、これをどう思うか。ちょうどあなたと同じように、有学の智、有学の見によって法を見、知った者がいるとしよう。」
+→「そこで世尊は長者である資産家にこう言った――『資産家よ、これをどう思うか。ちょうどあなたと同じように、有学の智、有学の見によって法を見、知った者がいるとしよう。」
 
 8. Tassa yathādiṭṭhaṃ yathāviditaṃ bhūmiṃ paccavekkhantassa anupādāya āsavehi cittaṃ vimuttaṃ.
 
@@ -662,7 +662,7 @@ Yasassa pabbajjā niṭṭhitā.
 * so = 「その者は」
 * その他の語は項目 3 と同じ
 
-→「家長よ、その者が在俗に戻って、以前在家者であったときのように諸々の欲を享受することは、はたしてありうるだろうか』と。」
+→「資産家よ、その者が在俗に戻って、以前在家者であったときのように諸々の欲を享受することは、はたしてありうるだろうか』と。」
 
 10. ‘‘No hetaṃ, bhante’’.
 
@@ -675,7 +675,7 @@ Yasassa pabbajjā niṭṭhitā.
 
 * 語は項目 7 と同じ(主語が良家の子ヤサ)
 
-→「『家長よ、良家の子ヤサは、ちょうどあなたと同じように、有学の智、有学の見によって法を見、知った。」
+→「『資産家よ、良家の子ヤサは、ちょうどあなたと同じように、有学の智、有学の見によって法を見、知った。」
 
 12. Tassa yathādiṭṭhaṃ yathāviditaṃ bhūmiṃ paccavekkhantassa anupādāya āsavehi cittaṃ vimuttaṃ.
 
@@ -687,7 +687,7 @@ Yasassa pabbajjā niṭṭhitā.
 
 * 語は項目 3 と同じ
 
-→「家長よ、良家の子ヤサが在俗に戻って、以前在家者であったときのように諸々の欲を享受することは、もはやありえない』と。」
+→「資産家よ、良家の子ヤサが在俗に戻って、以前在家者であったときのように諸々の欲を享受することは、もはやありえない』と。」
 
 14. ‘‘Lābhā, bhante, yasassa kulaputtassa, suladdhaṃ, bhante, yasassa kulaputtassa, yathā yasassa kulaputtassa anupādāya āsavehi cittaṃ vimuttaṃ.
 
@@ -725,18 +725,18 @@ Yasassa pabbajjā niṭṭhitā.
 * padakkhiṇaṃ katvā = 「右繞して(右回りに回って敬意を表して)」
 * pakkāmi = 「立ち去った(pakkamati のアオリスト)」
 
-→「そこで長者である家長は、世尊の承諾を知って、座から立ち上がり、世尊を礼拝し、右繞して立ち去った。」
+→「そこで長者である資産家は、世尊の承諾を知って、座から立ち上がり、世尊を礼拝し、右繞して立ち去った。」
 
 18. Atha kho yaso kulaputto acirapakkante seṭṭhimhi gahapatimhi bhagavantaṃ etadavoca – ‘‘labheyyāhaṃ, bhante, bhagavato santike pabbajjaṃ, labheyyaṃ upasampada’’nti.
 
-* acirapakkante seṭṭhimhi gahapatimhi = 「長者である家長が立ち去って間もなく(絶対処格)」
+* acirapakkante seṭṭhimhi gahapatimhi = 「長者である資産家が立ち去って間もなく(絶対処格)」
   * acira-pakkanta = 「立ち去って間もない」
 * labheyyāhaṃ = 「私は得たいのです(labheyyaṃ ahaṃ、願望法)」
 * bhagavato santike = 「世尊のもとで」
 * pabbajjaṃ = 「出家を」
 * upasampadaṃ = 「具足戒を」
 
-→「さて、良家の子ヤサは、長者である家長が立ち去って間もなく、世尊にこう言った――『尊師よ、私は世尊のもとで出家を得たいのです。具足戒を得たいのです』と。」
+→「さて、良家の子ヤサは、長者である資産家が立ち去って間もなく、世尊にこう言った――『尊師よ、私は世尊のもとで出家を得たいのです。具足戒を得たいのです』と。」
 
 19. ‘‘Ehi bhikkhū’’ti bhagavā avoca – ‘‘svākkhāto dhammo, cara brahmacariyaṃ sammā dukkhassa antakiriyāyā’’ti.
 

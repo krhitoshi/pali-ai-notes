@@ -615,13 +615,13 @@ Acirapakkantesu thullakoṭṭhikesu brāhmaṇagahapatikesu yena bhagavā tenup
 * acira-pakkantesu = 「去って間もないときに(絶対処格)」
   * acira = 「久しくない、間もない」
   * pakkanta = 「去った(pakkamati の過去分詞)」
-* thullakoṭṭhikesu brāhmaṇa-gahapatikesu = 「トゥッラコッティカのバラモンと家長たちが」
+* thullakoṭṭhikesu brāhmaṇa-gahapatikesu = 「トゥッラコッティカのバラモンと資産家たちが」
   * thullakoṭṭhika = 「トゥッラコッティカの(住人)」
-  * brāhmaṇa-gahapatika = 「バラモンと家長」
+  * brāhmaṇa-gahapatika = 「バラモンと資産家」
 * yena bhagavā tena upasaṅkami = 「世尊のもとへ近づいた」
 * ti = 「とは」
 
-→「『トゥッラコッティカのバラモンと家長たちが去って間もなく、世尊のもとへ近づいた』とは、」
+→「『トゥッラコッティカのバラモンと資産家たちが去って間もなく、世尊のもとへ近づいた』とは、」
 
 11. raṭṭhapālo anuṭṭhitesu tesu na bhagavantaṃ pabbajjaṃ yāci.
 
@@ -2367,7 +2367,7 @@ Ehi tātāti tāta tuyhaṃ gharaṃ mā hotu, ehi gharaṃ gamissāmāti vadati
 8. Evaṃ vutte seṭṭhi gahapati – ‘‘ahaṃ imaṃ uppabbājessāmīti ānesiṃ, so dāni me dhammakathaṃ kātuṃ āraddho, ayaṃ na me vacanaṃ karissatī’’ti uṭṭhāya gantvā assa orodhānaṃ dvāraṃ vivarāpetvā – ‘‘ayaṃ vo sāmiko, gacchatha yaṃ kiñci katvā naṃ gaṇhituṃ vāyamathā’’ti uyyojesi.
 
 * evaṃ vutte = 「このように言われたとき」
-* seṭṭhi gahapati = 「長者である家長は」
+* seṭṭhi gahapati = 「長者である資産家は」
 * ahaṃ imaṃ uppabbājessāmī ti ānesiṃ = 「『私はこの者を還俗させよう』と（思って）連れて来た」
   * uppabbājeti = 「還俗させる」
 * so dāni me = 「その者は今、私に」
@@ -2384,7 +2384,7 @@ Ehi tātāti tāta tuyhaṃ gharaṃ mā hotu, ehi gharaṃ gamissāmāti vadati
 * naṃ gaṇhituṃ vāyamathā ti = 「彼を捕らえるよう努めなさい、と」
 * uyyojesi = 「送り出した」
 
-→「このように言われたとき、長者である家長は『私はこの者を還俗させようと（思って）連れて来たが、その者は今、私に法話をし始めた。この者は私の言うことを聞かないだろう』と（思い）、立ち上がって行き、彼の後宮の戸を開けさせて『この者はあなたたちの夫だ。行って、何であれ手段を用いて彼を捕らえるよう努めなさい』と送り出した。」
+→「このように言われたとき、長者である資産家は『私はこの者を還俗させようと（思って）連れて来たが、その者は今、私に法話をし始めた。この者は私の言うことを聞かないだろう』と（思い）、立ち上がって行き、彼の後宮の戸を開けさせて『この者はあなたたちの夫だ。行って、何であれ手段を用いて彼を捕らえるよう努めなさい』と送り出した。」
 
 9. Suvaye ṭhitā nāṭakitthiyo nikkhamitvā theraṃ parivārayiṃsu, tāsu dve jeṭṭhakitthiyo sandhāya purāṇadutiyikātiādi vuttaṃ.
 

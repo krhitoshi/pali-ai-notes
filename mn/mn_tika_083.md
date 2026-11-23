@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0202t.tik3.xml
 generated: 2026/11/10
-updated: 2026/11/10
+updated: 2026/11/23
 ---
 
 # 3. Maghadevasuttavaṇṇanā
@@ -155,13 +155,13 @@ Dhammoti rājadhammoti lokikā vadanti. Mahābodhinidhānapāramitāsaṅkhāto 
   * nigama = 「町」
   * janapada = 「地方」
 * yebhuyyena = 「大部分は、たいてい」
-* gahapatīnaṃ = 「家主たちの」
+* gahapatīnaṃ = 「資産家たちの」
 * saṅgaho = 「含まれること、まとめて数えられること」
 * aṭṭhakathāyaṃ = 「註釈書において」
-* gahapatikānaṃ tv eva = 「"家主たちの" とだけ」
+* gahapatikānaṃ tv eva = 「"資産家たちの" とだけ」
 * vuttaṃ = 「言われた」
 
-→「町や地方ではたいてい家主たちが含まれるので、それゆえ註釈書では "家主たちの" とだけ言われた。」
+→「町や地方ではたいてい資産家たちが含まれるので、それゆえ註釈書では "資産家たちの" とだけ言われた。」
 
 11. Pāḷiyaṃ pana aññameva nāgaracārittaṃ, aññaṃ negamajanapadacārittanti te visuṃ gahitā ‘‘negamesu ceva janapadesu cā’’ti.
 

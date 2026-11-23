@@ -9641,7 +9641,7 @@ Bhūte pana ‘‘niccā dhuvā sassatā avipariṇāmadhammā’’ti vā ‘�
 
 * ayaṃ hi = 「というのは、この人は」
 * so passati = 「彼は見る」
-* gahapatiṃ vā gahapatiputtaṃ vā = 「家長を、あるいは家長の息子を」
+* gahapatiṃ vā gahapatiputtaṃ vā = 「資産家を、あるいは資産家の息子を」
 * pañcahi kāmaguṇehi = 「五つの欲の対象(五種欲)によって」
 * samappitaṃ = 「備えた、与えられた」
 * samaṅgibhūtaṃ = 「具えている状態になった」(samaṅgibhūta’’nti = samaṅgibhūtaṃ + iti)
@@ -9652,7 +9652,7 @@ Bhūte pana ‘‘niccā dhuvā sassatā avipariṇāmadhammā’’ti vā ‘�
 * gahetvā = 「とらえて」
 * rajjati = 「執着する、染まる」
 
-→「というのは、この人は、"彼は、五つの欲の対象を備え、具えている家長あるいは家長の息子を見る" と述べられた方法で、生きものたちを "美しい、幸せである" ととらえて執着する。」
+→「というのは、この人は、"彼は、五つの欲の対象を備え、具えている資産家あるいは資産家の息子を見る" と述べられた方法で、生きものたちを "美しい、幸せである" ととらえて執着する。」
 
 5. disvāpi ne rajjati, sutvāpi, ghāyitvāpi, sāyitvāpi, phusitvāpi, ñatvāpi.
 
