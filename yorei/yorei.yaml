@@ -94,13 +94,13 @@
 
 - ref: "MN 81 (VRI §282)"
   text: "Vegaḷiṅgaṃ kho, ānanda, gāmanigamaṃ kassapo bhagavā arahaṃ sammāsambuddho upanissāya vihāsi."
-  ja: "アーナンダよ, 阿羅漢・正等覚者であるカッサパ世尊は, ヴェーガリンガという町に依って住しておられた"
+  ja: "アーナンダよ, 阿羅漢・正自覚者であるカッサパ世尊は, ヴェーガリンガという町の近くに (その町を頼りにして) 住しておられた"
   words: ["upanissāya"]
   note: "upanissāya は対格 (vegaḷiṅgaṃ gāmanigamaṃ) をとる"
   file: "s0202m.mul3"
   para: 282
   added: "2026/11/06"
-  model: "Claude Fable 5.1"
+  model: "Claude Fable 5.2"
 
 - ref: "MN 81 (VRI §283)"
   text: "Sādhusammatañhi me tassa bhagavato dassanaṃ arahato sammāsambuddhassā’ti."
