@@ -72,6 +72,9 @@ Dhp-a (ad Dhp 116, Cūḷekasāṭakabrāhmaṇavatthu) (Dandhañhi karototi yo 
   残した部分の表記は変えない (どこまで引くかは上の「引用する範囲」による)
 - 訳は引いた範囲だけを原文に即して訳す. 補った語は ( ) に入れる. 読点は
   ", " を使い「、」「。」は使わない (プロジェクトの表記に合わせる)
+- 訳語は `docs/translation_terms.md` (訳語・用語リスト) に従う. 訳を書く前に
+  このファイルを読み, 「今後使う訳語」にある語はその訳語を使い, 「置換した
+  訳語」の左側の語は使わない
 - 訳語は語そのものの意味 (辞書の語義, 語の成り立ち) の範囲で選ぶ. 註釈書の
   説明は語義を絞るための参考にするが, 註釈書が補っている具体的な場面や
   所作まで訳に入れない (sampavāresi を註釈書の「もう十分と手で断らせた」に
@@ -164,7 +167,7 @@ python3 scripts/yorei.py --code s0202m.mul 'raṭṭhapālo arahataṃ ahosi' \
 # 訳を直したとき (原文は同じ)
 python3 scripts/yorei.py --code s0202m.mul 'upanissāya vihāsi' --vri-para 282 \
   --save --update --model 'Claude Fable 5.2' \
-  --ja 'アーナンダよ, 阿羅漢・正等覚者であるカッサパ世尊は, ヴェーガリンガという町に依って住しておられた'
+  --ja 'アーナンダよ, 阿羅漢・正自覚者であるカッサパ世尊は, ヴェーガリンガという町の近くに (その町を頼りにして) 住しておられた'
 
 # 引用する範囲を直したとき (--old-text に直す前の原文)
 python3 scripts/yorei.py --code s0202m.mul 'bandhanāni mucceyyuṃ' --vri-para 281 \
