@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0202a.att2.xml
 generated: 2026/09/07
-updated: 2026/09/07
+updated: 2026/11/23
 ---
 
 # 9. Cūḷasakuludāyisuttavaṇṇanā
@@ -1117,12 +1117,12 @@ Cūḷasakuludāyisuttavaṇṇanā niṭṭhitā.
 
 * ayaṃ = 「この者(サクルダーイ)は」
 * kira = 「伝えによれば」
-* kassapabuddhakāle = 「迦葉仏の時代に」
+* kassapabuddhakāle = 「カッサパ仏の時代に」
 * pabbajitvā = 「出家して」
 * samaṇadhammaṃ akāsi = 「沙門の法を実践した」
   * samaṇadhamma = 「沙門の法、沙門としての修行」
 
-→「伝えによれば、この者は迦葉仏の時代に出家して、沙門の法を実践した。」
+→「伝えによれば、この者はカッサパ仏の時代に出家して、沙門の法を実践した。」
 
 4. Athassa eko sahāyako bhikkhu sāsane anabhirato, ‘‘āvuso, vibbhamissāmī’’ti ārocesi.
 
