@@ -642,3 +642,18 @@ patis_a は漢語平易化が未適用だったため, translation_terms.md の�
   ことと, 原文ブロック・見出しが完全不変であることを機械的に確認.
   verify_taiyaku.rb は退行なし (該当再掲行は OK-NOSPACE で通過)
 - 改訂: Claude Fable 5
+
+### 2026/11/23 sammāsambuddha の訳語を 正自覚者 に統一
+
+- 内容: sammāsambuddha の訳語 正等覚者 を 正自覚者 に置換 (7 箇所).
+  訳語の基準 (sammāsambuddha: 正自覚者. 正等覚者 は使わない) を既存の
+  対訳に当てはめた
+- 対象: §162 (1) sammāsambuddhā / sammāsambuddhānaṃ の語釈行と文訳
+  (4 箇所), §163 (2) sammāsambuddho vata so bhagavā の語釈行と文訳 (3 箇所)
+- 補足: §163 (2) の語釈行 sammāsambuddha は旧訳語と新訳語を併記していた
+  (「正等覚者、正自覚者」) ため, 置換で重複した分を除き「正自覚者」とした
+- 不変: sammāsambodhi の訳 正等覚 は基準の対象外のため変更しない.
+  原文ブロックと再掲行は不変
+- 検証: 上記の語釈行 1 行を除き, 全変更行が 正等覚者 -> 正自覚者 の差
+  だけであることと, 変更が語釈行と文訳に限られることを機械的に確認
+- 改訂: Claude Fable 5.2

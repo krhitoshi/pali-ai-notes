@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/vin02m2.mul0.xml
 generated: 2026/08/04
-updated: 2026/08/04
+updated: 2026/11/23
 ---
 
 # 6. Pañcavaggiyakathā
@@ -314,11 +314,11 @@ Evaṃ vutte upako ājīvako hupeyyapāvusoti [huveyyapāvuso (sī.) huveyyāvus
 * arahā loke = 「世界における阿羅漢である」
 * ahaṃ satthā anuttaro = 「私は無上の師である」
 * ekomhi = 「私はただひとりの～である（eko + amhi）」
-* sammāsambuddho = 「正等覚者」
+* sammāsambuddho = 「正自覚者」
 * sītibhūtosmi = 「私は清涼となった（sītibhūto + asmi）」
 * nibbuto = 「寂滅した者である」
 
-→「実に私は世界における阿羅漢であり、私は無上の師である。私はただひとりの正等覚者であり、清涼となり寂滅している。」
+→「実に私は世界における阿羅漢であり、私は無上の師である。私はただひとりの正自覚者であり、清涼となり寂滅している。」
 
 8. [kathā. 405 kathāvatthupāḷiyampi]‘‘Dhammacakkaṃ pavattetuṃ, gacchāmi kāsinaṃ puraṃ; Andhībhūtasmiṃ lokasmiṃ, āhañchaṃ [āhaññiṃ (ka.)] amatadundubhi’’nti.
 
@@ -523,7 +523,7 @@ Evaṃ vutte upako ājīvako hupeyyapāvusoti [huveyyapāvuso (sī.) huveyyāvus
 11. Arahaṃ, bhikkhave, tathāgato sammāsambuddho, odahatha, bhikkhave, sotaṃ, amatamadhigataṃ, ahamanusāsāmi, ahaṃ dhammaṃ desemi.
 
 * arahaṃ = 「阿羅漢である」
-* sammāsambuddho = 「正等覚者である」
+* sammāsambuddho = 「正自覚者である」
 * odahatha sotaṃ = 「耳を傾けなさい」
   * odahati = 「向ける、傾ける」
   * sota = 「耳」
@@ -533,7 +533,7 @@ Evaṃ vutte upako ājīvako hupeyyapāvusoti [huveyyapāvuso (sī.) huveyyāvus
 * ahaṃ anusāsāmi = 「私は教え導く」
 * ahaṃ dhammaṃ desemi = 「私は法を説く」
 
-→「比丘たちよ、如来は阿羅漢・正等覚者である。比丘たちよ、耳を傾けなさい。不死は到達された。私は教え導く。私は法を説く。」
+→「比丘たちよ、如来は阿羅漢・正自覚者である。比丘たちよ、耳を傾けなさい。不死は到達された。私は教え導く。私は法を説く。」
 
 12. Yathānusiṭṭhaṃ tathā paṭipajjamānā [yathānusiṭṭhaṃ paṭipajjamānā (syā.)] nacirasseva – yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti tadanuttaraṃ – brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharissathā’’ti.
 
@@ -591,7 +591,7 @@ Evaṃ vutte upako ājīvako hupeyyapāvusoti [huveyyapāvuso (sī.) huveyyāvus
 * na padhānavibbhanto = 「精勤から離れ去った者ではない」
 * na āvatto bāhullāya = 「贅沢に戻った者ではない」
 
-→「このように言われたとき、世尊は五人組の比丘たちにこう言った――『比丘たちよ、如来は贅沢になった者ではなく、精勤から離れ去った者ではなく、贅沢に戻った者ではない。比丘たちよ、如来は阿羅漢・正等覚者である。」
+→「このように言われたとき、世尊は五人組の比丘たちにこう言った――『比丘たちよ、如来は贅沢になった者ではなく、精勤から離れ去った者ではなく、贅沢に戻った者ではない。比丘たちよ、如来は阿羅漢・正自覚者である。」
 
 16. Odahatha, bhikkhave, sotaṃ, amatamadhigataṃ, ahamanusāsāmi, ahaṃ dhammaṃ desemi.
 
@@ -648,7 +648,7 @@ Evaṃ vutte upako ājīvako hupeyyapāvusoti [huveyyapāvuso (sī.) huveyyāvus
 
 * (語釈は項目 11 と同じ)
 
-→「『比丘たちよ、如来は阿羅漢・正等覚者である。比丘たちよ、耳を傾けなさい。不死は到達された。私は教え導く。私は法を説く。」
+→「『比丘たちよ、如来は阿羅漢・正自覚者である。比丘たちよ、耳を傾けなさい。不死は到達された。私は教え導く。私は法を説く。」
 
 24. Yathānusiṭṭhaṃ tathā paṭipajjamānā nacirasseva – yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti tadanuttaraṃbrahmacariyapariyosānaṃ diṭṭhevadhamme sayaṃ abhiññā sacchikatvā upasampajja viharissathāti.
 

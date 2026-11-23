@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/e0103n.att8.xml
 generated: 2026/07/22
-updated: 2026/07/22
+updated: 2026/11/23
 ---
 
 # Ānāpānassatikathāvaṇṇanā
@@ -1133,13 +1133,13 @@ Ayaṃ panattho virāganirodhapaṭinissaggānupassanānaṃ vasena sammadeva yu
 
 * bhāvetvā = 「修習して」
 
-* sabbe pi sammāsambuddhā = 「すべての正等覚者たちは」
+* sabbe pi sammāsambuddhā = 「すべての正自覚者たちは」
 
 * sammāsambodhiṃ adhigacchanti = 「正等覚を証得する」
 
   * adhigacchati = 「証得する、到達する」
 
-→「実に、すべての正等覚者たちは、まさにこの業処を修習して正等覚を証得するのである。」
+→「実に、すべての正自覚者たちは、まさにこの業処を修習して正等覚を証得するのである。」
 
 13. Ariyamaggassa pādakabhūto ayaṃ samādhi anukkamena vaḍḍhitvā ariyamaggabhāvaṃ upagato viya hotīti āha ‘‘anupubbena ariyamaggavuddhippatto’’ti.
 

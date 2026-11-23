@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0202a.att2.xml
 generated: 2026/05/26
-updated: 2026/07/23
+updated: 2026/11/23
 ---
 
 # 3. Mahāvacchasuttavaṇṇanā
@@ -96,13 +96,13 @@ updated: 2026/07/23
 
 9. Sammāsambuddhopi tassa āgatāgatassa saṅgahaṃ katvā okāsamakāsiyeva.
 
-* sammāsambuddho pi = 「正等覚者（世尊）もまた」
+* sammāsambuddho pi = 「正自覚者（世尊）もまた」
 * tassa = 「彼の」
 * āgata-āgatassa = 「やって来る度ごとに」
 * saṅgahaṃ katvā = 「歓迎（親切な扱い）をして」
 * okāsaṃ akāsi yeva = 「機会を与えられた（面会を許された）のである」
 
-→「正等覚者もまた、彼がやって来る度ごとに歓迎して面会を許されたのである。」
+→「正自覚者もまた、彼がやって来る度ごとに歓迎して面会を許されたのである。」
 
 10. Kasmā?
 

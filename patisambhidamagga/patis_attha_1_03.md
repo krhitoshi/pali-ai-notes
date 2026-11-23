@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0517a.att4.xml
 generated: 2026/06/20
-updated: 2026/07/26
+updated: 2026/11/23
 ---
 
 - https://www.tipitaka.org/romn/cscd/s0517a.att4.xml
@@ -4129,11 +4129,11 @@ Maggassa bahūsu nāmesu ayananāmena vutto. Tasmā ekamaggabhūto maggo, na dve
 23. Eketi seṭṭhā, sabbasattaseṭṭhā ca sammāsambuddhā, tasmā ekāyanamaggoti sammāsambuddhānaṃ ayanabhūto maggoti vuttaṃ hoti.
 
 * eke ti seṭṭhā =「『一なる者たち(eke)』とは、最もすぐれた者たち（の意）」（seṭṭha「最勝の」複数）
-* sabba-satta-seṭṭhā ca sammāsambuddhā =「そして一切の有情のうち最もすぐれた者が正等覚者である」
+* sabba-satta-seṭṭhā ca sammāsambuddhā =「そして一切の有情のうち最もすぐれた者が正自覚者である」
 * tasmā ekāyana-maggo ti =「それゆえ『一行道』とは」
-* sammāsambuddhānaṃ ayana-bhūto maggo ti vuttaṃ hoti =「正等覚者がたの行路である道、と言われているのである」（ayanabhūta「行路である」）
+* sammāsambuddhānaṃ ayana-bhūto maggo ti vuttaṃ hoti =「正自覚者がたの行路である道、と言われているのである」（ayanabhūta「行路である」）
 
-→「『一なる者たち』とは最もすぐれた者たちであり、一切の有情のうち最もすぐれた者が正等覚者である。それゆえ『一行道』とは、正等覚者がたの行路である道、と言われているのである。」
+→「『一なる者たち』とは最もすぐれた者たちであり、一切の有情のうち最もすぐれた者が正自覚者である。それゆえ『一行道』とは、正自覚者がたの行路である道、と言われているのである。」
 
 24. Ayatīti vā ayano, gacchati pavattatīti attho.
 
@@ -5020,15 +5020,15 @@ Bandheyyevaṃ sakaṃ cittaṃ, satiyārammaṇe daḷha"nti.
 
   * patta = 「到達された、得られた」（過去分詞）
 
-* "sammāsambuddho vata so bhagavā"ti = 「『まことに、かの世尊は正等覚者であった』と」
+* "sammāsambuddho vata so bhagavā"ti = 「『まことに、かの世尊は正自覚者であった』と」
 
-  * sammāsambuddha = 「正等覚者、正自覚者」
+  * sammāsambuddha = 「正自覚者」
 
   * vata = 「まことに、ああ（感嘆辞）」
 
 * mahantaṃ sakkāraṃ labhati = 「大いなる尊敬（供養）を得る」（対格 + 3単・現在）
 
-→「まさにそのように、（世尊は）瑜伽行者にふさわしい坐臥処を吟味して、『ここで業処を修習すべし』と指示し、その後、そこで業処に専念した瑜伽行者によって、次第に阿羅漢果が得られたとき、『まことに、かの世尊は正等覚者であった』と（讃えられ）、大いなる尊敬を得るのである。」
+→「まさにそのように、（世尊は）瑜伽行者にふさわしい坐臥処を吟味して、『ここで業処を修習すべし』と指示し、その後、そこで業処に専念した瑜伽行者によって、次第に阿羅漢果が得られたとき、『まことに、かの世尊は正自覚者であった』と（讃えられ）、大いなる尊敬を得るのである。」
 
 11. Ayaṃ pana bhikkhu "dīpisadiso"ti vuccati.
 

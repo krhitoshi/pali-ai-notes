@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0202a.att0.xml
 generated: 2026/07/23
-updated: 2026/09/04
+updated: 2026/11/23
 ---
 
 # 2. Aṭṭhakanāgarasuttavaṇṇanā
@@ -282,9 +282,9 @@ updated: 2026/09/04
 
   * buddhatta = 「覚ったこと」
 
-* sammāsambuddhena = 「正等覚者によって」
+* sammāsambuddhena = 「正自覚者によって」
 
-→「敵たち(煩悩)を打ち殺し、また資具などに値するので阿羅漢である方によって、正しく、また自ら諸々の諦を覚ったので正等覚者である方によって。」
+→「敵たち(煩悩)を打ち殺し、また資具などに値するので阿羅漢である方によって、正しく、また自ら諸々の諦を覚ったので正自覚者である方によって。」
 
 8. Antarāyikadhamme vā jānatā, niyyānikadhamme passatā, kilesārīnaṃ hatattā arahatā, sāmaṃ sabbadhammānaṃ buddhattā sammāsambuddhenāti evaṃ catuvesārajjavasena catūhi kāraṇehi thomitena.
 
@@ -308,7 +308,7 @@ updated: 2026/09/04
 
 * sāmaṃ sabbadhammānaṃ buddhattā = 「自らすべての法を覚ったので」
 
-* sammāsambuddhenā ti = 「正等覚者によって、と」
+* sammāsambuddhenā ti = 「正自覚者によって、と」
 
 * evaṃ catuvesārajjavasena = 「このように四無畏によって」
 
@@ -320,7 +320,7 @@ updated: 2026/09/04
 
   * thomita = 「称讃された（thometi の過去分詞）」
 
-→「あるいは、障害となる法を知る方、出離に導く法を見る方、煩悩という敵たちを打ち殺したので阿羅漢である方、自らすべての法を覚ったので正等覚者である方によって、と、このように四無畏によって、四つの理由によって称讃された方によって(説かれた、という意味である)。」
+→「あるいは、障害となる法を知る方、出離に導く法を見る方、煩悩という敵たちを打ち殺したので阿羅漢である方、自らすべての法を覚ったので正自覚者である方によって、と、このように四無畏によって、四つの理由によって称讃された方によって(説かれた、という意味である)。」
 
 9. Atthi nu kho eko dhammo akkhātoti.
 

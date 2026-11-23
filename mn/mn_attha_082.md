@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0202a.att3.xml
 generated: 2026/11/03
-updated: 2026/11/03
+updated: 2026/11/23
 ---
 
 # 2. Raṭṭhapālasuttavaṇṇanā
@@ -464,12 +464,12 @@ Evaṃ padumuttarasammāsambuddhakāle tassetaṃ nāmaṃ uppannanti veditabba�
 12. Evaṃ padumuttarasammāsambuddhakāle tassetaṃ nāmaṃ uppannanti veditabbaṃ.
 
 * evaṃ = 「このように」
-* padumuttara-sammāsambuddha-kāle = 「パドゥムッタラ正等覚者の時代に」
+* padumuttara-sammāsambuddha-kāle = 「パドゥムッタラ正自覚者の時代に」
 * tassa etaṃ nāmaṃ = 「彼のこの名前は」
 * uppannaṃ = 「生じた（uppajjati の過去分詞）」
 * ti veditabbaṃ = 「と知られるべきである」
 
-→「このように、パドゥムッタラ正等覚者の時代に彼のこの名前が生じた、と知られるべきである。」
+→「このように、パドゥムッタラ正自覚者の時代に彼のこの名前が生じた、と知られるべきである。」
 
 ## 294 (3)
 
