@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0202t.tik3.xml
 generated: 2026/11/03
-updated: 2026/11/03
+updated: 2026/11/23
 ---
 
 # 2. Raṭṭhapālasuttavaṇṇanā
@@ -1598,7 +1598,7 @@ Viravamāneti ‘‘ayaṃ palāyati, gaṇha gaṇhā’’ti viravamāne. Hira
 10. Evañhi ‘‘yo hi, gahapati, imaṃ pūtikāyaṃ pariharanto muhuttampi ārogyaṃ paṭijāneyya kimaññatra bālyā’’ti (saṃ. ni. 3.1) suttapadaṃ samatthitaṃ hoti.
 
 * evañ hi = 「このようにしてこそ」
-* ‘‘yo hi, gahapati’’ = 「居士よ、〜する者は」
+* ‘‘yo hi, gahapati’’ = 「資産家よ、〜する者は」
 * imaṃ pūti-kāyaṃ pariharanto = 「この腐った身体を携えながら」
   * pūti = 「腐った、臭い」
   * pariharati = 「携える、持ち運ぶ」
@@ -1608,7 +1608,7 @@ Viravamāneti ‘‘ayaṃ palāyati, gaṇha gaṇhā’’ti viravamāne. Hira
 * sutta-padaṃ = 「経の句は」
 * samatthitaṃ hoti = 「成り立つ、整合する」
 
-→「このようにしてこそ『居士よ、この腐った身体を携えながら一瞬でも無病を主張する者は、愚かさ以外の何であろうか』という経の句が成り立つ。」
+→「このようにしてこそ『資産家よ、この腐った身体を携えながら一瞬でも無病を主張する者は、愚かさ以外の何であろうか』という経の句が成り立つ。」
 
 11. Vipaccanaṃ vipāko, so eva vepāko.
 

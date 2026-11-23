@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0202a.att0.xml
 generated: 2026/09/10
-updated: 2026/09/10
+updated: 2026/11/23
 ---
 
 # 10. Apaṇṇakasuttavaṇṇanā
@@ -62,13 +62,13 @@ updated: 2026/09/10
 
 1. 93. Atthi pana vo gahapatayoti kasmā āha?
 
-* atthi pana vo gahapatayo ti = 「『居士たちよ、あなたがたには～があるか』と」
+* atthi pana vo gahapatayo ti = 「『資産家たちよ、あなたがたには～があるか』と」
   * vo = 「あなたがたに(tumhākaṃ の代用形)」
-  * gahapatayo = 「居士たちよ(呼格)」
+  * gahapatayo = 「資産家たちよ(呼格)」
 * kasmā = 「なぜ」
 * āha = 「(世尊は)言ったのか」
 
-→「『居士たちよ、あなたがたには～があるか』と、なぜ(世尊は)言ったのか。」
+→「『資産家たちよ、あなたがたには～があるか』と、なぜ(世尊は)言ったのか。」
 
 2. So kira gāmo aṭavidvāre niviṭṭho.
 
@@ -115,11 +115,11 @@ updated: 2026/09/10
 * tehi saddhiṃ = 「彼ら(村人)とともに」
 * sammantayamānā = 「語り合いながら(saṃ-mant の現在分詞)」
 * evaṃ vadanti = 「このように言う」
-* atthi pana vo gahapatayo kiñci dassanaṃ gahitaṃ = 「居士たちよ、あなたがたには何か受け入れた見解があるか」
+* atthi pana vo gahapatayo kiñci dassanaṃ gahitaṃ = 「資産家たちよ、あなたがたには何か受け入れた見解があるか」
   * dassana = 「見解、教義」
   * gahita = 「受け入れられた、把持された(gah の過去分詞)」
 
-→「彼らは心が喜んで、彼らとともに語り合いながらこのように言う。『居士たちよ、あなたがたには何か受け入れた見解があるか』と。」
+→「彼らは心が喜んで、彼らとともに語り合いながらこのように言う。『資産家たちよ、あなたがたには何か受け入れた見解があるか』と。」
 
 6. Natthi, bhanteti.
 
@@ -130,7 +130,7 @@ updated: 2026/09/10
 
 7. ‘‘Gahapatayo vinā dassanena loko na niyyāti, ekaṃ dassanaṃ ruccitvā khamāpetvā gahetuṃ vaṭṭati, ‘sassato loko’ti dassanaṃ gaṇhathā’’ti vatvā pakkantā.
 
-* gahapatayo = 「居士たちよ」
+* gahapatayo = 「資産家たちよ」
 * vinā dassanena = 「見解なしには」
 * loko na niyyāti = 「世間(の人)は(輪廻から)出離しない」
   * niyyāti = 「出て行く、出離する(nis-yā)」
@@ -141,7 +141,7 @@ updated: 2026/09/10
 * sassato loko ti dassanaṃ gaṇhatha = 「『世界は常住である』という見解を受け入れなさい」
 * vatvā pakkantā = 「と言って立ち去った」
 
-→「『居士たちよ、見解なしには世間の人は出離しない。一つの見解を気に入り、納得して受け入れるのがふさわしい。「世界は常住である」という見解を受け入れなさい』と言って立ち去った。」
+→「『資産家たちよ、見解なしには世間の人は出離しない。一つの見解を気に入り、納得して受け入れるのがふさわしい。「世界は常住である」という見解を受け入れなさい』と言って立ち去った。」
 
 8. Aparadivase aññe āgatā.
 
@@ -222,10 +222,10 @@ updated: 2026/09/10
 * so = 「彼(世尊)は」
 * tesaṃ hitatthāya = 「彼らの利益のために(hita-atthāya)」
 * pucchanto = 「尋ねながら」
-* atthi pana vo gahapatayo ti ādiṃ = 「『居士たちよ、あなたがたには～があるか』などを」
+* atthi pana vo gahapatayo ti ādiṃ = 「『資産家たちよ、あなたがたには～があるか』などを」
 * āha = 「言った」
 
-→「彼は彼らの利益のために尋ねながら、『居士たちよ、あなたがたには～があるか』などと言った。」
+→「彼は彼らの利益のために尋ねながら、『資産家たちよ、あなたがたには～があるか』などと言った。」
 
 16. Tattha ākāravatīti kāraṇavatī sahetukā.
 

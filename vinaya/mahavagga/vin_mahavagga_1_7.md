@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/vin02m2.mul0.xml
 generated: 2026/08/04
-updated: 2026/08/04
+updated: 2026/11/23
 ---
 
 # 7. Pabbajjākathā
@@ -374,15 +374,15 @@ Atha kho yaso kulaputto suvaṇṇapādukāyo ārohitvā yena nivesanadvāraṃ 
   * abhiruhitvā = 「上って(abhi + ruh の連続体)」
 * yasaṃ kulaputtaṃ apassantī = 「良家の子ヤサを見ないので」
   * apassantī = 「見ない(女性・現在分詞)」
-* yena seṭṭhi gahapati tenupasaṅkami = 「長者の居士のところへ近づいた」
-  * seṭṭhi gahapati = 「長者である居士(ヤサの父)」
+* yena seṭṭhi gahapati tenupasaṅkami = 「長者の資産家のところへ近づいた」
+  * seṭṭhi gahapati = 「長者である資産家(ヤサの父)」
 * upasaṅkamitvā = 「近づいてから」
 * etadavoca = 「こう言った」
 * putto te = 「あなたの息子は」
 * na dissati = 「見えません」
   * dissati = 「見られる(dassati の受動)」
 
-→「そのとき、良家の子ヤサの母は高楼に上り、良家の子ヤサが見えないので、長者の居士のところへ行き、行ってから長者の居士にこう言った――『居士よ、あなたの息子のヤサが見えません』と。」
+→「そのとき、良家の子ヤサの母は高楼に上り、良家の子ヤサが見えないので、長者の資産家のところへ行き、行ってから長者の資産家にこう言った――『資産家よ、あなたの息子のヤサが見えません』と。」
 
 2. Atha kho seṭṭhi gahapati catuddisā assadūte uyyojetvā sāmaṃyeva yena isipatanaṃ migadāyo tenupasaṅkami.
 
@@ -393,7 +393,7 @@ Atha kho yaso kulaputto suvaṇṇapādukāyo ārohitvā yena nivesanadvāraṃ 
 * sāmaṃyeva = 「自分自身で」
 * isipatanaṃ migadāyo = 「イシパタナの鹿の園」
 
-→「そのとき長者の居士は、四方に馬の使者たちを送り出してから、自分自身でイシパタナの鹿の園へと向かった。」
+→「そのとき長者の資産家は、四方に馬の使者たちを送り出してから、自分自身でイシパタナの鹿の園へと向かった。」
 
 3. Addasā kho seṭṭhi gahapati suvaṇṇapādukānaṃ nikkhepaṃ, disvāna taṃyeva anugamāsi [anugamā (sī. syā.)].
 
@@ -405,7 +405,7 @@ Atha kho yaso kulaputto suvaṇṇapādukāyo ārohitvā yena nivesanadvāraṃ 
 * taṃyeva anugamāsi = 「まさにその(跡)をたどって行った」
   * anugamāsi = 「後を追った(anugacchati のアオリスト)」
 
-→「長者の居士は黄金の履物が置かれているのを見た。見てから、まさにその跡をたどって行った。」
+→「長者の資産家は黄金の履物が置かれているのを見た。見てから、まさにその跡をたどって行った。」
 
 4. Addasā kho bhagavā seṭṭhiṃ gahapatiṃ dūratova āgacchantaṃ, disvāna bhagavato etadahosi – ‘‘yaṃnūnāhaṃ tathārūpaṃ iddhābhisaṅkhāraṃ abhisaṅkhareyyaṃ yathā seṭṭhi gahapati idha nisinno idha nisinnaṃ yasaṃ kulaputtaṃ na passeyyā’’ti.
 
@@ -418,7 +418,7 @@ Atha kho yaso kulaputto suvaṇṇapādukāyo ārohitvā yena nivesanadvāraṃ 
 * yathā ... na passeyya = 「～が見ないように」
 * idha nisinno idha nisinnaṃ = 「ここに坐った(長者)が、ここに坐っている(ヤサ)を」
 
-→「世尊は、長者の居士が遠くから来るのを見た。見てから世尊にこの思いが起こった――『さあ私は、長者の居士がここに坐っていても、ここに坐っている良家の子ヤサを見ないような、そのような神通の働きを起こしてはどうか』と。」
+→「世尊は、長者の資産家が遠くから来るのを見た。見てから世尊にこの思いが起こった――『さあ私は、長者の資産家がここに坐っていても、ここに坐っている良家の子ヤサを見ないような、そのような神通の働きを起こしてはどうか』と。」
 
 5. Atha kho bhagavā tathārūpaṃ iddhābhisaṅkhāraṃ abhisaṅkharesi.
 
@@ -432,7 +432,7 @@ Atha kho yaso kulaputto suvaṇṇapādukāyo ārohitvā yena nivesanadvāraṃ 
   * api = 「ひょっとして(疑問の小辞)」
 * bhante = 「尊師よ」
 
-→「そのとき長者の居士は世尊のところへ行き、行ってから世尊にこう言った――『尊師よ、世尊はひょっとして良家の子ヤサをご覧になったでしょうか』と。」
+→「そのとき長者の資産家は世尊のところへ行き、行ってから世尊にこう言った――『尊師よ、世尊はひょっとして良家の子ヤサをご覧になったでしょうか』と。」
 
 7. Tena hi, gahapati, nisīda, appeva nāma idha nisinno idha nisinnaṃ yasaṃ kulaputtaṃ passeyyāsīti.
 
@@ -441,7 +441,7 @@ Atha kho yaso kulaputto suvaṇṇapādukāyo ārohitvā yena nivesanadvāraṃ 
 * appeva nāma = 「おそらく、もしかすると」
 * passeyyāsi = 「あなたは見るだろう(願望法・二人称)」
 
-→「『それならば居士よ、坐りなさい。おそらく、ここに坐ったまま、ここに坐っている良家の子ヤサを見ることになるでしょう』と。」
+→「『それならば資産家よ、坐りなさい。おそらく、ここに坐ったまま、ここに坐っている良家の子ヤサを見ることになるでしょう』と。」
 
 8. Atha kho seṭṭhi gahapati – idheva kirāhaṃ nisinno idha nisinnaṃ yasaṃ kulaputtaṃ passissāmīti haṭṭho udaggo bhagavantaṃ abhivādetvā ekamantaṃ nisīdi.
 
@@ -454,11 +454,11 @@ Atha kho yaso kulaputto suvaṇṇapādukāyo ārohitvā yena nivesanadvāraṃ 
 * abhivādetvā = 「礼拝して」
 * ekamantaṃ nisīdi = 「一方に坐った」
 
-→「そのとき長者の居士は、『まさにここに坐ったまま、ここに坐っている良家の子ヤサを見ることになるのだ』と喜び、心を高ぶらせて、世尊に礼拝して一方に坐った。」
+→「そのとき長者の資産家は、『まさにここに坐ったまま、ここに坐っている良家の子ヤサを見ることになるのだ』と喜び、心を高ぶらせて、世尊に礼拝して一方に坐った。」
 
 9. Ekamantaṃ nisinnassa kho seṭṭhissa gahapatissa bhagavā anupubbiṃ kathaṃ kathesi, seyyathidaṃ – dānakathaṃ sīlakathaṃ saggakathaṃ, kāmānaṃ ādīnavaṃ okāraṃ saṃkilesaṃ, nekkhamme ānisaṃsaṃ pakāsesi.
 
-* ekamantaṃ nisinnassa ... gahapatissa = 「一方に坐った長者の居士に」
+* ekamantaṃ nisinnassa ... gahapatissa = 「一方に坐った長者の資産家に」
 * anupubbiṃ kathaṃ = 「順を追った話(次第説法)を」
 * seyyathidaṃ = 「すなわち」
 * dānakathaṃ sīlakathaṃ saggakathaṃ = 「布施の話、戒の話、天界の話を」
@@ -469,7 +469,7 @@ Atha kho yaso kulaputto suvaṇṇapādukāyo ārohitvā yena nivesanadvāraṃ 
 * nekkhamme ānisaṃsaṃ = 「離欲における利益を」
 * pakāsesi = 「明らかにした」
 
-→「一方に坐った長者の居士に、世尊は順を追った話をした。すなわち、布施の話、戒の話、天界の話を、また諸々の欲の危険と卑しさと汚れを、そして離欲における利益を明らかにした。」
+→「一方に坐った長者の資産家に、世尊は順を追った話をした。すなわち、布施の話、戒の話、天界の話を、また諸々の欲の危険と卑しさと汚れを、そして離欲における利益を明らかにした。」
 
 10. Yadā bhagavā aññāsi seṭṭhiṃ gahapatiṃ kallacittaṃ, muducittaṃ, vinīvaraṇacittaṃ, udaggacittaṃ, pasannacittaṃ, atha yā buddhānaṃ sāmukkaṃsikā dhammadesanā, taṃ pakāsesi – dukkhaṃ, samudayaṃ, nirodhaṃ, maggaṃ.
 
@@ -483,7 +483,7 @@ Atha kho yaso kulaputto suvaṇṇapādukāyo ārohitvā yena nivesanadvāraṃ 
 * sāmukkaṃsikā dhammadesanā = 「(諸仏が)自ら挙げ示す特有の法の教説」
 * dukkhaṃ, samudayaṃ, nirodhaṃ, maggaṃ = 「苦・集・滅・道を」
 
-→「世尊は、長者の居士の心が調い、心が柔らかく、心が蓋を離れ、心が高揚し、心が浄信していると知ったとき、諸仏に特有の法の教説である苦・集・滅・道を明らかにした。」
+→「世尊は、長者の資産家の心が調い、心が柔らかく、心が蓋を離れ、心が高揚し、心が浄信していると知ったとき、諸仏に特有の法の教説である苦・集・滅・道を明らかにした。」
 
 11. Seyyathāpi nāma suddhaṃ vatthaṃ apagatakāḷakaṃ sammadeva rajanaṃ paṭiggaṇheyya evameva seṭṭhissa gahapatissa tasmiṃyeva āsane virajaṃ vītamalaṃ dhammacakkhuṃ udapādi – yaṃ kiñci samudayadhammaṃ, sabbaṃ taṃ nirodhadhammanti.
 
@@ -498,7 +498,7 @@ Atha kho yaso kulaputto suvaṇṇapādukāyo ārohitvā yena nivesanadvāraṃ 
 * yaṃ kiñci samudayadhammaṃ = 「およそ生じる性質のものは」
 * sabbaṃ taṃ nirodhadhammaṃ = 「すべてそれは滅する性質のものである」
 
-→「あたかも黒ずみのない清浄な布が正しく染料を受け取るように、まさにそのように長者の居士に、まさにその座において、塵を離れ垢を離れた法眼が生じた――『およそ生じる性質のものは、すべて滅する性質のものである』と。」
+→「あたかも黒ずみのない清浄な布が正しく染料を受け取るように、まさにそのように長者の資産家に、まさにその座において、塵を離れ垢を離れた法眼が生じた――『およそ生じる性質のものは、すべて滅する性質のものである』と。」
 
 12. Atha kho seṭṭhi gahapati diṭṭhadhammo pattadhammo viditadhammo pariyogāḷhadhammo tiṇṇavicikiccho vigatakathaṃkatho vesārajjappatto aparappaccayo satthusāsane bhagavantaṃ etadavoca – ‘‘abhikkantaṃ, bhante, abhikkantaṃ, bhante, seyyathāpi, bhante, nikkujjitaṃ [nikujjitaṃ (ka.)] vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya – cakkhumanto rūpāni dakkhantīti – evamevaṃ bhagavatā anekapariyāyena dhammo pakāsito.
 
@@ -520,7 +520,7 @@ Atha kho yaso kulaputto suvaṇṇapādukāyo ārohitvā yena nivesanadvāraṃ 
 * anekapariyāyena = 「多くの方法によって」
 * dhammo pakāsito = 「法が明らかにされました」
 
-→「そのとき長者の居士は、法を見、法に達し、法を知り、法に深く入り、疑いを渡り超え、迷いを離れ、無畏を得て、師の教えにおいて他に依存しない者となり、世尊にこう言った――『すばらしいです、尊師よ。すばらしいです、尊師よ。尊師よ、あたかも倒れたものを起こすように、覆われたものを開くように、道に迷った者に道を告げるように、"目のある者たちは色形を見るだろう" と闇の中で油の灯火を掲げるように、まさにそのように世尊によって多くの方法で法が明らかにされました。」
+→「そのとき長者の資産家は、法を見、法に達し、法を知り、法に深く入り、疑いを渡り超え、迷いを離れ、無畏を得て、師の教えにおいて他に依存しない者となり、世尊にこう言った――『すばらしいです、尊師よ。すばらしいです、尊師よ。尊師よ、あたかも倒れたものを起こすように、覆われたものを開くように、道に迷った者に道を告げるように、"目のある者たちは色形を見るだろう" と闇の中で油の灯火を掲げるように、まさにそのように世尊によって多くの方法で法が明らかにされました。」
 
 13. Esāhaṃ, bhante, bhagavantaṃ saraṇaṃ gacchāmi, dhammañca, bhikkhusaṅghañca.
 
@@ -799,16 +799,16 @@ Atha kho āyasmato yasassa mātā ca pitā ca purāṇadutiyikā ca bhagavantañ
   * patta = 「鉢」、cīvara = 「衣」、ādāya = 「取って」
 * āyasmatā yasena pacchāsamaṇena = 「尊者ヤサを随行の沙門として」
   * pacchāsamaṇa = 「後ろに従う沙門、随行の沙門」
-* yena seṭṭhissa gahapatissa nivesanaṃ tenupasaṅkami = 「長者である居士の住居のあるところへ近づいた」
+* yena seṭṭhissa gahapatissa nivesanaṃ tenupasaṅkami = 「長者である資産家の住居のあるところへ近づいた」
   * seṭṭhi = 「長者」
-  * gahapati = 「居士、家長」
+  * gahapati = 「資産家、家長」
   * nivesana = 「住居、家」
   * yena ... tena upasaṅkami = 「～のあるところ、そこへ近づいた」（慣用表現）
 * upasaṅkamitvā = 「近づいてから」
 * paññatte āsane nisīdi = 「用意された座に坐った」
   * paññatta = 「設けられた、用意された」（paññāpeti の過去分詞）
 
-→「そこで世尊は午前の時に（下衣を）着て、鉢と衣を取り、尊者ヤサを随行の沙門として、長者である居士の住居へと近づいた。近づいてから、用意された座に坐った。」
+→「そこで世尊は午前の時に（下衣を）着て、鉢と衣を取り、尊者ヤサを随行の沙門として、長者である資産家の住居へと近づいた。近づいてから、用意された座に坐った。」
 
 2. Atha kho āyasmato yasassa mātā ca purāṇadutiyikā ca yena bhagavā tenupasaṅkamiṃsu, upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu.
 

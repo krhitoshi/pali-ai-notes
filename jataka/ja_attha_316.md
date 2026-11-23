@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0513a3.att0.xml
 generated: 2026/08/03
-updated: 2026/08/03
+updated: 2026/11/23
 ---
 
 # [316] 6. Sasapaṇḍitajātakavaṇṇanā
@@ -1031,13 +1031,13 @@ Sasapaṇḍitajātakavaṇṇanā chaṭṭhā.
   * samodhāneti = 「結合する、結びをつける」
 * sacca-pariyosāne = 「真理（の説示）の終わりに」
   * pariyosāna = 「終わり、結末」
-* sabba-parikkhāra-dāna-dāyako gahapati = 「一切の資具の布施をした施主である居士は」
+* sabba-parikkhāra-dāna-dāyako gahapati = 「一切の資具の布施をした施主である資産家は」
   * parikkhāra = 「資具、生活必需品」
   * dāna-dāyaka = 「布施を与える者、施主」
 * sotāpatti-phale = 「預流果に」
 * patiṭṭhahi = 「確立した（patiṭṭhahati のアオリスト）」
 
-→「師はこの法話をもたらし、諸々の真理を明らかにして、ジャータカを結びつけた。真理（の説示）の終わりに、一切の資具の布施をした施主である居士は預流果に確立した。」
+→「師はこの法話をもたらし、諸々の真理を明らかにして、ジャータカを結びつけた。真理（の説示）の終わりに、一切の資具の布施をした施主である資産家は預流果に確立した。」
 
 2. Tadā uddo ānando ahosi, siṅgālo moggallāno, makkaṭo sāriputto, sakko anuruddho, sasapaṇḍito pana ahameva ahosinti.
 

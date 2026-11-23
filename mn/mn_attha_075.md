@@ -1,7 +1,7 @@
 ---
 source: https://www.tipitaka.org/romn/cscd/s0202a.att2.xml
 generated: 2026/06/05
-updated: 2026/07/23
+updated: 2026/11/23
 ---
 
 # 5. Māgaṇḍiyasuttavaṇṇanā
@@ -1340,7 +1340,7 @@ Samadhigayha tiṭṭhatīti dibbasukhaṃ gaṇhitvā tato visiṭṭhatarā hu
 ### 対訳
 1. 212. Gahapati vā gahapatiputto vāti ettha yasmā khattiyānaṃ setacchattasmiṃyeva patthanā hoti, mahā ca nesaṃ papañco, brāhmaṇā mantehi atittā mante gavesantā vicaranti, gahapatino pana muddāgaṇanamattaṃ uggahitakālato paṭṭhāya sampattiṃyeva anubhavanti, tasmā khattiyabrāhmaṇe aggahetvā ‘‘gahapati vā gahapatiputto vā’’ti āha.
 
-* gahapati vā gahapatiputto vā ti = 「『居士あるいは居士の子が』という言葉に」
+* gahapati vā gahapatiputto vā ti = 「『資産家あるいは資産家の子が』という言葉に」
 * ettha = 「おいては（ここでは）」
 * yasmā = 「～だからである（理由）」
 * khattiyānaṃ = 「クシャトリヤ（王族）たちには」
@@ -1357,7 +1357,7 @@ Samadhigayha tiṭṭhatīti dibbasukhaṃ gaṇhitvā tato visiṭṭhatarā hu
 * mante = 「マントラを」
 * gavesantā = 「探し求めて」
 * vicaranti = 「歩き回る」
-* gahapatino pana = 「一方、居士たちは」
+* gahapatino pana = 「一方、資産家たちは」
 * muddāgaṇanamattaṃ = 「指算と暗算（記帳と計算）だけを」
 * uggahitakālato paṭṭhāya = 「学んだ時から始めて」
 * sampattiṃ yeva = 「財産（繁栄）のみを」
@@ -1365,10 +1365,10 @@ Samadhigayha tiṭṭhatīti dibbasukhaṃ gaṇhitvā tato visiṭṭhatarā hu
 * tasmā = 「それゆえに」
 * khattiyabrāhmaṇe = 「クシャトリヤとバラモンを」
 * aggahetvā = 「取り上げずに」
-* gahapati vā gahapatiputto vā ti = 「『居士あるいは居士の子が』と」
+* gahapati vā gahapatiputto vā ti = 「『資産家あるいは資産家の子が』と」
 * āha = 「（世尊は）説かれたのである」
 
-→ 「212. 『居士あるいは居士の子が』ということについては、クシャトリヤたちは王権に対してのみ願望があり彼らの妄想は大きく、バラモンたちは呪文に満足することなく呪文を求めて歩き回るのに対し、居士たちは計算を学んだ時からひたすらに財産のみを享受するからである。それゆえに、クシャトリヤとバラモンを挙げずに『居士あるいは居士の子が』と説かれたのである。」
+→ 「212. 『資産家あるいは資産家の子が』ということについては、クシャトリヤたちは王権に対してのみ願望があり彼らの妄想は大きく、バラモンたちは呪文に満足することなく呪文を求めて歩き回るのに対し、資産家たちは計算を学んだ時からひたすらに財産のみを享受するからである。それゆえに、クシャトリヤとバラモンを挙げずに『資産家あるいは資産家の子が』と説かれたのである。」
 
 2. Āvaṭṭeyyāti mānusakakāmahetu āvaṭṭo bhaveyyāti attho.
 
@@ -1441,7 +1441,7 @@ Opammasaṃsandanaṃ panettha evaṃ veditabbaṃ – gahapatissa pañcahi kām
 
 2. gahapatissa pañcahi kāmaguṇehi samaṅgībhūtakālo viya bodhisattassa tīsu pāsādesu cattālīsasahassaitthimajjhe modanakālo,
 
-* gahapatissa = 「居士が」
+* gahapatissa = 「資産家が」
 * pañcahi = 「五つの」
 * kāmaguṇehi = 「欲の対象によって」
 * samaṅgībhūtakālo = 「没頭していた時は」
@@ -1452,11 +1452,11 @@ Opammasaṃsandanaṃ panettha evaṃ veditabbaṃ – gahapatissa pañcahi kām
 * cattālīsasahassaitthimajjhe = 「四万人の女性たち（妃たち）の中で」
 * modanakālo = 「楽しんでいた時（のようである）」
 
-→ 「居士が五つの欲の対象を備えて没頭していた時は、菩薩が三つの宮殿で四万人の妃たちの中で楽しんでいた時のようである。」
+→ 「資産家が五つの欲の対象を備えて没頭していた時は、菩薩が三つの宮殿で四万人の妃たちの中で楽しんでいた時のようである。」
 
 3. tassa sucaritaṃ pūretvā sagge nibbattakālo viya bodhisattassa abhinikkhamanaṃ katvā bodhipallaṅke sabbaññutaṃ paṭividdhakālo,
 
-* tassa = 「彼（居士）が」
+* tassa = 「彼（資産家）が」
 * sucaritaṃ = 「善行を」
 * pūretvā = 「満たして（実践して）」
 * sagge = 「天に」
