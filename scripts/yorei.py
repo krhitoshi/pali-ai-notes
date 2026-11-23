@@ -9,6 +9,8 @@
 #   python3 scripts/yorei.py --code s0101m.mul --code s0202m.mul 'bhāsitaṃ sampajjat'
 #   python3 scripts/yorei.py --xml _tmp/e0101n.mul8.xml 'bhāvanā sampajjati'
 #   python3 scripts/yorei.py --all-cached 'nānubhonti'
+#   python3 scripts/yorei.py --code s0202m.mul 'raṭṭhapālo arahataṃ ahosi' \
+#       --save --ja 'そして尊者ラッタパーラは阿羅漢たちの一人となった'
 #
 # - <pattern> は正規表現 (大文字小文字を区別する. -i で無視)
 # - --code は tipitaka.org の分割前ファイル名 (cscd-text MCP の検索結果に出る
@@ -25,9 +27,20 @@
 #   それ以外はファイル名と見出し連鎖をそのまま出す (引用形は利用者が組む)
 # - PTS 頁は XML の <pb ed="P"> から取るが行番号は得られない.
 #   一致位置の直前にあるマーカーを採るので, 頁境界付近では前後 1 頁ずれうる
+# - --save で用例を yorei/yorei.yaml に保存する. 出典・ファイル名・段落番号は
+#   抽出結果から書き, 訳 (--ja) だけを引数で渡す. 一致が 1 件に定まらないと
+#   保存しないので, パターンを絞るか --vri-para で段落番号を指定する
+# - 原文は一致を含む文をそのまま保存する. 文の一部だけを引くときは --text で
+#   渡す (途中を省いた箇所は ...). --text の各部分が一致した段落の中にこの順で
+#   現れない場合は保存しない (原文の打ち直しや表記の変更を防ぐため)
+# - 保存済みの用例の訳を直したときは --save に --update を足して上書きする.
+#   引用する範囲を直したときは --old-text に直す前の原文を渡して置き換える.
+#   どちらも渡さなかった項目 (見出し語, 補足, 日付など) は元の値を残す
 
 import argparse
+import datetime
 import glob
+import json
 import os
 import re
 import sys
@@ -37,6 +50,7 @@ import urllib.request
 BASE_URL = "https://www.tipitaka.org/romn/cscd/"
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DEFAULT_CACHE = os.path.join(REPO_ROOT, "_tmp")
+DEFAULT_STORE = os.path.join(REPO_ROOT, "yorei", "yorei.yaml")
 
 # ファイル名の先頭 (s0101 など) -> (本文略号, 註略号, 復註略号, PTS 略号 本文, PTS 略号 註)
 # PTS 略号は <pb ed="P"> の巻.頁に付ける
@@ -372,8 +386,182 @@ def scan_file(path, pattern, args, heads=None):
                 "n": p["n"],
                 "pts": pts_label(code5, kind, pts),
                 "text": sent,
+                "para_text": cleaned,
             })
     return hits, heads
+
+
+STORE_HEADER = """\
+# パーリ語句の用例集. scripts/yorei.py --save が書き出す.
+# 1 用例が 1 項目. ref = 出典, text = 原文 (VRI の表記のまま), ja = 訳,
+# file / para = 原文のある VRI XML のファイル名と段落番号, added = 用例を作った日,
+# model = 訳を書いたモデル. words (見出し語), note (補足), pts (PTS の巻・頁)
+# は任意.
+# 並びは経蔵, 律蔵, 論蔵, 註, 復註, Vism の順でスクリプトが整える.
+# 手で直すときは文字列を "..." で囲んだ形のままにする (スクリプトはこの形しか
+# 読まない).
+"""
+
+STORE_FIELDS = ["ref", "text", "ja", "words", "note", "pts", "file", "para",
+                "added", "model"]
+
+STORE_LINE_RE = re.compile(r"^(- |  )([a-z_]+): (.*)$")
+
+
+def load_store(path):
+    """用例集を読む. dump_store が書き出す形だけを解釈する"""
+    if not os.path.exists(path):
+        return []
+    records = []
+    with open(path, encoding="utf-8") as f:
+        for i, line in enumerate(f, 1):
+            line = line.rstrip("\n")
+            if not line.strip() or line.lstrip().startswith("#"):
+                continue
+            m = STORE_LINE_RE.match(line)
+            if not m or (m.group(1) == "  " and not records):
+                sys.exit(f"{path}:{i}: 解釈できない行: {line}")
+            if m.group(1) == "- ":
+                records.append({})
+            try:
+                records[-1][m.group(2)] = json.loads(m.group(3))
+            except ValueError:
+                sys.exit(f"{path}:{i}: 値を解釈できない: {line}")
+    return records
+
+
+def dump_store(path, records):
+    """用例集を書き出す. 値は JSON の形 (YAML としても読める) で書く"""
+    out = [STORE_HEADER.rstrip("\n")]
+    for rec in records:
+        keys = [k for k in STORE_FIELDS if k in rec]
+        keys += [k for k in rec if k not in STORE_FIELDS]
+        out.append("")
+        for j, k in enumerate(keys):
+            value = json.dumps(rec[k], ensure_ascii=False)
+            out.append(f"{'- ' if j == 0 else '  '}{k}: {value}")
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("\n".join(out) + "\n")
+
+
+def store_key(rec):
+    """経蔵, 律蔵, 論蔵, 註, 復註, Vism の順に並べるためのキー"""
+    fname = rec.get("file", "")
+    kind_m = re.search(r"\.(mul|att|tik|nrf)\d*$", fname)
+    kind = kind_m.group(1) if kind_m else "mul"
+    pitaka = 0 if fname.startswith("s") else 1 if fname.startswith("vin") \
+        else 2 if fname.startswith("abh") else 3
+    if pitaka == 3:
+        group = 5
+    elif kind == "att":
+        group = 3
+    elif kind == "tik":
+        group = 4
+    else:
+        group = pitaka
+    natural = [int(t) if t.isdigit() else t for t in re.split(r"(\d+)", fname)]
+    return (group, pitaka, natural, rec.get("para") or 0)
+
+
+def text_in_para(text, para_text):
+    """text (途中の省略は ...) の各部分が段落の中にこの順で現れるか"""
+    pos = 0
+    for seg in re.split(r"\s*\.\.\.\s*", text):
+        if not seg:
+            continue
+        i = para_text.find(seg, pos)
+        if i < 0:
+            return False
+        pos = i + len(seg)
+    return True
+
+
+def save_example(hits, args):
+    """一致 1 件を用例集に保存する"""
+    if not args.ja:
+        sys.exit("--save には --ja (訳) が要る")
+    if args.text:
+        found = [h for h in hits if text_in_para(args.text, h["para_text"])]
+        if hits and not found:
+            sys.exit("--text が一致した段落の中に見つからない. "
+                     "原文の表記を変えていないか確認する")
+        hits = found
+    # 同じ VRI 段落番号の中に同じ原文が繰り返し出ていても, 保存する内容は
+    # 同じなので 1 件として扱う
+    same = {}
+    for h in hits:
+        same.setdefault((h["file"], h["n"], args.text or h["text"]), h)
+    hits = list(same.values())
+    if not hits:
+        sys.exit("no match")
+    if len(hits) > 1:
+        for h in hits:
+            print(f"{h['cite'] or h['file']} [{h['file']} | §{h['n']}] "
+                  f"({h['text']})", file=sys.stderr)
+        sys.exit(f"一致が {len(hits)} 件ある. パターンを絞るか --vri-para で "
+                 "段落番号を指定する")
+    h = hits[0]
+    ref = args.ref or h["cite"]
+    if not ref:
+        sys.exit("出典の引用形を組めない文献. --ref で指定する "
+                 f"(見出し: {h['heads']})")
+    rec = {"ref": ref, "text": args.text or h["text"],
+           "ja": args.ja.strip().removeprefix("「").removesuffix("」")}
+    if args.word:
+        rec["words"] = args.word
+    if args.note:
+        rec["note"] = args.note
+    if args.pts:
+        rec["pts"] = args.pts
+    rec["file"] = re.sub(r"\.xml$", "", h["file"])
+    if h["n"] is not None:
+        rec["para"] = h["n"]
+    rec["added"] = args.added or datetime.date.today().strftime("%Y/%m/%d")
+    if args.model:
+        rec["model"] = args.model
+
+    records = load_store(args.store)
+
+    def find(text):
+        for i, r in enumerate(records):
+            if (r.get("file"), r.get("para"), r.get("text")) == \
+                    (rec["file"], rec.get("para"), text):
+                return i
+        return None
+
+    idx = find(rec["text"])
+    if args.old_text and args.old_text != rec["text"]:
+        # 引用する範囲を直した用例: 直す前の原文の項目を置き換える
+        if idx is not None:
+            sys.exit(f"直した後の原文の項目が既にある: {rec['ref']} ({rec['text']})")
+        idx = find(args.old_text)
+        if idx is None:
+            sys.exit(f"--old-text の項目が見つからない: {args.old_text}")
+    elif idx is not None and not args.update:
+        r = records[idx]
+        sys.exit(f"保存済み: {r['ref']} ({r['text']}) 「{r['ja']}」\n"
+                 "訳などを直すときは --update を足す")
+    if idx is None:
+        records.append(rec)
+        action = "saved"
+    else:
+        # 渡さなかった項目は元の値を残す. 日付は用例を作った日のままにする
+        old = records[idx]
+        for k in ("words", "note", "pts", "model"):
+            if k not in rec and k in old:
+                rec[k] = old[k]
+        if not args.added and "added" in old:
+            rec["added"] = old["added"]
+        records[idx] = rec
+        action = "updated"
+    records.sort(key=store_key)
+    dump_store(args.store, records)
+    print(f"{rec['ref']} ({rec['text']}) 「{rec['ja']}」")
+    shown = os.path.relpath(args.store, REPO_ROOT)
+    if shown.startswith(".."):
+        shown = args.store
+    print(f"{action}: {shown} ({len(records)} 件)", file=sys.stderr)
 
 
 def main():
@@ -388,6 +576,24 @@ def main():
     ap.add_argument("-i", "--ignore-case", action="store_true")
     ap.add_argument("--para", action="store_true", help="文でなく段落全体を出す")
     ap.add_argument("--keep-notes", action="store_true", help="異読注を [..] で残す")
+    ap.add_argument("--vri-para", type=int, help="この VRI 段落番号の一致だけを採る")
+    ap.add_argument("--save", action="store_true",
+                    help="一致 1 件を用例集 (yorei/yorei.yaml) に保存する")
+    ap.add_argument("--update", action="store_true",
+                    help="保存済みの用例 (同じファイル・段落・原文) を上書きする")
+    ap.add_argument("--old-text", help="引用する範囲を直す前の原文. "
+                    "その項目を新しい内容で置き換える")
+    ap.add_argument("--ja", help="保存する訳 (「」なし)")
+    ap.add_argument("--text", help="保存する原文. 省くと一致を含む文. "
+                    "途中を省いた箇所は ... で示す")
+    ap.add_argument("--ref", help="出典の引用形を上書きする (対応外の文献など)")
+    ap.add_argument("--word", action="append", default=[],
+                    help="見出し語 (辞書形). 複数可")
+    ap.add_argument("--note", help="補足")
+    ap.add_argument("--pts", help="PTS の巻・頁 (辞書で確認できたもの)")
+    ap.add_argument("--model", help="訳を書いたモデル名 (例 Claude Fable 5.2)")
+    ap.add_argument("--added", help="用例を作った日 YYYY/MM/DD (既定は今日)")
+    ap.add_argument("--store", default=DEFAULT_STORE, help="用例集のパス")
     args = ap.parse_args()
 
     os.makedirs(args.cache, exist_ok=True)
@@ -404,6 +610,7 @@ def main():
     pattern = re.compile(args.pattern, flags)
 
     total = 0
+    to_save = []
     # 同じコードの分割ファイルは番号順に処理し, nikaya / book などの見出しを
     # 引き継ぐ (book 見出しは先頭の分割ファイルにしか現れない)
     carried = {}
@@ -415,12 +622,20 @@ def main():
         hits, heads = scan_file(path, pattern, args, carried.get(prefix))
         carried[prefix] = heads
         for h in hits:
+            if args.vri_para is not None and h["n"] != args.vri_para:
+                continue
             total += 1
+            if args.save:
+                to_save.append(h)
+                continue
             cite = h["cite"] or f"{h['file']} (VRI §{h['n']})"
             extra = f"{h['file']} | {h['heads']} | §{h['n']}"
             if h["pts"]:
                 extra += f" | {h['pts']}"
             print(f"{cite} ({h['text']})  [{extra}]")
+    if args.save:
+        save_example(to_save, args)
+        return
     if total == 0:
         print("no match", file=sys.stderr)
         sys.exit(1)
