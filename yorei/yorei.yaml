@@ -26,6 +26,16 @@
   added: "2026/11/23"
   model: "Claude Fable 5.2"
 
+- ref: "MN 36 (VRI §373)"
+  text: "Alaṃ vatidaṃ kulaputtassa padhānatthikassa padhānāyā’ti."
+  ja: "実にこれ (この場所) は, 精勤を求める良家の子が精勤するのにふさわしい"
+  words: ["alaṃ", "padhāna"]
+  note: "alaṃ は与格 (padhānāya) と結んで「〜に足る, ふさわしい」. vatidaṃ は vata + idaṃ. kulaputtassa padhānatthikassa は「〜にとって」の与格または属格"
+  file: "s0201m.mul3"
+  para: 373
+  added: "2026/11/28"
+  model: "Claude Fable 5.2"
+
 - ref: "MN 79 (VRI §272)"
   text: "‘‘Taṃ kiṃ maññasi, udāyi – nanu evaṃ sante, tassa purisassa appāṭihīrakataṃ bhāsitaṃ sampajjatī’’ti?"
   ja: "ウダーイよ, これをどう思うか. そうであるなら, その男の発言は根拠のないものということになるのではないか"
@@ -189,6 +199,16 @@
   file: "s0202m.mul3"
   para: 300
   added: "2026/11/23"
+  model: "Claude Fable 5.2"
+
+- ref: "MN 82 (VRI §302)"
+  text: "Alaṃ bālassa mohāya, no ca pāragavesino."
+  ja: "(それは) 愚か者を惑わすには足りるが, 彼岸を求める者を (惑わすには足り) ない"
+  words: ["alaṃ", "pāragavesin"]
+  note: "alaṃ は与格 mohāya と結んで「〜するのに足る」. bālassa と pāragavesino は mohāya にかかる属格で惑わされる者を表す. 同じ句が §302 の偈に 3 回繰り返される"
+  file: "s0202m.mul3"
+  para: 302
+  added: "2026/11/28"
   model: "Claude Fable 5.2"
 
 - ref: "AN 5.181 (VRI §181)"
